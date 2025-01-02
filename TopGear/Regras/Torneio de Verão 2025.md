@@ -38,14 +38,14 @@
   - 28 - Edimar Caetano (Pegasus PSX)
   - 29 - Reeh Taylor (Fe & Har)
 
-1.2 - Novos participantes poderão se inscrever através de postagem realizada diretamente nos comentários do post correspondente no Facebook.
+1.2 - Novos participantes poderão se inscrever através de postagem realizada diretamente nos comentários do vídeo de divulgação do Torneio nas Redes Sociais da Comunidade TGC.
 
     Exemplo:
     Apelido/Nickname: LeomarxGames
     Disponibilidade para jogar: Descrever o melhor possível. Ex.: Disponibilidade das 19 as 23h30 durante a semana e finais de semana a combinar com antecedência.
     Método que utiliza para conectar: Preferencialmente Radmin, se houver erro, poderá ser utilizado o Hamachi.
 
-1.3. Logo de seguida deverá ingressar no grupo de WhatsApp do Campeonato pelo Link ([Link Aqui](https://chat.whatsapp.com/KT7Fe1z0QVZBQlBaVSJvVm)) e se apresentar com o seu Nome Real + Apelido/NickName
+1.3. Em seguida deverá ingressar no grupo de WhatsApp do Campeonato pelo Link ([Link Aqui](https://chat.whatsapp.com/KT7Fe1z0QVZBQlBaVSJvVm)) e se apresentar com o seu Nome Real + Apelido/NickName
 
 # **2. Validação e Verificação de Perfil dos Inscritos:** #
 
@@ -76,15 +76,21 @@
 
 # **4. Cronograma (Previsão):** #
 
-4.1. As inscrições serão aceitas até às 21h do dia 06/01/2025;
+4.1. As inscrições serão aceitas até às 21h do dia 05/01/2025, podendo ser encerrado antes dependendo do número de inscritos;
 
-4.2. Após confirmação das inscrições, será realizado o sorteio dos países e se inicia a Fase de Grupos;
+4.2. Após confirmação das inscrições, será realizado o sorteio dos grupos e países, sendo liberada a Fase de Grupos;
 
-4.3. A fase de grupo terá prazo de 10 a 14 dias, de acordo com o número de inscritos.
+4.3. Fase de grupo: de 05/01 às 23:59 do dia 14/01;
 
-4.4. Na fase mata-mata (Oitavas, Quartas, Semifinal e Final/Disputa de 3º) todas terão o prazo de 5 dias, finalizando até às 23h59 do prazo divulgado. (Horário de Brasília).
+4.4. Oitavas de Final: de 15/01 às 23:59 do dia 20/01;
 
-4.5 **Observação:** As rodadas podem ter o prazo estendido ou reduzido, caso a administração julgue necessário.
+4.5. Quartas de Final: de 21/01 às 23:59 do dia 26/01;
+
+4.6. Semifinal: de 27/01 às 23:59 do dia 02/02;
+
+4.7. Final de Disputa de 3º Lugar: de 03/02 às 23:59 do dia 09/02.
+
+4.8 **Observação:** As rodadas podem ter o prazo estendido ou reduzido, caso a administração julgue necessário.
 
 # **5. Organização e Chaveamento:** #
 
@@ -96,14 +102,15 @@
 
 - Vitória = 3 pontos;
 - Empate = 1 ponto;
-- Derrota = 0 pontos.
-
+- Derrota = 0 pontos;
+- W.O = -1 ponto.
+  
 5.3.1. A classificação se dará pelo maior número de pontos. Em caso de empate os critérios de desempate serão:
 
 - Confronto direto;
 - Pontos conquistados;
-- Saldo de pontos
-- Sorteio;
+- Saldo de pontos;
+- Sorteio.
 
 5.4. **É obrigatório o uso do carro VERMELHO** e o nível do jogo será o CHAMPIONSHIP.
 
@@ -114,12 +121,13 @@
 
 5.6. Serão sorteados 2 paises para cada rodada na fase de grupos, não se repetindo nenhum país para as quatro primeiras rodadas e não se repetindo a mesma dupla de países quando houverem mais rodadas.
 
-5.7. Nas fases mata-mata, serão sorteados 2 países para as oitavas, e 3 países para as quartas e semifinal e um país para o desempate.
+5.7. Nas fases mata-mata, serão sorteados 2 países para as oitavas, 3 países para as quartas e semifinais.
 
-5.8. Na final e disputa de 3º, serão sorteados 4 países para a disputa normal e um país para desempate.
+5.8. Na final e disputa de 3º, serão sorteados 4 países para a disputa.
+
+5.9. Para todas as fases mata-mata, será sorteado um país para desempate.
 
 5.9. Em caso de empate reinicia-se a ROM e joga a partir do país sorteado para desempate:
-
 - Para facilitar, utilizando a ROM Top Gear TGC Rom (E), poderão ser selecionadas 8 pistas para o desempate, sendo as 4 primeiras referente ao país desempate e as outras 4 do país seguinte do país desempate.
 - Utilizando a ROM Top Gear (E) [!], seleciona-se o país desempate e joga-se todas as pistas na sequência até que haja um vencedor;
 - Vencerá aquele que abrir primeiro mais de 5 pontos de vantagem; 
@@ -127,13 +135,19 @@
 - Caso se jogue UK e ao final da pista de Stonehenge a partida ainda não tiver um vencedor seguindo os critérios acima, a partida continua a partir de USA;
 - Obs.: Em comum acordo, os jogadores podem trocar de controle quanto forem iniciar o desempate para corrigir o grid de largada corretamente. Caso não aja concenso, será o player 1, aquele que tiver terminado na frente na pista anterir ao desempate.
 
-5.10. A substituição de jogadores só será adimitida, caso o piloto substituto ainda possa participar da partida referentea a 2ª rodada. Caso um piloto desista do campeonato após a 1ª rodada, sua pontuação será atribuída ao seu substituto. Se não houver substituto, será aplicado w.o. para as partidas restantes, com pontuação máxima para o adversário e mínima para o desistente.
+5.10. A substituição de jogadores só será adimitida, caso o piloto substituto ainda possa realizar mais da metade das partidas da fase de grupos:
+- Exemplo: Se a fase de grupos tiver 4 ou 5 partidas, só poderá haver substituto, caso ainda hajam 3 partidas para serem realizadasda. Se a fase de grupos tiver 6 ou 7 participantes, só poderá haver substituto, caso ainda hajam 4 partidas para serem realizadas.
+- Se não houver substituto, será aplicado w.o. para as partidas restantes, com pontuação máxima para o adversário e mínima para o desistente.
 
-5.11. Depois de 50% da partida realizada, o piloto pode avisar ao oponenete que deseja parar e admitir a derrota. Assim, o adversário leva os 20 pontos de cada pista restante e o desistente fica com zero pontos nas mesmas. Para este caso, a partida não será considerada w.o e não haverão sansões.
+5.11. A partir de 50% da partida realizada, o piloto pode avisar ao oponenete que deseja parar e admitir a derrota. Assim, o adversário leva os 20 pontos de cada pista restante e o desistente fica com zero pontos nas mesmas. Para este caso, a partida não será considerada w.o e não haverão sansões.
 
-5.12. A fase de grupos será dividida em grupos de 4, 5 ou 6 pilotos a depender do número de inscritos. Ex.:
-
-- 24 pilotos = 4 grupos de 6, passando os 4 primeiros.
+5.12. A quantidade de participantes em cada grupo, vai depender do número de inscritos confirmados:
+- 16 pilotos: 4 grupos com 4, avançando os 2 primeiros;
+- 20 pilotos: 4 grupos com 5, avançando os 2 primeiros;
+- 24 pilotos: 4 grupos com 6, avançando os 2 primeiros;
+- 28 pilotos: 4 grupos com 4 e 4 grupos com 3, avançando os 2 primeiros;
+- 32 pilotos: 8 grupos com 4, avançando os 2 primeiros;
+- Outros formatos poderão ser definidos dependendo do número de inscritos. 
 
 5.13. A tolerância de W.O's neste campeonato será no total de 2 partidas na fase de grupos se houver 3 ou mais partidas o piloto será impedido de participar do próximo campeonato de estação. Até o final do prazo da fase de grupos, será oportunizado ao piloto que apresente justificativas, caso as justificativas sejam aceitas, o W.O. não será contabilizado para efeitos de punição.
 
@@ -218,8 +232,8 @@ Exemplo de postagem de resultado:
 9.5. Proibido o uso do freio ou desaceleração total para parar carro na pista antes do combustível acabar;
 
 9.6. Em caso de pane seca para ambos os jogadores em pistas como Roma, Rain Forest, Bourdeaux, Monaco, Pisa entre outras, será atribuída a pontuação da posição final dos jogadores ao se escurecer completamente a tela. Para jogar a próxima pista, os jogadores deverão voltar ao menu inicial e selecionar o restante das pistas (utilizando a ROM TGC) ou jogar o país completo novamente (utilizando a ROM Original).
-- Obs.: Caso seja necessário jogar o país novamente, a contagem de pontos das pistas daquele país jogadas anteriormente poderá ser mantida ou zerada em comum acordo do pilotos.
-- Obs.: Caso um dos jogadores informe que tem o save state do início da pista onde aconteceu a pane, estes deverão correr a pista novamente através do save.
+- Obs. 1: Caso seja necessário jogar o país novamente, a contagem de pontos das pistas daquele país jogadas anteriormente será zerada.
+- Obs. 2: Caso um dos jogadores informe que tem o save state de alguma das pistas do mesmo país onde aconteceu a pane, estes deverão correr a pista novamente através do save.
 
 9.7. Caso o país sorteado seja UK, na pista de STONEHENGE, as pontuações serão atribuídas de acordo com as posições finais dos jogadores imediatamente quando a tela escurecer após o Out Of Fuel;
 - Obs.: se um dos jogadores completar STONEHENGE, aquele que não completar não receberá nenhuma pontuação atribuída.
@@ -228,9 +242,7 @@ Exemplo de postagem de resultado:
 
 9.9. Caso alguma Regra Geral esteja divergente de alguma regra estabelecida aqui neste post, vale a regra deste documento para o campeonato.
 
-9.10. Caso o jogador perca por w.o. e não apresente justificativas até 24h após o término da rodada ou fase mata-mata, este será impedido de participar dos dois próximos campeonatos realizados pela Comunidade TGC (TG1, TG2 ou TG3000);
-
-9.11. As justificativas apresentadas conforme o item anterior, serão analisadas pela adm da TGC.
+9.10. As justificativas apresentadas conforme o item anterior, serão analisadas pela adm da TGC.
 
 # **10. Regras Específicas:** #
 
