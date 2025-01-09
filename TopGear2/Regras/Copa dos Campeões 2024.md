@@ -188,19 +188,21 @@ Link das Redes:
 
 # **11 - Regras das Corridas: Leia com bastante atenção**
 
-11.1 - O campeonato no modelo normal (F1), e para tal as regras abaixo serão adotadas e, então, se faz necessário que os jogadores novos prestem atenção à elas.
+11.1 - O campeonato no modelo normal (F1), e para tal as regras abaixo serão adotadas e, então, se faz necessário que os jogadores prestem atenção à elas.
 
 11.2 - Se houver qualquer intercorrência das regras abaixo, a administração estará a disposição para realização de "VAR" das partidas e eventuais dúvidas.
 
 # **Fechadas / Bug de Fechadas** #
 
-- Proibido aos pilotos ficarem mudando o trajeto propositalmente para fechar, caso perceba que será ultrapassado. 
+- Proibido aos pilotos ficarem mudando o trajeto propositalmente para fechar, caso perceba que será ultrapassado.
+
+- Apesar da fechada estar proibida, a coleta e uso do dinheiro e a coleta e uso dos nitros a seguir não serão controladas neste campeonato.
 
 - Não é permitido mudar de faixa sem motivo aparente de curva iminente ou desvio de bot. Tal regra é necessária para evitar o bug de danificar o carro do oponente. 
 
         Exemplo prático 1: A preferência das curvas é sempre do carro que está na frente então recomenda-se quem for ultrapassar que faça a ultrapassagem “por fora”.
 
-        Exemplo prático 2: Em um trecho de reta em que o carro mais a frente perceber que a próxima curva for a direita, por exemplo, o carro da frente deve usar as duas faixas da direita na reta para se antecipar para a curva e o carro que for ultrapassar deve usar as duas faixas da esquerda para fazer a ultrapassagem “por fora”.
+        Exemplo prático 2: Em um trecho de reta, o carro mais a frente já deve se posicionar pra ele antecipadamente. Se a próxima curva for a direita, por exemplo, o carro da frente deve usar as duas faixas da direita na reta para se antecipar para a curva e o carro que for ultrapassar deve usar as duas faixas da esquerda para fazer a ultrapassagem “por fora”.
 
 - Punição: O jogador que se sentir prejudicado pela fechada, pode/deve posteriormente a partida solicitar ao ADM a análise por vídeo (VAR). Importante que para que essa solicitação seja atendida, recomenda-se que as partidas sejam transmitidas ao vivo ou gravadas por aplicativo (Ex.: OSB Studio / BANDICAM) e seja enviado o link do vídeo para o ADM. E se for verificada irregularidades com fechadas intencionais, o ADM poderá aplicar a uma contramedida para remover os pontos do piloto ofensor e de adicionar pontos ao piloto ofendido na pista analisada.
 
@@ -208,13 +210,17 @@ Link das Redes:
 
 # **Medidas Anti-Jogo:** #
 
+- Haverá uso de save/load state. De comum acordo os pilotos podem tentar a mesma pista em um total de 3x, após isso o jogo segue normalmente.
+
+- Se o carro quebrar e os pilotos em comum acordo decidirem voltar o save state ok. Caso 1 dos pilotos não concorde em voltar, a pista segue normalmente e uma solicitação de VAR ao ADM pode ser solicitado posteriormente. 
+
+- Se o carro quebrar é proibido ficar batendo mais o carro propositalmente para perder mais posições e obter vantagem de largar na frente na pista seguinte;
+
+- Se o carro quebrar é proibido diminuir a marcha do carro propositalmente para perder mais posições e obter vantagem de largar na frente na pista seguinte;
+
 - Proibido o uso do freio para prejudicar o adversário de maneira proposital e desleal;
 
 - Proibido a desaceleração do carro ou parar totalmente o carro na pista antes do combustível acabar ou antes de aparecer Race Over na tela;
-
-- Se o carro quebrar é proibido ficar batendo mais o carro propositalmente para perder posições e obter vantagem de largar na frente na pista seguinte;
-
-- Se o carro quebrar e os pilotos em comum acordo decidirem voltar o save state ok. Caso 1 dos pilotos não concorde em voltar, a pista segue normalmente e uma solicitação de VAR ao ADM pode ser solicitado posteriormente.
 
 - Proibido o uso da marcha Ré, exceto se, no caso de batidas na entrada de túnel na qual é realmente necessário dar Ré para evitar bater no muro novamente ou situações similares;
 
