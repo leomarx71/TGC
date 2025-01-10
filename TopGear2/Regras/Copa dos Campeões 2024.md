@@ -73,7 +73,7 @@ Apenas os jogadores acima mencionados, deverão se manifestar quanto ao interess
 
 6.4. Cada piloto poderá escolher um país de sua preferência enviando ele no site de comissário e revelar ele antes do início da partida ao seu oponente.
 
-6.4.1. O Comissário pode ser acessado aqui (https://topgearchampionships.com/games/tgc/comissario.html);
+6.4.1. O Comissário pode ser acessado aqui ([https://topgearchampionships.com/games/tgc/comissario2.html](https://topgearchampionships.com/comissario/comissario2.html));
 
 6.4.2. É necessário informar o seu nome, oponente e o país... a seleção de carro pode ser ignorada.
 
