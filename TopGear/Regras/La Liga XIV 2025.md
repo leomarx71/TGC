@@ -84,9 +84,9 @@
    - 6ª desistência/punição, sobe o 3º melhor rebaixado da Série do desistente (Ouro ou Prata).
    - A partir da 7ª desistência/punição, sobem os demais pilotos das Séries imediatamente abaixo, pela ordem de classificação (Prata ou Bronze). 
     
-  1.8 - Todos os participantes pré-inscritos deverão confirmar a participação na postagem do Facebook ou nos grupos do WhatsApp criados para a Série correspondente.
+  1.8 - Todos os participantes pré-inscritos deverão confirmar a participação na postagem do Youtube ou nos grupos do WhatsApp criados para a Série correspondente.
   
-  1.9 - Novos participante deverão se inscrever através de postagem realizada diretamente nos comentários do post correspondente no Facebook.
+  1.9 - Novos participante deverão se inscrever através de postagem realizada diretamente nos comentários do post correspondente no Youtube.
 
         Exemplo:
         Apelido/Nickname: LeomarxGames
@@ -246,11 +246,11 @@
 - Difamação ou calúnia;
 - Nacionalidade, Naturalidade, ou Lugar onde mora, ou nasceu.
 
-8.2. OBSERVAÇÕES: Mensagens trocadas em redes sociais particulares não serão consideradas. Denúncias e reclamações por ofensas somente serão consideradas e julgadas pela administração, se ocorrerem nos CANAIS OFICIAIS DA TGC (Facebook, WhatsApp, Discord, YouTube, Twitch, Instagram e outros) ou no chat da transmissão oficial de uma partida válida do campeonato. Chats privados (PV) e quaisquer outros meios não serão considerados. Caracterizada a ofensa desrespeitosa com a dignidade da pessoa, a administração se reserva exclusivamente à punição de exclusão do campeonato.
+8.2. OBSERVAÇÕES: Mensagens trocadas em redes sociais particulares não serão consideradas. Denúncias e reclamações por ofensas somente serão consideradas e julgadas pela administração, se ocorrerem nos CANAIS OFICIAIS DA TGC (Youtube, WhatsApp, Discord, YouTube, Twitch, Instagram e outros) ou no chat da transmissão oficial de uma partida válida do campeonato. Chats privados (PV) e quaisquer outros meios não serão considerados. Caracterizada a ofensa desrespeitosa com a dignidade da pessoa, a administração se reserva exclusivamente à punição de exclusão do campeonato.
 
 8.3. Outras medidas referentes a processos legais, deverão ser adotadas pelo próprio requerente. 
 
-8.4. Para protocolar a reclamação, os print’s das mensagens ou áudios (enviados no período de realização do campeonato, nas redes oficiais da TGC), devem ser encaminhados através de protocolo conforme modelo no item a seguir, pelo Facebook, no post de inscrição do campeonato com a hashtag #PROTOCOLO e deverá ser respondido pela administração em um prazo máximo de 48h úteis.
+8.4. Para protocolar a reclamação, os print’s das mensagens ou áudios (enviados no período de realização do campeonato, nas redes oficiais da TGC), devem ser encaminhados através de protocolo conforme modelo no item a seguir, pelo Youtube, no post de inscrição do campeonato com a hashtag #PROTOCOLO e deverá ser respondido pela administração em um prazo máximo de 48h úteis.
 
 8.5. **Modelo de protocolo:** 
 
@@ -264,7 +264,7 @@
 
 # **9. Regras Gerais:** #
 
-9.1. Clique aqui para ler a base das Regras Gerais link  (https://www.facebook.com/groups/topgearchampionships/permalink/3391700757764527);
+9.1. Clique aqui para ler a base das Regras Gerais link  (https://www.Youtube.com/groups/topgearchampionships/permalink/3391700757764527);
 
 9.2. Proibido o bug de bater no poste para ganhar duas posições;
 
