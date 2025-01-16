@@ -61,7 +61,7 @@
    - UaiLay (Laynara Souza)
    - Alaric (Emerson Eidan Enderson)
    - Rannid (Fabrício Golçalves) 
-   - Novo competidor
+   - Samuel (Samuel Barros)
    - Novo competidor
    - Novo competidor
   
