@@ -183,8 +183,9 @@
   5.3 - Os critérios de desempate serão na seguinte ordem:
   
   - Confronto Direto.
-  - Jogos Vencidos.
   - Pontos Conquistados.
+  - Diferença do Pontos
+  - Sorteio
     
   5.4 - Promoção e Rebaixamento
   
