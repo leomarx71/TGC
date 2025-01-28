@@ -6,11 +6,13 @@
 
 # **1. INSCRIÇÕES:** #
 
-  1.1 - As inscrições estarão abertas até 21h de 30/01/2025.
+  1.1 - As inscrições estarão abertas até 21h de 31/01/2025.
     
   1.2 - Aqueles que se inscreverem após o encerramento das inscrições, serão colocados em cadastro reserva e serão convidados para participar do La Liga Bronze caso aja desistência antes do encerramento da segunda rodada, ou seja, convidado para completar algum grupo, caso a administração decida.
 
   1.3 - Punições da edição anterior (La Liga XIII):
+
+  Regra do La Liga XIII para embasamento: **5.5 - A tolerância de W.O's neste campeonato será no total de 3 partidas na fase de grupos se houver 4 ou mais partidas o piloto será impedido de participar do próximo campeonato La Liga. No prazo de 72h após a aplicação do w.o., será oportunizado ao piloto que apresente justificativas, caso as justificativas sejam aceitas, o w.o. não será contabilizado para efeitos de punição.**
 
   - Carlos Rubens (CRX) não poderá participar do La Liga XIV. Em razão do excesso de W.O. no La Liga XIII e como punição ficará uma edição sem poder participar, podendo voltar no La Liga XV na Divisão Bronze.
   - Peter Bruno (JackPocker40) não poderá participar do La Liga XIV. Em razão do excesso de W.O. no La Liga XIII e como punição ficará uma edição sem poder participar, podendo voltar no La Liga XV na Divisão Bronze.
@@ -98,17 +100,17 @@
 
 # **2. Cronograma Séries Ouro / Prata Horários de Brasília, Brasil:** #
    
-  2.1 - Prazo para confirmações e novas inscrições: até 21h do dia XX/XX/2025.
+  2.1 - Prazo para confirmações e novas inscrições: até 21h do dia 31/01/2025.
   
-  2.2 - Após revisão das inscrições será feito o sorteio das pistas/países e aberto o prazo do comissário.
+  2.2 - Após revisão das inscrições será feito o sorteio das pistas e aberto o prazo do comissário.
   
-  2.3 - Prazo Comissário: XX/XX/2025 às 21h.
+  2.3 - Prazo Comissário: 01/02/2025 às 21h.
   
-  2.4 - Após revisão do comissário, se não houver nenhum erro ou ausência de envio dos participantes inicia a Fase de Grupos.
+  2.4 - Após revisão do comissário, será realizado sorteio dos confrontos e liberação para o início da Fase de Grupos.
   
-  2.5 - Se após advertência dos administradores o jogador não corrigir o envio dos carros até as 23h59 de XX/XX/2025, os carros do piloto serão escolhidos por meio de sorteio.
+  2.5 - Caso um dos participantes não tenha enviado os carros pelo Comissário eletrônico, este será punido com 2 wo's em sorteio aleatório de rodadas e seus carros serão escolhidos por sorteio.
   
-  2.6 - Fase de Grupos terá prazo de 21 dias. Previsão de término – XX/XX/2025 23h59.
+  2.6 - Fase de Grupos terá prazo de 22 dias. Previsão de término – 23/02/2025 23h59.
   
   2.7 - Quartas de Final: 7 dias.
   
@@ -118,27 +120,19 @@
   
   2.10 - OBSERVAÇÕES:
        
-  - 2.10.1 - As rodadas podem ter um prazo estendido ou reduzidos caso a administração julgue necessário.
+  - 2.10.1 - Se um piloto acumular 4 W.O.s em qualquer divisão, será caracterizado como excesso de W.O. e como punição ficará uma edição sem poder participar do La Liga.
        
-  - 2.10.2 - Durante a fase de grupos, na primeira metade do prazo (até dia XX/XX/2025), cada piloto deverá ter realizado ao menos 4 (quatro partidas) ou comprovar agendamento destas partidas com o DE ACORDO do adversário, com dia e hora marcados.
-
-  - 2.10.3 - O competidor que não cumprir o item anterior, receberá W.O na diferença das partidas não realizadas ou agendadas, através de sorteio aleatório.
-       
-  - 2.10.4 - Caso o piloto não realize ao menos 2 (duas partidas) durante a primeira metade do prazo, será eliminado do torneio e estará automaticamente rebaixado para a edição seguinte.
-  
-  - 2.10.5 - Se um piloto acumular 4 W.O.s em qualquer divisão, será caracterizado como excesso de W.O. e como punição ficará uma edição sem poder participar do La Liga.
-       
-  - 2.10.6 - O cronograma e as fases da Série Bronze, serão definidos após encerramento das inscrições, momento em que a administração definirá a forma de disputa.
+  - 2.10.2 - O cronograma e as fases da Série Bronze, serão definidos após encerramento das inscrições, momento em que a administração definirá a forma de disputa.
 
 # **3. Organização e Chaveamento:** #
   
-  3.1 - Será utilizado o CHALLONGE para chaveamento das partidas do campeonato.
+  3.1 - Será utilizado o TOORNAMENT para chaveamento das partidas do campeonato.
   
-  3.2 - Fase de grupos: 2 países em cada rodada.
+  3.2 - Fase de grupos: 10 pistas em cada rodada.
   
-  3.3 - Quartas de Final e Semifinal: 3 países.
+  3.3 - Quartas de Final e Semifinal: 12 pistas.
   
-  3.4 - Final e Disputa de 3º: 4 países.
+  3.4 - Final e Disputa de 3º: 16 pistas.
   
   3.5 - Nas Séries Ouro e Prata, o campeonato será no modelo tradicional, todos contra todos na fase grupos.
   
@@ -146,7 +140,7 @@
   
   3.7 - O 1° e o 2° colocados serão classificados diretamente para as Semifinais.
   
-  3.8 - Do 3º ao 6 º colocados, farão as Quartas de final conforme chaveamento do challonge.
+  3.8 - Do 3º ao 6 º colocados, farão as Quartas de final conforme chaveamento do TOORNAMENT.
   
   3.9 - Para a Série Bronze poderá ser aplicados modos diferentes de rodadas e fases finais conforme a quantidade de participantes.
 
@@ -164,9 +158,9 @@
 
   4.6 - Exemplo para 9 partidas... 3x carro branco, 2x carro vermelho, 2x carro roxo e 2x carro azul.
 
-  4.7 - Para as Quartas de Finais e Semifinais, deverá ser utilizado um carro por país.
+  4.7 - Para as Quartas de Finais e Semifinais, deverá ser utilizado um carro para cada conjunto com 4 pistas.
 
-  4.8 - Para a grande Final e Disputa de 3º, deverão se utilizados os 4 Carros, sendo 1 para cada país.
+  4.8 - Para a grande Final e Disputa de 3º, deverão ser utilizados os 4 Carros, sendo 1 para cada conjunto de 4 pistas.
 
   4.9 - Na Série Bronze, a escolha do carro é livre para todas as fases.
 
@@ -205,9 +199,7 @@
 
   6.4 - Caso se jogue UK e ao final da pista de Stonehenge a partida ainda não teve um vencedor seguindo os critérios acima, a partida continua a partir de USA.
 
-  6.5 - Usando a Rom original, os países podem ser jogados na sequência, até que um jogador abra mais de 5 pontos.
-
-  6.6 - Usando a Rom TGC, deverão ser selecionadas no mínimo as 4 pistas do país subsequente ao último país sorteado, a administração sugere que sejam selecionadas as 8 primeiras da sequência, até que um jogador abra mais de 5 pontos primeiro.
+  6.5 - Deverão ser selecionadas no mínimo as 4 pistas do país subsequente ao último país sorteado, a administração sugere que sejam selecionadas as 8 primeiras da sequência, até que um jogador abra mais de 5 pontos primeiro.
 
   6.7 - Em permanecendo o empate, repete-se o processo até que haja um vencedor.
 
@@ -234,6 +226,8 @@
   - 7.7.3 - Após 12h, o jogador removido poderá solicitar aos admins entrar novamente ao grupo.
 
   - 7.7.4 - O jogador readmitido no grupo que após a segunda advertência, tiver que receber a segunda punição, estará eliminado do campeonato.
+  
+  7.8 - Serão admitidas postagens de figurinhas, desde que não sejam ofensivas.
 
 # **8. Regras de Conduta** #
 
@@ -275,14 +269,13 @@
 
 9.5. Proibido o uso do freio ou desaceleração total para parar carro na pista antes do combustível acabar;
 
-9.6. Em caso de pane seca para ambos os jogadores em pistas como Roma, Rain Forest, Bourdeaux, Monaco, Pisa entre outras, será atribuída a pontuação da posição final dos jogadores ao se escurecer completamente a tela. Para jogar a próxima pista, os jogadores deverão voltar ao menu inicial e selecionar o restante das pistas (utilizando a ROM TGC) ou jogar o país completo novamente (utilizando a ROM Original).
-- Obs.: Caso seja necessário jogar o país novamente, a contagem de pontos das pistas daquele país jogadas anteriormente será zerada.
+9.6. Em caso de pane seca para ambos os jogadores em pistas como Roma, Rain Forest, Bourdeaux, Monaco, Pisa entre outras, será atribuída a pontuação da posição final dos jogadores ao se escurecer completamente a tela.
 - Obs.: Caso um dos jogadores informe que tem o save state do início da pista onde aconteceu a pane, estes deverão correr a pista novamente através do save.
 
-9.7. Caso o país sorteado seja UK, na pista de STONEHENGE, as pontuações serão atribuídas de acordo com as posições finais dos jogadores imediatamente quando a tela escurecer após o Out Of Fuel;
+9.7. Caso a pista de STONEHENGE seja sorteada, as pontuações serão atribuídas de acordo com as posições finais dos jogadores imediatamente quando a tela escurecer após o Out Of Fuel;
 - Obs.: se um dos jogadores completar STONEHENGE, aquele que não completar não receberá nenhuma pontuação atribuída.
 
-9.8. Caso seja sorteado o país UK, este deverá ser corrido por último, mesmo utilizando a Rom TGC;
+9.8. Caso seja sorteada a písta STONEHENGE, esta deverá ser corrida por último;
 
 9.9. Caso alguma Regra Geral esteja divergente de alguma regra estabelecida aqui neste post, vale a regra deste documento para o campeonato.
 
@@ -290,19 +283,19 @@
 
 10.1. Será utilizado o emulador ZSNES 1.42;
 
-10.2. A ROM deverá ser a Top Gear TGC (E) [!] ou Top Gear (E) [!];
+10.2. A ROM deverá ser a Top Gear TGC (E) [!];
 
 10.3. Nível/Level: **Championship**;
 
 10.4. A escolha de câmbio (automático ou manual) é livre durante todo o campeonato;
 
-10.5. A conexão deverá ser estabelecida por rede VPN RADMIN ou HAMACHI;
+10.5. A conexão deverá ser estabelecida por rede VPN RADMIN, HAMACHI ou Zerotier;
 
 10.6. Em comum acordo, os jogadores podem trocar de controle quanto forem iniciar o desempate e/ou jogo de volta para corrigir o grid de largada corretamente; 
 
-10.7. Não havendo consenso na escolha de quem é o Player 1 ou o Player 2, o Player 1 será aquele que vier primeiro na tabela do Challonge;
+10.7. Não havendo consenso na escolha de quem é o Player 1 ou o Player 2, o Player 1 será aquele que vier primeiro na tabela do TOORNAMENT;
 
-10.8. O resultado da partida será a soma dos pontos obtidos pelos jogadores em cada país disputado;
+10.8. O resultado da partida será a soma dos pontos obtidos pelos jogadores em cada pista disputada;
 
 10.9. Procedimento para início da partida:
 
@@ -314,7 +307,6 @@
 - Em Track, movendo para esquerda ou direita, selecione a pista (ela é apresentada pelo nome);
 - Para selecionar a pista Pressione o botão "A". Ao selecionar uma pista, um contador de seleção aparecerá: "1, 2, 3... e assim por diante";
 - Caso precise corrigir alguma seleção pressione o botão "B" para retirar a última pista selecionada;
-- O Password para abrir todos os países na Rom Original é KELLSON. Ir para o menu COUNTRY, selecionar UK, usar o password, e depois selecionar o país;
 
 # **11. Itens e Links Importantes** #
 
@@ -322,9 +314,9 @@
 
 11.2.	**ROM Top Gear TGC (E) [!].smc** = Link para download [aqui](https://www.facebook.com/groups/topgearchampionships/files/files)
 
-11.3.	**Top Gear (E) [!].smc** = Link para download [aqui](https://www.facebook.com/groups/topgearchampionships/permalink/2435336390067640)
+11.3.	**Radmin para conexão entre os jogadores** = Link para download [aqui](https://vpn.net/)
 
-11.4.	**Radmin para conexão entre os jogadores** = Link para download [aqui](https://vpn.net/)
+11.4. **Zerotier** = Link para download xxxx
 
 11.5. **Hamachi para conexão entre os jogadores** = Link para download [aqui](https://www.radmin-vpn.com)
 
