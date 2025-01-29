@@ -191,7 +191,7 @@
   
 # **6. Desempate para as Fases Finais:** #
 
-  6.1 - Em caso de empate nas fases finais, reinicia-se a ROM e os pilotos devem jogar o país sorteado para o desempate.
+  6.1 - Em caso de empate nas fases finais, reinicia-se a ROM e os pilotos devem jogar a partir da pista sorteada para o desempate.
 
   6.2 - No desempate o carro é livre, porém uma vez escolhido, não poderá mais ser trocado.
 
@@ -199,7 +199,7 @@
 
   6.4 - Caso se jogue UK e ao final da pista de Stonehenge a partida ainda não teve um vencedor seguindo os critérios acima, a partida continua a partir de USA.
 
-  6.5 - Deverão ser selecionadas no mínimo as 4 pistas do país subsequente ao último país sorteado, a administração sugere que sejam selecionadas as 8 primeiras da sequência, até que um jogador abra mais de 5 pontos primeiro.
+  6.5 - Deverão ser selecionadas no mínimo as 4 pistas subsequentes a pista sorteada, a administração sugere que sejam selecionadas as 8 primeiras da sequência, até que um jogador abra mais de 5 pontos primeiro.
 
   6.7 - Em permanecendo o empate, repete-se o processo até que haja um vencedor.
 
