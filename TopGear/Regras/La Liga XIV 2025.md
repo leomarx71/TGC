@@ -126,7 +126,7 @@
 
 # **3. Organização e Chaveamento:** #
   
-  3.1 - Será utilizado o TOORNAMENT para chaveamento das partidas do campeonato.
+  3.1 - Será utilizado o TOORNAMENT para chaveamento das partidas do campeonato. [link] (https://play.toornament.com/pt_BR/tournaments/8478865477541707776)
   
   3.2 - Fase de grupos: 10 pistas em cada rodada.
   
@@ -316,7 +316,7 @@
 
 11.3.	**Radmin para conexão entre os jogadores** = Link para download [aqui](https://vpn.net/)
 
-11.4. **Zerotier** = Link para download xxxx
+11.4. **Zerotier** = Link para download [aqui](https://www.zerotier.com/download/)
 
 11.5. **Hamachi para conexão entre os jogadores** = Link para download [aqui](https://www.radmin-vpn.com)
 
