@@ -28,15 +28,15 @@
    - 4 - LeNN Miner (Lenno Coelho)
    - 5 - Sr. Filho (Jurandir Filho)
    - 6 - Gokú (Oscar Cardenhas)
-   - 7 - LAOM (Luís Cardenas)
-   - The Mister (Roberto Vasquez) - 2° Prata
-   - Leomarx Games (Leonardo Marques) - 3° Prata
-   - Luciano (Luciano Alves) - 4° Prata
+   - 7 - AriJunino (Ari Júnior) ~LAOM (Luís Cardenas)~
+   - 8 - The Mister (Roberto Vasquez) - 2° Prata
+   - 9 - Leomarx Games (Leonardo Marques) - 3° Prata
+   - 10 - Luciano (Luciano Alves) - 4° Prata
      
 
   1.5 Série Prata - Pilotos que participaram do La Liga XIII e que devem manifestar o interesse em participar do La Liga XIV:
 
-   - AriJunino (Ari Júnior) - 1° Melhor Rebaixado
+   - Irvin1988 (Irvin Delgado) ~AriJunino (Ari Júnior) - 1° Melhor Rebaixado~
    - Pegasus (Edimar Caetano) - 5° Prata
    - Killua Zorldic (Lucas Souza) - 2° Melhor Rebaixado
    - Paulo Fox (Paulo Muniz) - 6° Prata
@@ -49,21 +49,24 @@
 
   1.6 Série Bronze - Competidores que participaram do La Liga XIII e novos membros que desejarem se inscrever no La Liga XIV, conforme a sequência:
 
-   - Irvin1988 (Irvin Delgado) - 5° Bronze
    - Lonsoldier (Marlon Reis) - 2° Melhor Rebaixado
-   - Schumacher (Martins Swantaiger) - 6° Bronze
    - HD Gamer (Edwin Hyrula) - 3° Melhor Rebaixado
    - Paomarc (Paolo Paredes) - 7° Bronze
    - Senninkage (Edison Silva) - 8° Bronze
-   - Rannid (Fabrício Golçalves)
+   - Samuel (Samuel Barros)
    - Nero (Roney Leão)
-   - Yoshimtzu (Rudi Porto)
+   - FrankGear (Frank Piero)
+   - Policarpo (Anderson Policarpo)
    - Suprem Peruvian (Albert Matos)
    - Camus Kshrc (Marlon Fernandes)
-   - UaiLay (Laynara Souza)
-   - Alaric (Emerson Eidan Enderson)
-   - Rannid (Fabrício Golçalves) 
-   - Samuel (Samuel Barros)
+   - Carlos CRX (Carlos Rubens) - Protocolo
+   - JackPocker40 (Petter Bruno) - Protocolo
+   - ~Yoshimtzu (Rudi Porto)~
+   - ~Rannid (Fabrício Golçalves)~
+   - ~Schumacher (Martins Swantaiger) - 6° Bronze~
+   - ~UaiLay (Laynara Souza)~
+   - ~Alaric (Emerson Eidan Enderson)~
+   - ~Rannid (Fabrício Golçalves)~ 
    - Novo competidor
    - Novo competidor
   
