@@ -1,4 +1,3 @@
-
 # **A COMUNIDADE LEOMARX GAMES EM PARCERIA COM A TOP GEAR CHAMPIONSHIPS (TGC) APRESENTA:** #
 
 # **Brasileirão Top Gear 2025** #
@@ -42,13 +41,15 @@
 
 1.2 - Como se trata de um campeonato de longo prazo, com duração prevista para mais de 8 meses, de início não serão aceitos novos participantes, para evitarmos desistências no meio do campeonato. Porém os novos poderão entrar em cadastro reserva para preencher as vagas remanescentes.
 
-1.3 - Com base na lista de pilotos validados, os 20 pilotos com participação **assídua/constante** nos últimos 6 meses em todos os campeonatos da Leomarx Games e que não tenham punição de excesso de W.O. serão escolhidos.
+1.3 - Com base na lista de pilotos validados, os 20 pilotos com participação **assídua/constante** nos últimos 6 meses em todos os campeonatos da TGC e Leomarx Games e que não tenham punição de excesso de W.O. serão escolhidos.
 
 1.4 - Em seguida será criado um grupo de WhatsApp do Campeonato confirmando o comprometimento de todos os elegíveis e que confirme e se apresente com o seu Nome Real + Apelido/NickName.
 
 1.5 - Se houver mais de 20 pilotos nesta lista será avaliada pela ADM a possibilidade de expansão sempre respeitando aos múltiplos de 2 para que não haja rodada bônus.
 
 1.6 - Se houver menos de 20 pilotos nesta lista será avaliado pela ADM a possibilidade de inclusão de novos pilotos/inscrições sempre respeitando aos múltiplos de 2 para que não haja rodada bônus.
+
+1.7 - A limitação de pilotos é necessária para que todas as rodadas finalizem dentro do calendário e não conflitem com a Copa dos Campeões.
 
 # **2 - Validação e Verificação de Perfil dos Inscritos:** #
 
@@ -129,17 +130,17 @@
 
 5.5 - Se houver desistência de pilotos no meio do campeonato os resultados que ele obteve anteriormente serão invalidados equalizando a vitória sobre ele de forma igual para todos os outros pilotos.
 
-5.6. - Como o campeonato é jogo de ida e volta os sorteios serão divididos em quatro partes:
+5.6. - Os sorteios serão divididos em quatro partes:
 
 5.6.1 - 1° Metade dos jogos Jogo de Ida - serão sorteadas 12 pistas no total, sendo 8 pistas, 1 de cada país, + 4 de outros aleatórias que contenham pit stops. Carro Livre
 
-5.6.2 - 2° Metade dos jogos Jogo de Ida - serão sorteadas 12 pistas no total, sendo 7 pistas com pit e outras 5 sem pit stops. Obrigatório o uso de 2 carros diferentes, um carro a cada 6 pistas.
+5.6.2 - 2° Metade dos jogos Jogo de Ida - serão sorteadas 12 pistas no total, sendo 7 pistas com pit e outras 5 sem pit stops. Haverá proibição do carro vermelho neste conjunto.
 
-5.6.3 - 1° Metade dos jogos de Volta - serão sorteados 12 pistas no total, sendo 7 pistas aleatórias com pit + 4 pistas sem pit + stonehenge. Haverá proibição do carro vermelho neste conjunto.
+5.6.3 - 1° Metade dos jogos de Volta - serão sorteados 12 pistas no total, sendo 7 pistas aleatórias com pit + 4 pistas sem pit + stonehenge. Carro Livre
 
-5.6.4 - 2° Metade dos jogos de Volta - serão sorteados 12 pistas no total, sendo 7 pistas aleatórias com pit + 4 pistas sem pit + stonehenge. Carro Livre
+5.6.4 - 2° Metade dos jogos de Volta - serão sorteados 12 pistas no total, sendo 7 pistas aleatórias com pit + 4 pistas sem pit + stonehenge. Obrigatório o uso de 2 carros diferentes, vermelho/roxo em uma metade e azul/branco na outra metade.
 
-5.7 - Comissário eletrônico obrigatório nas Oitavas e Quartas de Final e o mesmo pode ser acessado no endereço https://www.topgearchampionships.com/comissario/comissario.html
+5.7 - Comissário eletrônico obrigatório na 2° Metade dos jogos de Voltan e o mesmo pode ser acessado no endereço https://www.topgearchampionships.com/comissario/comissario.html
 
 5.8 - Os Resultados e Logs podem serem acessados em https://www.topgearchampionships.com/comissario/logsPublicosComissario.html
 
