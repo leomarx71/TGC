@@ -12,30 +12,29 @@
 - Albert Matos (Suprem Peruvian) 
 - Aléxis Sánchez (ChitaMX)
 - Alison Paulo (Jack Maloi)
-- Allan Live (Allan Live) x
-- Amélio Belchior (Amélio) x
-- Anderson Policarpo (Policarpo) x
+- Amélio Belchior (Amélio) 
+- Anderson Policarpo (Policarpo) 
 - Ari Júnior (Arijunino)
-- Carlos José (Carlos CJX) x
+- Carlos José (Carlos CJX) 
 - Carlos Rubens (Carlos CRX)
-- Brisantt (BR Brissant) x
+- Brisantt (BR Brissant) 
 - Edimar Caetano (Pegasus PSX)
 - Edwin Huaylla (HD Wins)
-- Felipe Costa (Dark FPC) x
+- Felipe Costa (Dark FPC) 
 - Javier Portillo (Javier VZLA)
 - Jhonny Mota (Jhonny)
 - Jurandir Filho (Sr. Filho)
-- Laynara Souza (UaiLay) x
+- Laynara Souza (UaiLay) 
 - Lenno Coelho (LeNN Miner)
 - Leonardo Andrade (Leomarx Games)
 - Luciano Alves (Luciano Bora Zerar)
-- Luís Cárdenas (Luís L.A.O.M.) x
-- Marcel Santana (MMM) x
+- Luís Cárdenas (Luís L.A.O.M.) 
+- Marcel Santana (MMM) 
 - Marlon Fernandes (Camus Kshrc) 
-- Martins Pazos (Schumacher) x 
-- Óscar Cárdenas (Goku L.A.O.M.) x 
+- Martins Pazos (Schumacher) 
+- Óscar Cárdenas (Goku L.A.O.M.) 
 - Paulo Muniz (Paulo Fox)
-- Petter Bruno (JackPoker40) x 
+- Petter Bruno (JackPoker40)
 - Rafael Lopes (Rafael Diablo)
 - Roberto Vasquez (The Mister)
 - Robson Meireles (Rob Jax)
@@ -68,44 +67,44 @@
 
 # **3 - Itens Obrigatórios:** #
 
-3.1 -  **Emulador ZSNES 1.42 =** Link para download [aqui](https://www.zsnes.com/index.php?page=files)
+3.1 - **Emulador ZSNES 1.42 =** Link para download [aqui](https://www.zsnes.com/index.php?page=files)
 
 3.2 - **ROM Top Gear TGC (E) [!].smc** = Link para download [aqui](https://www.facebook.com/groups/topgearchampionships/files/files)
 
+3.3 - **Zerotier para conexão entre os jogadores** = Link para download [aqui](https://www.zerotier.com/download/)
+
 3.4 - **Radmin para conexão entre os jogadores** = Link para download [aqui](https://www.radmin-vpn.com/)
 
-3.5 -  **Hamachi para conexão entre os jogadores** = Link para download [aqui](https://vpn.net/)
+3.5 - **Hamachi para conexão entre os jogadores** = Link para download [aqui](https://vpn.net/)
 
 # **4 - Cronograma (Previsão):** #
 
-4.1 - As inscrições serão aceitas até às 21h do dia 05/01/2025, podendo ser encerrado antes dependendo do número de inscritos;
+4.1 - As inscrições serão iniciadas às 21h do dia 28/02/2025 e todo o processo de seleção nas regras de eligibilidades serão realizadas;
 
-4.2 - Após confirmação das inscrições, será realizado o sorteio dos grupos e países, sendo liberada a Fase de Grupos;
+4.2 - Após confirmação das inscrições, será realizado o sorteio das pistas, sendo liberado o início do torneio até 04/03/2025;
 
-4.3 - Fase de grupo: de 05/01 às 23:59 do dia 14/01;
+4.3 - Se o torneio se iniciar com 20 participantes o torneio terá duração de 38 semanads e o final do torneio se dará no mês de novembro de 2025;
 
-4.4 - Oitavas de Final: de 15/01 às 23:59 do dia 20/01;
+4.4 - No mês de início (Março) poderá ser aplicada rodadas com 5 dias de prazo para adiantar algumas rodadas e o torneio finalizar no mês de novembro.
 
-4.5 - Quartas de Final: de 21/01 às 23:59 do dia 26/01;
+4.5 - A partir do mês de abril devido a concorrência de outros torneios os prazos serão de 7 dias iniciando-se na terça às 0h e finalizando na segunda feira 23h59.
 
-4.6 - Semifinal: de 27/01 às 23:59 do dia 02/02;
+4.6 - Ainda que já se tenho o conhecimento do próximo oponente e rodada a serem jogados, não serão aceitos resultados e nem realização de partidas nem antes e nem após o prazo.
 
-4.7 - Final de Disputa de 3º Lugar: de 03/02 às 23:59 do dia 09/02.
-
-4.8 **Observação:** As rodadas podem ter o prazo estendido ou reduzido, caso a administração julgue necessário.
+4.4 **Observação:** As rodadas podem ter o prazo estendido ou reduzido, caso a administração julgue necessário e por motivos de força maior.
 
 # **5 - Organização e Chaveamento:** #
 
-5.1 - Será utilizado o TOORNAMENT para chaveamento das partidas do campeonato. Link de acesso [Torneio de Verão 2025](https://play.toornament.com/pt_BR/tournaments/8474998398162419712/)
+5.1 - Será utilizado o TOORNAMENT para chaveamento das partidas do campeonato. Link de acesso [Brasileirão Top Gear 2025](https://play.toornament.com/pt_BR/tournaments/8430933948419555328/)
 
-5.2. O campeonato terá uma fase de grupos no modelo Copa do Mundo e os melhores colocados avançam para a fase final de mata-a-mata.
+5.2. O campeonato será no modelo pontos corridos com jogos de ida e volta e o piloto que somar mais pontos após todas as rodadas será o campeão.
 
 5.3. Os jogadores pontuarão de acordo com seu resultado em cada partida de acordo com a relação a seguir:
 
 - Vitória = 3 pontos;
 - Empate = 1 ponto;
 - Derrota = 0 pontos;
-- W.O = -1 ponto.
+- W.O. = -1 ponto.
   
 5.3.1 - A classificação se dará pelo maior número de pontos. Em caso de empate os critérios de desempate serão:
 
@@ -114,44 +113,41 @@
 - Saldo de pontos;
 - Sorteio.
 
-5.4 - **É obrigatório o uso do carro VERMELHO** e o nível do jogo será o CHAMPIONSHIP.
+5.4 - A pontuação para o Mundial de Pilotos será concedida para os 10 melhores, conforme abaixo:
 
-5.5 - Não há limite para a quantidade de participantes e serão classificados para a fase final a quantidade de jogadores a seguir, dependendo da quantidade de inscritos:
+- 1° Lugar = 21 pts.
+- 2° Lugar = 15 pts.
+- 3° Lugar = 12 pts.
+- 4° Lugar = 10 pts.
+- 5° Lugar = 8 pts.
+- 6° Lugar = 6 pts.
+- 7° Lugar = 5 pts.
+- 8° Lugar = 4 pts.
+- 9° Lugar = 3 pts.
+- 10° Lugar = 2 pts.
+- Demais = 1 ponto pela participação.
 
-- Inscritos: até 18. Classificados: 8;
-- Inscritos: 19 ou mais. Classificados: 16;
+5.5 - Se houver desistência de pilotos no meio do campeonato os resultados que ele obteve anteriormente serão invalidados equalizando a vitória sobre ele de forma igual para todos os outros pilotos.
 
-5.6. Serão sorteados 2 paises para cada rodada na fase de grupos, não se repetindo nenhum país para as quatro primeiras rodadas e não se repetindo a mesma dupla de países quando houverem mais rodadas.
+5.6. - Como o campeonato é jogo de ida e volta os sorteios serão divididos em quatro partes:
 
-5.7 - Nas fases mata-mata, serão sorteados 2 países para as oitavas, 3 países para as quartas e semifinais.
+5.6.1 - 1° Metade dos jogos Jogo de Ida - serão sorteadas 12 pistas no total, sendo 8 pistas, 1 de cada país, + 4 de outros aleatórias que contenham pit stops. Carro Livre
 
-5.8 - Na final e disputa de 3º, serão sorteados 4 países para a disputa.
+5.6.2 - 2° Metade dos jogos Jogo de Ida - serão sorteadas 12 pistas no total, sendo 7 pistas com pit e outras 5 sem pit stops. Obrigatório o uso de 2 carros diferentes, um carro a cada 6 pistas.
 
-5.9 - Para todas as fases mata-mata, será sorteado um país para desempate.
+5.6.3 - 1° Metade dos jogos de Volta - serão sorteados 12 pistas no total, sendo 7 pistas aleatórias com pit + 4 pistas sem pit + stonehenge. Haverá proibição do carro vermelho neste conjunto.
 
-5.10 - Em caso de empate reinicia-se a ROM e joga a partir do país sorteado para desempate:
-- Para facilitar, utilizando a ROM Top Gear TGC Rom (E), poderão ser selecionadas 8 pistas para o desempate, sendo as 4 primeiras referente ao país desempate e as outras 4 do país seguinte do país desempate.
-- Utilizando a ROM Top Gear (E) [!], seleciona-se o país desempate e joga-se todas as pistas na sequência até que haja um vencedor;
-- Vencerá aquele que abrir primeiro mais de 5 pontos de vantagem; 
-- Permanecendo o empate no primeiro país, o país seguinte deverá ser jogado e assim sucessivamente, até haver um vencedor;
-- Caso se jogue UK e ao final da pista de Stonehenge a partida ainda não tiver um vencedor seguindo os critérios acima, a partida continua a partir de USA;
-- Obs.: Em comum acordo, os jogadores podem trocar de controle quanto forem iniciar o desempate para corrigir o grid de largada corretamente. Caso não aja concenso, será o player 1, aquele que tiver terminado na frente na pista anterir ao desempate.
+5.6.4 - 2° Metade dos jogos de Volta - serão sorteados 12 pistas no total, sendo 7 pistas aleatórias com pit + 4 pistas sem pit + stonehenge. Carro Livre
 
-5.11 - A substituição de jogadores só será adimitida, caso o piloto substituto ainda possa realizar mais da metade das partidas da fase de grupos:
-- Exemplo: Se a fase de grupos tiver 4 ou 5 partidas, só poderá haver substituto, caso ainda hajam 3 partidas para serem realizadasda. Se a fase de grupos tiver 6 ou 7 participantes, só poderá haver substituto, caso ainda hajam 4 partidas para serem realizadas.
-- Se não houver substituto, será aplicado w.o. para as partidas restantes, com pontuação máxima para o adversário e mínima para o desistente.
+5.7 - Comissário eletrônico obrigatório nas Oitavas e Quartas de Final e o mesmo pode ser acessado no endereço https://www.topgearchampionships.com/comissario/comissario.html
 
-5.12 - A partir de 50% da partida realizada, o piloto pode avisar ao oponenete que deseja parar e admitir a derrota. Assim, o adversário leva os 20 pontos de cada pista restante e o desistente fica com zero pontos nas mesmas. Para este caso, a partida não será considerada w.o e não haverão sansões.
+5.8 - Os Resultados e Logs podem serem acessados em https://www.topgearchampionships.com/comissario/logsPublicosComissario.html
 
-5.13 - A quantidade de participantes em cada grupo, vai depender do número de inscritos confirmados:
-- 16 pilotos: 4 grupos com 4, avançando os 2 primeiros;
-- 20 pilotos: 4 grupos com 5, avançando os 2 primeiros;
-- 24 pilotos: 4 grupos com 6, avançando os 2 primeiros;
-- 28 pilotos: 4 grupos com 4 e 4 grupos com 3, avançando os 2 primeiros;
-- 32 pilotos: 8 grupos com 4, avançando os 2 primeiros;
-- Outros formatos poderão ser definidos dependendo do número de inscritos. 
+5.9 - A partir de 50% da partida realizada, o piloto pode avisar ao oponenete que deseja parar e admitir a derrota. Assim, o adversário leva os 20 pontos de cada pista restante e o desistente fica com zero pontos nas mesmas. Para este caso, a partida não será considerada w.o e não haverão sansões.
 
-5.14 - A tolerância de W.O's neste campeonato será no total de 2 partidas na fase de grupos se houver 3 ou mais partidas o piloto será impedido de participar do próximo campeonato de estação. Até o final do prazo da fase de grupos, será oportunizado ao piloto que apresente justificativas, caso as justificativas sejam aceitas, o W.O. não será contabilizado para efeitos de punição.
+5.10 - A tolerância de W.O's neste campeonato será no total de 20% do número total de rodadas. Exemplo se houver 38 rodadas, o piloto poderá ter até 7 rodadas com W.O. Aquele que tiver mais de 7 W.O.'s será impedido de jogar o próximo campeonato.
+
+5.11 - Até o final do campeonato, será oportunizado ao piloto que apresente justificativas, caso as justificativas sejam aceitas, o W.O. não será contabilizado para efeitos de punição.
 
 # **6 - Validação das partidas** #
 
