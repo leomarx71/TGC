@@ -146,7 +146,7 @@
 
 5.9 - A partir de 50% da partida realizada, o piloto pode avisar ao oponenete que deseja parar e admitir a derrota. Assim, o adversário leva os 20 pontos de cada pista restante e o desistente fica com zero pontos nas mesmas. Para este caso, a partida não será considerada w.o e não haverão sansões.
 
-5.10 - A tolerância de W.O's neste campeonato será no total de 20% do número total de rodadas. Exemplo se houver 38 rodadas, o piloto poderá ter até 7 rodadas com W.O. Aquele que tiver mais de 7 W.O.'s será impedido de jogar o próximo campeonato.
+5.10 - A tolerância de W.O's neste campeonato será no total de 20% do número total de rodadas. Exemplo se houver 38 rodadas, o piloto poderá ter até 7 rodadas com W.O. Aquele que tiver mais de 7 W.O.'s será impedido de jogar o próximo campeonato Brasileiro e/ou TGC.
 
 5.11 - Até o final do campeonato, será oportunizado ao piloto que apresente justificativas, caso as justificativas sejam aceitas, o W.O. não será contabilizado para efeitos de punição.
 
@@ -163,6 +163,8 @@
 6.5 - O arquivo de gravação deve ser disponibilizado na nuvem e o link divulgado no grupo do WhatsApp, ou também pode ser feito o envio de arquivo de gravação diretamente no WhatsApp.
 
 6.6 - Não serão aceitos resultados enviados sem o cumprimento das regras de gravação mencionadas, sendo que uma nova partida deve ser realizada ou a renúncia de derrota por W.O. por um dos participantes.
+
+6.7 - Não serão aceitas reclamações ou protolos sobre falhas de hardware, por exemplo, quando o controle que desconecta o bluetooth ou acaba a bateria no meio da partida. Sendo de responsabilidade do piloto fazer essa validação antes da partida oficial.
 
 # **7 - Comunicação:** #
 
