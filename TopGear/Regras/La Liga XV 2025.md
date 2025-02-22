@@ -6,7 +6,7 @@
 
 # **1. INSCRIÇÕES:** #
 
-  1.1 - As inscrições estarão abertas até 21h de 31/01/2025.
+  1.1 - As inscrições estarão abertas até 21h de XX/XX/2025.
     
   1.2 - Aqueles que se inscreverem após o encerramento das inscrições, serão colocados em cadastro reserva e serão convidados para participar do La Liga Bronze caso aja desistência antes do encerramento da segunda rodada, ou seja, convidado para completar algum grupo, caso a administração decida.
 
@@ -14,9 +14,14 @@
 
   Regra do La Liga XIV para embasamento: **5.5 - A tolerância de W.O's neste campeonato será no total de 3 partidas na fase de grupos se houver 4 ou mais partidas o piloto será impedido de participar do próximo campeonato La Liga. No prazo de 72h após a aplicação do w.o., será oportunizado ao piloto que apresente justificativas, caso as justificativas sejam aceitas, o w.o. não será contabilizado para efeitos de punição.**
 
-  - Carlos Rubens (CRX) não poderá participar do La Liga XV. Em razão do excesso de W.O. no La Liga XIV e como punição ficará uma edição sem poder participar, podendo voltar no La Liga XV na Divisão Bronze.
-  - Peter Bruno (JackPocker40) não poderá participar do La Liga XV. Em razão do excesso de W.O. no La Liga XIV e como punição ficará uma edição sem poder participar, podendo voltar no La Liga XV na Divisão Bronze.
-  - Frank Piero (Frank Gear) não poderá participar do La Liga XV. Em razão do excesso de W.O. no La Liga XIV e como punição ficará uma edição sem poder participar, podendo voltar no La Liga XV na Divisão Bronze.
+  - Irvin Delgado (Irvin1988)
+  - Óscar Cárdenas (Gokú)
+  - Frank Piero (Frank Gear)
+  - Marlon Reis (Lonsoldier)
+  - Edison Silva (Senninkage)
+  - Roney Leão (Nero)
+  - Não poderão participar do La Liga XV. Em razão do excesso de W.O. no La Liga XIV e como punição ficarão uma edição sem poder participar, podendo voltar no La Liga XVI na Divisão Bronze.
+  - Luís Cárdenas (L.A.O.M.) Poderá solicitar regressar na Liga Prata, pois este comprovadamente teve de fato um motivo médico de força maior que impediu sua participação.
 
   **Pré-inscritos, conforme resultados da edição anterior e as punições mencionadas acima:**
   
