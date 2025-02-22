@@ -213,29 +213,33 @@
 
 # **7. Comunicação:** #
 
-  7.1 - Serão criados grupos no WhatsApp para cada uma das Séries, sendo este o canal oficial para as marcações das partidas e divulgação de resultados. A permanência no grupo é obrigatória e o jogador que não participar estará eliminado do campeonato.
+  7.1 - Serão criados grupos no WhatsApp para cada um dos grupos sorteados, sendo este o canal oficial para as marcações das partidas e divulgação de resultados.
 
-  7.2 - O grupo deve ser usado para os anúncios da administração, agendamento de partidas e assuntos relevantes ao campeonato, tais como informações de problemas com conexão, remarcação de partidas, encaminhamentos de links das lives e postagem de resultados.
+  7.2 - A permanência no grupo é obrigatória e o jogador que não participar poderá ser eliminado do campeonato. Caso o piloto tenha problemas de conexão com o WhatsApp, este deverá **imediatamente notificar a todos os admins** por meio de outra rede social e então será avaliada a possibilidade da continuação do mesmo sem o uso do App.
 
-  7.3 - Os jogadores podem mencionar seu oponente, marcando com @, para agendamento de sua partida. Essa menção deverá acontecer no máximo a cada 24horas. Após a terceira menção do oponente (72h), sem a devida resposta, o jogador poderá reivindicar o W.O à administração.
+  7.3 - O grupo deve ser usado para os anúncios da administração, agendamento de partidas e assuntos relevantes ao campeonato, tais como informações de problemas com conexão, remarcação de partidas, encaminhamentos de links das lives e postagem de resultados.
 
-  7.4 - Os jogadores devem anunciar o resultado de suas partidas no grupo.
+  7.3 - Os jogadores podem mencionar seu oponente, marcando com @, para agendamento de sua partida. Essa menção poderá ser realizada quantas vezes o jogador quiser, mas para efeitos de regras de verificação para wo, só será considerada uma menção a cada 48 horas. Após a terceira menção do oponente (144h), sem uma a devida resposta, o jogador poderá reivindicar o W.O à administração.
 
-  7.5 - O envio de mensagens no chat do emulador estará proibido caso um dos participantes solicite no início da partida.
+  7.4 - Os participantes que não realizarem suas partidas ou agendamento delas nos prazos estabelecidos, através do grupo oficial do campeonato, receberão W.O.
 
-  7.6 - A gravação da partida é opcional, porém caso haja discordância do resultado postado sem uma gravação o resultado postado de comum acordo entre os pilotos será o válido.
+  7.5. O W.O. será atribuído a favor daquele que oferecer maior tempo de disponibilidade, ou contra aquele que não comparecer no horário previamente agendado.
 
-  7.7 - Mensagens sem Relevância:
+  7.6 - Em casos onde houver incompatibilidade total de horários entre os participantes, na análise de W.O., será priorizado aquele que esteve mais tempo disponível após às 18h ou finais de semana.
 
-  - 7.7.1 - O jogador que enviar mensagens no grupo, sem relevância para o campeonato, serão advertidos pela administração. Em caso de reincidência, o jogador será REMOVIDO do grupo.
+  7.7 - O envio de mensagens no chat do emulador estará proibido caso um dos participantes solicite no início da partida.
 
-  - 7.7.2 - Mesmo com a punição o jogador tem o dever de cumprir os seus jogos previamente agendados.
+  7.8 - Os resultados das partidas devem ser informados no grupo respectivo do WhatsApp que o jogador for adicionado.
 
-  - 7.7.3 - Após 12h, o jogador removido poderá solicitar aos admins entrar novamente ao grupo.
+  Exemplo de postagem de resultado:
 
-  - 7.7.4 - O jogador readmitido no grupo que após a segunda advertência, tiver que receber a segunda punição, estará eliminado do campeonato.
+    - **Grupo A - Rodada 4**
+    - **@Player1 110 x 100 @Player2**
+    - **Link da live ou link do arquivo da gravação.**
+
+  7.9 - O jogador que enviar mensagens sem relevância para grupo WhatsApp do campeonato, serão advertidos pela administração. Em caso de reincidência, o jogador será REMOVIDO do grupo por 12h e adicionado novamente após esse prazo. Mesmo com a punição, o jogador tem o dever de cumprir os seus jogos previamente agendados. O jogador readmitido no grupo será eliminado do campeonato caso receba mais uma punição por descumprimento do grupo de WhatsApp.
   
-  7.8 - Serão admitidas postagens de figurinhas, desde que não sejam ofensivas.
+  7.10 - Serão admitidas postagens de figurinhas, desde que não sejam ofensivas.
 
 # **8. Regras de Conduta** #
 
@@ -349,17 +353,27 @@
 
 # **13. Validação das partidas:** #
 
-13.1. É obrigatório gravar ou transmitir ao vivo as partidas, seja pelo OBS Studio ou Emulador.
+13.1 - **Responsabilidade Individual de Gravação**. Todos os pilotos são obrigados a gravar ou transmitir ao vivo as suas próprias partidas, seja pelo OBS Studio ou Emulador. Não é necessário perguntar ao oponente quem vai gravar ou transmitir.
 
-13.2. Ambos os jogadores são responsáveis pela gravação. Sugere-se que se um for fazer a transmissão que o outro grave para em caso de travamento da live a partida seja validada.
+13.2 - **Resultados e Responsabilidade do Vencedor**. O jogador vencedor é responsável por postar o resultado final da partida, juntamente com o vídeo e os detalhes de carro utilizados.
 
-13.3. Os jogadores que não gravarem ou transmitirem suas partidas, terão seus confrontos invalidados e não poderão abrir PROTOCOLO de possíveis irregularidades cometidas pelo adversário.
+13.2.1 - Caso houver algum bug durante a partida, o outro piloto pode complementar com alguma informação importante os detalhes da partida.
 
-13.4. A resolução ideal é em HD 1280x720 (720p), porém para aqueles que não tenham um computador que consiga nesta gravar ou transmitir nessa resolução, a resolução mínima aceita será (SD) 854 x 480 (480p).
+13.3 - A resolução ideal é em HD 1280x720 (720p), porém para aqueles que não tenham um computador que consiga nesta gravar ou transmitir nessa resolução, a resolução mínima aceita será (SD) 854 x 480 (480p).
 
-13.5. O arquivo de gravação deve ser disponibilizado na nuvem e o link divulgado no grupo do WhatsApp, ou também pode ser feito o envio de arquivo de gravação diretamente no WhatsApp.
+13.4 - A partida deve ser disponibilizada em uma rede social no formato de vídeo (facebook, youtube, twitch, google drive, etc.) e que não expire até o final do campeonato.
 
-13.6. Não serão aceitos resultados enviados sem o cumprimento das regras de gravação mencionadas, sendo que uma nova partida deve ser realizada ou a renúncia de derrota por W.O. por um dos participantes.
+13.5 - Os pilotos que gravarem por emulador em ZMV deverão converter posteriormente a partida em vídeo.
+
+13.6 - Não serão aceitos resultados enviados sem o cumprimento das regras de gravação mencionadas.
+
+13.7 - Caso o vencedor da partida não poste o resultado com vídeo dentro do prazo final, a partida será considerada como desistência, e então, ele e o outro piloto **receberão placar final será 0x0 e sem a soma pontos de empate naquela rodada**.
+
+13.8 - Caso o vencedor da partida não poste o resultado com vídeo dentro do prazo final, a partida será considerada como desistência, e então, o outro piloto perdedor da partida **receberá a vitória automaticamente com o placar final de 200x0, por exemplo**.
+
+13.8 - Não serão aceitas reclamações ou protocolos sobre falhas de hardware, por exemplo, quando o controle que desconecta o bluetooth ou acaba a bateria no meio da partida. Sendo de responsabilidade do piloto fazer essa validação antes da partida oficial. 
+
+13.8.1 - Caso esse tipo de problema aconteça, a orientação é que o confronto deverá ser reiniciado a partir da pista seguinte. Ambos poderão refazer o jogo a partir da pista que ocorreu o problema, somente se o piloto que não teve problemas assim desejar.
 
 # **14. Situações inéditas** #
 
