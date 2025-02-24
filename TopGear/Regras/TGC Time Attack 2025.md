@@ -103,35 +103,19 @@
 - 9° Melhor Tempo da Rodada = 2 pts.
 - 10° Melhor Tempo da Rodada = 1 pt.
 
-5.5 - Os jogadores deverão utilizar o site [Calculadora Online](https://www.calculadora-online.xyz/calculadora-horario) para somar os seus tempos:
+5.5 - Os jogadores deverão utilizar o site [Calculadora Online](https://datetimecalculator.net/add-time-calculator) para somar os seus tempos:
 
-5.5.1 - Ao acessar o mesmo deve primeiro marcar a opção "Guardar Auto" para que o site vá acumulando os tempos:
+5.6 - Ao preencher o piloto deve somar os minutos, segundos e milisegundos, conforme o padrão do jogo:
 
-5.5.2 - O tempo exibido no site está em hora, minuto e segundo, mas ao preencher o piloto deve somar os minutos, segundos e milisegundos, conforme o padrão do jogo:
+5.6.1 - Após inserir as 8 pistas capturar o print dos tempos individuais e a soma total que deverá ser anexado como sua evidência no grupo do campeonato:
 
-5.5.3 - Após somar os 2 primeiros tempos o site irá limpar apenas o segundo campo para que você insira o terceiro tempo e assim por diante:
-
-5.5.3 - Após inserir as 8 pistas capturar o print da soma total e exportar o CSV que deverá ser anexado como sua evidência no grupo do campeonato.
+![](timeImage.png)
   
-5.6 - A classificação se dará pelo maior número de pontos. Em caso de empate os critérios de desempate serão:
+5.7 - A classificação se dará pelo maior número de pontos. Em caso de empate os critérios de desempate serão:
 
 - Melhores posições conquistadas em todas as rodadas;
-  - Exemplo: Um piloto que tenha consiguido 1 rodada em 1° lugar + e 1 rodada em 4° terá 30 pts e será melhor classificado do que outro piloto que em 2 rodadas obteve o 2° lugar e tbm terá 30 pontos.
-- Permanecendo o empate após todas as rodadas concluídas, os pilotos serão convocados a fazerem uma disputa de um full game de speedrun para definir o mais veloz.
-
-5.7 - De momento **não haverá pontuação para o mundial de pilotos**, mas caso a comunidade decida que sim futuramente, será concedido para os 10 melhores, a pontuação conforme abaixo:
-
-- 1° Lugar = 21 pts.
-- 2° Lugar = 15 pts.
-- 3° Lugar = 12 pts.
-- 4° Lugar = 10 pts.
-- 5° Lugar = 8 pts.
-- 6° Lugar = 6 pts.
-- 7° Lugar = 5 pts.
-- 8° Lugar = 4 pts.
-- 9° Lugar = 3 pts.
-- 10° Lugar = 2 pts.
-- Demais = 1 ponto pela participação.
+  - Exemplo: Um piloto que tenha conseguido 1 rodada em 1° lugar + e 1 rodada em 4° terá 30 pts e será melhor classificado do que outro piloto que em 2 rodadas obteve o 2° lugar duas vezes e tbm terá 30 pontos.
+- Permanecendo o empate após este critério acima, após todas as rodadas concluídas, os pilotos serão convocados a fazerem uma disputa individual e adicional de um full game de speedrun para definir o mais veloz.
 
 5.8 - Os sorteios serão divididos em quatro partes:
 
@@ -153,6 +137,20 @@
 5.10 - A tolerância de desistências de postagem do tempo obtido neste campeonato será no total de 20% do número total de rodadas. Exemplo se houver 24 rodadas, o piloto poderá ter até 5 rodadas sem postar o seu tempo. Aquele que tiver mais de 5 será impedido de jogar o próximo campeonato.
 
 5.11 - Até o final do campeonato, será oportunizado ao piloto que apresente justificativas, caso as justificativas sejam aceitas, a desistência não será contabilizada para efeitos de punição.
+
+5.12 - De momento **não haverá vaga para a copa dos campeões**, mas caso a comunidade decida que sim futuramente, o campeonato poderá entrar apenas para pontuação do mundial de pilotos e se assim for será concedido para os 10 melhores, a pontuação conforme abaixo:
+
+- 1° Lugar = 21 pts.
+- 2° Lugar = 15 pts.
+- 3° Lugar = 12 pts.
+- 4° Lugar = 10 pts.
+- 5° Lugar = 8 pts.
+- 6° Lugar = 6 pts.
+- 7° Lugar = 5 pts.
+- 8° Lugar = 4 pts.
+- 9° Lugar = 3 pts.
+- 10° Lugar = 2 pts.
+- Demais = 1 ponto pela participação.
 
 # **6 - Validação das partidas** #
 
