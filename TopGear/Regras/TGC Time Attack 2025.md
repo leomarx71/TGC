@@ -128,9 +128,8 @@
 5.8.4 - 25% das rodadas, serão sorteadas 8 pistas no total, sendo 4 pistas rápidas sem pit stops + 4 pistas com pit stops. Carro Livre
 
 5.8.5 - **ATENÇÃO** Já é de conhecimento da comunidade que no emulador ZSNES os carros mais rápidos como o Vermelho e o Roxo, não completam a pista de stonehenge. Então se no sorteio do conjunto cair esta pista, o piloto poderá escolher:
-  - Um outro carro que complete esta pista;
-  - Ou somar um tempo padrão de 2m15s60ms que é o record já obtido [Link do Record Stonehenge](https://www.facebook.com/watch/live/?ref=watch_permalink&v=1023621065497739)
-  - Ou caso ele de alguma forma consiga fazer a CPU empurar seu carro e obter um tempo menor este antes da tela apagar, este tempo será considerado.
+  - Um outro carro que complete esta pista (Azul ou Branco);
+  - Ou caso ele de alguma forma consiga fazer a CPU empurar seu carro e obter um tempo menor com o carro vermelho ou roxo antes da tela apagar, este tempo será considerado.
 
 5.9 - Caso o piloto não poste o resultado com todos os detalhes até o final do prazo, a partida será considerada como desistência, e então ele receberá -1 ponto com punição pela não envio (W.O).
 
