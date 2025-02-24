@@ -172,6 +172,12 @@
 
   4.9 - Na Série Bronze, a escolha do carro é livre para todas as fases.
 
+  4.10 - Punições de comissário errado:
+
+  4.10.1 - Se o piloto enviar a quantidade de carros **incorreta** e jogar com todos eles corretamente conforme o seu envio, será feito um sorteio da rodada onde ele colocou uma cor a mais para efeito de punição, pois afinal o carro errado poderia ser em qualquer uma das partidas e não apenas conforme a declaração do piloto.
+
+  4.10.2 - Se o piloto enviar a quantidade de carros **correta** e jogar em alguma rodada com eles incorretamente conforme o seu envio, neste caso ele perderá esta partida por w.o.
+
 # **5. Classificação e Rebaixamento:** #
 
   5.1 - Na fase de grupo, a classificação será definida pela pontuação geral.
