@@ -132,7 +132,7 @@
   - Ou somar um tempo padrão de 2m15s60ms que é o record já obtido [Link do Record Stonehenge](https://www.facebook.com/watch/live/?ref=watch_permalink&v=1023621065497739)
   - Ou caso ele de alguma forma consiga fazer a CPU empurar seu carro e obter um tempo menor este antes da tela apagar, este tempo será considerado.
 
-5.9 - Caso o piloto não poste o resultado com todos os detalhes até o final do prazo, a partida será considerada como desistência, e então ele receberá -l ponto com punição pela não envio (W.O).
+5.9 - Caso o piloto não poste o resultado com todos os detalhes até o final do prazo, a partida será considerada como desistência, e então ele receberá -1 ponto com punição pela não envio (W.O).
 
 5.10 - A tolerância de desistências de postagem do tempo obtido neste campeonato será no total de 20% do número total de rodadas. Exemplo se houver 24 rodadas, o piloto poderá ter até 5 rodadas sem postar o seu tempo. Aquele que tiver mais de 5 será impedido de jogar o próximo campeonato.
 
