@@ -76,7 +76,7 @@
 
 4.2 - Se o torneio se iniciar com 20 participantes o torneio terá duração de 20 rodadas, não ultrapassando o final do mês novembro de 2025.
 
-4.3 - Devido a concorrência de outros torneios os prazos serão de 7 dias iniciando-se na terça às 0h e finalizando na segunda feira 23h59.
+4.3 - Devido a concorrência de outros torneios os prazos serão de 7 dias iniciando-se na terça às 0h01 e finalizando na segunda feira 23h59.
 
 4.4 - Ainda que já se tenha o conhecimento da próxima rodada a serem jogados, não serão permitida a realização e nem a postagem de resultados de partidas nem antes e nem após o prazo.
 
@@ -89,6 +89,8 @@
 5.2 - O campeonato será no modelo pontos corridos e o piloto que somar mais pontos após todas as rodadas será o campeão.
 
 5.3 - Cada rodada será composta por 8 Pistas e o piloto que somar o menor tempo em todas elas vencerá a rodada.
+
+5.3.1 - Dentro do prazo definido o piloto pode tentar quantas vezes quiser melhorar o seu tempo, contato que sempre jogue todas as 8 pistas de uma só vez.
 
 5.4 - Os jogadores pontuarão de acordo com seu resultado em cada partida, semelhante ao jogo, de acordo com a relação a seguir:
 
@@ -110,12 +112,18 @@
 5.6.1 - Após inserir as 8 pistas capturar o print dos tempos individuais e a soma total que deverá ser anexado como sua evidência no grupo do campeonato:
 
 ![](timeImage.png)
-  
-5.7 - A classificação se dará pelo maior número de pontos. Em caso de empate os critérios de desempate serão:
+ 
+5.7 - A classificação se dará pelo menor tempo nas rodadas e no maior número de pontos após todas as rodadas. Sendo:
+
+5.7.1 - Em caso de empate de tempos dentro de uma rodada:
+
+- Ambos os pilotos receberão a mesma pontuação
+
+5.7.2 - Em caso de empate no número de pontos da liga, o desempate seguirá a ordem:
 
 - 1° Melhores posições conquistadas em todas as rodadas;
-  - Exemplo: Um piloto que tenha conseguido 1 rodada em 1° lugar + e 1 rodada em 4° terá 30 pts e será melhor classificado do que outro piloto que em 2 rodadas obteve o 2° lugar duas vezes e tbm terá 30 pontos.
-- 2° Menor número de desistências
+  - Exemplo: Um piloto que tenha conseguido 1 rodada em 1° lugar + 1 rodada em 4° terá 30 pts e será melhor classificado do que outro piloto que em 2 rodadas obteve o 2° lugar duas vezes e tbm terá 30 pontos.
+- 2° Menor número de desistências;
 - 3° Permanecendo o empate após estes critérios acima, após todas as rodadas concluídas, os pilotos serão convocados a fazerem uma disputa individual e adicional de um full game de speedrun para definir o mais veloz (Parâmetros a serem definidos).
 
 5.8 - Os sorteios serão divididos em quatro partes:
