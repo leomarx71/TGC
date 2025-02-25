@@ -99,7 +99,7 @@
         Disponibilidade para jogar: Descrever o melhor possível. Ex.: Disponibilidade das 19 as 23h30 durante a semana e finais de semana a combinar com antecedência.
         Método que utiliza para conectar: Preferencialmente Radmin, se houver erro, poderá ser utilizado o Hamachi.
 
-  1.10 - Todos os participantes ao se inscreverem no campeonato, declaram estar cientes de todas as regras aqui estabelecidas e poderão sofrer as punições previstas, desde um w.o, uma possível eliminação do campeonato ou até exlusão da Comunidade.
+  1.10 - Todos os participantes ao se inscreverem no campeonato, declaram estar cientes de todas as regras aqui estabelecidas e poderão sofrer as punições previstas, desde um w.o, uma possível eliminação do campeonato ou até exclusão da Comunidade.
 
 # **2. Cronograma Séries Ouro / Prata Horários de Brasília, Brasil:** #
    
@@ -355,6 +355,8 @@
 13.5. O arquivo de gravação deve ser disponibilizado na nuvem e o link divulgado no grupo do WhatsApp, ou também pode ser feito o envio de arquivo de gravação diretamente no WhatsApp.
 
 13.6. Não serão aceitos resultados enviados sem o cumprimento das regras de gravação mencionadas, sendo que uma nova partida deve ser realizada ou a renúncia de derrota por W.O. por um dos participantes.
+
+13.7. Caso a partida seja realizada, mas nenhum dos jogadores tenham gravado e o jogo não seja disputado novamente, o resultado será um empate em 0x0, onde nenhum dos participantes marcará pontos. 
 
 # **14. Situações inéditas** #
 
