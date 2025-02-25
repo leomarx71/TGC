@@ -113,9 +113,10 @@
   
 5.7 - A classificação se dará pelo maior número de pontos. Em caso de empate os critérios de desempate serão:
 
-- Melhores posições conquistadas em todas as rodadas;
+- 1° Melhores posições conquistadas em todas as rodadas;
   - Exemplo: Um piloto que tenha conseguido 1 rodada em 1° lugar + e 1 rodada em 4° terá 30 pts e será melhor classificado do que outro piloto que em 2 rodadas obteve o 2° lugar duas vezes e tbm terá 30 pontos.
-- Permanecendo o empate após este critério acima, após todas as rodadas concluídas, os pilotos serão convocados a fazerem uma disputa individual e adicional de um full game de speedrun para definir o mais veloz.
+- 2° Menor número de desistências
+- 3° Permanecendo o empate após estes critérios acima, após todas as rodadas concluídas, os pilotos serão convocados a fazerem uma disputa individual e adicional de um full game de speedrun para definir o mais veloz (Parâmetros a serem definidos).
 
 5.8 - Os sorteios serão divididos em quatro partes:
 
