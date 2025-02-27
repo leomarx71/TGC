@@ -240,7 +240,7 @@ Link das Redes:
 
 # **11 - Regras das Corridas: Leia com bastante atenção**
 
-11.1 - O campeonato será no modelo *F1* (Modelo que é proibido fechadas). Então as regras tenha atenção as regras relacionadas a este item descritas abaixo. Apesar da fechada estar proibida, a coleta e uso do dinheiro e a coleta e uso dos nitros a seguir não serão controladas neste campeonato. (Outros modelos de competição serão incluídos em campeonatos futuros).
+11.1 - O campeonato será no modelo *F1* (Modelo que é proibido fechadas). Então as regras tenha atenção as regras relacionadas a este item descritas abaixo. Apesar da fechada estar proibida, a coleta e uso do dinheiro e a coleta e uso dos nitros é livre e não serão controladas neste campeonato. (Outros modelos de competição serão incluídos em campeonatos futuros).
 
 11.3 - Considerando o campeonato no modelo F1, as regras abaixo serão adotadas e, então, se faz necessário que os jogadores novos prestem atenção à elas e, se necessário, a administração estará a disposição para realização de "VAR" das partidas e eventuais dúvidas.
 
