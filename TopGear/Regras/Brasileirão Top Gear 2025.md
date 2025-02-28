@@ -207,7 +207,7 @@
 
 7.3 - O grupo deve ser usado para os anúncios da administração, agendamento de partidas e assuntos relevantes ao campeonato, tais como informações de problemas com conexão, remarcação de partidas, encaminhamentos de links das lives e postagem de resultados.
 
-7.4 - Os jogadores podem mencionar seu oponente, marcando com @, para agendamento de sua partida. Essa menção poderá ser realizada quantas vezes o jogador quiser, mas para efeitos de regras de verificação para W.O., só será considerada uma menção a cada 48 horas. Após a terceira menção do oponente (144h), o jogador poderá reivindicar o W.O à administração, mas somente se não houver nenhuma resposta. Caso haja uma resposta, esse prazo é novamente reiniciado.
+7.4 - Os jogadores podem mencionar seu oponente, marcando com @, para agendamento de sua partida. Essa menção poderá ser realizada quantas vezes o jogador quiser, mas para efeitos de regras de verificação para W.O., só será considerada uma menção a cada 24 horas. Após a terceira menção do oponente (72h), o jogador poderá reivindicar o W.O à administração, mas somente se não houver nenhuma resposta. Caso haja uma resposta, esse prazo é novamente reiniciado.
 
 7.5 - Os participantes que não realizarem suas partidas ou agendamento delas nos prazos estabelecidos, através do grupo oficial do campeonato, receberão W.O.
 
