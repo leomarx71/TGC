@@ -136,14 +136,15 @@
 
 5.8.4 - 25% das rodadas, serão sorteadas 8 pistas no total, sendo 4 pistas rápidas sem pit stops + 4 pistas com pit stops. Carro Livre.
 
-5.8.5 - **ATENÇÃO** Já é de conhecimento da comunidade que no emulador ZSNES os carros mais rápidos, como o Vermelho e o Roxo, não completam a pista de stonehenge. Então, se no sorteio do conjunto cair esta pista, é **importante o piloto já deixar registrado como será a sua tentativa antes de jogar** e o piloto poderá escolher:
+5.8.5 - O carro é livre, porém uma vez escolhido para aquela pista não pode ser trocado. Se o piloto quiser trocar o carro, ele terá que jogar todas as pistas novamente.
+
+5.8.6 - **ATENÇÃO** Já é de conhecimento da comunidade que no emulador ZSNES os carros mais rápidos, como o Vermelho e o Roxo, não completam a pista de stonehenge. Então, se no sorteio do conjunto cair esta pista, o piloto poderá escolher:
   - Fazer a CPU empurar seu carro, sem combustível, até a linha de chegada e obter um tempo menor com o carro vermelho ou roxo antes da tela apagar.
   - Ou usar um outro carro que complete esta pista (Azul ou Branco).
-    - O piloto, por exemplo, correr 7 pistas com o vermelho e 1 com o Azul, ou Branco.
-    - Ou Jogar 4 com vermelho + 4 com o Azul
+    - O piloto, por exemplo, correr 7 pistas com o vermelho e stonehenge com o Azul ou Branco.
+    - Ou jogar 4 pistas com vermelho + 4 com o Azul
     - Ou jogar as 8 pistas com o Azul ou Branco.
-    - *Obs.: 1 - O importante aqui é jogar sequencial, terminar as 7 pistas e na mesma live já jogar com o outro carro. Se houver interrupções no vídeo, o tempo não será válido.
-    - *Obs.: 2 - Se o piloto tentar jogar com um carro rápido e não conseguir concluir, os demais tempos serão invalidados e terá que jogar todas as pistas novamente.
+    - **Obs.: O importante é jogar sequencial**, terminar as 7 pistas e na mesma live já jogar com o outro carro. Se houver interrupções no vídeo, o tempo não será válido.
 
 5.9 - Caso o piloto não poste o resultado com todos os detalhes até o final do prazo, a partida será considerada como desistência, e então ele receberá -1 ponto com punição pelo não envio (W.O).
 
