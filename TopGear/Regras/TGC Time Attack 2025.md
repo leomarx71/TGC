@@ -247,7 +247,9 @@
 
 9.4 - Proibido o uso do freio ou desaceleração total para parar carro na pista antes do combustível acabar;
 
-9.5 - **Em caso de Pane seca** ou **em caso de bug de escurecer a tela** antes do final da corrida, o piloto poderá voltar na mesma live o save state por mais 2 chances ou seguir normalmente nas pistas restantes e quando finalizar as demais pistas, encerrar o emulador, reabrir ele e refazer a somente a pista que deu pane novamente.
+9.5 - **Em caso de Pane seca** ou **em caso de bug de escurecer a tela** antes do final da corrida, o piloto poderá voltar na mesma live o save state por mais 2 chances ou então, encerrar o emulador, reabrir ele e refazer a somente a pista que deu problema novamente.
+
+9.5.1 - A menor posição aceita no final da pista também será o 3rd Lugar... pq todos devem largar em 20th ou no máximo em 18th, ou seja na última fila, assim não terá nenhuma vantagem de receber empurrão de BOT.
 
 9.6 - Caso seja sorteada a pista UK - Stonehenge, esta deverá ser corrida por último;
 
