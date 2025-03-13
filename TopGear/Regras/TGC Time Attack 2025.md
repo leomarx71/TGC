@@ -74,7 +74,7 @@
 
 4.1 - Após confirmação das inscrições, será realizado o sorteio das pistas, sendo liberado o primeiro grupo de pistas até 04/03/2025.
 
-4.2 - Se o torneio se iniciar com 20 participantes, o torneio terá duração de 20 rodadas, não ultrapassando o final do mês novembro de 2025.
+4.2 - O torneio terá duração de 20 rodadas, pra se realizar em 20 semanas, não ultrapassando o final do mês novembro de 2025.
 
 4.3 - Devido à concorrência de outros torneios, os prazos serão de 7 dias, iniciando-se na terça às 0h01 e finalizando na segunda-feira 23h59.
 
@@ -92,7 +92,7 @@
 
 5.3.1 - Dentro do prazo definido, o piloto pode tentar quantas vezes quiser melhorar o seu tempo, contanto que sempre jogue todas as 8 pistas de uma só vez. Não serão aceitos resultados parciais, somando duas tentativas distintas.
 
-5.4 - Os jogadores pontuarão de acordo com seu resultado em cada partida, semelhante ao jogo, conforme a relação a relação a seguir:
+5.4 - Os jogadores pontuarão de acordo com seu resultado em cada rodada, semelhante ao jogo, conforme a relação a relação a seguir:
 
 - 1° Melhor Tempo da Rodada = 20 pts.
 - 2° Melhor Tempo da Rodada = 15 pts.
@@ -104,22 +104,23 @@
 - 8° Melhor Tempo da Rodada = 3 pts.
 - 9° Melhor Tempo da Rodada = 2 pts.
 - 10° Melhor Tempo da Rodada = 1 pt.
+- 11° Tempo em diante = 0 pt.
 
 5.5 - Os jogadores deverão utilizar o site [Calculadora Online](https://datetimecalculator.net/add-time-calculator) para somar os seus tempos:
 
-5.6 - Ao preencher, o piloto deve somar os minutos, segundos e milissegundos, conforme o padrão do jogo:
+5.6 - Ao preencher, o piloto deve somar os minutos, segundos e milissegundos com 3 casas, adicionando um zero a direita, pois o padrão do jogo só fornece 2 casas.
 
 5.6.1 - Após inserir as 8 pistas, capturar o print da soma total e dos tempos individuais que deverá ser anexado como sua evidência no grupo do campeonato:
 
 ![](timeImage.png)
  
-5.7 - A classificação se dará pelo menor tempo nas rodadas e no maior número de pontos após todas as rodadas. Sendo:
+5.7 - A classificação se dará pelo menor tempo em cada rodada e no maior número de pontos após todas as rodadas. Sendo:
 
 5.7.1 - Em caso de empate de tempos dentro de uma rodada:
 
 - Ambos os pilotos receberão a mesma pontuação.
 
-5.7.2 - Em caso de empate no número de pontos da liga, o desempate seguirá a ordem:
+5.7.2 - Em caso de empate no número de pontos da classificação final, o desempate seguirá a ordem:
 
 - 1° Melhores posições conquistadas em todas as rodadas;
   - Exemplo: Um piloto que tenha conseguido 1 rodada em 1° lugar + 1 rodada em 4° terá 30 pts e será melhor classificado do que outro piloto que em 2 rodadas obteve o 2° lugar duas vezes e também terá 30 pontos.
@@ -134,25 +135,31 @@
 
 5.8.3 - 25% das rodadas, serão sorteadas 8 pistas no total, sendo 8 pistas com pit stops. Carro Livre.
 
-5.8.4 - 25% das rodadas, serão sorteadas 8 pistas no total, sendo 4 pistas rápidas sem pit stops + 4 pistas com pit stops. Carro Livre.
+5.8.4 - 25% das rodadas, serão sorteadas 8 pistas no total, com todas as 32 pistas juntas e que a sorte decida. Carro Livre.
 
 5.8.5 - O carro é livre, porém uma vez escolhido para aquela pista não pode ser trocado. Se o piloto quiser trocar o carro, ele terá que jogar todas as pistas novamente.
 
 5.8.6 - **ATENÇÃO** Já é de conhecimento da comunidade que no emulador ZSNES os carros mais rápidos, como o Vermelho e o Roxo, não completam a pista de stonehenge. Então, se no sorteio do conjunto cair esta pista, o piloto poderá escolher:
   - Fazer a CPU empurar seu carro, sem combustível, até a linha de chegada e obter um tempo menor com o carro vermelho ou roxo antes da tela apagar.
   - Ou usar um outro carro que complete esta pista (Azul ou Branco).
-    - O piloto, por exemplo, correr 7 pistas com o vermelho e stonehenge com o Azul ou Branco.
+    - O piloto, por exemplo, pode correr 7 pistas com o vermelho e stonehenge com o Azul ou Branco.
     - Ou jogar 4 pistas com vermelho + 4 com o Azul
     - Ou jogar as 8 pistas com o Azul ou Branco.
-    - **Obs.: O importante é jogar sequencial**, terminar as 7 pistas e na mesma live já jogar com o outro carro. Se houver interrupções no vídeo, o tempo não será válido.
+    - **Obs.: O importante é jogar na sequência do sorteio**
 
-5.9 - Caso o piloto não poste o resultado com todos os detalhes até o final do prazo, a partida será considerada como desistência, e então ele receberá -1 ponto com punição pelo não envio (W.O).
+5.8.7 - É Obrigatório ativar o relógio do emulador, para comprovar que não houve interrupções no vídeo. Se houver interrupções no vídeo, ou alguma ação que demonstre junção de tempos de outras tentativas, o tempo não será válido.
 
-5.10 - A tolerância de desistências de postagem do tempo obtido neste campeonato será no total de 20% do número total de rodadas. Exemplo, se houver 24 rodadas, o piloto poderá ter até 5 rodadas sem postar o seu tempo. Aquele que tiver mais de 5 será impedido de jogar o próximo campeonato.
+5.9 - Caso houver algum bug ou pane seca durante a partida, o piloto deverá voltar tudo do começo às 8 pistas.
 
-5.11 - Até o final do campeonato, será oportunizado ao piloto que apresente justificativas. Caso as justificativas sejam aceitas, a desistência não será contabilizada para efeitos de punição.
+5.10 - Não será permitido o uso de save state a cada pista. O jogador deve jogar direto sem interrupções todas as pistas que for jogar com o mesmo carro. O save/load state só será permitido quando o piloto for trocar de carro.
 
-5.12 - Apesar de o campeão do torneio não ter vaga na copa dos campeões da TGC, este torneio valerá pontuação para o mundial de pilotos de 2025 e assim para os 10 melhores será acrescida a pontuação a seguir:
+5.11 - Caso o piloto não poste o resultado com todos os detalhes até o final do prazo, a partida será considerada como desistência, e então ele receberá -1 ponto com punição pelo não envio (W.O).
+
+5.12 - A tolerância de desistências de postagem do tempo obtido neste campeonato será no total de 20% do número total de rodadas. Exemplo, se houver 20 rodadas, o piloto poderá ter até 4 rodadas sem postar o seu tempo. Aquele que tiver mais de 4 será impedido de jogar o próximo campeonato.
+
+5.13 - Até o final do campeonato, será oportunizado ao piloto que apresente justificativas. Caso as justificativas sejam aceitas, a desistência não será contabilizada para efeitos de punição.
+
+5.14 - Apesar de o campeão do torneio não ter vaga na copa dos campeões da TGC, este torneio valerá pontuação para o mundial de pilotos de 2025 e assim para os 10 melhores será acrescida a pontuação a seguir:
 
 - 1° Lugar = 21 pts.
 - 2° Lugar = 15 pts.
@@ -172,19 +179,15 @@
 
 6.2 - O jogador é responsável por postar no grupo do campeonato o resultado final da sua partida, juntamente com o vídeo, os tempos individuais e totais com o print do site calculadora ou do Live Split.
 
-6.3 - Caso houver algum bug durante a partida, o piloto pode tentar voltar o seu próprio save state do início da partida e tentar novamente.
+6.3 - A resolução ideal é em HD 1280x720 (720p), porém para aqueles que não tenham um computador que consiga gravar ou transmitir nessa resolução, a resolução mínima aceita será (SD) 854 x 480 (480p).
 
-6.4 - Caso o bug se repita mesmo com save state, o mesmo poderá seguir normalmente nas pistas restantes e, quando finalizar as demais pistas, encerrar o emulador, reabrir ele e refazer somente a pista que deu bug novamente.
+6.4 - A partida deve ser disponibilizada em uma rede social no formato de vídeo (Facebook, Youtube, Twitch, Google Drive, etc.) e que não expire até o final do campeonato.
 
-6.5 - A resolução ideal é em HD 1280x720 (720p), porém para aqueles que não tenham um computador que consiga gravar ou transmitir nessa resolução, a resolução mínima aceita será (SD) 854 x 480 (480p).
+6.5 - Não serão aceitas gravações em ZMV. E os pilotos que gravarem assim, deverão após o seu jogo converter posteriormente a partida em vídeo.
 
-6.6 - A partida deve ser disponibilizada em uma rede social no formato de vídeo (Facebook, Youtube, Twitch, Google Drive, etc.) e que não expire até o final do campeonato.
+6.6 - Não serão aceitas reclamações ou protocolos sobre falhas de hardware, por exemplo, quando o controle que desconecta o bluetooth ou acaba a bateria no meio da partida. Sendo de responsabilidade do piloto fazer essa validação antes da partida oficial. 
 
-6.7 - Não serão aceitas gravações em ZMV. E os pilotos que gravarem assim, deverão após o seu jogo converter posteriormente a partida em vídeo.
-
-6.8 - Não serão aceitas reclamações ou protocolos sobre falhas de hardware, por exemplo, quando o controle que desconecta o bluetooth ou acaba a bateria no meio da partida. Sendo de responsabilidade do piloto fazer essa validação antes da partida oficial. 
-
-6.9 - Caso esse tipo de problema aconteça, o mesmo poderá corrigir o problema e recarregar o save state do início da pista e seguir normalmente.
+6.7 - Caso esse tipo de problema aconteça, o mesmo poderá jogar tudo do início novamente.
 
 # **7 - Comunicação:** #
 
@@ -247,9 +250,7 @@
 
 9.4 - Proibido o uso do freio ou desaceleração total para parar carro na pista antes do combustível acabar;
 
-9.5 - **Em caso de Pane seca** ou **em caso de bug de escurecer a tela** antes do final da corrida, o piloto poderá voltar na mesma live o save state por mais 2 chances ou então, encerrar o emulador, reabrir ele e refazer a somente a pista que deu problema novamente.
-
-9.5.1 - A menor posição aceita no final da pista também será o 3rd Lugar... pq todos devem largar em 20th ou no máximo em 18th, ou seja na última fila, assim não terá nenhuma vantagem de receber empurrão de BOT.
+9.5 - A menor posição aceita no final da pista também será o 3rd Lugar, porque todos devem largar em 20th ou no máximo em 18th na próxima pista, ou seja na última fila, assim não terá nenhuma vantagem de receber empurrão de BOT.
 
 9.6 - Caso seja sorteada a pista UK - Stonehenge, esta deverá ser corrida por último;
 
