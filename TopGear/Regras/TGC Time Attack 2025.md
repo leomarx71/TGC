@@ -153,6 +153,8 @@
 
 5.10 - Não será permitido o uso de save state a cada pista. O jogador deve jogar direto sem interrupções todas as pistas que for jogar com o mesmo carro. O save/load state só será permitido quando o piloto for trocar de carro.
 
+5.10.1 - O Load state de troca de carro deve voltar o jogo no menu, onde piloto deve comprovar a seleção da dificuldade em "Championship"
+
 5.11 - Caso o piloto não poste o resultado com todos os detalhes até o final do prazo, a partida será considerada como desistência, e então ele receberá -1 ponto com punição pelo não envio (W.O).
 
 5.12 - A tolerância de desistências de postagem do tempo obtido neste campeonato será no total de 20% do número total de rodadas. Exemplo, se houver 20 rodadas, o piloto poderá ter até 4 rodadas sem postar o seu tempo. Aquele que tiver mais de 4 será impedido de jogar o próximo campeonato.
