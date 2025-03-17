@@ -15,63 +15,55 @@
   Regra do La Liga XIV para embasamento: **5.5 - A tolerância de W.O's neste campeonato será no total de 3 partidas na fase de grupos se houver 4 ou mais partidas o piloto será impedido de participar do próximo campeonato La Liga. No prazo de 72h após a aplicação do w.o., será oportunizado ao piloto que apresente justificativas, caso as justificativas sejam aceitas, o w.o. não será contabilizado para efeitos de punição.**
 
   - Irvin Delgado (Irvin1988)
-  - Óscar Cárdenas (Gokú)
   - Frank Piero (Frank Gear)
-  - Marlon Reis (Lonsoldier)
   - Edison Silva (Senninkage)
   - Roney Leão (Nero)
   - Não poderão participar do La Liga XV. Em razão do excesso de W.O. no La Liga XIV e como punição ficarão uma edição sem poder participar, podendo voltar no La Liga XVI na Divisão Bronze.
   - Luís Cárdenas (L.A.O.M.) Poderá solicitar regressar na Liga Prata, pois este comprovadamente teve de fato um motivo médico de força maior que impediu sua participação.
+  - Óscar Cárdenas (Gokú) Poderá solicitar regressar na Liga Prata, pois este comprovadamente teve de fato um motivo médico de força maior que impediu sua participação.
 
   **Pré-inscritos, conforme resultados da edição anterior e as punições mencionadas acima:**
   
   1.4.1 Série Ouro - Pilotos que participaram do La Liga XIV e que devem manifestar o interesse em participar do La Liga XV:
 
-   - 1 - Rob Jax (Robson Meireles)
-   - 2 - ChitaMX (Aléxis Sánchez)
-   - 3 - Rafael Diablo (Rafael Lopes)
-   - 4 - LeNN Miner (Lenno Coelho)
-   - 5 - Sr. Filho (Jurandir Filho)
-   - 6 - Gokú (Oscar Cardenhas)
-   - 7 - AriJunino (Ari Júnior) ~LAOM (Luís Cardenas)~
-   - 8 - The Mister (Roberto Vasquez) - 2° Prata
-   - 9 - Leomarx Games (Leonardo Marques) - 3° Prata
-   - 10 - Luciano (Luciano Alves) - 4° Prata
+   - Rob Jax (Robson Meireles)
+   - ChitaMX (Aléxis Sánchez)
+   - Rafael Diablo (Rafael Lopes)
+   - LeNN Miner (Lenno Coelho)
+   - Sr. Filho (Jurandir Filho)
+   - Leomarx Games (Leonardo Marques)
+   - Luciano (Luciano Alves)
+   - Jhonny (Jhonny Mota) - 1° Prata
+   - Paulo Fox (Paulo Muniz) - 2° Prata
+   - RonalDan (Ronald Daniel) - 3° Bronze
      
 
   1.5 Série Prata - Pilotos que participaram do La Liga XIV e que devem manifestar o interesse em participar do La Liga XV:
-
-   - Irvin1988 (Irvin Delgado) ~AriJunino (Ari Júnior) - 1° Melhor Rebaixado~
-   - Pegasus (Edimar Caetano) - 5° Prata
-   - Killua Zorldic (Lucas Souza) - 2° Melhor Rebaixado
-   - Paulo Fox (Paulo Muniz) - 6° Prata
-   - JavierVZLA (Javier Dixon) - 7° Prata
-   - Jhonny (Jhonny Mota) - 1° Bronze
-   - RonalDan (Ronald Daniel) - 2° Bronze
-   - Jack Maloi (Alison Paulo) - 3° Bronze
-   - Br's Brisantt (Brisantt) - 4° Bronze
-   - MMM (Marcel Santana) - 1° Melhor Rebaixado
+     
+   - Pegasus (Edimar Caetano) - 4° Prata
+   - The Mister (Roberto Vasquez) - 1° Melhor Rebaixado
+   - JavierVZLA (Javier Dixon) - 5° Prata
+   - AriJunino (Ari Júnior) - 2° Melhor Rebaixado
+   - MMM (Marcel Santana) - 6° Prata
+   - Gokú (Oscar Cardenhas) - 3° Melhor Rebaixado
+   - Luís Cárdenas (L.A.O.M.) - 4° Melhor Rebaixado
+   - Jack Maloi (Alison Paulo) - 7° Prata
+   - HD Gamer (Edwin Hyrula) - 1° Bronze
+   - Camus Kshrc (Marlon Fernandes) - 2° Bronze
+   - Carlos CRX (Carlos Rubens) - 3° Bronze
 
   1.6 Série Bronze - Competidores que participaram do La Liga XIV e novos membros que desejarem se inscrever no La Liga XV, conforme a sequência:
 
-   - Lonsoldier (Marlon Reis) - 2° Melhor Rebaixado
-   - HD Gamer (Edwin Hyrula) - 3° Melhor Rebaixado
-   - Paomarc (Paolo Paredes) - 7° Bronze
-   - Senninkage (Edison Silva) - 8° Bronze
-   - Samuel (Samuel Barros)
-   - Nero (Roney Leão)
-   - FrankGear (Frank Piero)
-   - Policarpo (Anderson Policarpo)
-   - Suprem Peruvian (Albert Matos)
-   - Camus Kshrc (Marlon Fernandes)
-   - Carlos CRX (Carlos Rubens) - Protocolo
-   - JackPocker40 (Petter Bruno) - Protocolo
-   - ~Yoshimtzu (Rudi Porto)~
-   - ~Rannid (Fabrício Golçalves)~
-   - ~Schumacher (Martins Swantaiger) - 6° Bronze~
-   - ~UaiLay (Laynara Souza)~
-   - ~Alaric (Emerson Eidan Enderson)~
-   - ~Rannid (Fabrício Golçalves)~ 
+   - Suprem Peruvian (Albert Matos) - 4° Bronze
+   - Killua Zorldic (Lucas Souza) - 1° Melhor Rebaixado
+   - Paomarc (Paolo Paredes) - 5° Bronze
+   - Br's Brisantt (Brisantt) - 2° Melhor Rebaixado
+   - Policarpo (Anderson Policarpo) - 6° Bronze
+   - JackPocker40 (Petter Bruno) - 7° Bronze
+   - Schumacher (Martins Swantaiger) - 8° Bronze
+   - Barros (Samuel Barros) - 9° Bronze
+   - Yoshimtzu (Rudi Porto)
+   - Novo competidor
    - Novo competidor
    - Novo competidor
   
