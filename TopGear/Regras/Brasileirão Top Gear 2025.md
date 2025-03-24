@@ -173,7 +173,7 @@
 
 5.7 - A partir de 50% da partida realizada, o piloto pode avisar ao oponente que deseja parar e admitir a derrota. Assim, o adversário leva os 20 pontos de cada pista restante e o desistente fica com zero pontos nas mesmas. Para este caso, a partida não será considerada w.o e não haverá sansões.
 
-5.8 - A tolerância de W.O's neste campeonato será no total de 20% do número total de rodadas. Exemplo, se houver 46 rodadas, o piloto poderá ter até 9 rodadas com W.O. Aquele que tiver mais de 9 W.O.'s será impedido de jogar o próximo campeonato Brasileiro da Leomarx e um da TGC.
+5.8 - A tolerância de W.O's neste campeonato será no total de 20% do número total de rodadas. Exemplo, se houver 38 rodadas, o piloto poderá ter até 8 rodadas com W.O. Aquele que tiver mais de 9 W.O.'s será impedido de jogar o próximo campeonato Brasileiro da Leomarx e um da TGC.
 
 5.11 - Até o final do campeonato, será oportunizado ao piloto que apresente justificativas. Caso as justificativas sejam aceitas, o W.O. não será contabilizado para efeitos de punição.
 
@@ -258,33 +258,35 @@ Exemplo de postagem de resultado:
 
 # **9 - Regras Gerais:** #
 
-9.1 - Clique aqui para ler a base das Regras Gerais link (https://www.facebook.com/groups/topgearchampionships/permalink/3391700757764527);
+9.1 - Clique aqui para ler a base das Regras Gerais, link (https://www.facebook.com/groups/topgearchampionships/permalink/3391700757764527).
 
-9.2 - Proibido o bug de bater no poste para ganhar duas posições;
+9.2 - Proibido o bug de bater no poste para ganhar duas posições.
 
-9.3 - Proibido o uso do freio em curvas para derrapagem, devido ao bug de não reduzir a velocidade, ser exclusivo para o P1;
+9.3 - Proibido o uso do freio em curvas para derrapagem, devido ao bug de não reduzir a velocidade, ser exclusivo para o P1.
 
-9.4 - Proibido o uso do freio para prejudicar o adversário de maneira proposital e desleal;
+9.4 - Proibido o uso do freio para prejudicar o adversário de maneira proposital e desleal.
 
-9.5 - Proibido o uso do freio ou desaceleração total para parar o carro na pista antes do combustível acabar;
+9.5 - Proibido o uso do freio ou desaceleração total para parar o carro na pista antes do combustível acabar.
 
-9.6 - **Em caso de pane seca para ambos** os jogadores em pistas de 3 voltas como Rain Forest, Cologne, Paris, Monaco, Pisa, poderá ser atribuída a pontuação da posição final dos jogadores ao se escurecer completamente a tela. 
+9.6 - **Em caso de panes secas ou bugs (exceto Stonehenge):**
 
-9.6.1 - Se ao menos um dos pilotos cruzar a linha e o outro não. Neste caso, a posição final não será ajustada.
+9.6.1 - **Pane seca dupla.** As pontuações serão atribuídas conforme as posições finais dos jogadores imediatamente quando a tela escurecer após o "Out Of Fuel" e só valerão, por exemplo, +20 +15, para as pistas sem pit stop determinadas = Rain Forest, Cologne, Paris, Monaco, Pisa, Sicily. Em outras não listadas, serão 0 pontos para ambos.
 
-9.6.2 - Caso um dos jogadores informe que tem o save state da pista onde aconteceu a pane, estes deverão correr a pista novamente através do save.
+9.6.2 - **Pane seca unilateral.** Se ao menos um dos pilotos cruzar a linha e o outro não. Neste caso, apenas o piloto que cruzou a linha de chegada irá pontuar. Esta regra vale para todas as pistas.
 
-9.6.3 - Caso não se tenha o save, os pilotos deverão jogar normalmente a próxima pista e ao final notificar os ADMs do problema para somar os pontos.
+9.6.3 - **Bug duplo.** As pontuações serão atribuídas conforme as posições finais dos jogadores imediatamente quando a tela escurecer após o "Out Of Fuel" e só valerão, por exemplo, +20 +15, se o bug ocorrer após a entrada de pelo menos um dos pilotos no pits stop. Sendo assim, também, essa regra só valerá para as pistas com pit stop determinadas = Tokyo, Nice, Bordeaux, Roma e Londres. Se o bug ocorrer e nenhum piloto estiver entrando no pit e a tela escurecer antes, então serão 0 pontos para ambos.
 
-9.7 - **Em caso de bug de escurecer a tela em pistas com pit stop** quando ambos entram juntos, ou quando um termina a pista, mas foi visível que o outro chegaria, em pistas como Tokyo, Bourdeaux, Roma, entre outras, a pontuação final poderá ser ajustada e os pilotos deverão jogar normalmente a próxima pista e ao final notificar os ADMs do problema para somar os pontos.
+9.6.4 - **Bug unilateral.** Vale para qualquer pista, exceto stonehenge. A pontuação de um dos pilotos poderá ser ajustada ao final da partida, adicionando a pontuação da sua provável posição de chegada antes de escurecer a tela. Normalmente, este bug ocorre quando um dos pilotos já tenha terminado a pista e o outro bem distante, mas que ainda, sim, chegaria. Caso os pilotos tenham dúvidas de qual valor adicionar, podem solicitar revisão VAR para a ADM.
 
-9.8 - Caso a pista de UK - Stonehenge seja sorteada:
+9.7 - **Caso a pista de UK - Stonehenge seja sorteada:**
 
-9.8.1 - Esta pista deverá ser corrida por último;
+9.7.1 - Esta pista deverá ser corrida por último;
 
-9.8.2 - As pontuações serão atribuídas de acordo com as posições finais dos jogadores imediatamente quando a tela escurecer após o "Out Of Fuel";
+9.7.2 - As pontuações serão atribuídas conforme as posições finais dos jogadores imediatamente quando a tela escurecer após o "Out Of Fuel" independente do carro utilizado.
 
-9.8.3 - Porém, se um dos jogadores completar a pista de UK - Stonehenge, aquele que não completar não receberá nenhuma pontuação atribuída.
+9.7.3 - Porém, se um dos jogadores completar a pista de UK - Stonehenge, aquele que não completar não receberá nenhuma pontuação.
+
+9.8 - Em caso de alguma situação diferente das listadas, os pilotos devem/podem solicitar revisão VAR para a ADM.
 
 9.9 - Caso alguma Regra Geral esteja divergente de alguma regra estabelecida aqui neste post, vale a regra deste documento para o campeonato.
 
