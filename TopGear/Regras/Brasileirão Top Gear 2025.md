@@ -270,13 +270,11 @@ Exemplo de postagem de resultado:
 
 9.6 - **Em caso de panes secas ou bugs (exceto Stonehenge):**
 
-9.6.1 - **Pane seca dupla.** As pontuações serão atribuídas conforme as posições finais dos jogadores imediatamente quando a tela escurecer após o "Out Of Fuel" e só valerão, por exemplo, +20 +15, para as pistas sem pit stop determinadas = Rain Forest, Cologne, Paris, Monaco, Pisa, Sicily. Em outras não listadas, serão 0 pontos para ambos.
+9.6.1 - **Pane seca unilateral.** Se ao menos um dos pilotos cruzar a linha e o outro não. Neste caso, apenas o piloto que cruzou a linha de chegada irá pontuar. Esta regra vale para todas as pistas.
 
-9.6.2 - **Pane seca unilateral.** Se ao menos um dos pilotos cruzar a linha e o outro não. Neste caso, apenas o piloto que cruzou a linha de chegada irá pontuar. Esta regra vale para todas as pistas.
+9.6.2 - **Bug duplo.** As pontuações serão atribuídas conforme as posições finais dos jogadores imediatamente quando a tela escurecer após o "Out Of Fuel" e só valerão, por exemplo, +20 +15, se o bug ocorrer após a entrada de pelo menos um dos pilotos no pits stop. Sendo assim, também, essa regra só valerá para as pistas com pit stop determinadas = Tokyo, Nice, Bordeaux, Roma e Londres. Se o bug ocorrer e nenhum piloto estiver entrando no pit e a tela escurecer antes, então serão 0 pontos para ambos.
 
-9.6.3 - **Bug duplo.** As pontuações serão atribuídas conforme as posições finais dos jogadores imediatamente quando a tela escurecer após o "Out Of Fuel" e só valerão, por exemplo, +20 +15, se o bug ocorrer após a entrada de pelo menos um dos pilotos no pits stop. Sendo assim, também, essa regra só valerá para as pistas com pit stop determinadas = Tokyo, Nice, Bordeaux, Roma e Londres. Se o bug ocorrer e nenhum piloto estiver entrando no pit e a tela escurecer antes, então serão 0 pontos para ambos.
-
-9.6.4 - **Bug unilateral.** Vale para qualquer pista, exceto stonehenge. A pontuação de um dos pilotos poderá ser ajustada ao final da partida, adicionando a pontuação da sua provável posição de chegada antes de escurecer a tela. Normalmente, este bug ocorre quando um dos pilotos já tenha terminado a pista e o outro bem distante, mas que ainda, sim, chegaria. Caso os pilotos tenham dúvidas de qual valor adicionar, podem solicitar revisão VAR para a ADM.
+9.6.3 - **Bug unilateral.** Vale para qualquer pista, exceto stonehenge. A pontuação de um dos pilotos poderá ser ajustada ao final da partida, adicionando a pontuação da sua provável posição de chegada antes de escurecer a tela. Normalmente, este bug ocorre quando um dos pilotos já tenha terminado a pista e o outro bem distante, mas que ainda, sim, chegaria. Caso os pilotos tenham dúvidas de qual valor adicionar, podem solicitar revisão VAR para a ADM.
 
 9.7 - **Caso a pista de UK - Stonehenge seja sorteada:**
 
