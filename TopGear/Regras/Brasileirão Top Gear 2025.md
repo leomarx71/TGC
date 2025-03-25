@@ -280,9 +280,7 @@ Exemplo de postagem de resultado:
 
 9.7.1 - Esta pista deverá ser corrida por último;
 
-9.7.2 - As pontuações serão atribuídas conforme as posições finais dos jogadores imediatamente quando a tela escurecer após o "Out Of Fuel" independente do carro utilizado.
-
-9.7.3 - Porém, se um dos jogadores completar a pista de UK - Stonehenge, aquele que não completar não receberá nenhuma pontuação.
+9.7.2 - As pontuações serão atribuídas conforme as posições finais dos jogadores imediatamente quando a tela escurecer após o "Out Of Fuel" e, somente, se no confronto os dois pilotos estiverem usando os carros Vermelho e/ou Roxo, caso um dos pilotos estiver usando o carro Azul ou Branco na disputa. Aquele que não cruzar a linha de chegada não irá receber nenhuma pontuação.
 
 9.8 - Em caso de alguma situação diferente das listadas, os pilotos devem/podem solicitar revisão VAR para a ADM.
 
