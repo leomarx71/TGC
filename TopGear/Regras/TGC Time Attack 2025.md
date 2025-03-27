@@ -137,23 +137,21 @@
 
 5.8.4 - 25% das rodadas, serão sorteadas 8 pistas no total, com todas as 32 pistas juntas e que a sorte decida. Carro Livre.
 
-5.8.5 - O carro é livre, porém uma vez escolhido para aquela pista não pode ser trocado. Se o piloto quiser trocar o carro, ele terá que jogar todas as pistas novamente.
+5.8.5 - O carro é livre.
 
 5.8.6 - **ATENÇÃO** Já é de conhecimento da comunidade que no emulador ZSNES os carros mais rápidos, como o Vermelho e o Roxo, não completam a pista de stonehenge. Então, se no sorteio do conjunto cair esta pista, o piloto poderá escolher:
   - Fazer a CPU empurar seu carro, sem combustível, até a linha de chegada e obter um tempo menor com o carro vermelho ou roxo antes da tela apagar.
   - Ou usar um outro carro que complete esta pista (Azul ou Branco).
     - O piloto, por exemplo, pode correr 7 pistas com o vermelho e stonehenge com o Azul ou Branco.
-    - Ou jogar 4 pistas com vermelho + 4 com o Azul
-    - Ou jogar as 8 pistas com o Azul ou Branco.
     - **Obs.: O importante é jogar na sequência do sorteio**
 
 5.8.7 - É Obrigatório ativar o relógio do emulador, para comprovar que não houve interrupções no vídeo. Se houver interrupções no vídeo, ou alguma ação que demonstre junção de tempos de outras tentativas, o tempo não será válido.
 
 5.9 - Caso houver algum bug ou pane seca durante a partida, o piloto deverá voltar tudo do começo às 8 pistas.
 
-5.10 - Não será permitido o uso de save state a cada pista. O jogador deve jogar direto sem interrupções todas as pistas que for jogar com o mesmo carro. O save/load state só será permitido quando o piloto for trocar de carro.
+5.10 - Não será permitido o uso de save state. O jogador deve jogar direto sem interrupções todas as pistas que for jogar com o mesmo carro. 
 
-5.10.1 - O Load state de troca de carro deve voltar o jogo no menu, onde piloto deve comprovar a seleção da dificuldade em "Championship"
+5.10.1 - Ao trocar de carro o piloto deve reiniciar a ROM e selecionar todas as pistas que for jogar com o mesmo carro e não esquecer de comprovar a seleção da dificuldade em "Championship"
 
 5.11 - Caso o piloto não poste o resultado com todos os detalhes até o final do prazo, a partida será considerada como desistência, e então ele receberá -1 ponto com punição pelo não envio (W.O).
 
