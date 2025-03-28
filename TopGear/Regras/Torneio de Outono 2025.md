@@ -86,13 +86,13 @@
 
 4.3. Fase de grupo: de 03/01 às 23:59 do dia 20/04;
 
-4.4. Oitavas de Final: de 20/04 às 23:59 do dia 27/01;
+4.4. Oitavas de Final: de 21/04 às 23:59 do dia 27/01;
 
-4.5. Quartas de Final: de 27/04 às 23:59 do dia 04/05;
+4.5. Quartas de Final: de 28/04 às 23:59 do dia 04/05;
 
-4.6. Semifinal: de 04/05 às 23:59 do dia 11/05;
+4.6. Semifinal: de 05/05 às 23:59 do dia 11/05;
 
-4.7. Final de Disputa de 3º Lugar: de 11/05 às 23:59 do dia 18/05.
+4.7. Final de Disputa de 3º Lugar: de 12/05 às 23:59 do dia 18/05.
 
 4.8 **Observação:** As rodadas podem ter o prazo estendido ou reduzido, caso a administração julgue necessário.
 
@@ -127,7 +127,7 @@
 
 5.6. Serão sorteados 2 paises para cada rodada na fase de grupos, não se repetindo nenhum país para as quatro primeiras rodadas e não se repetindo a mesma dupla de países quando houverem mais rodadas.
 
-5.7. Nas fases mata-mata, serão sorteados 2 países para as oitavas, 3 países para as quartas e semifinais.
+5.7. Nas fases mata-mata, serão sorteados 3 países para as oitavas, quartas e semifinais.
 
 5.8. Na final e disputa de 3º, serão sorteados 4 países para a disputa.
 
