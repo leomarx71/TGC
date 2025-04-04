@@ -122,8 +122,9 @@
 
 5.5. Não há limite para a quantidade de participantes e serão classificados para a fase final a quantidade de jogadores a seguir, dependendo da quantidade de inscritos:
 
-- Inscritos: até 18. Classificados: 8;
-- Inscritos: 19 ou mais. Classificados: 16;
+- Inscritos: até 16. Classificados: 8;
+- Inscritos: até 21. Classificados: 12;
+- Inscritos: 22 ou mais. Classificados: 16;
 
 5.6. Serão sorteados 2 paises para cada rodada na fase de grupos, não se repetindo nenhum país para as quatro primeiras rodadas e não se repetindo a mesma dupla de países quando houverem mais rodadas.
 
