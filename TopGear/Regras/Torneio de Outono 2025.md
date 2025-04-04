@@ -84,15 +84,15 @@
 
 4.2. Após confirmação das inscrições, será realizado o sorteio dos grupos e países, sendo liberada a Fase de Grupos;
 
-4.3. Fase de grupo: de 03/01 às 23:59 do dia 20/04;
+4.3. Fase de grupo: de 03/04 às 23:59 do dia 18/04;
 
-4.4. Oitavas de Final: de 21/04 às 23:59 do dia 27/01;
+4.4. Oitavas de Final: de 19/04 às 23:59 do dia 26/04;
 
-4.5. Quartas de Final: de 28/04 às 23:59 do dia 04/05;
+4.5. Quartas de Final: de 27/04 às 23:59 do dia 03/05;
 
-4.6. Semifinal: de 05/05 às 23:59 do dia 11/05;
+4.6. Semifinal: de 04/05 às 23:59 do dia 10/05;
 
-4.7. Final de Disputa de 3º Lugar: de 12/05 às 23:59 do dia 18/05.
+4.7. Final de Disputa de 3º Lugar: de 11/05 às 23:59 do dia 18/05.
 
 4.8 **Observação:** As rodadas podem ter o prazo estendido ou reduzido, caso a administração julgue necessário.
 
