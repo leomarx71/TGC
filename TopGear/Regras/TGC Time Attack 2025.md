@@ -149,7 +149,7 @@
 
 5.9 - Caso houver algum bug ou pane seca durante a partida, o piloto deverá voltar tudo do começo às 8 pistas.
 
-5.10 - Não será permitido o uso de save state. O jogador deve jogar direto sem interrupções todas as pistas que for jogar com o mesmo carro. 
+5.10 - Não será permitido o uso de save/load state no meio da partida. O jogador deve jogar direto sem interrupções todas as pistas que for jogar com o mesmo carro. O jogador poderá apenas fazer um save state da configuração inicial com seu nome dificuldade e a seleção das pistas
 
 5.10.1 - Ao trocar de carro o piloto deve reiniciar a ROM e selecionar todas as pistas que for jogar com o mesmo carro e não esquecer de comprovar a seleção da dificuldade em "Championship"
 
@@ -269,7 +269,7 @@
 10.5 - Procedimento para início da partida:
 
 - Selecione 1 Jogador;
-- Digitar seu nome desejado;
+- Digitar seu nome se desejar;
 - Selecione o Cambio, Controle e Carro;
 - Selecione a Dificuldade: Championships;
 - Para selecionar as pistas na Rom Top Gear TGC Rom (E) [!], o jogador que estiver com o controle P1, deverá seguir o Manual de instruções da ROM:
