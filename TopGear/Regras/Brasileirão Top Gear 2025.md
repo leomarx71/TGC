@@ -163,13 +163,13 @@
 
 5.6 - Os sorteios serão divididos em quatro partes:
 
-5.6.1 - 25% das rodadas - serão sorteadas 12 pistas no total, sendo 8 pistas, 1 de cada país, + 4 de outras aleatórias que contenham pit stops. Haverá sorteio com a proibição de 1 dos 4 carros.
+5.6.1 - 25% das rodadas - serão sorteadas 12 pistas aleatórias no total. Haverá sorteio com a proibição de 1 dos 4 carros.
 
-5.6.2 - 25% das rodadas - serão sorteadas 12 pistas no total, sendo 7 pistas com pit e outras 5 sem pit stops. Haverá sorteio com a proibição de 1 dos 3 carros que ainda não foram proibidos.
+5.6.2 - 25% das rodadas - serão sorteadas 12 pistas aleatórias no total. Haverá sorteio com a proibição de 1 dos 3 carros que ainda não foram proibidos.
 
-5.6.3 - 25% das rodadas - serão sorteados 12 pistas no total, sendo 7 pistas com pit + 4 pistas sem pit + stonehenge. Haverá sorteio com a proibição de 1 dos 2 carros que ainda não foram proibidos.
+5.6.3 - 25% das rodadas - serão sorteadas 12 pistas aleatórias no total. Haverá sorteio com a proibição de 1 dos 2 carros que ainda não foram proibidos.
 
-5.6.4 - 25% das rodadas - serão sorteados 12 pistas no total, sendo 11 pistas aleatórias + stonehenge. Haverá a proibição do carro remanescente que ainda não tinha sido proibido.
+5.6.4 - 25% das rodadas - serão sorteadas 12 pistas aleatórias no total. Haverá a proibição do carro remanescente que ainda não tinha sido proibido.
 
 5.7 - A partir de 50% da partida realizada, o piloto pode avisar ao oponente que deseja parar e admitir a derrota. Assim, o adversário leva os 20 pontos de cada pista restante e o desistente fica com zero pontos nas mesmas. Para este caso, a partida não será considerada w.o e não haverá sansões.
 
@@ -198,6 +198,8 @@
 6.8 - Não serão aceitas reclamações ou protocolos sobre falhas de hardware, por exemplo, quando o controle desconecta o bluetooth ou acaba a bateria no meio da partida. Sendo de responsabilidade do piloto fazer essa validação antes da partida oficial.
 
 6.8.1 - Caso esse tipo de problema aconteça, a orientação é que o confronto deverá ser reiniciado a partir da pista seguinte. Ambos poderão refazer o jogo a partir da pista onde ocorreu o problema, somente se o piloto que não teve problemas assim desejar.
+
+6.8.2 - Caso houver a utilização do carro proibido, o piloto que assim o fizer terá seus pontos zerados. o outro piloto levará a pontuação máxima da partida. Caso ambos utilizem o carro proibido W.O. duplo.
 
 # **7 - Comunicação:** #
 
