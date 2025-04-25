@@ -296,22 +296,69 @@ Link das Redes:
 
 10.12 - Abaixo tem a imagem dos Passwords que devem ser inseridos pelo P1 e que entra no país inicial a ser jogado. Este código já inicia o jogo com todos os upgrades de proteção no máximo e com uma quantidade de dinheiro inicial de uso livre, **porém tenha atenção ao sorteio do equipamento proibido e/ou equipamento obrigatório.**
 
-![](Password01.jpg)
-![](Password02.jpg)
-![](Password03.jpg)
-![](Password04.jpg)
-![](Password05.jpg)
-![](Password06.jpg)
-![](Password07.jpg)
-![](Password08.jpg)
-![](Password09.jpg)
-![](Password10.jpg)
-![](Password11.jpg)
-![](Password12.jpg)
-![](Password13.jpg)
-![](Password14.jpg)
-![](Password15.jpg)
-![](Password16.jpg)
+01 - Australasia
+
+![](../Passwords/Password01.jpg)
+
+02 - Britain
+
+![](../Passwords/Password02.jpg)
+
+03 - Canada
+
+![](../Passwords/Password03.jpg)
+
+04 - Egypt
+
+![](../Passwords/Password04.jpg)
+
+05 - France
+
+![](../Passwords/Password05.jpg)
+
+06 - Germany
+
+![](../Passwords/Password06.jpg)
+
+07 - Greece
+
+![](../Passwords/Password07.jpg)
+
+08 - India
+
+![](../Passwords/Password08.jpg)
+
+09 - Ireland
+
+![](../Passwords/Password09.jpg)
+
+10 - Italy
+
+![](../Passwords/Password10.jpg)
+
+11 - Japan
+
+![](../Passwords/Password11.jpg)
+
+12 - Scandinavia
+
+![](../Passwords/Password12.jpg)
+
+13 - South America
+
+![](../Passwords/Password13.jpg)
+
+14 - Spain
+
+![](../Passwords/Password14.jpg)
+
+15 - Switzerland
+
+![](../Passwords/Password15.jpg)
+
+16 - United States
+
+![](../Passwords/Password16.jpg)
 
 # **Sugestão de compra de Upgrades x Países - Top Gear 2** #
 
