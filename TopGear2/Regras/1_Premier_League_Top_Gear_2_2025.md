@@ -20,7 +20,7 @@ CONFIRME SUA INSCRIÇÃO UTILIZANDO O MODELO ABAIXO:
     Confirmo que instalei os items obrigatórios listados no regra n°3 para participar (Null DC Bear + Radmin e/ou Hamachi e Fightcade 2)
     Declaração: Declaro que estou ciente das regras e dos itens obrigatórios aqui estabelecidos e poderei ser eliminado do campeonato em caso de descumprimento: ( X ) SIM (   ) NÃO. (a inscrição só será efetivada caso o participante marque a opção SIM)
 
-1.4 - Logo de seguida deverá ingressar no grupo de WhatsApp do Campeonato pelo [Link](https://chat.whatsapp.com/Gl1GouMRTe9IYJM8f1dR6z) e se apresentar com o seu Nome Real + Apelido/NickName
+1.4 - Logo de seguida deverá ingressar no grupo de WhatsApp do Campeonato pelo [Link](https://chat.whatsapp.com/FV79dsnII0A1WnPAJ5Vyhg) e se apresentar com o seu Nome Real + Apelido/NickName
 
 # **2 - Validação e Verificação de Perfil dos Inscritos:** #
 
@@ -55,7 +55,7 @@ CONFIRME SUA INSCRIÇÃO UTILIZANDO O MODELO ABAIXO:
 
 # **4 - Cronograma (Previsão):** #
 
-4.1 - As inscrições serão aceitas até as 21h de 28/02/2024 até às 20h00 do dia 12/06/2024;
+4.1 - As inscrições serão aceitas até as 21h de 28/04/2024;
 
 4.2 - Após confirmação das inscrições, será realizado o sorteio dos países e a Fase de Grupos terá prazo de até 14 dias;
 
