@@ -4,23 +4,52 @@
 
 # **LEIA TODAS AS REGRAS COM BASTANTE ATENÇÃO!!!** #
 
-# **1 - Inscrições:** #
+# **1 - Eligibilidade às Incrições:** #
 
-1.1 - O novo modelo de inscrições de campeonatos da Leomarx Games terá sempre uma pré-lista de inscritos já validados e ativos conforme os participantes dos campeonatos recentes.
+1.1 - As inscrições deste campeonato terão como base uma pré-lista de inscritos já **validados** na comunidade TGC, conforme os participantes dos campeonatos recentes - Conforme Lista a seguir:
 
-1.2 - Aqueles pré-inscritos que não tiverem a disponibilidade de jogar poderão sair do grupo do WhatsApp criado a qualquer momento durante o período de inscrições.
+- Albert Matos (Suprem Peruvian) 
+- Aléxis Sánchez (ChitaMX)
+- Alison Paulo (Jack Maloi)
+- Amélio Belchior (Amélio) 
+- Anderson Policarpo (Policarpo) 
+- Ari Júnior (Arijunino)
+- Carlos José (Carlos CJX) 
+- Carlos Rubens (Carlos CRX)
+- Brisantt (BR Brissant) 
+- Edimar Caetano (Pegasus PSX)
+- Edwin Huaylla (HD Wins)
+- Felipe Costa (Dark FPC) 
+- Javier Portillo (Javier VZLA)
+- Jhonny Mota (Jhonny)
+- Jurandir Filho (Sr. Filho)
+- Laynara Souza (UaiLay) 
+- Lenno Coelho (LeNN Miner)
+- Leonardo Andrade (Leomarx Games)
+- Luciano Alves (Luciano Bora Zerar)
+- Luís Cárdenas (Luís L.A.O.M.) 
+- Marcel Santana (MMM) 
+- Marlon Fernandes (Camus Kshrc) 
+- Martins Pazos (Schumacher) 
+- Óscar Cárdenas (Goku L.A.O.M.) 
+- Paulo Muniz (Paulo Fox)
+- Petter Bruno (JackPoker40)
+- Rafael Lopes (Rafael Diablo)
+- Roberto Vasquez (The Mister)
+- Robson Meireles (Rob Jax)
+- Ronald Daniel (RonalDan)
 
-1.3	- Novos participantes deverão se inscrever através de postagem realizada diretamente nos comentários do post correspondente no Facebook.
+1.2 - Como se trata de um campeonato de longo prazo, com duração prevista para mais de 8 meses, de início não serão aceitos novos participantes, para evitarmos desistências no meio do campeonato. Porém os novos poderão entrar em cadastro reserva para preencher as vagas remanescentes.
 
-CONFIRME SUA INSCRIÇÃO UTILIZANDO O MODELO ABAIXO:
+1.3 - Com base na lista de pilotos validados, os 20 pilotos com participação **assídua/constante** nos últimos 6 meses em todos os campeonatos da TGC e Leomarx Games e que não tenham punição de excesso de W.O. serão escolhidos.
 
-    Exemplo:
-    Apelido/Nickname: LeomarxGames
-    Disponibilidade para jogar: Descrever o melhor possível. Ex.: Disponibilidade das 19 as 23h30 durante a semana e finais de semana a combinar com antecedência.
-    Confirmo que instalei os items obrigatórios listados no regra n°3 para participar (Null DC Bear + Radmin e/ou Hamachi e Fightcade 2)
-    Declaração: Declaro que estou ciente das regras e dos itens obrigatórios aqui estabelecidos e poderei ser eliminado do campeonato em caso de descumprimento: ( X ) SIM (   ) NÃO. (a inscrição só será efetivada caso o participante marque a opção SIM)
+1.4 - Em seguida será criado um grupo de WhatsApp do Campeonato confirmando o comprometimento de todos os elegíveis e que confirme e se apresente com o seu Nome Real + Apelido/NickName.
 
-1.4 - Logo de seguida deverá ingressar no grupo de WhatsApp do Campeonato pelo [Link](https://chat.whatsapp.com/FV79dsnII0A1WnPAJ5Vyhg) e se apresentar com o seu Nome Real + Apelido/NickName
+1.5 - Se houver mais de 20 pilotos nesta lista será avaliada pela ADM a possibilidade de expansão sempre respeitando aos múltiplos de 2 para que não haja rodada bônus.
+
+1.6 - Se houver menos de 20 pilotos nesta lista será avaliado pela ADM a possibilidade de inclusão de novos pilotos/inscrições sempre respeitando aos múltiplos de 2 para que não haja rodada bônus.
+
+1.7 - A limitação de pilotos é necessária para que todas as rodadas finalizem dentro do calendário e não conflitem com a Copa dos Campeões.
 
 # **2 - Validação e Verificação de Perfil dos Inscritos:** #
 
@@ -32,143 +61,138 @@ CONFIRME SUA INSCRIÇÃO UTILIZANDO O MODELO ABAIXO:
 
 - Perfil de rede social com foto (Facebook/Instagram/WhatsApp/Discord/Telegram/Twitter/TikTok/Outras).
 - Vídeo chamadas por qualquer uma das redes sociais mencionadas que o participante tenha conta.
-- Detalhes técnicos e verificação do processo de conexão online (Hamachi/Radmin), compartilhando a tela. (TeamViewer/AnyDesk/Outros)
+- Detalhes técnicos e verificação do processo de conexão online (Hamachi/Radmin/ZeroTier), compartilhando a tela. (TeamViewer/AnyDesk/Outros)
 - Tipo de computador, fotos do modem, Empresa de internet, IP virtual, IP do roteador, VPN, etc.
 
 2.4 - O jogador inscrito tem o **direito de não fornecer as informações solicitadas**, assim como a Leomarx Games, também se reserva ao **direito de cancelar a inscrição ou remover um participante durante um campeonato**, que não concorde em providenciar as informações que lhe forem solicitadas.
 
 # **3 - Itens Obrigatórios:** #
 
-3.1 - **Emulador Null DC 1.96c =** Link para download [aqui](https://github.com/RossenX/NullDC-BEAR/releases/tag/1.96c)
+3.1 - **Emulador ZSNES 1.42 =** Link para download [aqui](https://www.zsnes.com/index.php?page=files)
 
-3.2 - **Emulador FightCade 2 =** Link para download [aqui](https://www.fightcade.com/)
+3.2 - **ROM Top Gear TGC (E) [!].smc** = Link para download [aqui](https://www.facebook.com/groups/topgearchampionships/files/files)
 
-3.3 - **ROM Top Gear 2 (USA) =** Link para download [aqui](https://wowroms.com/pt/roms/super-nintendo/top-gear-2-usa/29935.html)
+3.3 - **Zerotier para conexão entre os jogadores** = Link para download [aqui](https://www.zerotier.com/download/)
 
-3.4. - **Radmin para conexão entre os jogadores** = Link para download [aqui](https://www.radmin-vpn.com/)
+3.4 - **Radmin para conexão entre os jogadores** = Link para download [aqui](https://www.radmin-vpn.com/)
 
-3.5. - **Hamachi para conexão entre os jogadores** = Link para download [aqui](https://vpn.net/)
-
-3.6. - **ZeroTier para conexão entre os jogadores** = Link para download [aqui](https://www.zerotier.com/download/)
-
-3.7. - **Retroarch** do site oficial ou de dentro da Steam = Links Steam(https://store.steampowered.com/app/1118310/RetroArch) Site Oficial (https://www.retroarch.com/)
+3.5 - **Hamachi para conexão entre os jogadores** = Link para download [aqui](https://vpn.net/)
 
 # **4 - Cronograma (Previsão):** #
 
-4.1 - As inscrições serão aceitas até as 21h de 28/04/2024;
+4.1 - As inscrições serão iniciadas às 21h do dia 28/02/2025 e todo o processo de seleção nas regras de eligibilidades serão realizadas;
 
-4.2 - Após confirmação das inscrições, será realizado o sorteio dos países e a Fase de Grupos terá prazo de até 14 dias;
+4.2 - Após confirmação das inscrições, será realizado o sorteio das pistas, sendo liberado o início do torneio até 04/03/2025.
 
-4.3 - Prazos previstos ( Todos em Horário de Brasília até as 23h do último dia ):
+4.3 - Se o torneio se iniciar com 20 participantes o torneio terá duração de 38 semanas e o final do torneio se dará no mês de novembro de 2025.
 
-- Fase de grupos terá prazo de 14 dias. 
-- Oitavas de final terá prazo de 7 dias.
-- Quartas de final terá prazo de 7 dias.
-- Semifinal terá prazo de 7 dias.
-- Final e terceiro terá prazo de 7 dias.
+4.4 - No mês de início (Março) poderá ser aplicada rodadas com 5 dias de prazo para adiantar algumas rodadas e o torneio finalizar no mês de novembro.
 
-4.4 - **Observação:** As rodadas podem ter o prazo estendido ou reduzido, caso a administração julgue necessário.
+4.5 - A partir do mês de abril devido a concorrência de outros torneios os prazos serão de 7 dias iniciando-se na terça às 0h e finalizando na segunda feira 23h59.
+
+4.6 - Ainda que já se tenha o conhecimento do próximo oponente e rodada a serem jogados, não serão permitida a realização e nem a postagem de resultados de partidas nem antes e nem após o prazo.
+
+4.7 - **Observação:** As rodadas podem ter o prazo estendido ou reduzido, caso a administração julgue necessário e por motivos de força maior.
 
 # **5 - Organização e Chaveamento:** #
 
-5.1 - Será utilizado o TOORNAMENT para chaveamento das partidas do campeonato [https://challonge.com/pt_BR/6_MestresDoTopGear2](https://challonge.com/pt_BR/6_MestresDoTopGear2)
+5.1 - Será utilizado o TOORNAMENT para chaveamento das partidas do campeonato. Link de acesso [Brasileirão Top Gear 2025](https://play.toornament.com/pt_BR/tournaments/8430933948419555328/)
 
-5.2 - O nível do jogo será o CHAMPIONSHIP.
+5.2 - O campeonato será no modelo pontos corridos com jogos de ida e volta e o piloto que somar mais pontos após todas as rodadas será o campeão.
 
-5.3 - O campeonato terá modelo de copa do mundo com fase de grupos e os melhores colocados avançam para uma fase final de jogos mata-mata.
-
-5.4 - Sorteio de Países. Serão sorteados 2 paises para cada rodada na fase de grupos
-
-- Fase de grupos: 2 países, sendo 1 país para 1 rodada (Como se fosse jogos de ida e volta).
-
-5.5 - Na Fase Final, para os confrontos ficarem mais equilibrados, voltaremos os 16 países para a lista de sorteio, separando-os em 4 grupos e então:
-
-- Oitavas e Quartas de Final: 3 países de rodada única, sendo 1 país dos quartetos 2, 3 e 4 (Vence quem tiver mais pontos na soma total) - Desempate será 1 país do primeiro quarteto.
-- Semifinal, Final e terceiro: 4 países de rodada única, sendo 1 país de cada quarteto (Vence quem tiver mais pontos na soma total) - Desempate será 1 país do quarto quarteto que não foi jogado nem na semi e nem na final.
-
-5.6 - Serão classificados para a fase final uma quantidade de jogadores, dependendo da quantidade de inscritos. Exemplo:
-
-- Inscritos: até 08. Classificados: 6;
-- Inscritos: entre 09 e 12. Classificados: 8;
-- Inscritos: entre 13 e 16. Classificados: 10;
-- Inscritos: entre 17 e 20. Classificados: 12;
-- Inscritos: entre 21 e 24. Classificados: 16;
-- Inscritos: entre 25 e 28. Classificados: 20;
-- Inscritos: entre 29 e 32. Classificados: 24;
-- O número de grupos e de participantes por grupo será definido após encerramento das inscrições.
-
-# **6. Classificação e Desempate:**
-
-6.1 - Os jogadores pontuarão de acordo com seu resultado em cada partida de acordo com a relação a seguir:
+5.3 - Os jogadores pontuarão de acordo com seu resultado em cada partida de acordo com a relação a seguir:
 
 - Vitória = 3 pontos;
 - Empate = 1 ponto;
-- Derrota = 0 pontos.
+- Derrota = 0 pontos;
+- W.O. = -1 ponto.
+  
+5.3.1 - A classificação se dará pelo maior número de pontos. Em caso de empate os critérios de desempate serão:
 
-6.2 - Os critérios de desempate na fase de grupo serão:
+- Confronto direto;
+- Pontos conquistados;
+- Saldo de pontos;
+- Sorteio.
 
-- Confronto Direto;
-- Jogos Vencidos;
-- Pontos Conquistados;
-- Diferença de Pontos.
+5.4 - A pontuação final para o Mundial de Pilotos será concedida para os 10 melhores, conforme abaixo:
 
-6.3 - Em caso de empate nas fases finais reinicia-se a ROM e joga-se a partir do país sorteado para desempate:
+- 1° Lugar = 21 pts.
+- 2° Lugar = 15 pts.
+- 3° Lugar = 12 pts.
+- 4° Lugar = 10 pts.
+- 5° Lugar = 8 pts.
+- 6° Lugar = 6 pts.
+- 7° Lugar = 5 pts.
+- 8° Lugar = 4 pts.
+- 9° Lugar = 3 pts.
+- 10° Lugar = 2 pts.
+- Demais = 1 ponto pela participação.
 
-- No desempate os pilotos devem utilizar normalmente a regra de dinheiro e upgrades.
-- Vencerá aquele que ao final do país tiver mais pontos que o oponente;
-- Permanecendo o empate no primeiro país, *reinicia-se a ROM e joga-se o país seguinte ao anterior* e assim sucessivamente, até haver um vencedor;
-- Se durante o desempate houver Race Over para ambos, vencerá o piloto que **terminar na frente, em qualquer posição, mesmo com Race Over** (ver mais detalhes nesta seção).
-- Obs.: Em comum acordo, os jogadores podem trocar de controle quanto forem iniciar o desempate para corrigir o grid de largada corretamente. Caso não haja consenso, será o player 1, aquele que tiver terminado na frente na última pista anterior ao início do desempate.
+5.5 - Se houver desistência de pilotos no meio do campeonato os resultados que ele obteve anteriormente serão invalidados equalizando a vitória sobre ele de forma igual para todos os outros pilotos.
 
-6.4 - A substituição de jogadores só será adimitida, caso o piloto substituto ainda possa participar refazer todas as partidas da fase de grupos antes do final do prazo. Se não houver substituto, será aplicado **w.o. para todas as partidas do piloto removido**, com pontuação máxima para o adversário e mínima para o desistente.
+5.6 - Os sorteios serão divididos em quatro partes:
 
-6.5 - Depois de 50% da partida realizada, o piloto pode avisar ao oponenete que deseja parar e admitir a derrota. Assim, o adversário leva os 5 pontos de cada pista restante e o desistente fica com zero pontos nas mesmas. Para este caso, a partida não será considerada um w.o e não haverão sansões.
+5.6.1 - 1° Metade dos jogos Jogo de Ida - serão sorteadas 12 pistas no total, sendo 8 pistas, 1 de cada país, + 4 de outros aleatórias que contenham pit stops. Carro Livre
 
-6.6 - A tolerância de W.O.'s neste campeonato será no total de 5 partidas na fase de grupos, se houver 6 ou mais partidas o piloto será impedido de participar do próximo campeonato. Até o final do prazo da fase de grupos, será oportunizado ao piloto que apresente justificativas, caso as justificativas sejam aceitas, o W.O. não será contabilizado para efeitos de punição.
+5.6.2 - 2° Metade dos jogos Jogo de Ida - serão sorteadas 12 pistas no total, sendo 7 pistas com pit e outras 5 sem pit stops. Haverá proibição do carro vermelho neste conjunto.
 
-# **7 - Validação das partidas:** #
+5.6.3 - 1° Metade dos jogos de Volta - serão sorteados 12 pistas no total, sendo 7 pistas aleatórias com pit + 4 pistas sem pit + stonehenge. Carro Livre
 
-7.1 - **Responsabilidade Individual de Gravação**. Todos os pilotos são obrigados a gravar ou transmitir ao vivo as suas próprias partidas, seja pelo OBS Studio ou Emulador. Não é necessário perguntar ao oponente quem vai gravar ou transmitir.
+5.6.4 - 2° Metade dos jogos de Volta - serão sorteados 12 pistas no total, sendo 7 pistas aleatórias com pit + 4 pistas sem pit + stonehenge. Obrigatório o uso de 2 carros diferentes, vermelho ou roxo em uma metade e azul ou branco na outra metade.
 
-7.2 - **Resultados e Responsabilidade do Vencedor**. O jogador vencedor é responsável por postar o resultado final da partida, juntamente com o vídeo e os detalhes de carro utilizados.
+5.7 - Comissário eletrônico obrigatório na 2° Metade dos jogos de volta e o mesmo pode ser acessado no endereço https://www.topgearchampionships.com/comissario/comissario.html
 
-7.2.1 - Caso houver algum bug durante a partida, o outro piloto pode complementar com alguma informação importante os detalhes da partida.
+5.8 - Os Resultados e Logs podem serem acessados em https://www.topgearchampionships.com/comissario/logsPublicosComissario.html
 
-7.3 - A resolução ideal é em HD 1280x720 (720p), porém para aqueles que não tenham um computador que consiga nesta gravar ou transmitir nessa resolução, a resolução mínima aceita será (SD) 854 x 480 (480p).
+5.9 - A partir de 50% da partida realizada, o piloto pode avisar ao oponenete que deseja parar e admitir a derrota. Assim, o adversário leva os 20 pontos de cada pista restante e o desistente fica com zero pontos nas mesmas. Para este caso, a partida não será considerada w.o e não haverão sansões.
 
-7.4 - A partida deve ser disponibilizada em uma rede social no formato de vídeo (facebook, youtube, twitch, google drive, etc.) e que não expire até o final do campeonato.
+5.10 - A tolerância de W.O's neste campeonato será no total de 20% do número total de rodadas. Exemplo se houver 38 rodadas, o piloto poderá ter até 7 rodadas com W.O. Aquele que tiver mais de 7 W.O.'s será impedido de jogar o próximo campeonato Brasileiro da Leomarx e um da TGC.
 
-7.5 - Se a partida ocorrer pela plataforma do FightCade 2 (FC2). Ela gera um link após a partida que pode ser usado como registro de gravação da partida.
+5.11 - Até o final do campeonato, será oportunizado ao piloto que apresente justificativas, caso as justificativas sejam aceitas, o W.O. não será contabilizado para efeitos de punição.
 
-7.6 - Não serão aceitos resultados enviados sem o cumprimento das regras de gravação mencionadas.
+# **6 - Validação das partidas** #
 
-7.7 - Caso o vencedor da partida não poste o resultado com vídeo dentro do prazo final, a partida será considerada como desistência, e então, ele e o outro piloto **receberão placar final será 0x0 e sem a soma pontos de empate naquela rodada**.
+6.1 - **Responsabilidade Individual de Gravação**. Todos os pilotos são obrigados a gravar ou transmitir ao vivo as suas próprias partidas, seja pelo OBS Studio ou Emulador. Não é necessário perguntar ao oponente quem vai gravar ou transmitir.
 
-7.8 - Caso o vencedor da partida não poste o resultado com vídeo dentro do prazo final, a partida será considerada como desistência, e então, o outro piloto perdedor da partida **receberá a vitória automaticamente com o placar final de 40x0, por exemplo**.
+6.2 - **Resultados e Responsabilidade do Vencedor**. O jogador vencedor é responsável por postar o resultado final da partida, juntamente com o vídeo e os detalhes de carro utilizados.
 
-7.8 - Não serão aceitas reclamações ou protocolos sobre falhas de hardware, por exemplo, quando o controle que desconecta o bluetooth ou acaba a bateria no meio da partida. Sendo de responsabilidade do piloto fazer essa validação antes da partida oficial. 
+6.2.1 - Caso houver algum bug durante a partida, o outro piloto pode complementar com alguma informação importante os detalhes da partida.
 
-7.8.1 - Caso esse tipo de problema aconteça, a orientação é que o confronto deverá ser reiniciado a partir da pista seguinte. Ambos poderão refazer o jogo a partir da pista que ocorreu o problema, somente se o piloto que
+6.3 - A resolução ideal é em HD 1280x720 (720p), porém para aqueles que não tenham um computador que consiga nesta gravar ou transmitir nessa resolução, a resolução mínima aceita será (SD) 854 x 480 (480p).
 
-# **8 - Comunicação:**
+6.4 - A partida deve ser disponibilizada em uma rede social no formato de vídeo (facebook, youtube, twitch, google drive, etc.) e que não expire até o final do campeonato.
 
-8.1 - Serão criados grupos no WhatsApp para cada um dos grupos sorteados, sendo este o canal oficial para as marcações das partidas e divulgação de resultados. A Administração enviará como mensagens fixadas a lista com os nomes e contatos dos participantes em cada grupo ( ou grupo único ) para facilitar o contato entre os pilotos
- 
-8.2 - A permanência no grupo é obrigatória e o jogador que não participar poderá ser eliminado do campeonato. Caso o piloto tenha problemas de conexão com o WhatsApp, este deverá **imediatamente notificar a todos os admins** por meio de outra rede social e então será avaliada a possibilidade da continuação do mesmo sem o uso do App.
+6.5 - Os pilotos que gravarem por emulador em ZMV deverão converter posteriormente a partida em vídeo.
 
-8.3 - O grupo deve ser usado para os anúncios da administração, agendamento de partidas e assuntos relevantes ao campeonato, tais como informações de problemas com conexão, remarcação de partidas, encaminhamentos de links das lives e postagem de resultados.
+6.6 - Não serão aceitos resultados enviados sem o cumprimento das regras de gravação mencionadas.
 
-8.4 - Os jogadores podem mencionar seu oponente, marcando com @, para agendamento de sua partida. Essa menção poderá ser realizada quantas vezes o jogador quiser, mas para efeitos de regras de verificação para wo, só será considerada uma menção a cada 48 horas. Após a terceira menção do oponente (144h), sem uma a devida resposta, o jogador poderá reivindicar o W.O à administração.
+6.7 - Caso o vencedor da partida não poste o resultado com vídeo dentro do prazo final, a partida será considerada como desistência, e então, ele e o outro piloto **receberão placar final será 0x0 e sem a soma pontos de empate naquela rodada**.
 
-8.5 - Os participantes que não realizarem suas partidas ou agendamento delas nos prazos estabelecidos, através do grupo oficial do campeonato, receberão W.O.
+6.8 - Caso o vencedor da partida não poste o resultado com vídeo dentro do prazo final, a partida será considerada como desistência, e então, o outro piloto perdedor da partida **receberá a vitória automaticamente com o placar final de 200x0, por exemplo**.
 
-8.6 - O W.O. será atribuído a favor daquele que oferecer maior tempo de disponibilidade, ou contra aquele que não comparecer no horário previamente agendado.
+6.8 - Não serão aceitas reclamações ou protocolos sobre falhas de hardware, por exemplo, quando o controle que desconecta o bluetooth ou acaba a bateria no meio da partida. Sendo de responsabilidade do piloto fazer essa validação antes da partida oficial. 
 
-8.7 - Em casos onde houver incompatibilidade total de horários entre os participantes, na análise de W.O., será priorizado aquele que esteve mais tempo disponível após às 18h ou finais de semana.
+6.8.1 - Caso esse tipo de problema aconteça, a orientação é que o confronto deverá ser reiniciado a partir da pista seguinte. Ambos poderão refazer o jogo a partir da pista que ocorreu o problema, somente se o piloto que não teve problemas assim desejar.
 
-8.8 - O envio de mensagens no chat do emulador estará proibido caso um dos participantes solicite no início da partida.
+# **7 - Comunicação:** #
 
-8.9 - Os resultados das partidas devem ser informados no grupo respectivo do WhatsApp que o jogador for adicionado.
+7.1 - Serão criados grupos no WhatsApp para cada um dos grupos sorteados, sendo este o canal oficial para as marcações das partidas e divulgação de resultados.
+
+7.2 - A permanência no grupo é obrigatória e o jogador que não participar poderá ser eliminado do campeonato. Caso o piloto tenha problemas de conexão com o WhatsApp, este deverá **imediatamente notificar a todos os admins** por meio de outra rede social e então será avaliada a possibilidade da continuação do mesmo sem o uso do App.
+
+7.3 - O grupo deve ser usado para os anúncios da administração, agendamento de partidas e assuntos relevantes ao campeonato, tais como informações de problemas com conexão, remarcação de partidas, encaminhamentos de links das lives e postagem de resultados.
+
+7.3 - Os jogadores podem mencionar seu oponente, marcando com @, para agendamento de sua partida. Essa menção poderá ser realizada quantas vezes o jogador quiser, mas para efeitos de regras de verificação para wo, só será considerada uma menção a cada 48 horas. Após a terceira menção do oponente (144h), sem uma a devida resposta, o jogador poderá reivindicar o W.O à administração.
+
+7.4 - Os participantes que não realizarem suas partidas ou agendamento delas nos prazos estabelecidos, através do grupo oficial do campeonato, receberão W.O.
+
+7.5. O W.O. será atribuído a favor daquele que oferecer maior tempo de disponibilidade, ou contra aquele que não comparecer no horário previamente agendado.
+
+7.6 - Em casos onde houver incompatibilidade total de horários entre os participantes, na análise de W.O., será priorizado aquele que esteve mais tempo disponível após às 18h ou finais de semana.
+
+7.7 - O envio de mensagens no chat do emulador estará proibido caso um dos participantes solicite no início da partida.
+
+7.8 - Os resultados das partidas devem ser informados no grupo respectivo do WhatsApp que o jogador for adicionado.
 
 Exemplo de postagem de resultado:
 
@@ -176,11 +200,11 @@ Exemplo de postagem de resultado:
 - **@Player1 110 x 100 @Player2**
 - **Link da live ou link do arquivo da gravação.**
 
-8.10 - O jogador que enviar mensagens sem relevância para grupo WhatsApp do campeonato, serão advertidos pela administração. Em caso de reincidência, o jogador será REMOVIDO do grupo por 12h e adicionado novamente após esse prazo. Mesmo com a punição, o jogador tem o dever de cumprir os seus jogos previamente agendados. O jogador readmitido no grupo será eliminado do campeonato caso receba mais uma punição por descumprimento do grupo de WhatsApp.
+7.9 - O jogador que enviar mensagens sem relevância para grupo WhatsApp do campeonato, serão advertidos pela administração. Em caso de reincidência, o jogador será REMOVIDO do grupo por 12h e adicionado novamente após esse prazo. Mesmo com a punição, o jogador tem o dever de cumprir os seus jogos previamente agendados. O jogador readmitido no grupo será eliminado do campeonato caso receba mais uma punição por descumprimento do grupo de WhatsApp.
 
-# **9 - Regras de Conduta** #
+# **8 - Regras de Conduta** #
 
-9.1 - É passível de eliminação do campeonato, mensagens ofensivas que se enquadrem em pelo menos um dos tipos de discriminação abaixo, dirigidos ao jogador ou à sua família:
+8.1 - É passível de eliminação do campeonato, mensagens ofensivas que se enquadrem em pelo menos um dos tipos de discriminação abaixo, dirigidos ao jogador ou à sua família:
 
 - Racial ou étnica;
 - Gênero ou Religião;
@@ -190,15 +214,15 @@ Exemplo de postagem de resultado:
 - Difamação ou calúnia;
 - Nacionalidade, Naturalidade, ou Lugar onde mora, ou nasceu.
 
-9.2 - OBSERVAÇÕES: Mensagens trocadas em redes sociais particulares não serão consideradas. Denúncias e reclamações por ofensas somente serão consideradas e julgadas pela administração, se ocorrerem no Grupo Oficial do Mestres do Top Gear 2 (Facebook). Chats privados (PV) e quaisquer outros meios não serão considerados. Caracterizada a ofensa desrespeitosa com a dignidade da pessoa, a administração se reserva à punição que lhe for adequada.
+8.2 - OBSERVAÇÕES: Mensagens trocadas em redes sociais particulares não serão consideradas. Denúncias e reclamações por ofensas somente serão consideradas e julgadas pela administração, se ocorrerem nos CANAIS OFICIAIS da Leomarx Games e/ou TGC (Facebook, WhatsApp, Discord, YouTube, Twitch, Instagram e outros) ou no chat da transmissão oficial de uma partida válida do campeonato. Chats privados (PV) e quaisquer outros meios não serão considerados. Caracterizada a ofensa desrespeitosa com a dignidade da pessoa, a administração se reserva exclusivamente à punição de exclusão do campeonato e/ou da comunidade por um determinado período de tempo.
 
-9.3 - Outras medidas referentes a processos legais, deverão ser adotadas pelo próprio requerente. 
+8.3 - Outras medidas referentes a processos legais, deverão ser adotadas pelo próprio requerente. 
 
-9.4 - Para protocolar a reclamação, os print’s das mensagens ou áudios (poderão ser enviados para a ADM pelo whatsApp) mas devem ser mencionados no protocolo, conforme modelo no item a seguir, com a hashtag #PROTOCOLO e deverá ser respondido pela administração em um prazo máximo de 48h úteis.
+8.4 - Para protocolar a reclamação, os print’s das mensagens ou áudios (enviados no período de realização do campeonato, nas redes oficiais da Leomarx Games), devem ser encaminhados através de protocolo conforme modelo no item a seguir, pelo Facebook ou no PV da administração, ou no post de inscrição do campeonato com a hashtag #PROTOCOLO e que deverá ser respondido pela administração em um prazo máximo de até 3 dias úteis.
 
-9.5 - **Modelo de protocolo:**
+8.5 - **Modelo de protocolo:** 
 
-    PROTOCOLO DE JULGAMENTO DE CONDUTA NOME DO CAMPEONATO:
+    #PROTOCOLO DE JULGAMENTO DE CONDUTA NOME DO CAMPEONATO:
     - NOME DO CAMPEONATO:
     - NOME DO SOLICITANTE:
     - NOME DO OPONENTE:
@@ -206,128 +230,63 @@ Exemplo de postagem de resultado:
     *ACUSAÇÃO: descrever a alegação de forma sucinta.*
     *ANEXOS: encaminhar as imagens, vídeos e áudios que julgar relevante no tópico aberto ou no privado dos administradores*
 
-# **10 - Premiação de Troféus do Campeonato** #
+# **9 - Regras Gerais:** #
 
-10.1 - A inscrição e a participação no campeonato é gratuita.
+9.1 - Clique aqui para ler a base das Regras Gerais link (https://www.facebook.com/groups/topgearchampionships/permalink/3391700757764527);
 
-10.2 - A confecção de troféus de acrílicos tem o custo de +ou- R$ 120.
+9.2 - Proibido o bug de bater no poste para ganhar duas posições;
 
-10.3 - Após o encerramento das inscrições a ADM da Leomarx Games fará enquete no grupo de participantes sobre a opinião de divisão de custos entre todos os Brasileiros.
+9.3 - Proibido o uso do freio em curvas para derrapagem, devido ao bug de não reduzir a velocidade, ser exclusiva para o P1;
 
-10.4 - Não serão enviados troféus para o exterior (México, Peru ou Venezuela, por exemplo). O participante poderá procurar fazer a confecção de forma local, com base na arte que será produzida.
+9.4 - Proibido o uso do freio para prejudicar o adversário de maneira proposital e desleal;
 
-10.5 - Aprovando a divisão de custos de fabricação dos troféus, os 3 brasileiros mais bem colocados, receberão os troféus.
+9.5 - Proibido o uso do freio ou desaceleração total para parar carro na pista antes do combustível acabar;
 
-**10.6 - Entrega da Premiação:** Após o campeonato, os vencedores devem indicar um nome/nick com até 15 caracteres para a confecção do troféu personalizado com seu nome, e quando estiver pronto o participante ganhador **deve arcar com os custos de frete do troféu** saindo de São Paulo, Brasil para o seu endereço. (Simular frete saindo do CEP 03510-000). Dúvidas entre em contato pelo WhatsApp no PV ou no grupo do campeonato.
+9.6 - Em caso de pane seca para ambos os jogadores em pistas como Roma, Rain Forest, Bourdeaux, Monaco, Pisa entre outras, será atribuída a pontuação da posição final dos jogadores ao se escurecer completamente a tela. Para jogar a próxima pista, os jogadores deverão voltar ao menu inicial e selecionar o restante das pistas (utilizando a ROM TGC) ou jogar o país completo novamente (utilizando a ROM Original).
+- Obs. 1: Caso seja necessário jogar o país novamente, a contagem de pontos das pistas daquele país jogadas anteriormente poderá ser zerada.
+- Obs. 2: Caso um dos jogadores informe que tem o save state de alguma das pistas do mesmo país onde aconteceu a pane, estes deverão correr a pista novamente através do save.
 
-10.7 - O participante que receber o troféu se compromete a seguir/curtir/inscrever-se em todas as redes sociais da Leomarx Games e fazer um vídeo e mencionar o canal e todas as redes abaixo nas suas postagens e/ou de lives das partidas:
+9.7 - Caso o país sorteado seja UK, na pista de STONEHENGE, as pontuações serão atribuídas de acordo com as posições finais dos jogadores imediatamente quando a tela escurecer após o Out Of Fuel;
+- Obs.: se um dos jogadores completar STONEHENGE, aquele que não completar não receberá nenhuma pontuação atribuída.
 
-Link das Redes:
+9.8 - Caso seja sorteado o país UK, este deverá ser corrido por último, mesmo utilizando a Rom TGC;
 
-<https://www.facebook.com/groups/mestresdotopgear2>
+9.9 - Caso alguma Regra Geral esteja divergente de alguma regra estabelecida aqui neste post, vale a regra deste documento para o campeonato.
 
-<https://youtube.com/@LeomarxGames>
+# **10 - Regras Específicas:** #
 
-<https://www.facebook.com/LeomarxGames>
+10.1 - Será utilizado o emulador ZSNES 1.42;
 
-<https://www.instagram.com/leomarxgames>
+10.2 - A ROM deverá ser a Top Gear TGC (E) [!];
 
-<https://twitter.com/LeomarxGames>
+10.3 - Nível/Level: **Championship**;
 
-<https://www.twitch.tv/leomarxgames>
+10.4 - A escolha de câmbio (automático ou manual) é livre durante todo o campeonato;
 
-<https://www.tiktok.com/@leomarxgames>
+10.5 - A conexão deverá ser estabelecida por rede VPN RADMIN, HAMACHI ou ZEROTIER;
 
-# **11 - Regras das Corridas: Leia com bastante atenção**
+10.6 - Em comum acordo, os jogadores podem trocar de controle quanto forem iniciar o desempate e/ou jogo de volta para corrigir o grid de largada corretamente; 
 
-11.1 - O campeonato será no modelo *F1* (Modelo que é proibido fechadas). Então as regras tenha atenção as regras relacionadas a este item descritas abaixo. Apesar da fechada estar proibida, a coleta e uso do dinheiro e a coleta e uso dos nitros é livre e não serão controladas neste campeonato. (Outros modelos de competição serão incluídos em campeonatos futuros).
+10.7 - Não havendo consenso na escolha de quem é o Player 1 ou o Player 2, o Player 1 será aquele que vier primeiro na tabela do TOORNAMENT;
 
-11.3 - Considerando o campeonato no modelo F1, as regras abaixo serão adotadas e, então, se faz necessário que os jogadores novos prestem atenção à elas e, se necessário, a administração estará a disposição para realização de "VAR" das partidas e eventuais dúvidas.
+10.8 - O resultado da partida será a soma dos pontos obtidos pelos jogadores em cada país disputado;
 
-# **Fechadas / Bug de Fechadas** #
+10.9 - Procedimento para início da partida:
 
-Proibido aos pilotos ficarem mudando o trajeto propositalmente para fechar, caso perceba que será ultrapassado. Não é permitido mudar de faixa sem motivo aparente de curva iminente ou desvio de bot. Tal regra é necessária para evitar o bug de danificar o carro do oponente. 
+- Selecione 2 Jogadores;
+- Digitem seus nomes se desejado;
+- Selecione o Cambio, Controle e Carro;
+- Selecione a Dificuldade: Championships;
+- Para selecionar as pistas na Rom Top Gear TGC Rom (E) [!], o jogador que estiver com o controle P1, deverá seguir o Manual de instruções da ROM:
+- Em Track, movendo para esquerda ou direita, selecione a pista (ela é apresentada pelo nome);
+- Para selecionar a pista Pressione o botão "A". Ao selecionar uma pista, um contador de seleção aparecerá: "1, 2, 3... e assim por diante";
+- Caso precise corrigir alguma seleção pressione o botão "B" para retirar a última pista selecionada;
+- O Password para abrir todos os países na Rom Original é KEELSON. Ir para o menu COUNTRY, selecionar UK, usar o password, e depois selecionar o país;
 
-Exemplo prático 1: A preferência das curvas é sempre do carro que está na frente então recomenda-se quem for ultrapassar que faça a ultrapassagem “por fora”.
+# **11 - Situações inéditas** #
 
-Exemplo prático 2: Em um trecho de reta em que o carro mais a frente perceber que a próxima curva for a direita, por exemplo, o carro da frente deve usar as duas faixas da direita na reta para se antecipar para a curva e o carro que for ultrapassar deve usar as duas faixas da esquerda para fazer a ultrapassagem “por fora”.
+11.1 - Situações inéditas podem ocorrer e os casos não previstos aqui serão analisados pela administração no decorrer do campeonato.**
 
-A maior parte das ocorrências dos "bugs de fechada" ocorrem na largada e/ou na primeira volta. Porém este "bug de fechada" poderá ser apenas analisado pela ADM/VAR posterior a partida, uma vez que nesse campeonato não será permitido o uso de save state/load state, exceto em caso de Race Over.
+11.2 - **As regras podem ser aditadas durante o campeonato, caso a administração julgue necessário para cobrir casos que não forem cobertos por essas regras buscando não prejudicar os participantes.**
 
-Punição: O jogador que se sentir prejudicado pela fechada, pode/deve posteriormente a partida solicitar ao ADM a análise por vídeo (VAR). Importante que para que essa solicitação seja atendida, recomenda-se que as partidas sejam transmitidas ao vivo ou gravadas por aplicativo (Ex.: OSB Studio / BANDICAM) e seja enviado o link do vídeo para o ADM. E se for verificada irregularidades com fechadas intencionais, o ADM poderá aplicar a uma contramedida para remover os pontos do piloto ofensor e de adicionar pontos ao piloto ofendido na pista analisada.
-
-Importante: Na fase final, se houver a ocorrência de fechadas de forma intencional, após análise da partida, se a ADM perceber que apenas os ajustes de pontos não sejam suficientes, a ADM poderá solicitar que a pista/País seja jogada novamente.
-
-# **Medidas Anti-Jogo:** #
-
-- Se o carro quebrar é proibido ficar batendo mais o carro propositalmente para perder mais posições e obter vantagem de largar na frente na pista seguinte;
-
-- Se o carro quebrar é proibido diminuir a marcha do carro propositalmente para perder mais posições e obter vantagem de largar na frente na pista seguinte;
-
-- Proibido o uso do freio para prejudicar o adversário de maneira proposital e desleal;
-
-- Proibido a desaceleração do carro ou parar totalmente o carro na pista antes do combustível acabar ou antes de aparecer Race Over na tela;
-
-- Proibido o uso da marcha Ré, exceto se, no caso de batidas na entrada de túnel na qual é realmente necessário dar Ré para evitar bater no muro novamente ou situações similares;
-
-- As punições no caso da ocorrência de atitudes anti desportivas as citadas, podem variar de zeramento da pontuação da pista atual ou seguinte ou até mesmo eliminação do campeonato a ser julgado pela ADM do torneio.
-
-# **Desbloqueio de todos os países, seleção de país sorteado:** #
-
-![](Desbloqueio.jpeg)
-
-# **Sugestão de compra de Upgrades x Países - Top Gear 2** #
-
-![](Upgrades.jpeg)
-
-![](Equipamentos.jpeg)
-
-**Pontuações de referência para:**
-
-•	1st = 10pts, 10mil
-
-•	2nd = 6pts, 6mil
-
-•	3rd = 4pts, 4mil
-
-•	4th = 3pts, 3mil
-
-•	5th = 2pts, 2mil
-
-•	6th = 1pts, 1mil
-
-•	7th = 0pts
-
-•	8th = 0pts
-
-•	9th = 0pts
-
-•	10th = 0pts
-
-# **Itens de Super:**
-Os itens de “Super” (S) poderão/serão coletados normalmente uma vez que ambos os jogadores terão a mesma oportunidade de obter ele.
-
-# **Race Over/Game Over:**
-Devido ao nível do jogo Championship ser elevado e os equipamentos “base” da tabela às vezes serem inferiores ao necessário para aquele país, poderá ocorrer fim jogo de forma inesperada durante uma das 4 pistas. Para contornar esse problema segue as observações: 
-
-  - **Observação A**: Se o Race Over ocorrer logo na primeira do país, poderá ser tentado jogar a mesma novamente por mais 2x. Total de 3 tentativas.
-
-  - **Observação B:** Se o Race Over ocorrer da segunda pista em diante não será permitido o load state. Deve-se considerar a pontuação de ambos obtidos antes da pista atual e segue-se para o país seguinte.
-    
-# **Regras de W.O. e desistência:**
-
-  - A vitória por W.O dará ao vitorioso a pontuação média por partida. (5 pontos por pista) e a derrota por W.O. dará ao derrotado zero na pontuação por cada pista da partida.
-
-  - **Observação A:** Se um dos jogadores desistir em meio a disputa, será atribuído a ele zero na pontuação das pistas restantes. E ao vitorioso será atribuído a somatória da pontuação máxima das pistas restantes (5 pontos por pista)
-
-  - Toda e qualquer decisão da administração quanto à aplicação de W.O. será baseada exclusivamente pelas comunicações feitas pelo meio comunicação oficial do campeonato (WhatsApp).
-
-  - **Observação B:** Havendo necessidade a administração poderá intervir no sistema de saldo/pontos para que os o W.O.’s não prejudique o torneio.
-
-# **12. Situações inéditas** #
-
-12.1 Situações inéditas podem ocorrer e os casos não previstos aqui serão analisados apenas pela administração da Leomarx Games no decorrer do campeonato.
-
-12.2 **As regras podem ser aditadas durante o campeonato, caso a administração julgue necessário para cobrir casos que não eram cobertos por essas regras buscando não prejudicar os participantes. Todas as edições após início do campeonato, serão publicadas através de ADITAMENTOS.**
-
-# **A administração da Leomarx Games deseja a todos um excelente campeonato e principalmente muita diversão a todos os participantes e expectadores!!!**
+# **A administração da Leomarx Games e TGC desejam à todos um excelente campeonato e principalmente muita diversão a todos os participantes e expectadores!!!** #
