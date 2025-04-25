@@ -296,22 +296,22 @@ Link das Redes:
 
 10.12 - Abaixo tem a imagem dos Passwords que devem ser inseridos pelo P1 e que entra no país inicial a ser jogado. Este código já inicia o jogo com todos os upgrades de proteção no máximo e com uma quantidade de dinheiro inicial de uso livre, **porém tenha atenção ao sorteio do equipamento proibido e/ou equipamento obrigatório.**
 
-![](Password01.jpeg)
-![](Password02.jpeg)
-![](Password03.jpeg)
-![](Password04.jpeg)
-![](Password05.jpeg)
-![](Password06.jpeg)
-![](Password07.jpeg)
-![](Password08.jpeg)
-![](Password09.jpeg)
-![](Password10.jpeg)
-![](Password11.jpeg)
-![](Password12.jpeg)
-![](Password13.jpeg)
-![](Password14.jpeg)
-![](Password15.jpeg)
-![](Password16.jpeg)
+![](Password01.jpg)
+![](Password02.jpg)
+![](Password03.jpg)
+![](Password04.jpg)
+![](Password05.jpg)
+![](Password06.jpg)
+![](Password07.jpg)
+![](Password08.jpg)
+![](Password09.jpg)
+![](Password10.jpg)
+![](Password11.jpg)
+![](Password12.jpg)
+![](Password13.jpg)
+![](Password14.jpg)
+![](Password15.jpg)
+![](Password16.jpg)
 
 # **Sugestão de compra de Upgrades x Países - Top Gear 2** #
 
