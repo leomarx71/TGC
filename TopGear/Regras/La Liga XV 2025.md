@@ -1,72 +1,69 @@
 # **A COMUNIDADE TOP GEAR CHAMPIONSHIPS (TGC) APRESENTA:** #
 
-# **Campeonato La Liga XIV** #
+# **Campeonato La Liga XV** #
 
 # **LEIA TODAS AS REGRAS COM BASTANTE ATENÇÃO!!!** #
 
 # **1. INSCRIÇÕES:** #
 
-  1.1 - As inscrições estarão abertas até 21h de 31/01/2025.
+  1.1 - As inscrições estarão abertas até 21h de XX/XX/2025.
     
   1.2 - Aqueles que se inscreverem após o encerramento das inscrições, serão colocados em cadastro reserva e serão convidados para participar do La Liga Bronze caso aja desistência antes do encerramento da segunda rodada, ou seja, convidado para completar algum grupo, caso a administração decida.
 
-  1.3 - Punições da edição anterior (La Liga XIII):
+  1.3 - Punições da edição anterior (La Liga XIV):
 
-  Regra do La Liga XIII para embasamento: **5.5 - A tolerância de W.O's neste campeonato será no total de 3 partidas na fase de grupos se houver 4 ou mais partidas o piloto será impedido de participar do próximo campeonato La Liga. No prazo de 72h após a aplicação do w.o., será oportunizado ao piloto que apresente justificativas, caso as justificativas sejam aceitas, o w.o. não será contabilizado para efeitos de punição.**
+  Regra do La Liga XIV para embasamento: **5.5 - A tolerância de W.O's neste campeonato será no total de 3 partidas na fase de grupos se houver 4 ou mais partidas o piloto será impedido de participar do próximo campeonato La Liga. No prazo de 72h após a aplicação do w.o., será oportunizado ao piloto que apresente justificativas, caso as justificativas sejam aceitas, o w.o. não será contabilizado para efeitos de punição.**
 
-  - Carlos Rubens (CRX) não poderá participar do La Liga XIV. Em razão do excesso de W.O. no La Liga XIII e como punição ficará uma edição sem poder participar, podendo voltar no La Liga XV na Divisão Bronze.
-  - Peter Bruno (JackPocker40) não poderá participar do La Liga XIV. Em razão do excesso de W.O. no La Liga XIII e como punição ficará uma edição sem poder participar, podendo voltar no La Liga XV na Divisão Bronze.
-  - Frank Piero (Frank Gear) não poderá participar do La Liga XIV. Em razão do excesso de W.O. no La Liga XIII e como punição ficará uma edição sem poder participar, podendo voltar no La Liga XV na Divisão Bronze.
+  - Irvin Delgado (Irvin1988)
+  - Frank Piero (Frank Gear)
+  - Edison Silva (Senninkage)
+  - Roney Leão (Nero)
+  - Não poderão participar do La Liga XV. Em razão do excesso de W.O. no La Liga XIV e como punição ficarão uma edição sem poder participar, podendo voltar no La Liga XVI na Divisão Bronze.
+  - Luís Cárdenas (L.A.O.M.) Poderá solicitar regressar na Liga Prata, pois este comprovadamente teve de fato um motivo médico de força maior que impediu sua participação.
+  - Óscar Cárdenas (Gokú) Poderá solicitar regressar na Liga Prata, pois este comprovadamente teve de fato um motivo médico de força maior que impediu sua participação.
 
   **Pré-inscritos, conforme resultados da edição anterior e as punições mencionadas acima:**
   
-  1.4.1 Série Ouro - Pilotos que participaram do La Liga XIII e que devem manifestar o interesse em participar do La Liga XIV:
+  1.4.1 Série Ouro - Pilotos que participaram do La Liga XIV e que devem manifestar o interesse em participar do La Liga XV:
 
-   - 1 - Rob Jax (Robson Meireles)
-   - 2 - ChitaMX (Aléxis Sánchez)
-   - 3 - Rafael Diablo (Rafael Lopes)
-   - 4 - LeNN Miner (Lenno Coelho)
-   - 5 - Sr. Filho (Jurandir Filho)
-   - 6 - Gokú (Oscar Cardenhas)
-   - 7 - AriJunino (Ari Júnior) ~LAOM (Luís Cardenas)~
-   - 8 - The Mister (Roberto Vasquez) - 2° Prata
-   - 9 - Leomarx Games (Leonardo Marques) - 3° Prata
-   - 10 - Luciano (Luciano Alves) - 4° Prata
+   - Rob Jax (Robson Meireles)
+   - ChitaMX (Aléxis Sánchez)
+   - Rafael Diablo (Rafael Lopes)
+   - LeNN Miner (Lenno Coelho)
+   - Sr. Filho (Jurandir Filho)
+   - Leomarx Games (Leonardo Marques)
+   - Luciano (Luciano Alves)
+   - Jhonny (Jhonny Mota) - 1° Prata
+   - Paulo Fox (Paulo Muniz) - 2° Prata
+   - RonalDan (Ronald Daniel) - 3° Bronze
      
 
-  1.5 Série Prata - Pilotos que participaram do La Liga XIII e que devem manifestar o interesse em participar do La Liga XIV:
+  1.5 Série Prata - Pilotos que participaram do La Liga XIV e que devem manifestar o interesse em participar do La Liga XV:
+     
+   - Pegasus (Edimar Caetano) - 4° Prata
+   - The Mister (Roberto Vasquez) - 1° Melhor Rebaixado
+   - JavierVZLA (Javier Dixon) - 5° Prata
+   - AriJunino (Ari Júnior) - 2° Melhor Rebaixado
+   - MMM (Marcel Santana) - 6° Prata
+   - Gokú (Oscar Cardenhas) - 3° Melhor Rebaixado
+   - Luís Cárdenas (L.A.O.M.) - 4° Melhor Rebaixado
+   - Jack Maloi (Alison Paulo) - 7° Prata
+   - HD Gamer (Edwin Hyrula) - 1° Bronze
+   - Camus Kshrc (Marlon Fernandes) - 2° Bronze
+   - Carlos CRX (Carlos Rubens) - 3° Bronze
 
-   - Irvin1988 (Irvin Delgado) ~AriJunino (Ari Júnior) - 1° Melhor Rebaixado~
-   - Pegasus (Edimar Caetano) - 5° Prata
-   - Killua Zorldic (Lucas Souza) - 2° Melhor Rebaixado
-   - Paulo Fox (Paulo Muniz) - 6° Prata
-   - JavierVZLA (Javier Dixon) - 7° Prata
-   - Jhonny (Jhonny Mota) - 1° Bronze
-   - RonalDan (Ronald Daniel) - 2° Bronze
-   - Jack Maloi (Alison Paulo) - 3° Bronze
-   - Br's Brisantt (Brisantt) - 4° Bronze
-   - MMM (Marcel Santana) - 1° Melhor Rebaixado
+  1.6 Série Bronze - Competidores que participaram do La Liga XIV e novos membros que desejarem se inscrever no La Liga XV, conforme a sequência:
 
-  1.6 Série Bronze - Competidores que participaram do La Liga XIII e novos membros que desejarem se inscrever no La Liga XIV, conforme a sequência:
-
-   - Lonsoldier (Marlon Reis) - 2° Melhor Rebaixado
-   - HD Gamer (Edwin Hyrula) - 3° Melhor Rebaixado
-   - Paomarc (Paolo Paredes) - 7° Bronze
-   - Senninkage (Edison Silva) - 8° Bronze
-   - Samuel (Samuel Barros)
-   - Nero (Roney Leão)
-   - FrankGear (Frank Piero)
-   - Policarpo (Anderson Policarpo)
-   - Suprem Peruvian (Albert Matos)
-   - Camus Kshrc (Marlon Fernandes)
-   - Carlos CRX (Carlos Rubens) - Protocolo
-   - JackPocker40 (Petter Bruno) - Protocolo
-   - ~Yoshimtzu (Rudi Porto)~
-   - ~Rannid (Fabrício Golçalves)~
-   - ~Schumacher (Martins Swantaiger) - 6° Bronze~
-   - ~UaiLay (Laynara Souza)~
-   - ~Alaric (Emerson Eidan Enderson)~
-   - ~Rannid (Fabrício Golçalves)~ 
+   - Suprem Peruvian (Albert Matos) - 4° Bronze
+   - Killua Zorldic (Lucas Souza) - 1° Melhor Rebaixado
+   - Paomarc (Paolo Paredes) - 5° Bronze
+   - Br's Brisantt (Brisantt) - 2° Melhor Rebaixado
+   - Policarpo (Anderson Policarpo) - 6° Bronze
+   - JackPocker40 (Petter Bruno) - 7° Bronze
+   - Schumacher (Martins Swantaiger) - 8° Bronze
+   - Barros (Samuel Barros) - 9° Bronze
+   - Yoshimtzu (Rudi Porto)
+   - Novo competidor
    - Novo competidor
    - Novo competidor
   
@@ -99,7 +96,7 @@
         Disponibilidade para jogar: Descrever o melhor possível. Ex.: Disponibilidade das 19 as 23h30 durante a semana e finais de semana a combinar com antecedência.
         Método que utiliza para conectar: Preferencialmente Radmin, se houver erro, poderá ser utilizado o Hamachi.
 
-  1.10 - Todos os participantes ao se inscreverem no campeonato, declaram estar cientes de todas as regras aqui estabelecidas e poderão sofrer as punições previstas, desde um w.o, uma possível eliminação do campeonato ou até exclusão da Comunidade.
+  1.10 - Todos os participantes ao se inscreverem no campeonato, declaram estar cientes de todas as regras aqui estabelecidas e poderão sofrer as punições previstas, desde um w.o, uma possível eliminação do campeonato ou até exlusão da Comunidade.
 
 # **2. Cronograma Séries Ouro / Prata Horários de Brasília, Brasil:** #
    
@@ -167,6 +164,12 @@
 
   4.9 - Na Série Bronze, a escolha do carro é livre para todas as fases.
 
+  4.10 - Punições de comissário errado:
+
+  4.10.1 - Se o piloto enviar a quantidade de carros **incorreta** e jogar com todos eles corretamente conforme o seu envio, será feito um sorteio da rodada onde ele colocou uma cor a mais para efeito de punição, pois afinal o carro errado poderia ser em qualquer uma das partidas e não apenas conforme a declaração do piloto.
+
+  4.10.2 - Se o piloto enviar a quantidade de carros **correta** e jogar em alguma rodada com eles incorretamente conforme o seu envio, neste caso ele perderá esta partida por w.o.
+
 # **5. Classificação e Rebaixamento:** #
 
   5.1 - Na fase de grupo, a classificação será definida pela pontuação geral.
@@ -208,29 +211,33 @@
 
 # **7. Comunicação:** #
 
-  7.1 - Serão criados grupos no WhatsApp para cada uma das Séries, sendo este o canal oficial para as marcações das partidas e divulgação de resultados. A permanência no grupo é obrigatória e o jogador que não participar estará eliminado do campeonato.
+  7.1 - Serão criados grupos no WhatsApp para cada um dos grupos sorteados, sendo este o canal oficial para as marcações das partidas e divulgação de resultados.
 
-  7.2 - O grupo deve ser usado para os anúncios da administração, agendamento de partidas e assuntos relevantes ao campeonato, tais como informações de problemas com conexão, remarcação de partidas, encaminhamentos de links das lives e postagem de resultados.
+  7.2 - A permanência no grupo é obrigatória e o jogador que não participar poderá ser eliminado do campeonato. Caso o piloto tenha problemas de conexão com o WhatsApp, este deverá **imediatamente notificar a todos os admins** por meio de outra rede social e então será avaliada a possibilidade da continuação do mesmo sem o uso do App.
 
-  7.3 - Os jogadores podem mencionar seu oponente, marcando com @, para agendamento de sua partida. Essa menção deverá acontecer no máximo a cada 24horas. Após a terceira menção do oponente (72h), sem a devida resposta, o jogador poderá reivindicar o W.O à administração.
+  7.3 - O grupo deve ser usado para os anúncios da administração, agendamento de partidas e assuntos relevantes ao campeonato, tais como informações de problemas com conexão, remarcação de partidas, encaminhamentos de links das lives e postagem de resultados.
 
-  7.4 - Os jogadores devem anunciar o resultado de suas partidas no grupo.
+  7.3 - Os jogadores podem mencionar seu oponente, marcando com @, para agendamento de sua partida. Essa menção poderá ser realizada quantas vezes o jogador quiser, mas para efeitos de regras de verificação para wo, só será considerada uma menção a cada 48 horas. Após a terceira menção do oponente (144h), sem uma a devida resposta, o jogador poderá reivindicar o W.O à administração.
 
-  7.5 - O envio de mensagens no chat do emulador estará proibido caso um dos participantes solicite no início da partida.
+  7.4 - Os participantes que não realizarem suas partidas ou agendamento delas nos prazos estabelecidos, através do grupo oficial do campeonato, receberão W.O.
 
-  7.6 - A gravação da partida é opcional, porém caso haja discordância do resultado postado sem uma gravação o resultado postado de comum acordo entre os pilotos será o válido.
+  7.5. O W.O. será atribuído a favor daquele que oferecer maior tempo de disponibilidade, ou contra aquele que não comparecer no horário previamente agendado.
 
-  7.7 - Mensagens sem Relevância:
+  7.6 - Em casos onde houver incompatibilidade total de horários entre os participantes, na análise de W.O., será priorizado aquele que esteve mais tempo disponível após às 18h ou finais de semana.
 
-  - 7.7.1 - O jogador que enviar mensagens no grupo, sem relevância para o campeonato, serão advertidos pela administração. Em caso de reincidência, o jogador será REMOVIDO do grupo.
+  7.7 - O envio de mensagens no chat do emulador estará proibido caso um dos participantes solicite no início da partida.
 
-  - 7.7.2 - Mesmo com a punição o jogador tem o dever de cumprir os seus jogos previamente agendados.
+  7.8 - Os resultados das partidas devem ser informados no grupo respectivo do WhatsApp que o jogador for adicionado.
 
-  - 7.7.3 - Após 12h, o jogador removido poderá solicitar aos admins entrar novamente ao grupo.
+  Exemplo de postagem de resultado:
 
-  - 7.7.4 - O jogador readmitido no grupo que após a segunda advertência, tiver que receber a segunda punição, estará eliminado do campeonato.
+    - **Grupo A - Rodada 4**
+    - **@Player1 110 x 100 @Player2**
+    - **Link da live ou link do arquivo da gravação.**
+
+  7.9 - O jogador que enviar mensagens sem relevância para grupo WhatsApp do campeonato, serão advertidos pela administração. Em caso de reincidência, o jogador será REMOVIDO do grupo por 12h e adicionado novamente após esse prazo. Mesmo com a punição, o jogador tem o dever de cumprir os seus jogos previamente agendados. O jogador readmitido no grupo será eliminado do campeonato caso receba mais uma punição por descumprimento do grupo de WhatsApp.
   
-  7.8 - Serão admitidas postagens de figurinhas, desde que não sejam ofensivas.
+  7.10 - Serão admitidas postagens de figurinhas, desde que não sejam ofensivas.
 
 # **8. Regras de Conduta** #
 
@@ -344,19 +351,27 @@
 
 # **13. Validação das partidas:** #
 
-13.1. É obrigatório gravar ou transmitir ao vivo as partidas, seja pelo OBS Studio ou Emulador.
+13.1 - **Responsabilidade Individual de Gravação**. Todos os pilotos são obrigados a gravar ou transmitir ao vivo as suas próprias partidas, seja pelo OBS Studio ou Emulador. Não é necessário perguntar ao oponente quem vai gravar ou transmitir.
 
-13.2. Ambos os jogadores são responsáveis pela gravação. Sugere-se que se um for fazer a transmissão que o outro grave para em caso de travamento da live a partida seja validada.
+13.2 - **Resultados e Responsabilidade do Vencedor**. O jogador vencedor é responsável por postar o resultado final da partida, juntamente com o vídeo e os detalhes de carro utilizados.
 
-13.3. Os jogadores que não gravarem ou transmitirem suas partidas, terão seus confrontos invalidados e não poderão abrir PROTOCOLO de possíveis irregularidades cometidas pelo adversário.
+13.2.1 - Caso houver algum bug durante a partida, o outro piloto pode complementar com alguma informação importante os detalhes da partida.
 
-13.4. A resolução ideal é em HD 1280x720 (720p), porém para aqueles que não tenham um computador que consiga nesta gravar ou transmitir nessa resolução, a resolução mínima aceita será (SD) 854 x 480 (480p).
+13.3 - A resolução ideal é em HD 1280x720 (720p), porém para aqueles que não tenham um computador que consiga nesta gravar ou transmitir nessa resolução, a resolução mínima aceita será (SD) 854 x 480 (480p).
 
-13.5. O arquivo de gravação deve ser disponibilizado na nuvem e o link divulgado no grupo do WhatsApp, ou também pode ser feito o envio de arquivo de gravação diretamente no WhatsApp.
+13.4 - A partida deve ser disponibilizada em uma rede social no formato de vídeo (facebook, youtube, twitch, google drive, etc.) e que não expire até o final do campeonato.
 
-13.6. Não serão aceitos resultados enviados sem o cumprimento das regras de gravação mencionadas, sendo que uma nova partida deve ser realizada ou a renúncia de derrota por W.O. por um dos participantes.
+13.5 - Os pilotos que gravarem por emulador em ZMV deverão converter posteriormente a partida em vídeo.
 
-13.7. Caso a partida seja realizada, mas nenhum dos jogadores tenham gravado e o jogo não seja disputado novamente, o resultado será um empate em 0x0, onde nenhum dos participantes marcará pontos. 
+13.6 - Não serão aceitos resultados enviados sem o cumprimento das regras de gravação mencionadas.
+
+13.7 - Caso o vencedor da partida não poste o resultado com vídeo dentro do prazo final, a partida será considerada como desistência, e então, ele e o outro piloto **receberão placar final será 0x0 e sem a soma pontos de empate naquela rodada**.
+
+13.8 - Caso o vencedor da partida não poste o resultado com vídeo dentro do prazo final, a partida será considerada como desistência, e então, o outro piloto perdedor da partida **receberá a vitória automaticamente com o placar final de 200x0, por exemplo**.
+
+13.8 - Não serão aceitas reclamações ou protocolos sobre falhas de hardware, por exemplo, quando o controle que desconecta o bluetooth ou acaba a bateria no meio da partida. Sendo de responsabilidade do piloto fazer essa validação antes da partida oficial. 
+
+13.8.1 - Caso esse tipo de problema aconteça, a orientação é que o confronto deverá ser reiniciado a partir da pista seguinte. Ambos poderão refazer o jogo a partir da pista que ocorreu o problema, somente se o piloto que não teve problemas assim desejar.
 
 # **14. Situações inéditas** #
 
