@@ -6,11 +6,18 @@
 
 # **1 - Elegibilidade às Inscrições:** #
 
-1.1 - As inscrições deste campeonato terão como base uma pré-lista de inscritos já **validados** na comunidade TGC, conforme os participantes dos campeonatos recentes - Conforme lista a seguir:
+1.1 - Somente serão aceitas inscrições de jogadores que não foram finalistas em um campeonato de Top Gear nível Ouro ou Campeão deste mesmo torneio em uma edição anterior.
 
-1.2 - Como se trata de um campeonato de longo prazo, com duração prevista para mais de 8 meses, de início serão aceitos os 24 pilotos mais bem colocados na tabela do Mundial da TGC de 2024 e não serão aceitos novos participantes, medida importantes para evitarmos desistências no meio do campeonato e para que a disputa finalize dentro do calendário. 
+1.2 - O novo modelo de inscrições de campeonatos da TGC terá sempre uma pré-lista de inscritos já validados e ativos conforme os participantes dos campeonatos recentes.
 
-1.2.1 - Novos participantes poderão solicitar o ingresso, porém ficarão em cadastro reserva para preencher as vagas remanescentes.
+1.3 - Novos participantes poderão se inscrever através de postagem realizada diretamente nos comentários do vídeo de divulgação do Torneio nas Redes Sociais da Comunidade TGC.
+
+    Exemplo:
+    Apelido/Nickname: LeomarxGames
+    Disponibilidade para jogar: <Descrever o melhor possível>. Ex.: Disponibilidade das 19 as 23h30 durante a semana e finais de semana a combinar com antecedência.
+    Método que utiliza para conectar: Preferencialmente Radmin, se houver erro, poderá ser utilizado o Hamachi ou ZeroTier.
+
+1.4. Em seguida deverá ingressar no grupo de WhatsApp do Campeonato pelo Link ([Link Aqui](https://chat.whatsapp.com/E3E9zD4kwfkKZxtKGYSmAe)) e se apresentar com o seu Nome Real + Apelido/NickName
 
 # **2 - Validação e Verificação de Perfil dos Inscritos:** #
 
