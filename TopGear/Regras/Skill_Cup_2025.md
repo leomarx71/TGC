@@ -17,7 +17,7 @@
     Disponibilidade para jogar: <Descrever o melhor possível>. Ex.: Disponibilidade das 19 as 23h30 durante a semana e finais de semana a combinar com antecedência.
     Método que utiliza para conectar: Preferencialmente Radmin, se houver erro, poderá ser utilizado o Hamachi ou ZeroTier.
 
-1.4. Em seguida deverá ingressar no grupo de WhatsApp do Campeonato pelo Link ([Link Aqui](https://chat.whatsapp.com/E3E9zD4kwfkKZxtKGYSmAe)) e se apresentar com o seu Nome Real + Apelido/NickName
+1.4. Em seguida deverá ingressar no grupo de WhatsApp do Campeonato pelo Link [Link Aqui](https://chat.whatsapp.com/E3E9zD4kwfkKZxtKGYSmAe) e se apresentar com o seu Nome Real + Apelido/NickName
 
 # **2 - Validação e Verificação de Perfil dos Inscritos:** #
 
@@ -253,4 +253,4 @@ Exemplo de postagem de resultado:
 
 11.2 - **As regras podem ser aditadas durante o campeonato, caso a administração julgue necessário para cobrir casos que não forem cobertos por essas regras, buscando não prejudicar os participantes.**
 
-# **A administração da TGC e TGC desejam a todos um excelente campeonato e principalmente muita diversão a todos os participantes e expectadores!!!** #
+# **A administração da TGC desejam a todos um excelente campeonato e principalmente muita diversão a todos os participantes e expectadores!!!** #
