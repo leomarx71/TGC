@@ -1,6 +1,6 @@
 # **A Comunidade Top Gear Championships (TGC) Apresenta:** #
 
-# **Copa TGC 2024** #
+# **Copa TGC 2025** #
 
 # **Leia todas as regras com bastante atenção!!!** #
 
@@ -52,9 +52,9 @@
 
 # **2 - Formato** #
 
-  2.1 - A COPA TGC 2024 será disputada no estilo mata-mata em todas as suas fases, sendo realizadas em jogos de ida e volta.
+  2.1 - A COPA TGC 2025 será disputada no estilo mata-mata em todas as suas fases, sendo realizadas em jogos de ida e volta.
 
-  2.2 - Estarão classificados diretamente para as oitavas de final, os campeões dos campeonatos de calendário da TGC 2023: Torneio de Verão, La Liga X, Torneio de Outono, Copa TGC 2023, TGC 14, Torneio de Inverno, La Liga XI e Torneio de Primavera.
+  2.2 - Estarão classificados diretamente para as oitavas de final, os campeões dos campeonatos de calendário da TGC 2024: Torneio de Verão, La Liga X, Torneio de Outono, Copa TGC 2024, TGC 14, Torneio de Inverno, La Liga XI e Torneio de Primavera.
 
   2.3 - Caso algum dos participantes do item 2.2 não possa participar da Copa TGC, será substituído pelo participante melhor colocado do referido campeonato.
 
@@ -64,17 +64,17 @@
 
   2.5 - Oitavas de final, quartas de final, seminais, disputa de terceiro e final, também serão disputadas em jogos de ida e volta.
 
-  2.6 - Para a COPA TGC do próximo ano, estarão classificados diretamente para as oitavas de final, os campeões dos campeonatos de calendário da TGC 2024: Torneio de Verão, La Liga XIII, Torneio de Outono, Copa TGC, TGC 15, Torneio de Inverno, La Liga XIV e Torneio de Primavera.
+  2.6 - Para a COPA TGC do próximo ano, estarão classificados diretamente para as oitavas de final, os campeões dos campeonatos de calendário da TGC 2025: Torneio de Verão, La Liga XIII, Torneio de Outono, Copa TGC, TGC 15, Torneio de Inverno, La Liga XIV e Torneio de Primavera.
 
   2.7 - Caso se repita o campeão em algum dos torneios do item anterior, estará classificado diretamente o vice-campeão daquele torneio. Se o vice já tiver sido campeão em algum outro torneio, a vaga será do próximo mais bem classificado e assim sucessivamente.
 
 # **3 - Confirmação De Inscrição:** #
 
-  3.1 - Só poderão participar da COPA TGC 2024, aqueles jogadores que forem inscritos na Comunidade TGC e não estiverem cumprindo punição vigente que impeça a participação em campeonatos.
+  3.1 - Só poderão participar da COPA TGC 2025, aqueles jogadores que forem inscritos na Comunidade TGC e não estiverem cumprindo punição vigente que impeça a participação em campeonatos.
 
-  3.2 - Os participantes listados no item 1 já estão pré-inscritos na COPA TGC 2024, sendo necessário apenas deixar nos comentários sua confirmação conforme o modelo a seguir:
+  3.2 - Os participantes listados no item 1 já estão pré-inscritos na COPA TGC 2025, sendo necessário apenas deixar nos comentários sua confirmação conforme o modelo a seguir:
 
-  *CONFIRMO MINHA PARTICIPAÇÃO NA COPA TGC 2024.*
+  *CONFIRMO MINHA PARTICIPAÇÃO NA COPA TGC 2025.*
 
   3.3 - Para os novos participantes, a inscrição deverá seguir o modelo a seguir:
 
@@ -85,35 +85,35 @@
 
   3.4 - Todos os participantes pré-inscritos que confirmarem suas inscrições ou aqueles que realizarem novas inscrições, concordam com todas as regras aqui dispostas, podendo questioná-las com os administradores antes da confirmação de sua inscrição.
 
-  3.5 - A TGC se reserva ao direito do uso de imagem dos participantes da COPA TGC 2024, seja para retransmissões de partidas realizadas, bem como na divulgação de vídeos promocionais em suas redes sociais.
+  3.5 - A TGC se reserva ao direito do uso de imagem dos participantes da COPA TGC 2025, seja para retransmissões de partidas realizadas, bem como na divulgação de vídeos promocionais em suas redes sociais.
 
 # **4 - Cronograma Previsto:** #
 
-  4.1 - Prazo para confirmações e novas inscrições: 03/04 a 06/04/2024 às 18h;
+  4.1 - Prazo para confirmações e novas inscrições: 03/04 a 06/04/2025 às 18h;
 
-  4.2 - 06/04/2024, definição dos confrontos da primeira fase e sorteio de países e carros;
+  4.2 - 06/04/2025, definição dos confrontos da primeira fase e sorteio de países e carros;
 
-  4.3 - 06/04 a 16/04/2024 às 23h, realização dos jogos de ida e volta da primeira fase eliminatória;
+  4.3 - 06/04 a 16/04/2025 às 23h, realização dos jogos de ida e volta da primeira fase eliminatória;
 
-  4.4 - 17/04/2024 sorteio dos países e carros da segunda fase eliminatória;
+  4.4 - 17/04/2025 sorteio dos países e carros da segunda fase eliminatória;
 
-  4.5 - 17/04 a 26/04/2023 às 23h, realização dos jogos de ida e volta da segunda fase eliminatória;
+  4.5 - 17/04 a 26/04/2025 às 23h, realização dos jogos de ida e volta da segunda fase eliminatória;
 
-  4.6 - 27/04/2023 sorteio dos países e carros das oitavas de final;
+  4.6 - 27/04/2025 sorteio dos países e carros das oitavas de final;
 
-  4.7 - 27/04 a 06/05/2024 às 23h, realização dos jogos de ida e volta das oitavas de final;
+  4.7 - 27/04 a 06/05/2025 às 23h, realização dos jogos de ida e volta das oitavas de final;
 
-  4.8 - 07/05/2024, sorteio dos países e carros das quartas de final;
+  4.8 - 07/05/2025, sorteio dos países e carros das quartas de final;
 
-  4.9 - 07/05 a 16/05/2024 às 23h, realização dos jogos de ida e volta das quartas de final;
+  4.9 - 07/05 a 16/05/2025 às 23h, realização dos jogos de ida e volta das quartas de final;
 
-  4.10 - 17/05/2024, sorteio dos países e carros das semifinais;
+  4.10 - 17/05/2025, sorteio dos países e carros das semifinais;
 
-  4.11 - 17/05 a 26/05/2023 às 23h, realização dos jogos de ida e volta das semifinais;
+  4.11 - 17/05 a 26/05/2025 às 23h, realização dos jogos de ida e volta das semifinais;
 
-  4.12 - 27/05/2023, sorteio dos países e carros da final e disputa de terceiro;
+  4.12 - 27/05/2025, sorteio dos países e carros da final e disputa de terceiro;
 
-  4.13 - 27/05 a 05/06/2023 às 23h, realização dos jogos de ida e volta da final e disputa de terceiro;
+  4.13 - 27/05 a 05/06/2025 às 23h, realização dos jogos de ida e volta da final e disputa de terceiro;
 
   4.14 - As datas poderão sofrer alteração, dependendo do número de inscritos e conclusão dos jogos de cada fase.
 
@@ -137,7 +137,7 @@
 
   - 6.1.2 - A classificação geral inicial seguirá a lista dos pré-inscritos do item 1 e na sequência os demais participantes por ordem de inscrição.
 
-  - 6.1.3 - A classificação inicial a partir do 9º (nono) colocado será estabelecida conforme a classificação da edição da Copa TGC 2023, aqueles que não tiverem participado serão classificados conforme a tabela do Mundial TG1 - 2024. Aqueles que não tiverem participado da Copa TGC 2023 e não tiverem classificação na Tabela do Mundial, serão classificados aleatoriamente ou conforme a inscrição cronológica.
+  - 6.1.3 - A classificação inicial a partir do 9º (nono) colocado será estabelecida conforme a classificação da edição da Copa TGC 2024, aqueles que não tiverem participado serão classificados conforme a tabela do Mundial TG1 - 2025. Aqueles que não tiverem participado da Copa TGC 2024 e não tiverem classificação na Tabela do Mundial, serão classificados aleatoriamente ou conforme a inscrição cronológica.
 
   - 6.1.4 - Chamaremos de grupo A aquele formado pelos participantes mais bem classificados na lista e Grupo B aquele formado pelos demais participantes.
 
@@ -197,7 +197,7 @@
 
 # **7 - Comunicação** #
 
-  7.1 - Será criado um grupo no WhatsApp para que todos os participantes acompanhem todas as fases da Copa TGC 2024. O grupo será o canal oficial para as marcações das partidas e divulgação de resultados. A permanência no grupo é obrigatória e o jogador que não participar estará eliminado do campeonato.
+  7.1 - Será criado um grupo no WhatsApp para que todos os participantes acompanhem todas as fases da Copa TGC 2025. O grupo será o canal oficial para as marcações das partidas e divulgação de resultados. A permanência no grupo é obrigatória e o jogador que não participar estará eliminado do campeonato.
 
   7.2 - O grupo deve ser usado para os anúncios da administração, agendamento de partidas e assuntos relevantes ao campeonato, tais como informações de problemas com conexão, remarcação de partidas, encaminhamentos de links das lives e postagem de resultados.
 
