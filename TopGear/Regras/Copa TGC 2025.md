@@ -119,7 +119,7 @@
 
 # **5 - Organização e Chaveamento:** #
 
-  5.1 - Será utilizado o CHALLONGE para chaveamento das partidas do campeonato. Link [https://challonge.com/pt_BR/CopaTGC2024]
+  5.1 - Será utilizado o TOORNAMENT para chaveamento das partidas do campeonato. Link [CopaTGC2025](https://play.toornament.com/en_US/tournaments/8911239026455232512/)
 
   5.2 - Fase eliminatória, Oitavas e Quartas: 2 países ida e volta.
 
