@@ -52,71 +52,60 @@
 
 4.2 - Após confirmação das inscrições, será realizado o sorteio das pistas, sendo liberado o início do torneio até 09/06/2025.
 
-4.3 - Se o torneio se iniciar com 24 participantes, o torneio terá duração de 46 rodadas, com o final do torneio previsto para o mês de novembro de 2025.
+4.3 - Serão criados dois grupos e conforme a qtde de inscritos, será definido a quantidade de classificados por cada grupo.
 
 4.4 - No mês de início (Março), como não há outros campeonatos em andamento, cada rodada terá 5 dias de prazo para adiantar algumas rodadas necessárias para o torneio finalizar no mês de novembro.
 
-4.5 - A partir do mês de Abril, devido à concorrência de outros torneios, os prazos serão de 7 dias, iniciando-se na terça às 0h e finalizando na segunda-feira 23h59.
+4.5 - Na fase de grupos haverá um prazo de 2 semanas para realização de todas as partidas e nas fases finais prazo de 7 dias.
 
-4.5.1 - Durante o intervalo final de um campeonato mais curto e o início de outro, poderão ser criadas 3 rodadas mais rápidas de 5 dias necessárias para que este torneio finalize no mês de novembro.
-
-4.6 - Ainda que já se tenha o conhecimento do próximo oponente e rodada a serem jogados, não será permitida a realização, nem a postagem de resultados de partidas, nem antes e nem após o prazo.
-
-4.7 - **Observação:** As rodadas podem ter o prazo estendido ou reduzido, caso a administração julgue necessário e por motivos de força maior.
+4.6 - **Observação:** As rodadas podem ter o prazo estendido ou reduzido, caso a administração julgue necessário e por motivos de força maior.
 
 # **5 - Organização e Chaveamento:** #
 
-5.1 - Será utilizado o TOORNAMENT para chaveamento das partidas do campeonato. Link de acesso [Brasileirão Top Gear 2025](https://play.toornament.com/pt_BR/tournaments/8430933948419555328/)
+5.1 - Será utilizado o TOORNAMENT para chaveamento das partidas do campeonato. Link de acesso [Copa Skill 2025](https://play.toornament.com/en_US/tournaments/8911175753233317888/)
 
-5.2 - O campeonato será no modelo pontos corridos com jogos de ida e volta e o piloto que somar mais pontos após todas as rodadas será o campeão.
+5.2. O campeonato terá uma fase de grupos no modelo Copa do Mundo e os melhores colocados avançam para a fase final de mata-a-mata.
 
-5.3 - Os jogadores pontuarão de acordo com seu resultado em cada partida, conforme a relação a seguir:
+5.3. Os jogadores pontuarão de acordo com seu resultado em cada partida de acordo com a relação a seguir:
 
 - Vitória = 3 pontos;
 - Empate = 1 ponto;
 - Derrota = 0 pontos;
-- W.O. unilateral = -1 ponto para o desistente e 3 pontos para o piloto vencedor;
-- W.O. duplo = 0 pontos para ambos.
+- W.O = -1 ponto.
   
-5.3.1 - A classificação se dará pelo maior número de pontos. Em caso de empate, os critérios de desempate serão:
+5.3.1. A classificação se dará pelo maior número de pontos. Em caso de empate os critérios de desempate serão:
 
 - Confronto direto;
 - Pontos conquistados;
 - Saldo de pontos;
-- Menor número de W.O.'s;
-- Se 1 ou mais pilotos empatarem em todos os critérios acima, ambos obterão a mesma pontuação final.
+- Sorteio.
 
-5.4 - A pontuação final para o Mundial de Pilotos será concedida para os 10 melhores, conforme abaixo:
+5.4. Não há limite para a quantidade de participantes e serão classificados para a fase final a quantidade de jogadores a seguir, dependendo da quantidade de inscritos:
 
-- 1° Lugar = 21 pts.
-- 2° Lugar = 15 pts.
-- 3° Lugar = 12 pts.
-- 4° Lugar = 10 pts.
-- 5° Lugar = 8 pts.
-- 6° Lugar = 6 pts.
-- 7° Lugar = 5 pts.
-- 8° Lugar = 4 pts.
-- 9° Lugar = 3 pts.
-- 10° Lugar = 2 pts.
-- Demais = 1 ponto pela participação.
+- Inscritos: até 18. Classificados: 8;
+- Inscritos: 19 ou mais. Classificados: 16;
 
-5.5 - Se houver desistência de pilotos no meio do campeonato, os resultados que ele obteve anteriormente serão invalidados, equalizando a vitória sobre ele de forma igual para todos os outros pilotos.
+5.5. Serão sorteados 8 pistas para cada rodada na fase de grupos.
 
-5.6 - Os sorteios serão divididos em quatro partes:
+5.6. Nas fases mata-mata, serão sorteados 12 pistas para as oitavas, quartas e semifinais.
 
-5.6.1 - 25% das rodadas - serão sorteadas 12 pistas aleatórias no total. Haverá sorteio com a proibição de 1 dos 4 carros.
+5.7. Na final e disputa de 3º, serão sorteados 16 pistas para a disputa.
 
-5.6.2 - 25% das rodadas - serão sorteadas 12 pistas aleatórias no total. Haverá sorteio com a proibição de 1 dos 3 carros que ainda não foram proibidos.
+5.8. Para todas as fases mata-mata, será sorteado um país o início do desempate.
 
-5.6.3 - 25% das rodadas - serão sorteadas 12 pistas aleatórias no total. Haverá sorteio com a proibição de 1 dos 2 carros que ainda não foram proibidos.
+5.9. Em caso de empate reinicia-se a ROM e joga a partir do país sorteado para desempate:
+- Para facilitar, utilizando a ROM Top Gear TGC Rom (E), poderão ser selecionadas 8 pistas para o desempate, sendo as 4 primeiras referente ao país desempate e as outras 4 do país seguinte do país desempate.
+- Utilizando a ROM Top Gear (E) [!], seleciona-se o país desempate e joga-se todas as pistas na sequência até que haja um vencedor;
+- Vencerá aquele que abrir primeiro mais de 5 pontos de vantagem; 
+- Permanecendo o empate no primeiro país, o país seguinte deverá ser jogado e assim sucessivamente, até haver um vencedor;
+- Caso se jogue UK e ao final da pista de Stonehenge a partida ainda não tiver um vencedor seguindo os critérios acima, a partida continua a partir de USA;
+- Obs.: Em comum acordo, os jogadores podem trocar de controle quanto forem iniciar o desempate para corrigir o grid de largada corretamente. Caso não aja concenso, será o player 1, aquele que tiver terminado na frente na pista anterir ao desempate.
 
-5.6.4 - 25% das rodadas - serão sorteadas 12 pistas aleatórias no total. Haverá a proibição do carro remanescente que ainda não tinha sido proibido.
+5.10 - A partir de 50% da partida realizada, o piloto pode avisar ao oponente que deseja parar e admitir a derrota. Assim, o adversário leva os 20 pontos de cada pista restante e o desistente fica com zero pontos nas mesmas. Para este caso, a partida não será considerada w.o e não haverá sansões.
 
-5.7 - A partir de 50% da partida realizada, o piloto pode avisar ao oponente que deseja parar e admitir a derrota. Assim, o adversário leva os 20 pontos de cada pista restante e o desistente fica com zero pontos nas mesmas. Para este caso, a partida não será considerada w.o e não haverá sansões.
+5.11 - A tolerância de W.O's neste campeonato será no total de 20% do número total de rodadas. Exemplo, se houver 38 rodadas, o piloto poderá ter até 8 rodadas com W.O. Aquele que tiver mais de 9 W.O.'s será impedido de jogar o próximo campeonato Brasileiro da Leomarx e um da TGC.
 
-5.8 - A tolerância de W.O's neste campeonato será no total de 20% do número total de rodadas. Exemplo, se houver 38 rodadas, o piloto poderá ter até 8 rodadas com W.O. Aquele que tiver mais de 9 W.O.'s será impedido de jogar o próximo campeonato Brasileiro da Leomarx e um da TGC.
-
-5.11 - Até o final do campeonato, será oportunizado ao piloto que apresente justificativas. Caso as justificativas sejam aceitas, o W.O. não será contabilizado para efeitos de punição.
+5.12 - Até o final do campeonato, será oportunizado ao piloto que apresente justificativas. Caso as justificativas sejam aceitas, o W.O. não será contabilizado para efeitos de punição.
 
 # **6 - Validação das partidas** #
 
