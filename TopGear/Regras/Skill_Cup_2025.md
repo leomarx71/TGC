@@ -6,9 +6,9 @@
 
 # **1 - Elegibilidade às Inscrições:** #
 
-1.1 - Somente serão aceitas inscrições de jogadores que não foram finalistas em um campeonato de Top Gear nível Ouro ou Campeão deste mesmo torneio em uma edição anterior.
+1.1 - Somente serão aceitas inscrições de jogadores que não foram finalistas em um campeonato de Top Gear nível Ouro ou Campeão da Skill Cup em edições anterior.
 
-1.2 - O novo modelo de inscrições de campeonatos da TGC terá sempre uma pré-lista de inscritos já validados e ativos conforme os participantes dos campeonatos recentes.
+1.2 - Os participantes pré-inscritos serão adicionados ao grupo de Whatsapp do campeonato, considerando uma lista de participantes validados ativos e inscritos em campeonatos recentes.
 
 1.3 - Novos participantes poderão se inscrever através de postagem realizada diretamente nos comentários do vídeo de divulgação do Torneio nas Redes Sociais da Comunidade TGC.
 
@@ -17,11 +17,11 @@
     Disponibilidade para jogar: <Descrever o melhor possível>. Ex.: Disponibilidade das 19 as 23h30 durante a semana e finais de semana a combinar com antecedência.
     Método que utiliza para conectar: Preferencialmente Radmin, se houver erro, poderá ser utilizado o Hamachi ou ZeroTier.
 
-1.4. Em seguida deverá ingressar no grupo de WhatsApp do Campeonato pelo Link [Link Aqui](https://chat.whatsapp.com/E3E9zD4kwfkKZxtKGYSmAe) e se apresentar com o seu Nome Real + Apelido/NickName
+1.3.1 Em seguida deverá ingressar no grupo de WhatsApp do Campeonato pelo Link [Link Aqui](https://chat.whatsapp.com/E3E9zD4kwfkKZxtKGYSmAe) e se apresentar com o seu Nome Real + Apelido/NickName
 
 # **2 - Validação e Verificação de Perfil dos Inscritos:** #
 
-2.1 - A administração da TGC, na intenção de criar um campeonato com credibilidade, se reserva no direito de solicitar a qualquer momento durante a inscrição e/ou durante o campeonato, informações adicionais a qualquer um dos inscritos em seus campeonatos.
+2.1 - A administração da TGC, na intenção de criar um campeonato com credibilidade, se reserva ao direito de solicitar a qualquer momento durante a inscrição e/ou durante o campeonato, informações adicionais a qualquer um dos inscritos em seus campeonatos.
 
 2.2 - Tais medidas, vem com o intuito de impedir a inscrição ou participação de jogadores com contas fakes.
 
@@ -48,17 +48,15 @@
 
 # **4 - Cronograma (Previsão):** #
 
-4.1 - As confirmações serão iniciadas em 01/06 e irão até às 21h do dia 05/06/2025 e todo o processo de seleção nas regras de elegibilidades serão realizados;
+4.1 - As confirmações serão iniciadas em 02/06 e irão até às 21h do dia 05/06/2025. Encerrado o prazo, as inscrições serão validadas conforme as regras estabelecidas para elegibilidades na participação;
 
-4.2 - Após confirmação das inscrições, será realizado o sorteio das pistas, sendo liberado o início do torneio até 09/06/2025.
+4.2 - Após confirmação das inscrições, será realizado o sorteio das pistas, sendo liberado o início do torneio até 09/06/2025, podendo acontecer antes a critério da adminstração.
 
-4.3 - Serão criados dois grupos e conforme a qtde de inscritos, será definido a quantidade de classificados por cada grupo.
+4.3 - O campeonato será realizado em fase de grupos e mata-mata. O número de participantes de cada grupo e a quantidade de grupos será definida conforme o número de inscritos. A previsão para conclusão da fase de grupos é até dia 15/06/2025.
 
-4.4 - No mês de início (Março), como não há outros campeonatos em andamento, cada rodada terá 5 dias de prazo para adiantar algumas rodadas necessárias para o torneio finalizar no mês de novembro.
+4.4 - Dependendo do número de inscritos, a fase mata-mata poderá ter quartas de final ou ir direto para as semifinais. A previsão para realização da final será até dia 06/07/2025.
 
-4.5 - Na fase de grupos haverá um prazo de 2 semanas para realização de todas as partidas e nas fases finais prazo de 7 dias.
-
-4.6 - **Observação:** As rodadas podem ter o prazo estendido ou reduzido, caso a administração julgue necessário e por motivos de força maior.
+4.5 - **Observação:** As rodadas podem ter o prazo estendido ou reduzido, caso a administração julgue necessário ou por motivos de força maior.
 
 # **5 - Organização e Chaveamento:** #
 
@@ -82,16 +80,16 @@
 
 5.4. Não há limite para a quantidade de participantes e serão classificados para a fase final a quantidade de jogadores a seguir, dependendo da quantidade de inscritos:
 
-- Inscritos: até 18. Classificados: 8;
-- Inscritos: 19 ou mais. Classificados: 16;
+- Inscritos: até 10. Classificados: 4;
+- Inscritos: 11 ou mais. Classificados: 8;
 
-5.5. Serão sorteados 8 pistas para cada rodada na fase de grupos.
+5.5. Serão sorteadas 12 pistas para cada rodada na fase de grupos.
 
-5.6. Nas fases mata-mata, serão sorteados 12 pistas para as oitavas, quartas e semifinais.
+5.6. Nas fases mata-mata, serão sorteados 12 pistas para as quartas e 14 pistas para as semifinais.
 
-5.7. Na final e disputa de 3º, serão sorteados 16 pistas para a disputa.
+5.7. Na final e disputa de 3º, serão sorteados 16 pistas.
 
-5.8. Para todas as fases mata-mata, será sorteado um país o início do desempate.
+5.8. Para todas as fases mata-mata, será sorteado um país inicial para caso de empate.
 
 5.9. Em caso de empate reinicia-se a ROM e joga a partir do país sorteado para desempate:
 - Para facilitar, utilizando a ROM Top Gear TGC Rom (E), poderão ser selecionadas 8 pistas para o desempate, sendo as 4 primeiras referente ao país desempate e as outras 4 do país seguinte do país desempate.
@@ -101,9 +99,9 @@
 - Caso se jogue UK e ao final da pista de Stonehenge a partida ainda não tiver um vencedor seguindo os critérios acima, a partida continua a partir de USA;
 - Obs.: Em comum acordo, os jogadores podem trocar de controle quanto forem iniciar o desempate para corrigir o grid de largada corretamente. Caso não aja concenso, será o player 1, aquele que tiver terminado na frente na pista anterir ao desempate.
 
-5.10 - A partir de 50% da partida realizada, o piloto pode avisar ao oponente que deseja parar e admitir a derrota. Assim, o adversário leva os 20 pontos de cada pista restante e o desistente fica com zero pontos nas mesmas. Para este caso, a partida não será considerada w.o e não haverá sansões.
+5.10 - Na fase de grupos, a partir de 50% da partida realizada, o piloto pode avisar ao oponente que deseja parar e admitir a derrota. Assim, o adversário leva os 20 pontos de cada pista restante e o desistente fica com zero pontos nas mesmas. Para este caso, a partida não será considerada w.o e não haverá sansões. Na fase mata-mata o oponente poderá desistir a qualquer momento.
 
-5.11 - A tolerância de W.O's neste campeonato será no total de 20% do número total de rodadas. Exemplo, se houver 38 rodadas, o piloto poderá ter até 8 rodadas com W.O. Aquele que tiver mais de 9 W.O.'s será impedido de jogar o próximo campeonato Brasileiro da Leomarx e um da TGC.
+5.11 - A tolerância de W.O's neste campeonato será no total de 2(duas) partidas na fase de grupos. Aquele que tiver 3(três) ou mais W.O.'s, será impedido de jogar o próximo campeonato da TGC.
 
 5.12 - Até o final do campeonato, será oportunizado ao piloto que apresente justificativas. Caso as justificativas sejam aceitas, o W.O. não será contabilizado para efeitos de punição.
 
@@ -130,6 +128,7 @@
 6.8.1 - Caso esse tipo de problema aconteça, a orientação é que o confronto deverá ser reiniciado a partir da pista seguinte. Ambos poderão refazer o jogo a partir da pista onde ocorreu o problema, somente se o piloto que não teve problemas assim desejar.
 
 6.8.2 - Caso houver a utilização do carro proibido, o piloto que assim o fizer terá seus pontos zerados. o outro piloto levará a pontuação máxima da partida. Caso ambos utilizem o carro proibido W.O. duplo.
+6.9 - Caso o piloto publique o link de sua live e o vídeo seja pagado, corrompido ou expirado. O resultado poderá ser validado caso seja realizado print do resultado final e print do link publicado.
 
 # **7 - Comunicação:** #
 
@@ -143,7 +142,7 @@
 
 7.5 - Os participantes que não realizarem suas partidas ou agendamento delas nos prazos estabelecidos, através do grupo oficial do campeonato, receberão W.O.
 
-7.6 - O W.O. será atribuído a favor daquele que oferecer maior tempo de disponibilidade, ou contra aquele que não comparecer no horário previamente agendado.
+7.6 - O W.O. será atribuído a favor daquele que oferecer maior tempo de disponibilidade, ou contra aquele que não comparecer no horário previamente agendado sem justificativa.
 
 7.7 - Em casos onde houver incompatibilidade total de horários entre os participantes, na análise de W.O., será priorizado aquele que esteve mais tempo disponível após às 18h ou finais de semana.
 
@@ -153,12 +152,22 @@
 
 Exemplo de postagem de resultado:
 
-- **Séria A - Rodada 4**
+- **GRUPO A - Rodada 4**
 - **@Player1 110 x 100 @Player2**
 - **Vermelho x Branco**
 - **Link da live, do vídeo gravado e upado ou link do arquivo da gravação.**
 
-7.10 - O jogador que enviar mensagens sem relevância para o grupo WhatsApp do campeonato, serão advertidos pela administração. Em caso de reincidência, o jogador será REMOVIDO do grupo por 12h e adicionado novamente após esse prazo. Mesmo com a punição, o jogador tem o dever de cumprir os seus jogos previamente agendados. O jogador readmitido no grupo será eliminado do campeonato caso receba mais uma punição por descumprimento do grupo de WhatsApp.
+7.10 - Sistema de punição por msg sem relevância:
+
+7.10.1 - As punições serão avaliadas e realizadas a cada fase do campeonato, zerando a contagem novamente ao final da mesma.
+
+7.10.2 - Haverá uma 1ª primeira advetência verbal.
+
+7.10.3 - Em caso de reincidência, o participante receberá um cartão amarelo, com a exclusão do piloto por 24 horas. Nesta punição o piloto deve ainda cumprir os agendamentos feitos de alguma outra forma ou reagendar.
+
+7.10.4 - Após retorno se houver nova reincidência, o participante receberá um cartão vermelho, nesta punição além da exclusão do grupo, o piloto também será penalizado com a perda por W.O. em uma partida sorteada aleatoriamente, mesmo que a partida já tenha sido realizada.
+
+7.10.5 - Mesmo que a msg seja apagada pelo piloto infrator posteriormente ao envio, a punição será executada, caso seja apresentado print da mensagem pelos adminstradores ou demais participantes.
 
 # **8 - Regras de Conduta** #
 
@@ -176,7 +185,7 @@ Exemplo de postagem de resultado:
 
 8.3 - Outras medidas referentes a processos legais, deverão ser adotadas pelo próprio requerente. 
 
-8.4 - Para protocolar a reclamação, os print’s das mensagens ou áudios (enviados no período de realização do campeonato, nas redes oficiais da TGC), devem ser encaminhados através de protocolo conforme modelo no item a seguir, pelo Facebook ou no PV da administração, ou no post de inscrição do campeonato com a hashtag #PROTOCOLO e que deverá ser respondido pela administração em um prazo máximo de até 3 dias úteis.
+8.4 - Para protocolar a reclamação, os print’s das mensagens ou áudios (enviados no período de realização do campeonato, nas redes oficiais da TGC), devem ser encaminhados através de protocolo conforme modelo no item a seguir, pelo Facebook ou no PV da administração, ou no post de inscrição do campeonato com a hashtag #PROTOCOLO e que deverá ser respondido pela administração em um prazo máximo de até 3 dias úteis. O protocolo somente será aceito caso a ocorrência tenha um prazo máximo de 48 horas anteriores à abertura do protocolo.
 
 8.5 - **Modelo de protocolo:** 
 
