@@ -7,19 +7,19 @@
 # **1 - Participantes Pré-inscritos:** #
 
   1.1 - Classificados direto para as Oitavas de Final:
-  - 01 - Jurandir Filho (Sr Filho) - Campeão Torneio de Verão 2023
-  - 02 - Alexis Sánchez (ChitaMX) - Campeão La Liga X 2023
-  - 03 - ~~Tomyo Sato (Max Verstappen)~~ Allan Live (Allan Live) - Campeão Torneio de Outono 2023
-  - 04 - Rafael Lopes (Diablo) - Campeão Copa TGC 2023
-  - 05 - Carlos Rubens (CRX) - 3º TGC XIV
-  - 06 - Robson Meireles (Rob Jax) - Campeão Torneio de Inverno 2023
-  - 07 - Lenno Coelho (Lenn Miner) - 4º colocado no La Liga XI
-  - 08 - Luciano Alves (Luciano) - 5º colocado no Torneio de Primavera 2023
+  - 01 - Lenno Coelho (Lenn Miner) - Campeão Torneio de Verão 2024
+  - 02 - Rafael Lopes (Diablo) Ari Jr (Arijunino) - Campeão La Liga XII 2024 ou 5º La Liga XII
+  - 03 - Robson Meireles (Rob Jax) - Campeão Torneio de Outono 2024
+  - 04 - Alexis Sánchez (ChitaMX) - Campeão Copa TGC 2024
+  - 05 - Ronald Daniel (RoanlDan) - 4º TGC XV
+  - 06 - Allan Live (Allan Live) - 3º Torneio de Inverno 2024
+  - 07 - Jurandir Filho (Sr Filho) - 4º colocado no La Liga XIII
+  - 08 - Leonardo Andrade (LeomarxGames) - 5º colocado no Torneio de Primavera 2023
 
   1.2 - Fase de grupos:
   - 09 - Allan Live (Allan Live)
   - 10 - Ari Jr (Arijunino)
-  - 11 - Leonardo Andrade (LeomarxGames)
+  - 11 - Luciano Alves (Luciano)
   - 12 - Brisantt (BR’s)
   - 13 - Paolo (Paomarc)
   - 14 - Paulo Muniz (Paulo Fox)
@@ -54,7 +54,7 @@
 
   2.1 - A COPA TGC 2025 será disputada no estilo mata-mata em todas as suas fases, sendo realizadas em jogos de ida e volta.
 
-  2.2 - Estarão classificados diretamente para as oitavas de final, os campeões dos campeonatos de calendário da TGC 2024: Torneio de Verão, La Liga X, Torneio de Outono, Copa TGC 2024, TGC 14, Torneio de Inverno, La Liga XI e Torneio de Primavera.
+  2.2 - Estarão classificados diretamente para as oitavas de final, os campeões dos campeonatos de calendário da TGC 2024: Torneio de Verão, La Liga XII, Torneio de Outono, Copa TGC 2024, TGC 15, Torneio de Inverno, La Liga XIII e Torneio de Primavera.
 
   2.3 - Caso algum dos participantes do item 2.2 não possa participar da Copa TGC, será substituído pelo participante melhor colocado do referido campeonato.
 
@@ -64,9 +64,9 @@
 
   2.5 - Oitavas de final, quartas de final, seminais, disputa de terceiro e final, também serão disputadas em jogos de ida e volta.
 
-  2.6 - Para a COPA TGC do próximo ano, estarão classificados diretamente para as oitavas de final, os campeões dos campeonatos de calendário da TGC 2025: Torneio de Verão, La Liga XIII, Torneio de Outono, Copa TGC, TGC 15, Torneio de Inverno, La Liga XIV e Torneio de Primavera.
+  2.6 - Para a COPA TGC do próximo ano, estarão classificados diretamente para as oitavas de final, os campeões dos campeonatos de calendário da TGC 2025: Torneio de Verão, La Liga XIV, Torneio de Outono, Copa TGC 2025, TGC 16, Torneio de Inverno, La Liga XIV e Torneio de Primavera.
 
-  2.7 - Caso se repita o campeão em algum dos torneios do item anterior, estará classificado diretamente o vice-campeão daquele torneio. Se o vice já tiver sido campeão em algum outro torneio, a vaga será do próximo mais bem classificado e assim sucessivamente.
+  2.7 - Caso algum dos participantes do item 2.6 não possa participar da Copa TGC, será substituído pelo participante melhor colocado do referido campeonato.
 
 # **3 - Confirmação De Inscrição:** #
 
@@ -89,31 +89,31 @@
 
 # **4 - Cronograma Previsto:** #
 
-  4.1 - Prazo para confirmações e novas inscrições: 03/04 a 06/04/2025 às 18h;
+  4.1 - Prazo para confirmações e novas inscrições: 02/06 a 05/06/2025 às 18h;
 
-  4.2 - 06/04/2025, definição dos confrontos da primeira fase e sorteio de países e carros;
+  4.2 - Até 09/06/2025, definição dos confrontos da primeira fase e sorteio de países e carros;
 
-  4.3 - 06/04 a 16/04/2025 às 23h, realização dos jogos de ida e volta da primeira fase eliminatória;
+  4.3 - de 09/06 a 22/06/2025 às 23h59, realização dos jogos de ida e volta da primeira fase eliminatória;
 
-  4.4 - 17/04/2025 sorteio dos países e carros da segunda fase eliminatória;
+  4.4 - 23/06/2025 sorteio dos países e carros da segunda fase eliminatória;
 
-  4.5 - 17/04 a 26/04/2025 às 23h, realização dos jogos de ida e volta da segunda fase eliminatória;
+  4.5 - 23/06 a 29/06/2025 às 23h59, realização dos jogos de ida e volta da segunda fase eliminatória;
 
-  4.6 - 27/04/2025 sorteio dos países e carros das oitavas de final;
+  4.6 - 30/06/2025 sorteio dos países e carros das oitavas de final;
 
-  4.7 - 27/04 a 06/05/2025 às 23h, realização dos jogos de ida e volta das oitavas de final;
+  4.7 - 30/06 a 06/07/2025 às 23h59, realização dos jogos de ida e volta das oitavas de final;
 
-  4.8 - 07/05/2025, sorteio dos países e carros das quartas de final;
+  4.8 - 07/07/2025, sorteio dos países e carros das quartas de final;
 
-  4.9 - 07/05 a 16/05/2025 às 23h, realização dos jogos de ida e volta das quartas de final;
+  4.9 - 07/07 a 13/07/2025 às 23h59, realização dos jogos de ida e volta das quartas de final;
 
-  4.10 - 17/05/2025, sorteio dos países e carros das semifinais;
+  4.10 - 14/07/2025, sorteio dos países e carros das semifinais;
 
-  4.11 - 17/05 a 26/05/2025 às 23h, realização dos jogos de ida e volta das semifinais;
+  4.11 - 14/07 a 20/07/2025 às 23h59, realização dos jogos de ida e volta das semifinais;
 
-  4.12 - 27/05/2025, sorteio dos países e carros da final e disputa de terceiro;
+  4.12 - 21/07/2025, sorteio dos países e carros da final e disputa de terceiro;
 
-  4.13 - 27/05 a 05/06/2025 às 23h, realização dos jogos de ida e volta da final e disputa de terceiro;
+  4.13 - 21/07 a 27/07/2025 às 23h59, realização dos jogos de ida e volta da final e disputa de terceiro;
 
   4.14 - As datas poderão sofrer alteração, dependendo do número de inscritos e conclusão dos jogos de cada fase.
 
@@ -121,9 +121,9 @@
 
   5.1 - Será utilizado o TOORNAMENT para chaveamento das partidas do campeonato. Link [CopaTGC2025](https://play.toornament.com/en_US/tournaments/8911239026455232512/)
 
-  5.2 - Fase eliminatória, Oitavas e Quartas: 2 países ida e volta.
+  5.2 - Fases eliminatórias: 2 países ida e volta.
 
-  5.3 - Semifinal: 3 países ida e volta
+  5.3 - Oitavas. Quartas e Semifinal: 3 países ida e volta.
 
   5.4 - Final e terceiro: 4 países ida e volta.
 
