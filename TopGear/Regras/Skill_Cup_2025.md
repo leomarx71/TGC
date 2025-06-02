@@ -128,6 +128,7 @@
 6.8.1 - Caso esse tipo de problema aconteça, a orientação é que o confronto deverá ser reiniciado a partir da pista seguinte. Ambos poderão refazer o jogo a partir da pista onde ocorreu o problema, somente se o piloto que não teve problemas assim desejar.
 
 6.8.2 - Caso houver a utilização do carro proibido, o piloto que assim o fizer terá seus pontos zerados. o outro piloto levará a pontuação máxima da partida. Caso ambos utilizem o carro proibido W.O. duplo.
+
 6.9 - Caso o piloto publique o link de sua live e o vídeo seja pagado, corrompido ou expirado. O resultado poderá ser validado caso seja realizado print do resultado final e print do link publicado.
 
 # **7 - Comunicação:** #
@@ -178,7 +179,7 @@ Exemplo de postagem de resultado:
 - Status social;
 - De idade;
 - Deficiência;
-- Difamação ou calúnia;
+- Difamação, Injúria ou Calúnia;
 - Nacionalidade, Naturalidade, ou Lugar onde mora, ou nasceu.
 
 8.2 - OBSERVAÇÕES: Mensagens trocadas em redes sociais particulares não serão consideradas. Denúncias e reclamações por ofensas somente serão consideradas e julgadas pela administração, se ocorrerem nos CANAIS OFICIAIS da TGC (Facebook, WhatsApp, Discord, YouTube, Twitch, Instagram e outros) ou no chat da transmissão oficial de uma partida válida do campeonato. Chats privados (PV) e quaisquer outros meios não serão considerados. Caracterizada a ofensa desrespeitosa com a dignidade da pessoa, a administração se reserva exclusivamente à punição de exclusão do campeonato e/ou da comunidade por um determinado período de tempo.
