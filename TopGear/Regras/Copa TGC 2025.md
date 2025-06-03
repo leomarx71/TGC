@@ -249,7 +249,17 @@ Exemplo de postagem de resultado:
 - **Vermelho x Branco**
 - **Link da live, do vídeo gravado e upado ou link do arquivo da gravação.**
 
-8.10 - O jogador que enviar mensagens sem relevância para o grupo WhatsApp do campeonato, serão advertidos pela administração. Em caso de reincidência, o jogador será REMOVIDO do grupo por 12h e adicionado novamente após esse prazo. Mesmo com a punição, o jogador tem o dever de cumprir os seus jogos previamente agendados. O jogador readmitido no grupo será eliminado do campeonato caso receba mais uma punição por descumprimento do grupo de WhatsApp.
+8.10 - Sistema de punição por msg sem relevância:
+
+8.10.1 - As punições serão avaliadas e realizadas a cada fase do campeonato, zerando a contagem novamente ao final da mesma.
+
+8.10.2 - Haverá uma 1ª primeira advetência verbal.
+
+8.10.3 - Em caso de reincidência, o participante receberá um cartão amarelo, com a exclusão do piloto por 24 horas. Nesta punição o piloto deve ainda cumprir os agendamentos feitos de alguma outra forma ou reagendar.
+
+8.10.4 - Após retorno se houver nova reincidência, o participante receberá um cartão vermelho, nesta punição além da exclusão do grupo, o piloto também será penalizado com a perda por W.O. em uma partida sorteada aleatoriamente, mesmo que a partida já tenha sido realizada.
+
+8.10.5 - Mesmo que a msg seja apagada pelo piloto infrator posteriormente ao envio, a punição será executada, caso seja apresentado print da mensagem pelos adminstradores ou demais participantes.
 
 # **9 - Regras de Conduta** #
 
