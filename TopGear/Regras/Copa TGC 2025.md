@@ -8,7 +8,7 @@
 
   1.1 - Classificados direto para as Oitavas de Final:
   - 01 - Lenno Coelho (Lenn Miner) - Campeão Torneio de Verão 2024
-  - 02 - Rafael Lopes (Diablo) Ari Jr (Arijunino) - Campeão La Liga XII 2024 ou 5º La Liga XII
+  - 02 - Rafael Lopes (Diablo) - Campeão La Liga XII 2024
   - 03 - Robson Meireles (Rob Jax) - Campeão Torneio de Outono 2024
   - 04 - Alexis Sánchez (ChitaMX) - Campeão Copa TGC 2024
   - 05 - Ronald Daniel (RoanlDan) - 4º TGC XV
@@ -17,33 +17,33 @@
   - 08 - Leonardo Andrade (LeomarxGames) - 5º colocado no Torneio de Primavera 2023
 
   1.2 - Fase de grupos:
-  - 09 - Allan Live (Allan Live)
-  - 10 - Ari Jr (Arijunino)
-  - 11 - Luciano Alves (Luciano)
-  - 12 - Brisantt (BR’s)
-  - 13 - Paolo (Paomarc)
-  - 14 - Paulo Muniz (Paulo Fox)
-  - 15 - Marlon (Marlon RJ)
-  - 16 - Samuel (Samuel)
+  - 09 - Carlos Rubens (CRX)
+  - 10 - Oscar (Goku) 
+  - 11 - Luciano Alves (Luciano) 
+  - 12 - Paulo Muniz (Paulo Fox)  
+  - 13 - Edimar Caetano (Pegasus) 
+  - 14 - Marlon Reis (Lonsoldier)
+  - 15 - Javier Portillo (Javier)
+  - 16 - Paolo (Paomarc) 
   - 17 - Marcel Santana (MMM)
-  - 18 - Edimar Caetano (Pegasus)
-  - 19 - Oscar (Goku)
-  - 20 - Edwin Huaylla (Ediwn HD)
+  - 18 - Roberto Vasquez (The Mister)
+  - 19 - Alisson Paulo (Jack Maloi)
+  - 20 - Jhonny Mota (Jhonny)
   - 21 - Petter (JackPoker40)
-  - 22 - Javier Portillo (Javier)
-  - 23 - Vinícius Gustavo (Vinny)
-  - 24 - Lucas Souza (Killua)
-  - 25 - Martin (Schumacher)
-  - 26 - Roberto Vasquez (The Mister)
-  - 27 - Alexandre Aquino (Aquino)
-  - 28 - Alisson Paulo (Jack Maloi)
-  - 29 - Brenner Matos (Brenner Gameplays)
-  - 30 - Bruno Menezes (Bruno Menezes)
-  - 31 - Casio Aquino (CFDA)
-  - 32 - Edson Silva (Senninkage)
-  - 33 - Eduardo Oliveira (Dudu)
-  - 34 - Marlon Reis (Lonsoldier)
-  - 35 - Jhony (Jhony)
+  - 22 - Brenner Matos (Brenner Gameplays)
+  - 23 - Luís CArdenas (LAOM)
+  - 24 - Bruno Menezes (Bruno Menezes) 
+  - 25 - Rannid (Rannid) 
+  - 26 - Edson Silva (Senninkage)
+  - 27 - Ari Jr (Arijunino)
+  - 28 - Brisantt (BR’s)
+  - 29 - Samuel (Samuel)
+  - 30 - Lucas Souza (Killua)
+  - 31 - Martin (Schumacher)
+  - 32 - 
+  - 33 - 
+  - 34 - 
+  - 35 - 
   - 36 - 
   - 37 - 
   - 38 - 
@@ -64,7 +64,7 @@
 
   2.5 - Oitavas de final, quartas de final, seminais, disputa de terceiro e final, também serão disputadas em jogos de ida e volta.
 
-  2.6 - Para a COPA TGC do próximo ano, estarão classificados diretamente para as oitavas de final, os campeões dos campeonatos de calendário da TGC 2025: Torneio de Verão, La Liga XIV, Torneio de Outono, Copa TGC 2025, TGC 16, Torneio de Inverno, La Liga XIV e Torneio de Primavera.
+  2.6 - Para a COPA TGC de 2026, estarão classificados diretamente para as oitavas de final, os campeões dos campeonatos de calendário da TGC 2025: Torneio de Verão, La Liga XIV, Torneio de Outono, Copa TGC 2025, TGC 16, Torneio de Inverno, La Liga XV e Torneio de Primavera.
 
   2.7 - Caso algum dos participantes do item 2.6 não possa participar da Copa TGC, será substituído pelo participante melhor colocado do referido campeonato.
 
@@ -89,7 +89,7 @@
 
 # **4 - Cronograma Previsto:** #
 
-  4.1 - Prazo para confirmações e novas inscrições: 02/06 a 05/06/2025 às 18h;
+  4.1 - Prazo para confirmações e novas inscrições: 03/06 a 06/06/2025 às 18h;
 
   4.2 - Até 09/06/2025, definição dos confrontos da primeira fase e sorteio de países e carros;
 
@@ -127,7 +127,7 @@
 
   5.4 - Final e terceiro: 4 países ida e volta.
 
-  5.5 - Para cada fase, além dos países sorteados, será sorteado também um carro que não poderá ser utilizado nos jogos de ida e volta.
+  5.5 - Para cada fase, além dos países sorteados, será sorteado também um carro que não poderá ser utilizado nos jogos de ida e volta e um país para o desmpate.
 
 # **6 - Classificação:** #
 
@@ -143,23 +143,23 @@
 
   - 6.1.5 - Os participantes do Grupo B serão os mandantes de campo na primeira fase eliminatória e os participantes do Grupo A serão os visitantes.
 
-  - 6.1.6 - Na partida de ida, o mandante irá escolher tanto o seu carro, como o carro do adversário, informando sua escolha apenas no momento da realização da partida.
+  - 6.1.6 - Na partida de ida, o mandante será o primeiro a escolher seu carro, o visitante deverá escolher um carro diferente. Nenhum dos participantes poderá escolher o carro proibido da rodada.
 
   - 6.1.7 - Se o mandante perder a partida por uma diferença mínima de 25 (vinte e cinco) pontos, será eliminado sem a necessidade de jogo de volta.
 
   - 6.1.8 - Se o visitante vencer por diferença menor que 25 pontos, empatar ou perder o jogo de ida, será realizado o jogo de volta.
 
-  - 6.1.9 - No jogo de volta, inverte-se o mando de campo e o novo mandante irá escolher o mesmo carro para ambos jogarem e quem vencer a partida avança para a próxima fase.
+  - 6.1.9 - No jogo de volta, inverte-se o mando de campo e o novo mandante irá escolher a cor do carro que ambos deverão usar na partida. O carro deverá ser o mesmo para os dois jogadores. Avança para a próxima fase aquele que vencer a partida.
 
-  - 6.1.10 - Em caso de empate no jogo de volta, o desempate será realizado com o carro proibido para os jogos de ida e volta. No desempate, será disputado o país seguinte ao segundo país sorteado para a fase. Caso o país desempate seja igual a um dos países sorteados, deverá ser iniciado o desempate no país seguinte.
+  - 6.1.10 - Em caso de empate no jogo de volta, o desempate será realizado com o carro proibido começando pelo país sorteado para o desmpate.
 
   6.1.10 Exemplo:
   
     1º país sorteado: Alemanha
     2º país sorteado: França
-    Carro proibido pelo sorteio: Roxo
-    País desempate: Itália
-    Carro desempate: Branco
+    Carro proibido pelo sorteio para os dois primeiros países: Roxo
+    País desempate sorteado: Itália
+    Carro desempate: Roxo
 
   - 6.1.11 - Vence o desempate o jogador que abrir mais de 5 (cinco) pontos em qualquer momento da disputa.
  
@@ -175,13 +175,13 @@
   
   - 6.2.2 - Avançará para a próxima fase o jogador que tiver a maior soma de pontos nos jogos de ida e volta.
   
-  - 6.2.3 - Em caso de empate no jogo de volta, o desempate será realizado com o carro proibido para os jogos de ida e volta. No desempate, será disputado o país seguinte ao último país sorteado para a fase. Caso o país desempate seja igual a um dos países sorteados, deverá ser iniciado o desempate no país seguinte.
+  - 6.2.3 - Em caso de empate, o desempate será realizado com o carro proibido começando pelo país sorteado para o desmpate.
 
   6.2.3 Exemplo:  
 
     1º país sorteado: Alemanha
     2º país sorteado: França
-    Carro proibido pelo sorteio: Azul
+    Carro proibido pelo sorteio para os dois primeiros países: Roxo
     País desempate: Itália
     Carro desempate: Roxo
 
@@ -218,19 +218,6 @@
 6.8.1 - Caso esse tipo de problema aconteça, a orientação é que o confronto deverá ser reiniciado a partir da pista seguinte. Ambos poderão refazer o jogo a partir da pista onde ocorreu o problema, somente se o piloto que não teve problemas assim desejar.
 
 6.8.2 - Caso houver a utilização do carro proibido, o piloto que assim o fizer terá seus pontos zerados. o outro piloto levará a pontuação máxima da partida. Caso ambos utilizem o carro proibido W.O. duplo.
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 # **7 - Comunicação:** #
 
