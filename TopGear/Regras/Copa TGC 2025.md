@@ -127,7 +127,7 @@
 
   5.4 - Final e terceiro: 4 países ida e volta.
 
-  5.5 - Para cada fase, além dos países sorteados, será sorteado também um carro que não poderá ser utilizado nos jogos de ida e volta e um país para o desmpate.
+  5.5 - Para cada fase, além dos países sorteados, será sorteado também um carro que não poderá ser utilizado nos jogos de ida e volta e um país para o desempate.
 
 # **6 - Classificação:** #
 
