@@ -277,7 +277,7 @@ Exemplo de postagem de resultado:
 
 9.3 - Outras medidas referentes a processos legais, deverão ser adotadas pelo próprio requerente. 
 
-9.4 - 8.4 - Para protocolar a reclamação, os print’s das mensagens ou áudios (enviados no período de realização do campeonato, nas redes oficiais da TGC), devem ser encaminhados através de protocolo conforme modelo no item a seguir, pelo Facebook ou no PV da administração, ou no post de inscrição do campeonato com a hashtag #PROTOCOLO e que deverá ser respondido pela administração em um prazo máximo de até 3 dias úteis. O protocolo somente será aceito caso a ocorrência tenha um prazo máximo de 48 horas anteriores à abertura do protocolo.
+9.4 - Para protocolar a reclamação, os print’s das mensagens ou áudios (enviados no período de realização do campeonato, nas redes oficiais da TGC), devem ser encaminhados através de protocolo conforme modelo no item a seguir, pelo Facebook ou no PV da administração, ou no post de inscrição do campeonato com a hashtag #PROTOCOLO e que deverá ser respondido pela administração em um prazo máximo de até 3 dias úteis. O protocolo somente será aceito caso a ocorrência tenha um prazo máximo de 48 horas anteriores à abertura do protocolo.
 
 9.5 - **Modelo de protocolo:** 
 
