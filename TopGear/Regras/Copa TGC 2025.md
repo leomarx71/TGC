@@ -4,51 +4,52 @@
 
 # **Leia todas as regras com bastante atenção!!!** #
 
-# **1 - Participantes Pré-inscritos:** #
+# **1 - Participantes Pré-inscritos e Novos Pilotos:** #
 
-  1.1 - Classificados direto para as Oitavas de Final:
+1.1 - Classificados direto para as Oitavas de Final:
   - 01 - Lenno Coelho (Lenn Miner) - Campeão Torneio de Verão 2024
   - 02 - Rafael Lopes (Diablo) - Campeão La Liga XII 2024
   - 03 - Robson Meireles (Rob Jax) - Campeão Torneio de Outono 2024
   - 04 - Alexis Sánchez (ChitaMX) - Campeão Copa TGC 2024
-  - 05 - Ronald Daniel (RoanlDan) - 4º TGC XV
-  - 06 - Allan Live (Allan Live) - 3º Torneio de Inverno 2024
-  - 07 - Jurandir Filho (Sr Filho) - 4º colocado no La Liga XIII
-  - 08 - Leonardo Andrade (LeomarxGames) - 5º colocado no Torneio de Primavera 2023
+  - 05 - Ronald Daniel (RoanlDan) - 4º Lugar TGC XV 2024
+  - 06 - Allan Live (Allan Live) - 3º Lugar Torneio de Inverno 2024
+  - 07 - Jurandir Filho (Sr Filho) - 4º Lugar La Liga XIII 2024
+  - 08 - Leonardo Andrade (LeomarxGames) - 5º Lugar Torneio de Primavera 2024
 
-  1.2 - Fase de grupos:
-  - 09 - Carlos Rubens (CRX)
-  - 10 - Oscar (Goku) 
-  - 11 - Luciano Alves (Luciano) 
-  - 12 - Paulo Muniz (Paulo Fox)  
-  - 13 - Edimar Caetano (Pegasus) 
-  - 14 - Marlon Reis (Lonsoldier)
-  - 15 - Javier Portillo (Javier)
-  - 16 - Paolo (Paomarc) 
-  - 17 - Marcel Santana (MMM)
-  - 18 - Roberto Vasquez (The Mister)
-  - 19 - Alisson Paulo (Jack Maloi)
-  - 20 - Jhonny Mota (Jhonny)
-  - 21 - Petter (JackPoker40)
-  - 22 - Brenner Matos (Brenner Gameplays)
-  - 23 - Luís CArdenas (LAOM)
-  - 24 - Bruno Menezes (Bruno Menezes) 
-  - 25 - Rannid (Rannid) 
-  - 26 - Edson Silva (Senninkage)
-  - 27 - Ari Jr (Arijunino)
-  - 28 - Brisantt (BR’s)
-  - 29 - Samuel (Samuel)
-  - 30 - Lucas Souza (Killua)
-  - 31 - Martin (Schumacher)
-  - 32 - 
-  - 33 - 
-  - 34 - 
-  - 35 - 
-  - 36 - 
-  - 37 - 
-  - 38 - 
-  - 39 - 
-  - 40 - 
+1.2 - Participantes validados que podem manisfetar interesse em entrar na fase de grupos:
+
+- Albert Matos (Suprem Peruvian) 
+- Aléxis Sánchez (ChitaMX)
+- Alison Paulo (Jack Maloi)
+- Amélio Belchior (Amélio) 
+- Anderson Policarpo (Policarpo) 
+- Ari Júnior (Arijunino)
+- Carlos José (Carlos CJX) 
+- Carlos Rubens (Carlos CRX)
+- Brisantt (BR Brissant) 
+- Edimar Caetano (Pegasus PSX)
+- Edwin Huaylla (HD Wins)
+- Felipe Costa (Dark FPC) 
+- Javier Portillo (Javier VZLA)
+- Jhonny Mota (Jhonny)
+- Jurandir Filho (Sr. Filho)
+- Laynara Souza (UaiLay) 
+- Lenno Coelho (LeNN Miner)
+- Leonardo Andrade (Leomarx Games)
+- Luciano Alves (Luciano Bora Zerar)
+- Luís Cárdenas (Luís L.A.O.M.) 
+- Marcel Santana (MMM) 
+- Marlon Fernandes (Camus Kshrc) 
+- Martins Pazos (Schumacher) 
+- Óscar Cárdenas (Goku L.A.O.M.) 
+- Paulo Muniz (Paulo Fox)
+- Petter Bruno (JackPoker40)
+- Rafael Lopes (Rafael Diablo)
+- Roberto Vasquez (The Mister)
+- Robson Meireles (Rob Jax)
+- Ronald Daniel (RonalDan)
+
+1.3 - Novos participantes poderão solicitar o ingresso, porém ficarão em cadastro reserva para preencher as vagas remanescentes.
 
 # **2 - Formato** #
 
@@ -72,24 +73,25 @@
 
   3.1 - Só poderão participar da COPA TGC 2025, aqueles jogadores que forem inscritos na Comunidade TGC e não estiverem cumprindo punição vigente que impeça a participação em campeonatos.
 
-  3.2 - Os participantes listados no item 1 já estão pré-inscritos na COPA TGC 2025, sendo necessário apenas deixar nos comentários sua confirmação conforme o modelo a seguir:
+  3.2 - Os participantes listados no item 1 já estão pré-inscritos na COPA TGC 2025, sendo necessário apenas posteriormente no grupo de WhatsApp do campeonato.
 
   *CONFIRMO MINHA PARTICIPAÇÃO NA COPA TGC 2025.*
 
   3.3 - Para os novos participantes, a inscrição deverá seguir o modelo a seguir:
 
     Apelido/Nickname: LeomarxGames
-    Número de telefone com WhatsApp: +55 11 99999-8888
     Disponibilidade para jogar: à noite durante a semana e dia todo nos finais de semana.
     Método que utiliza: Radmin e Hamachi.
 
-  3.4 - Todos os participantes pré-inscritos que confirmarem suas inscrições ou aqueles que realizarem novas inscrições, concordam com todas as regras aqui dispostas, podendo questioná-las com os administradores antes da confirmação de sua inscrição.
+  3.4 - Em seguida, será criado um grupo de WhatsApp do campeonato e o piloto deve ingressar, confirmando a participação dos pré-inscritos e novos participantes.
+  
+  3.5 - Todos os participantes pré-inscritos que confirmarem suas inscrições ou aqueles que realizarem novas inscrições, concordam com todas as regras aqui dispostas, podendo questioná-las com os administradores antes da confirmação de sua inscrição.
 
-  3.5 - A TGC se reserva ao direito do uso de imagem dos participantes da COPA TGC 2025, seja para retransmissões de partidas realizadas, bem como na divulgação de vídeos promocionais em suas redes sociais.
+  3.6 - A TGC se reserva ao direito do uso de imagem dos participantes da COPA TGC 2025, seja para retransmissões de partidas realizadas, bem como na divulgação de vídeos promocionais em suas redes sociais.
 
 # **4 - Cronograma Previsto:** #
 
-  4.1 - Prazo para confirmações e novas inscrições: 03/06 a 06/06/2025 às 18h;
+  4.1 - Prazo para confirmações e novas inscrições: 05/06 a 08/06/2025 às 18h;
 
   4.2 - Até 09/06/2025, definição dos confrontos da primeira fase e sorteio de países e carros;
 
@@ -165,7 +167,7 @@
  
   - 6.1.12 - Permanecendo o empate no primeiro país, o país seguinte deverá ser jogado e assim sucessivamente, até que um jogador abra mais de 5 pontos de vantagem.
   
-  - 6.1.13 - Importante esclarecer que NÃO haverá soma das pontuações das partidas de ida e volta nessa fase. A partida de ida servirá para definir se haverá realização do jogo de volta conforme o item 6.7.
+  - 6.1.13 - Importante esclarecer que NÃO haverá soma das pontuações das partidas de ida e volta nessa fase. A partida de ida servirá para definir se haverá realização do jogo de volta conforme o item 6.1.7
 
 **6.2 - Oitavas, Quartas-de-Final, Semifinais, Final E Disputa De Terceiro**
 
