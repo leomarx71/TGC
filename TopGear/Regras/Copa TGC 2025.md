@@ -15,7 +15,6 @@
   - 06 - Allan Live (Allan Live) - 3º Lugar Torneio de Inverno 2024
   - 07 - Jurandir Filho (Sr Filho) - 4º Lugar La Liga XIII 2024
   - 08 - Leonardo Andrade (LeomarxGames) - 5º Lugar Torneio de Primavera 2024
-  - 
 
 1.2 - Participantes validados que podem manisfetar interesse em entrar na fase de grupos:
 
@@ -32,6 +31,8 @@
 - Paulo Muniz (Paulo Fox)
 - Petter Bruno (JackPoker40)
 - Roberto Vasquez (The Mister)
+- ChrisJp
+- 
 
 1.3 - Novos participantes poderão solicitar o ingresso, porém ficarão em cadastro reserva para preencher as vagas remanescentes.
 
