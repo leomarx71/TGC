@@ -125,7 +125,7 @@
 
   - 6.1.2 - A classificação geral inicial seguirá a lista dos pré-inscritos do item 1 e na sequência os demais participantes por ordem de inscrição.
 
-  - 6.1.3 - A classificação inicial a partir do 9º (nono) colocado será estabelecida conforme a classificação da edição da Copa TGC 2024, aqueles que não tiverem participado serão classificados conforme a tabela do Mundial TG1 - 2025. Aqueles que não tiverem participado da Copa TGC 2024 e não tiverem classificação na Tabela do Mundial, serão classificados aleatoriamente ou conforme a inscrição cronológica.
+  - 6.1.3 - A classificação inicial a partir do 9º (nono) colocado será estabelecida conforme a tabela do Mundial TG1 - 2025. Aqueles que não tiverem classificação na Tabela do Mundial, serão classificados aleatoriamente ou conforme a inscrição cronológica.
 
   - 6.1.4 - Chamaremos de grupo A aquele formado pelos participantes mais bem classificados na lista e Grupo B aquele formado pelos demais participantes.
 
@@ -137,7 +137,7 @@
 
   - 6.1.8 - Se o visitante vencer por diferença menor que 25 pontos, empatar ou perder o jogo de ida, será realizado o jogo de volta.
 
-  - 6.1.9 - No jogo de volta, inverte-se o mando de campo e o novo mandante irá escolher a cor do carro que ambos deverão usar na partida. O carro deverá ser o mesmo para os dois jogadores. Avança para a próxima fase aquele que vencer a partida.
+  - 6.1.9 - No jogo de volta, inverte-se o mando de campo e a escolha do carro será livre. Avança para a próxima fase aquele que vencer a partida.
 
   - 6.1.10 - Em caso de empate no jogo de volta, o desempate será realizado com o carro proibido começando pelo país sorteado para o desmpate.
 
@@ -157,7 +157,7 @@
 
 **6.2 - Oitavas, Quartas-de-Final, Semifinais, Final E Disputa De Terceiro**
 
-  - 6.2.1 - O mandante escolherá o seu carro e o carro do visitante dentre os carros disponíveis no jogo de ida.
+  - 6.2.1 - Na partida de ida, o mandante será o primeiro a escolher seu carro, o visitante deverá escolher um carro diferente. Nenhum dos participantes poderá escolher o carro proibido da rodada.
   
   - 6.2.2 - No jogo de volta, inverte-se o mando de campo e repete-se o mesmo procedimento do item 6.2.1.
   
@@ -170,7 +170,7 @@
     1º país sorteado: Alemanha
     2º país sorteado: França
     Carro proibido pelo sorteio para os dois primeiros países: Roxo
-    País desempate: Itália
+    País desempate sorteado: Itália
     Carro desempate: Roxo
 
   - 6.2.4 - Vence o desempate o jogador que abrir mais de 5 (cinco) pontos em qualquer momento da disputa.
