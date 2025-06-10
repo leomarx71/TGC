@@ -23,7 +23,7 @@
 - 11 - Jhonny Mota (Jhonny)
 - 12 - Ari Júnior (Arijunino) 
 - 13 - Albert Matos (Suprem Peruvian)
-- 14 - Roberto Vasquez (The Mister)Laynara Souza (UaiLay) 
+- 14 - Roberto Vasquez (The Mister)
 - 15 - Paulo Muniz (Paulo Fox)
 - 16 - Irvin Delgado (Irvin 1988)
 - 17 - Brisantt (BR Brissant)
@@ -59,7 +59,7 @@
 
   3.1 - Só poderão participar da COPA TGC 2025, aqueles jogadores que forem inscritos na Comunidade TGC e não estiverem cumprindo punição vigente que impeça a participação em campeonatos.
 
-  3.2 - Os participantes listados no item 1 já estão pré-inscritos na COPA TGC 2025, sendo necessário apenas posteriormente no grupo de WhatsApp do campeonato.
+  3.2 - Os participantes listados no item 1 já estão pré-inscritos na COPA TGC 2025, sendo necessário apenas confirmarem sua participação no grupo de WhatsApp do campeonato, conforme modelo abaixo ou através de enquete. 
 
   *CONFIRMO MINHA PARTICIPAÇÃO NA COPA TGC 2025.*
 
@@ -77,7 +77,7 @@
 
 # **4 - Cronograma Previsto:** #
 
-  4.1 - Prazo para confirmações e novas inscrições: 05/06 a 08/06/2025 às 18h;
+  4.1 - Prazo para confirmações e novas inscrições: 05/06 a 09/06/2025 às 23h59h;
 
   4.2 - Até 09/06/2025, definição dos confrontos da primeira fase e sorteio de países e carros;
 
