@@ -16,7 +16,7 @@
   - 07 - Jurandir Filho (Sr Filho) - 4º Lugar La Liga XIII 2024
   - 08 - Leonardo Andrade (LeomarxGames) - 5º Lugar Torneio de Primavera 2024
 
-1.2 - Participantes validados que podem manisfetar interesse em entrar na fase de grupos:
+1.2 - Participantes validados que podem manifestar interesse em entrar na Fase Eliminatória:
 
 - 09 - Marlon Fernandes (Camus Kshrc)
 - 10 - Luciano Alves (Luciano Bora Zerar)
