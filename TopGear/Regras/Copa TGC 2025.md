@@ -15,39 +15,23 @@
   - 06 - Allan Live (Allan Live) - 3º Lugar Torneio de Inverno 2024
   - 07 - Jurandir Filho (Sr Filho) - 4º Lugar La Liga XIII 2024
   - 08 - Leonardo Andrade (LeomarxGames) - 5º Lugar Torneio de Primavera 2024
+  - 
 
 1.2 - Participantes validados que podem manisfetar interesse em entrar na fase de grupos:
 
-- Albert Matos (Suprem Peruvian) 
-- Aléxis Sánchez (ChitaMX)
-- Alison Paulo (Jack Maloi)
-- Amélio Belchior (Amélio) 
+- Albert Matos (Suprem Peruvian)
 - Anderson Policarpo (Policarpo) 
 - Ari Júnior (Arijunino)
-- Carlos José (Carlos CJX) 
-- Carlos Rubens (Carlos CRX)
-- Brisantt (BR Brissant) 
-- Edimar Caetano (Pegasus PSX)
-- Edwin Huaylla (HD Wins)
-- Felipe Costa (Dark FPC) 
-- Javier Portillo (Javier VZLA)
+- Brisantt (BR Brissant)  
 - Jhonny Mota (Jhonny)
-- Jurandir Filho (Sr. Filho)
 - Laynara Souza (UaiLay) 
-- Lenno Coelho (LeNN Miner)
-- Leonardo Andrade (Leomarx Games)
 - Luciano Alves (Luciano Bora Zerar)
 - Luís Cárdenas (Luís L.A.O.M.) 
 - Marcel Santana (MMM) 
 - Marlon Fernandes (Camus Kshrc) 
-- Martins Pazos (Schumacher) 
-- Óscar Cárdenas (Goku L.A.O.M.) 
 - Paulo Muniz (Paulo Fox)
 - Petter Bruno (JackPoker40)
-- Rafael Lopes (Rafael Diablo)
 - Roberto Vasquez (The Mister)
-- Robson Meireles (Rob Jax)
-- Ronald Daniel (RonalDan)
 
 1.3 - Novos participantes poderão solicitar o ingresso, porém ficarão em cadastro reserva para preencher as vagas remanescentes.
 
