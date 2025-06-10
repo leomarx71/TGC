@@ -18,21 +18,22 @@
 
 1.2 - Participantes validados que podem manisfetar interesse em entrar na fase de grupos:
 
-- Albert Matos (Suprem Peruvian)
-- Anderson Policarpo (Policarpo) 
-- Ari Júnior (Arijunino)
-- Brisantt (BR Brissant)  
-- Jhonny Mota (Jhonny)
-- Laynara Souza (UaiLay) 
-- Luciano Alves (Luciano Bora Zerar)
-- Luís Cárdenas (Luís L.A.O.M.) 
-- Marcel Santana (MMM) 
-- Marlon Fernandes (Camus Kshrc) 
-- Paulo Muniz (Paulo Fox)
-- Petter Bruno (JackPoker40)
-- Roberto Vasquez (The Mister)
-- ChrisJp
-- 
+- 09 - Marlon Fernandes (Camus Kshrc)
+- 10 - Luciano Alves (Luciano Bora Zerar)
+- 11 - Jhonny Mota (Jhonny)
+- 12 - Ari Júnior (Arijunino) 
+- 13 - Albert Matos (Suprem Peruvian)
+- 14 - Roberto Vasquez (The Mister)Laynara Souza (UaiLay) 
+- 15 - Paulo Muniz (Paulo Fox)
+- 16 - Irvin Delgado (Irvin 1988)
+- 17 - Brisantt (BR Brissant)
+- 18 - Marcel Santana (MMM) 
+- 19 - Anderson Policarpo (Policarpo)
+- 20 - Petter Bruno (JackPoker40)
+- 21 - Luís Cárdenas (Luís L.A.O.M.)
+- 22 - Edson Silva (Senninkage)
+- 23 - Laynara Souza (Uailay)
+- 24 - ChrisJp
 
 1.3 - Novos participantes poderão solicitar o ingresso, porém ficarão em cadastro reserva para preencher as vagas remanescentes.
 
