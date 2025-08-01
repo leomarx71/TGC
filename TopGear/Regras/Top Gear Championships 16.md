@@ -15,7 +15,7 @@
     Disponibilidade para jogar: Descrever o melhor possível. Ex.: Disponibilidade das 19 as 23h30 durante a semana e finais de semana a combinar com antecedência.
     Método que utiliza para conectar: Preferencialmente Radmin, se houver erro, poderá ser utilizado o Hamachi.
 
-1.3. Na sequência deverá ingressar no grupo de WhatsApp do Campeonato pelo e se apresentar com o seu Nome Real + Apelido/NickName.
+1.3. Na sequência deverá ingressar no grupo de WhatsApp do Campeonato pelo e se apresentar com o seu Nome Real + Apelido/NickName: 
 
 # **2. Validação e Verificação de Perfil dos Inscritos:** #
 
@@ -54,7 +54,7 @@
 
 # **5. Organização e Chaveamento:** #
 
-5.1. Será utilizado o TOORNAMENT para chaveamento das partidas do campeonato 
+5.1. Será utilizado o TOORNAMENT para chaveamento das partidas do campeonato:
 
 5.2. O campeonato será disputado no modelo Copa do Mundo com Fase de Grupos e Fase Eliminatórias até o final.
 
