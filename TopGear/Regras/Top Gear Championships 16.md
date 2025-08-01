@@ -6,16 +6,16 @@
 
 # **1. Incrições:** #
 
-1.1 - O novo modelo de inscrições de campeonatos da TGC terá sempre uma pré-lista de inscritos já validados e ativos conforme os participantes dos campeonatos recentes.
+1.1 - O modelo de inscrições de campeonatos da TGC terá sempre uma pré-lista de inscritos já validados e ativos conforme os participantes dos campeonatos recentes.
 
-1.2 - Novos participantes poderão se inscrever através de postagem realizada diretamente nos comentários do post correspondente no Facebook.
+1.2 - Novos participantes poderão se inscrever através de postagem realizada diretamente nos comentários do post correspondente no Facebook, YouTube, TikTok ou outra rede oficial da TGC.
 
     Exemplo:
     Apelido/Nickname: LeomarxGames
     Disponibilidade para jogar: Descrever o melhor possível. Ex.: Disponibilidade das 19 as 23h30 durante a semana e finais de semana a combinar com antecedência.
     Método que utiliza para conectar: Preferencialmente Radmin, se houver erro, poderá ser utilizado o Hamachi.
 
-1.3. Logo de seguida deverá ingressar no grupo de WhatsApp do Campeonato pelo e se apresentar com o seu Nome Real + Apelido/NickName
+1.3. Na sequência deverá ingressar no grupo de WhatsApp do Campeonato pelo e se apresentar com o seu Nome Real + Apelido/NickName.
 
 # **2. Validação e Verificação de Perfil dos Inscritos:** #
 
@@ -44,19 +44,19 @@
 
 # **4. Cronograma (Previsão):** #
 
-4.1. As inscrições serão aceitas de 12/06/2024 até às 20h;
+4.1. As inscrições serão aceitas de 04/07/2025 até às 20h;
 
 4.2. Após confirmação das inscrições, será realizado o sorteio dos países e a Fase de Grupos;
 
-4.3. Cada rodada da fase de grupos e da fase mata-mata (Oitavas, Quartas, Semifinal e Final/Disputa de 3º) terá prazo de 5 dias, finalizando até às 23h do último dia de prazo.
+4.3. Cada rodada da fase de grupos e da fase mata-mata (Oitavas, Quartas, Semifinal e Final/Disputa de 3º) terá prazo de 5 dias, finalizando até às 23h59 do último dia de prazo.
 
 4.4. **Observação:** As rodadas podem ter o prazo estendido ou reduzido, caso a administração julgue necessário.
 
 # **5. Organização e Chaveamento:** #
 
-5.1. Será utilizado o CHALLONGE para chaveamento das partidas do campeonato [https://challonge.com/pt_BR/tgc15](https://challonge.com/pt_BR/tgc15)
+5.1. Será utilizado o TOORNAMENT para chaveamento das partidas do campeonato 
 
-5.2. O campeonato terá uma fase de grupos no modelo Copa do Mundo com Fase de Grupos e Fase Eliminatórias até o final.
+5.2. O campeonato será disputado no modelo Copa do Mundo com Fase de Grupos e Fase Eliminatórias até o final.
 
 - Na fase de grupos, todos os integrantes se enfrentam. Os cabeças de chave de cada grupo, serão os participantes inscritos mais bem classificados no mundial de pilotos 2023.
 
@@ -64,16 +64,19 @@
 
 - Vitória = 3 pontos;
 - Empate = 1 ponto;
-- Derrota = 0 pontos.
+- Derrota = 0 pontos;
+- W.O. unilateral = -1 ponto para o desistente e 3 pontos para o piloto vencedor;
+- W.O. duplo = 0 pontos para ambos.
 
 5.3.1. A classificação se dará pelo maior número de pontos. Em caso de empate os critérios de desempate serão:
 
-- Pontos conquistados;
-- Saldo de pontos
 - Confronto direto;
-- Sorteio;
+- Pontos conquistados;
+- Saldo de pontos;
+- Menor número de W.O.'s;
+- Sorteio.
 
-5.4. **O uso de Carros é Livre** e o nível do jogo será o CHAMPIONSHIP.
+5.4. O nível do jogo será o CHAMPIONSHIP.
 
 5.5. Não há limite para a quantidade de participantes e a tabela será montada da melhor maneira dependendo da quantidade de inscritos:
 
@@ -86,17 +89,17 @@
 - Inscritos: entre 25 e 28. Classificados: 20;
 - Inscritos: entre 29 e 32. Classificados: 24;
   
-5.6. Na Fase de grupos: serão jogadas 10 pistas por rodada (6 pistas de Pit e 4 sem pit) e todos jogam contra todos dentro do mesmo grupo. Na fase de grupos a escolha de carros será livre.
+5.6. Na Fase de grupos: serão jogadas 10 pistas por rodada (6 pistas de Pit e 4 sem pit) e todos jogam contra todos dentro do mesmo grupo. Na fase de grupos a *escolha de carros será livre*.
 
-5.7. Oitavas e Quartas de Final: serão jogadas 14 pistas (com 9 pistas de Pit e 5 sem pit), com eliminação de 1 carro por sorteio. Devem ser utilizados 2 (dois) carros na disputa, sendo um carro nas 7 primeiras pistas e outro nas 7 últimas pistas. 1 Grupo terá 4 pistas de Pit e outro 3 pistas de pit.
+5.7. Comissário eletrônico obrigatório na fase mata-mata e o mesmo pode ser acessado no endereço https://www.topgearchampionships.com/comissario/comissario.html
 
-5.8 - Comissário eletrônico obrigatório nas Oitavas e Quartas de Final e o mesmo pode ser acessado no endereço https://www.topgearchampionships.com/comissario/comissario.html
+5.8 - Os Resultados e Logs podem ser acessados em https://www.topgearchampionships.com/comissario/logsPublicosComissario.html
 
-5.9 - Os Resultados e Logs podem serem acessados em https://www.topgearchampionships.com/comissario/logsPublicosComissario.html
+5.9 - Oitavas e Quartas de Final: serão jogadas 14 pistas (com 9 pistas de Pit e 5 sem pit), com eliminação de 1 carro por sorteio. Devem ser utilizados 2 (dois) carros na disputa, sendo um carro nas 7 primeiras pistas e outro nas 7 últimas pistas. 1 Grupo terá 5 pistas de Pit e outro 4 pistas de pit.
 
-5.10 - Semifinal: serão jogadas 18 pistas (com 11 pistas de Pit e 7 sem pit) em jogos de ida e volta com uso de carros diferentes na ida e na volta, sendo eliminados 2 carros por sorteio. 1 Grupo terá 6 pistas de Pit e outro 5 pistas de pit.
+5.10 - Semifinal: serão jogadas 10 pistas (com 6 pistas de Pit e 4 sem pit) em jogos de ida e volta com uso de carros diferentes na ida e na volta, sendo eliminado 1 carro para a ida e outro para a volta.
 
-5.11 - Final e Disputa do Terceiro Lugar: serão disputados em 24 pistas sorteadas (com 14 pistas de Pit (repetindo 1 das 13 totais) e + 10 sem pit) com uso de carros diferentes a cada 6 pistas. 2 Grupos Terão 4 pistas de Pit e 2 grupos terão 3 pistas de pit.
+5.11 - Final e Disputa do Terceiro Lugar: serão disputados em 24 pistas sorteadas (com 13 pistas de Pit e 11 sem pit) com uso de carros diferentes a cada 6 pistas. 3 Grupos Terão 3 pistas de Pit e 1 grupo terá 4 pistas de pit.
 
 5.12 - Em caso de empate reinicia-se a ROM e joga a partir do país sorteado para desempate:
 
