@@ -44,13 +44,21 @@
 
 # **4. Cronograma (Previsão):** #
 
-4.1. As inscrições serão aceitas de 04/07/2025 até às 20h;
+4.1. As inscrições serão aceitas até às 20h do dia 04/08/2025, podendo ser encerrado antes dependendo do número de inscritos;
 
-4.2. Após confirmação das inscrições, será realizado o sorteio dos países e a Fase de Grupos;
+4.2. Após confirmação das inscrições, será realizado o sorteio dos grupos e países, sendo liberada a Fase de Grupos;
 
-4.3. Cada rodada da fase de grupos e da fase mata-mata (Oitavas, Quartas, Semifinal e Final/Disputa de 3º) terá prazo de 5 dias, finalizando até às 23h59 do último dia de prazo.
+4.3. Fase de grupo: de 04/08 às 23:59 do dia 18/08;
 
-4.4. **Observação:** As rodadas podem ter o prazo estendido ou reduzido, caso a administração julgue necessário.
+4.4. Oitavas de Final: de 19/08 às 23:59 do dia 25/08;
+
+4.5. Quartas de Final: de 26/08 às 23:59 do dia 01/09;
+
+4.6. Semifinal: de 02/09 às 23:59 do dia 08/09;
+
+4.7. Final de Disputa de 3º Lugar: de 09/09 às 23:59 do dia 15/09.
+
+4.8 **Observação:** As rodadas podem ter o prazo estendido ou reduzido, caso a administração julgue necessário.
 
 # **5. Organização e Chaveamento:** #
 
