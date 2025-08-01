@@ -8,7 +8,7 @@
 
 1.1 - O modelo de inscrições de campeonatos da TGC terá sempre uma pré-lista de inscritos já validados e ativos conforme os participantes dos campeonatos recentes.
 
-1.2 - Novos participantes poderão se inscrever através de postagem realizada diretamente nos comentários do post correspondente no Facebook, YouTube, TikTok ou outra rede oficial da TGC.
+1.2 - Novos participantes poderão se inscrever através de postagem realizada diretamente nos comentários do vídeo de divulgação do Torneio nas Redes Sociais da Comunidade TGC.
 
     Exemplo:
     Apelido/Nickname: LeomarxGames
