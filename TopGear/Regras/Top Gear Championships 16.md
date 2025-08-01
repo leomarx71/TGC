@@ -126,34 +126,45 @@ Se não houver substituto, será aplicado w.o. para todas as partidas daquele pi
 5.14. A partir de 50% da partida realizada, o piloto pode avisar ao oponenete que deseja parar e admitir a derrota. Assim, o adversário leva os 20 pontos de cada pista restante e o desistente fica com zero pontos nas mesmas. Para este caso, a partida não será considerada w.o e não haverá sansões.
 
 # **6. Validação das partidas** #
+6.1 - Responsabilidade Individual de Gravação. Todos os pilotos são obrigados a gravar ou transmitir ao vivo as suas próprias partidas, seja pelo OBS Studio, ou Emulador ou celular filmando a tela. Não é necessário perguntar ao oponente quem vai gravar ou transmitir.
 
-6.1. É obrigatório gravar ou transmitir ao vivo as partidas, seja pelo OBS Studio ou Emulador.
+6.2 - Resultados e Responsabilidade do Vencedor. O jogador vencedor é responsável por postar o resultado final da partida, juntamente com o vídeo e os detalhes de carro utilizados.
 
-6.2. Ambos os jogadores são responsáveis pela gravação. Sugere-se que se um for fazer a transmissão que o outro grave para em caso de travamento da live a partida seja validada. 
+6.2.1 - Caso houver algum bug durante a partida, o outro piloto pode complementar com alguma informação importante os detalhes da partida.
 
-6.3. Os jogadores que não gravarem ou transmitirem suas partidas, terão seus confrontos invalidados e não poderão abrir PROTOCOLO de possíveis irregularidades cometidas pelo adversário.
+6.3 - A resolução ideal é em HD 1280x720 (720p), porém para aqueles que não tenham um computador que consiga gravar ou transmitir nessa resolução, a resolução mínima aceita será (SD) 854 x 480 (480p).
 
-6.4. A resolução ideal é em HD 1280x720 (720p), porém para aqueles que não tenham um computador que consiga nesta gravar ou transmitir nessa resolução, a resolução mínima aceita será (SD) 854 x 480 (480p).
+6.4 - A partida deve ser disponibilizada em uma rede social no formato de vídeo (Facebook, Youtube, Twitch, Google Drive, etc.) e que não expire até o final do campeonato.
 
-6.5. O arquivo de gravação deve ser disponibilizado na nuvem e o link divulgado no grupo do WhatsApp, ou também pode ser feito o envio de arquivo de gravação diretamente no WhatsApp.
+6.5 - Os pilotos que gravarem por emulador em ZMV deverão converter posteriormente a partida em vídeo.
 
-6.6. Não serão aceitos resultados enviados sem o cumprimento das regras de gravação mencionadas, sendo que uma nova partida deve ser realizada ou a renúncia de derrota por W.O. por um dos participantes.
+6.6 - Não serão aceitos resultados enviados sem o cumprimento das regras de gravação mencionadas e que não contenham pelo menos 60% das pistas disputadas.
+
+6.7 - Caso o vencedor da partida não poste o resultado com vídeo dentro do prazo final, a partida será considerada como desistência, e então ele e o outro piloto receberão o placar final será 0x0 e 0 pontos, sem a soma de pontos de empate ou subtração de pontos naquela rodada.
+
+6.8 - Não serão aceitas reclamações ou protocolos sobre falhas de hardware, por exemplo, quando o controle desconecta o bluetooth ou acaba a bateria no meio da partida. Sendo de responsabilidade do piloto fazer essa validação antes da partida oficial.
+
+6.8.1 - Caso esse tipo de problema aconteça, a orientação é que o confronto deverá ser reiniciado a partir da pista seguinte. Ambos poderão refazer o jogo a partir da pista onde ocorreu o problema, somente se o piloto que não teve problemas assim desejar.
 
 # **7. Comunicação:** #
 
-7.1. Serão criados grupos no WhatsApp para cada um dos grupos sorteados, sendo este o canal oficial para as marcações das partidas e divulgação de resultados. 
+7.1 - Serão criados grupos no WhatsApp para cada um dos grupos sorteados, sendo este o canal oficial para as marcações das partidas e divulgação de resultados.
 
-7.2. A permanência no grupo é obrigatória e o jogador que não participar estará eliminado do campeonato. O grupo deve ser usado para os anúncios da administração, agendamento de partidas e assuntos relevantes ao campeonato, tais como informações de problemas com conexão, remarcação de partidas, encaminhamentos de links das lives e postagem de resultados.
+7.2 - A permanência no grupo é obrigatória e o jogador que não participar poderá ser eliminado do campeonato. Caso o piloto tenha problemas de conexão com o WhatsApp, este deverá **notificar imediatamente a todos os admins** por meio de outra rede social e então será avaliada a possibilidade da continuação do mesmo sem o uso do App de forma temporária. 
 
-7.3. Os jogadores podem mencionar seu oponente, marcando com @, para agendamento de sua partida. Essa menção poderá ser realizada quantas vezes o jogador quiser, mas para efeitos de regras de verificação para wo, só será considerada uma menção a cada 24 horas. Após a terceira menção do oponente (72h), sem a devida resposta, o jogador poderá reivindicar o W.O à administração.
+7.3 - O grupo deve ser usado para os anúncios da administração, agendamento de partidas e assuntos relevantes ao campeonato, tais como informações de problemas com conexão, remarcação de partidas, encaminhamentos de links das lives e postagem de resultados.
 
-7.4. Os participantes que não realizarem suas partidas ou agendamento delas nos prazos estabelecidos, através do grupo oficial do campeonato, receberão W.O., 
+7.4 - Os jogadores podem mencionar seu oponente, marcando com @, para agendamento de sua partida. Essa menção poderá ser realizada quantas vezes o jogador quiser, mas para efeitos de regras de verificação para W.O., só será considerada uma menção a cada 48 horas. Após a terceira menção do oponente (144h), o jogador poderá reivindicar o W.O à administração, mas somente se não houver nenhuma resposta. Caso haja uma resposta, esse prazo é novamente reiniciado.
 
-7.5. O W.O. será atribuído a favor daquele que oferecer maior tempo de disponibilidade, ou contra aquele que não comparecer no horário previamente agendado.
+7.5 - Os participantes que não realizarem suas partidas ou agendamento delas nos prazos estabelecidos, através do grupo oficial do campeonato, receberão W.O.
 
-7.6. O envio de mensagens no chat do emulador estará proibido caso um dos participantes solicite no início da partida.
+7.6 - O W.O. será atribuído a favor daquele que oferecer maior tempo de disponibilidade, ou contra aquele que não comparecer no horário previamente agendado.
 
-7.7. Os resultados das partidas devem ser informados no grupo respectivo do WhatsApp que o jogador for adicionado.
+7.7 - Em casos onde houver incompatibilidade total de horários entre os participantes, na análise de W.O., será priorizado aquele que esteve mais tempo disponível após às 18h ou finais de semana.
+
+7.8 - O envio de mensagens no chat do emulador estará proibido caso um dos participantes solicite no início da partida.
+
+7.9 - Os resultados das partidas devem ser informados no grupo respectivo do WhatsApp que o jogador for adicionado.
 
 Exemplo de postagem de resultado:
 
@@ -161,7 +172,7 @@ Exemplo de postagem de resultado:
 - **@Player1 110 x 100 @Player2**
 - **Link da live ou link do arquivo da gravação.**
 
-7.8. O jogador que enviar mensagens sem relevância para grupo WhatsApp do campeonato, serão advertidos pela administração. Em caso de reincidência, o jogador será REMOVIDO do grupo por 12h e adicionado novamente após esse prazo. Mesmo com a punição, o jogador tem o dever de cumprir os seus jogos previamente agendados. O jogador readmitido no grupo será eliminado do campeonato caso receba mais uma punição por descumprimento do grupo de WhatsApp.
+7.10 - O jogador que enviar mensagens sem relevância para o grupo WhatsApp do campeonato, serão advertidos pela administração. Em caso de reincidência, o jogador será REMOVIDO do grupo por 12h e adicionado novamente após esse prazo. Mesmo com a punição, o jogador tem o dever de cumprir os seus jogos previamente agendados. O jogador readmitido no grupo será eliminado do campeonato caso receba mais uma punição por descumprimento do grupo de WhatsApp.
 
 # **8. Regras de Conduta** #
 
@@ -193,30 +204,33 @@ Exemplo de postagem de resultado:
 
 # **9. Regras Gerais:** #
 
-9.1. Clique aqui para ler a base das Regras Gerais link  (https://www.facebook.com/groups/topgearchampionships/permalink/3391700757764527);
+9.1 - Clique aqui para ler a base das Regras Gerais, link (https://www.facebook.com/groups/topgearchampionships/permalink/3391700757764527).
 
-9.2. Proibido o bug de bater no poste para ganhar duas posições;
+9.2 - Proibido o bug de bater no poste para ganhar duas posições.
 
-9.3. Proibido o uso do freio em curvas para derrapagem, devido ao bug de não reduzir a velocidade, ser exclusiva para o P1;
+9.3 - Proibido o uso do freio em curvas para derrapagem, devido ao bug de não reduzir a velocidade, ser exclusivo para o P1.
 
-9.4. Proibido o uso do freio para prejudicar o adversário de maneira proposital e desleal;
+9.4 - Proibido o uso do freio para prejudicar o adversário de maneira proposital e desleal.
 
-9.5. Proibido o uso do freio ou desaceleração total para parar carro na pista antes do combustível acabar;
+9.5 - Proibido o uso do freio ou desaceleração total para parar o carro na pista antes do combustível acabar.
 
-9.6. Em caso de pane seca para ambos os jogadores em pistas como Roma, Rain Forest, Bourdeaux, Monaco, Pisa entre outras, será atribuída a pontuação da posição final dos jogadores ao se escurecer completamente a tela. Para jogar a próxima pista, os jogadores deverão voltar ao menu inicial e selecionar o restante das pistas (utilizando a ROM TGC) ou jogar o país completo novamente (utilizando a ROM Original).
-- Obs.: Caso seja necessário jogar o país novamente, a contagem de pontos das pistas daquele país jogadas anteriormente será zerada.
-- Obs.: Caso um dos jogadores informe que tem o save state do início da pista onde aconteceu a pane, estes deverão correr a pista novamente através do save.
+9.6 - **Em caso de panes secas ou bugs (exceto Stonehenge):**
 
-9.7. Caso o país sorteado seja UK, na pista de STONEHENGE, as pontuações serão atribuídas de acordo com as posições finais dos jogadores imediatamente quando a tela escurecer após o Out Of Fuel;
-- Obs.: se um dos jogadores completar STONEHENGE, aquele que não completar não receberá nenhuma pontuação atribuída.
+9.6.1 - **Pane seca unilateral.** Se ao menos um dos pilotos cruzar a linha e o outro não. Neste caso, apenas o piloto que cruzou a linha de chegada irá pontuar. Esta regra vale para todas as pistas.
 
-9.8. Caso seja sorteado o país UK, este deverá ser corrido por último, mesmo utilizando a Rom TGC;
+9.6.2 - **Bug duplo.** As pontuações serão atribuídas conforme as posições finais dos jogadores imediatamente quando a tela escurecer após o "Out Of Fuel" e só valerão, por exemplo, +20 +15, se o bug ocorrer após a entrada de pelo menos um dos pilotos no pits stop. Sendo assim, também, essa regra só valerá para as pistas com pit stop determinadas = Tokyo, Nice, Bordeaux, Roma e Londres. Se o bug ocorrer e nenhum piloto estiver entrando no pit e a tela escurecer antes, então serão 0 pontos para ambos.
 
-9.9. Caso alguma Regra Geral esteja divergente de alguma regra estabelecida aqui neste post, vale a regra deste documento para o campeonato.
+9.6.3 - **Bug unilateral.** Vale para qualquer pista, exceto stonehenge. A pontuação de um dos pilotos poderá ser ajustada ao final da partida, adicionando a pontuação da sua provável posição de chegada antes de escurecer a tela. Normalmente, este bug ocorre quando um dos pilotos já tenha terminado a pista e o outro bem distante, mas que ainda, sim, chegaria. Caso os pilotos tenham dúvidas de qual valor adicionar, podem solicitar revisão VAR para a ADM.
 
-9.10. Caso o jogador perca por w.o. e não apresente justificativas até 24h após o término da rodada ou fase mata-mata, este será impedido de participar dos dois próximos campeonatos realizados pela Comunidade TGC (TG1, TG2 ou TG3000);
+9.7 - **Caso a pista de UK - Stonehenge seja sorteada:**
 
-9.11. As justificativas apresentadas conforme o item anterior, serão analisadas pela adm da TGC.
+9.7.1 - Esta pista deverá ser corrida por último;
+
+9.7.2 - Em UK Stonehenge, as pontuações serão atribuídas conforme as posições finais dos jogadores imediatamente quando a tela escurecer após o "Out Of Fuel" e, somente, se no confronto os dois pilotos estiverem usando os carros Vermelho e/ou Roxo, caso um dos pilotos estiver usando o carro Branco ou Branco na disputa. Aquele que não cruzar a linha de chegada não irá receber nenhuma pontuação.
+
+9.8 - Em caso de alguma situação diferente das listadas, os pilotos devem/podem solicitar revisão VAR para a ADM.
+
+9.9 - Caso alguma Regra Geral esteja divergente de alguma regra estabelecida aqui neste post, vale a regra deste documento para o campeonato.
 
 # **10. Regras Específicas:** #
 
@@ -228,11 +242,11 @@ Exemplo de postagem de resultado:
 
 10.4. A escolha de câmbio (automático ou manual) é livre durante todo o campeonato;
 
-10.5. A conexão deverá ser estabelecida por rede VPN RADMIN ou HAMACHI;
+10.5. A conexão deverá ser estabelecida por rede VPN RADMIN, HAMACHI ou ZEROTIER;
 
 10.6. Em comum acordo, os jogadores podem trocar de controle quanto forem iniciar o desempate e/ou jogo de volta para corrigir o grid de largada corretamente; 
 
-10.7. Não havendo consenso na escolha de quem é o Player 1 ou o Player 2, o Player 1 será aquele que vier primeiro na tabela do Challonge;
+10.7. Não havendo consenso na escolha de quem é o Player 1 ou o Player 2, o Player 1 será aquele que vier primeiro na tabela do TOORNAMENT;
 
 10.8. O resultado da partida será a soma dos pontos obtidos pelos jogadores em cada país disputado;
 
