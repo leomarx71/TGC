@@ -6,7 +6,7 @@
 
 # **1. Incrições:** #
 
-1.1 - O novo modelo de inscrições de campeonatos da TGC terá sempre uma pré-lista de inscritos já validados e ativos conforme os participantes dos campeonatos recentes. Conforme Lista a seguir:
+1.1 - O modelo de inscrições de campeonatos da TGC terá sempre uma pré-lista de inscritos já validados e ativos conforme os participantes dos campeonatos recentes. Conforme Lista a seguir:
 
 - Albert Matos (Suprem Peruvian)
 - Aléxis Sánchez (ChitaMX)
@@ -80,25 +80,25 @@
 
 # **4. Cronograma (Previsão):** #
 
-4.1. As inscrições serão aceitas até às 21h do dia 01/04/2025, podendo ser encerrado antes dependendo do número de inscritos;
+4.1. As inscrições serão aceitas até às 20h do dia 04/08/2025, podendo ser encerrado antes dependendo do número de inscritos;
 
 4.2. Após confirmação das inscrições, será realizado o sorteio dos grupos e países, sendo liberada a Fase de Grupos;
 
-4.3. Fase de grupo: de 03/04 às 23:59 do dia 18/04;
+4.3. Fase de grupo: de 04/08 às 23:59 do dia 18/08;
 
-4.4. Oitavas de Final: de 19/04 às 23:59 do dia 26/04;
+4.4. Oitavas de Final: de 19/08 às 23:59 do dia 25/08;
 
-4.5. Quartas de Final: de 27/04 às 23:59 do dia 03/05;
+4.5. Quartas de Final: de 26/08 às 23:59 do dia 01/09;
 
-4.6. Semifinal: de 04/05 às 23:59 do dia 10/05;
+4.6. Semifinal: de 02/09 às 23:59 do dia 08/09;
 
-4.7. Final de Disputa de 3º Lugar: de 11/05 às 23:59 do dia 18/05.
+4.7. Final de Disputa de 3º Lugar: de 09/09 às 23:59 do dia 15/09.
 
 4.8 **Observação:** As rodadas podem ter o prazo estendido ou reduzido, caso a administração julgue necessário.
 
 # **5. Organização e Chaveamento:** #
 
-5.1. Será utilizado o TOORNAMENT para chaveamento das partidas do campeonato. Link de acesso [Torneio de Outono 2025]([https://play.toornament.com/pt_BR/tournaments/8474998398162419712/)
+5.1. Será utilizado o TOORNAMENT para chaveamento das partidas do campeonato. Link de acesso:
 
 5.2. O campeonato terá uma fase de grupos no modelo Copa do Mundo e os melhores colocados avançam para a fase final de mata-a-mata.
 
@@ -118,7 +118,7 @@
 - Menor número de W.O.'s;
 - Sorteio.
 
-5.4. **É obrigatório o uso do carro AZUL** e o nível do jogo será o CHAMPIONSHIP.
+5.4. **É obrigatório o uso do carro BRANCO** e o nível do jogo será o CHAMPIONSHIP.
 
 5.5. Não há limite para a quantidade de participantes e serão classificados para a fase final a quantidade de jogadores a seguir, dependendo da quantidade de inscritos:
 
