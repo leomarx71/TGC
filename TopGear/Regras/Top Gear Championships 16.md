@@ -66,7 +66,7 @@
 
 5.2. O campeonato será disputado no modelo Copa do Mundo com Fase de Grupos e Fase Eliminatórias até o final.
 
-- Na fase de grupos, todos os integrantes se enfrentam. Os cabeças de chave de cada grupo, serão os participantes inscritos mais bem classificados no mundial de pilotos 2023.
+- Na fase de grupos, todos os integrantes se enfrentam. Os cabeças de chave de cada grupo, serão os participantes inscritos mais bem classificados no mundial de pilotos 2025.
 
 5.3. Os jogadores pontuarão de acordo com seu resultado em cada partida de acordo com a relação a seguir:
 
@@ -99,19 +99,19 @@
   
 5.6. Na Fase de grupos: serão jogadas 10 pistas por rodada (6 pistas de Pit e 4 sem pit) e todos jogam contra todos dentro do mesmo grupo. Na fase de grupos a *escolha de carros será livre*.
 
-5.7. Comissário eletrônico obrigatório na fase mata-mata e o mesmo pode ser acessado no endereço https://www.topgearchampionships.com/comissario/comissario.html
+5.7. Comissário eletrônico obrigatório na fase mata-mata e o mesmo pode ser acessado no endereço a ser divulgado
 
-5.8 - Os Resultados e Logs podem ser acessados em https://www.topgearchampionships.com/comissario/logsPublicosComissario.html
+5.8 - Os Resultados e Logs podem ser acessados no endereço a ser divulgado
 
 5.9 - Oitavas e Quartas de Final: serão jogadas 14 pistas (com 9 pistas de Pit e 5 sem pit), com eliminação de 1 carro por sorteio. Devem ser utilizados 2 (dois) carros na disputa, sendo um carro nas 7 primeiras pistas e outro nas 7 últimas pistas. 1 Grupo terá 5 pistas de Pit e outro 4 pistas de pit.
 
-5.10 - Semifinal: serão jogadas 10 pistas (com 6 pistas de Pit e 4 sem pit) em jogos de ida e volta com uso de carros diferentes na ida e na volta, sendo eliminado 1 carro para a ida e outro para a volta.
+5.10 - Semifinal: serão jogadas 20 pistas (com 12 pistas de Pit e 8 sem pit), com eliminação de 1 carro por sorteio. Devem ser utilizados 2 (dois) carros na disputa, sendo um carro nas 10 primeiras pistas e outro nas 10 últimas pistas. Cada Grupo terá igualmente 6 pistas de pit e 4 sem pit.
 
-5.11 - Final e Disputa do Terceiro Lugar: serão disputados em 24 pistas sorteadas (com 13 pistas de Pit e 11 sem pit) com uso de carros diferentes a cada 6 pistas. 3 Grupos Terão 3 pistas de Pit e 1 grupo terá 4 pistas de pit.
+5.11 - Final e Disputa do Terceiro Lugar: serão disputados em 24 pistas sorteadas (com 13 pistas de Pit e 11 sem pit) com uso de carros diferentes a cada 6 pistas. 3 Grupos terão 3 pistas de Pit e 1 grupo terá 4 pistas de pit.
 
-5.12 - Em caso de empate reinicia-se a ROM e joga a partir do país sorteado para desempate:
+5.12 - Em caso de empate reinicia-se a ROM e joga a partir da pista sorteada para desempate:
 
-- Para facilitar, utilizando a ROM Top Gear TGC Rom (E), poderão ser selecionadas 8 pistas para o desempate, sendo as 4 primeiras referente ao país desempate e as outras 4 do país seguinte do país desempate.
+- Para facilitar, utilizando a ROM Top Gear TGC Rom (E), poderão ser selecionadas 8 pistas para o desempate
 - Utilizando a ROM Top Gear (E) [!], seleciona-se o país desempate e joga-se todas as pistas na sequência até que haja um vencedor;
 - Vencerá aquele que abrir primeiro mais de 5 pontos de vantagem; 
 - Permanecendo o empate no primeiro país, o país seguinte deverá ser jogado e assim sucessivamente, até haver um vencedor;
