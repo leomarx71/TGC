@@ -62,7 +62,7 @@
 
 # **5. Organização e Chaveamento:** #
 
-5.1. Será utilizado o TOORNAMENT para chaveamento das partidas do campeonato:
+5.1. Será utilizado o TOORNAMENT para chaveamento das partidas do campeonato: [Top Gear Championships 16](https://play.toornament.com/en_US/tournaments/2267988282947696639/)
 
 5.2. O campeonato será disputado no modelo Copa do Mundo com Fase de Grupos e Fase Eliminatórias até o final.
 
