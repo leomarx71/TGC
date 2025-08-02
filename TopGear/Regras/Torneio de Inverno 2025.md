@@ -49,7 +49,7 @@
     Disponibilidade para jogar: Descrever o melhor possível. Ex.: Disponibilidade das 19 as 23h30 durante a semana e finais de semana a combinar com antecedência.
     Método que utiliza para conectar: Preferencialmente Radmin, se houver erro, poderá ser utilizado o Hamachi.
 
-1.3. Em seguida deverá ingressar no grupo de WhatsApp do Campeonato pelo Link ([Link Aqui](https://chat.whatsapp.com/KT7Fe1z0QVZBQlBaVSJvVm)) e se apresentar com o seu Nome Real + Apelido/NickName
+1.3. Em seguida deverá ingressar no grupo de WhatsApp do Campeonato pelo Link ([Link Aqui](https://chat.whatsapp.com/KNckEivUp0CBrVkFkR7E56) e se apresentar com o seu Nome Real + Apelido/NickName
 
 # **2. Validação e Verificação de Perfil dos Inscritos:** #
 
@@ -98,7 +98,7 @@
 
 # **5. Organização e Chaveamento:** #
 
-5.1. Será utilizado o TOORNAMENT para chaveamento das partidas do campeonato. Link de acesso:
+5.1. Será utilizado o TOORNAMENT para chaveamento das partidas do campeonato. [Torneio de Inverno 2025](https://play.toornament.com/en_US/tournaments/2267866145371447295)
 
 5.2. O campeonato terá uma fase de grupos no modelo Copa do Mundo e os melhores colocados avançam para a fase final de mata-a-mata.
 
@@ -220,7 +220,7 @@ Exemplo de postagem de resultado:
 - Difamação ou calúnia;
 - Nacionalidade, Naturalidade, ou Lugar onde mora, ou nasceu.
 
-8.2. OBSERVAÇÕES: Mensagens trocadas em redes sociais particulares não serão consideradas. Denúncias e reclamações por ofensas somente serão consideradas e julgadas pela administração, se ocorrerem nos CANAIS OFICIAIS DA TGC (Facebook, WhatsApp, Discord, YouTube, Twitch, Instagram e outros) ou no chat da transmissão oficial de uma partida válida do campeonato. Chats privados (PV) e quaisquer outros meios não serão considerados. Caracterizada a ofensa desrespeitosa com a dignidade da pessoa, a administração se reserva exclusivamente à punição de exclusão do campeonato.
+8.2. OBSERVAÇÕES: Mensagens trocadas em redes sociais particulares não serão consideradas. Denúncias e reclamações por ofensas somente serão consideradas e julgadas pela administração, se ocorrerem nos CANAIS OFICIAIS DA TGC (Facebook, WhatsApp, Discord, YouTube, Twitch, Instagram e outros) ou no chat da transmissão oficial de uma partida válida do campeonato. Chats privados (PV) e quaisquer outros meios não serão considerados. Caracterizada a ofensa desrespeitosa com a dignidade da pessoa, a administração se reserva exclusivamente à punição de exclusão do campeonato e/ou da comunidade por um determinado período de tempo.
 
 8.3. Outras medidas referentes a processos legais, deoutono ser adotadas pelo próprio requerente. 
 
