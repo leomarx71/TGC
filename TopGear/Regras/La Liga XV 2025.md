@@ -6,7 +6,7 @@
 
 # **1. INSCRIÇÕES:** #
 
-  1.1 - As inscrições estarão abertas até 21h de XX/XX/2025.
+  1.1 - As inscrições estarão abertas até 21h de 27/09/2025.
     
   1.2 - Aqueles que se inscreverem após o encerramento das inscrições, serão colocados em cadastro reserva e serão convidados para participar do La Liga Bronze caso aja desistência antes do encerramento da segunda rodada, ou seja, convidado para completar algum grupo, caso a administração decida.
 
