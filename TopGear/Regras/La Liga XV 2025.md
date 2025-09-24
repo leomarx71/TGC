@@ -145,46 +145,59 @@
   
   3.9 - Para a Série Bronze poderá ser aplicados modos diferentes de rodadas e fases finais conforme a quantidade de participantes.
 
+  3.10 - A substituição de jogadores só será adimitida, caso o piloto substituto ainda possa realizar mais da metade das partidas da fase de grupos:
+
+  3.10.1 Exemplo: A fase de grupos tem 9 partidas, só poderá haver substituto, caso ainda hajam5 partidas para serem realizadas e pelo menos 50% do prazo restante .
+  
+  3.10.2 Se não houver substituto, será aplicado w.o. para todas as partidas daquele piloto, com pontuação máxima para o adversário e mínima para o desistente.
+
+  3.11 - A partir de 50% da partida realizada, o piloto pode avisar ao oponenete que deseja parar e admitir a derrota. Assim, o adversário leva os 20 pontos de cada pista restante e o desistente fica com zero pontos nas mesmas. Para este caso, a partida não será considerada w.o e não haverá sansões.
+
 # **4. Comissário Eletrônico:** #
 
   4.1 - Obrigatório para todas as fases do campeonato para Série Ouro e Prata.
 
-  4.2 - Pode ser acessado no endereço https://topgearchampionships.com/comissario/envio_la_liga.php.
+  4.2 [ENVIO CARRO FASE DE GRUPOS] = (https://topgearchampionships.com/comissario/envio_la_liga.php)
 
-  4.3 - Resultados e Logs podem serem acessados em https://topgearchampionships.com/comissario/log-publico.php
+  4.3 [ENVIO CARRO FASE FINAL] = (https://topgearchampionships.com/comissario/envio.php)
+  
+  4.4 [LOGS PÚBLICOS COMISSARIO] = (https://topgearchampionships.com/comissario/log-publico.php)
 
-  4.4 - Após o término das inscrições e sorteio dos países, todos os participantes da Série Ouro e Prata, deverão enviar a escolha de seus carros para todas as 9 partidas, até a data limite estabelecida no CRONOGRAMA
+  4.5 - Após o término das inscrições e sorteio dos países, todos os participantes da Série Ouro e Prata, deverão enviar a escolha de seus carros para todas as 9 partidas, até a data limite estabelecida no CRONOGRAMA
 
-  4.5 - Os pilotos das Séries Ouro e Prata, DEVERÃO UTILIZAR OS TODOS OS CARROS EM PELO MENOS 2 RODADAS, escolhendo apenas um deles para 3 rodadas.
+  4.6 - Os pilotos das Séries Ouro e Prata, DEVERÃO UTILIZAR OS TODOS OS CARROS EM PELO MENOS 2 RODADAS, escolhendo apenas um deles para 3 rodadas.
 
-  4.6 - Exemplo para 9 partidas... 3x carro branco, 2x carro vermelho, 2x carro roxo e 2x carro azul.
+  4.7 - Exemplo para 9 partidas... 3x carro branco, 2x carro vermelho, 2x carro roxo e 2x carro azul.
 
-  4.7 - Para as Quartas de Finais e Semifinais, deverá ser utilizado um carro para cada conjunto com 4 pistas.
+  4.8 - Para as Quartas de Finais e Semifinais, deverá ser utilizado um carro para cada conjunto com 4 pistas.
 
-  4.8 - Para a grande Final e Disputa de 3º, deverão ser utilizados os 4 Carros, sendo 1 para cada conjunto de 4 pistas.
+  4.9 - Para a grande Final e Disputa de 3º, deverão ser utilizados os 4 Carros, sendo 1 para cada conjunto de 4 pistas.
 
-  4.9 - Na Série Bronze, a escolha do carro é livre para todas as fases.
+  4.10 - Na Série Bronze, a escolha do carro é livre para todas as fases.
 
-  4.10 - Punições de comissário errado (Somente nas fases finais):
+  4.11 - Punições de comissário errado (Somente nas fases finais):
 
-  4.10.1 - Se o piloto não enviar antes da partida ou jogar em alguma partida com eles incorretamente, conforme o seu envio, neste caso ele perderá esta partida por w.o.
+  4.11.1 - Se o piloto não enviar antes da partida ou jogar em alguma partida com eles incorretamente, conforme o seu envio, neste caso ele perderá esta partida por w.o.
 
 # **5. Classificação e Rebaixamento:** #
 
   5.1 - Na fase de grupo, a classificação será definida pela pontuação geral.
   
-  5.2 - As pontuações serão definidas da seguinte forma:
+  5.3. Os jogadores pontuarão de acordo com seu resultado em cada partida de acordo com a relação a seguir:
   
-  - Vitória = 3 pontos
-  - Empate = 1 ponto
-  - Derrota = zero ponto.
-      
-  5.3 - Os critérios de desempate serão na seguinte ordem:
+  - Vitória = 3 pontos;
+  - Empate = 1 ponto;
+  - Derrota = 0 pontos;
+  - W.O. unilateral = -1 ponto para o desistente e 3 pontos para o piloto vencedor;
+  - W.O. duplo = 0 pontos para ambos.
   
-  - Confronto Direto.
-  - Pontos Conquistados.
-  - Diferença do Pontos
-  - Sorteio
+  5.3.1. A classificação se dará pelo maior número de pontos. Em caso de empate os critérios de desempate serão:
+  
+  - Confronto direto;
+  - Pontos conquistados;
+  - Saldo de pontos;
+  - Menor número de W.O.'s;
+  - Sorteio.
     
   5.4 - Promoção e Rebaixamento
   
@@ -192,7 +205,7 @@
   - Série Prata: Os 3 primeiros colocados serão promovidos para a Série Ouro. Permanecem na Série Prata do 4° ao 7° colocados. Cairão para a Série Bronze, os 3 últimos colocados.
   - Série Bronze: Sobem os 3 primeiros colocados da Série Bronze para a Série Prata.
 
-  5.5 - A tolerância de W.O's neste campeonato será no total de 3 partidas na fase de grupos se houver 4 ou mais partidas o piloto será impedido de participar do próximo campeonato La Liga. No prazo de 72h após a aplicação do w.o., será oportunizado ao piloto que apresente justificativas, caso as justificativas sejam aceitas, o w.o. não será contabilizado para efeitos de punição.
+  5.5 - A tolerância de W.O's neste campeonato será no total de 3 partidas na fase de grupos se houver 4 ou mais partidas o piloto será impedido de participar do próximo campeonato La Liga. No prazo de 72h após a aplicação do final da fase de grupos, será oportunizado ao piloto que apresente justificativas, caso as justificativas sejam aceitas, o w.o. não será contabilizado para efeitos de punição.
   
 # **6. Desempate para as Fases Finais:** #
 
@@ -202,11 +215,13 @@
 
   6.3 - Vence o jogador que abrir mais de 5 pontos de vantagem.
 
-  6.4 - Caso se jogue UK e ao final da pista de Stonehenge a partida ainda não teve um vencedor seguindo os critérios acima, a partida continua a partir de USA.
+  6.4 - Caso se jogue a pista de Stonehenge e ao final dela, a partida ainda não tiver um vencedor seguindo os critérios acima, a partida reinicia novamente continuando a partir de Las Vegas USA.
 
   6.5 - Deverão ser selecionadas no mínimo as 4 pistas subsequentes a pista sorteada, a administração sugere que sejam selecionadas as 8 primeiras da sequência, até que um jogador abra mais de 5 pontos primeiro.
 
-  6.7 - Em permanecendo o empate, repete-se o processo até que haja um vencedor.
+  6.7 - E permanecendo o empate, repete-se o processo até que haja um vencedor.
+
+  6.8 - Em comum acordo, os jogadores podem trocar de controle quanto forem iniciar o desempate para corrigir o grid de largada corretamente. Caso não haja consenso, será o player 1, aquele que tiver terminado na frente na pista anterior ao desempate ou aquele que estiver em cima na tabela do TOORNAMENT.
 
 # **7. Comunicação:** #
 
@@ -234,9 +249,19 @@
     - **@Player1 110 x 100 @Player2**
     - **Link da live ou link do arquivo da gravação.**
 
-  7.9 - O jogador que enviar mensagens sem relevância para grupo WhatsApp do campeonato, serão advertidos pela administração. Em caso de reincidência, o jogador será REMOVIDO do grupo por 12h e adicionado novamente após esse prazo. Mesmo com a punição, o jogador tem o dever de cumprir os seus jogos previamente agendados. O jogador readmitido no grupo será eliminado do campeonato caso receba mais uma punição por descumprimento do grupo de WhatsApp.
+  7.9 - O jogador que enviar mensagens sem relevância para grupo WhatsApp do campeonato, poderão ser advertidos e/ou eliminados do campeonato, conforme a nova Regra de Punição Acumulativa, Semelhante ao futebol ⚽, a seguir:
+
+  7.9.1 - Haverá uma 1° primeira advetência verbal... 🗣
   
-  7.10 - Serão admitidas postagens de figurinhas, desde que não sejam ofensivas.
+  7.9.2 - Após isso se houver reincidência... Uma punição de cartão amarelo 🟨 será dada. 
+  
+  7.9.3 - Sendo que 3 cartões Amarelos 🟨 acumulados = 1 Vermelho 🟥
+
+  7.10 - A soma valerá para o torneio como um todo, caso o Vermelho 🟥 ocorra na fase de grupo ou nas fases finais, o piloto será eliminado do campeonato e também será penalizado com a perda por W.O. nos jogos restantes.
+
+  7.11 - Mesmo que a msg seja apagada pelo piloto infrator posteriormente ao envio, se um dos adms visualizar a infração ela poderá ser executada da mesma maneira.
+
+  7.12 - E se a figurinha ou mensagem irrelevante tiver um tom racista, conforme a lista da regra 8 (Regras de Conduta), o piloto receberá um cartão vermelho direto.
 
 # **8. Regras de Conduta** #
 
@@ -254,7 +279,7 @@
 
 8.3. Outras medidas referentes a processos legais, deverão ser adotadas pelo próprio requerente. 
 
-8.4. Para protocolar a reclamação, os print’s das mensagens ou áudios (enviados no período de realização do campeonato, nas redes oficiais da TGC), devem ser encaminhados através de protocolo conforme modelo no item a seguir, pelo Youtube, no post de inscrição do campeonato com a hashtag #PROTOCOLO e deverá ser respondido pela administração em um prazo máximo de 48h úteis.
+8.4. Para protocolar a reclamação, os print’s das mensagens ou áudios (enviados no período de realização do campeonato, nas redes oficiais da TGC), devem ser encaminhados através de protocolo conforme modelo no item a seguir, no post de inscrição do campeonato ou no PV de um dos ADMs, com a hashtag #PROTOCOLO e deverá ser respondido pela administração em um prazo máximo de 3 dias úteis.
 
 8.5. **Modelo de protocolo:** 
 
@@ -268,25 +293,33 @@
 
 # **9. Regras Gerais:** #
 
-9.1. Clique aqui para ler a base das Regras Gerais link  (https://www.Youtube.com/groups/topgearchampionships/permalink/3391700757764527);
+9.1 - Clique aqui para ler a base das Regras Gerais, link (https://www.facebook.com/groups/topgearchampionships/permalink/3391700757764527).
 
-9.2. Proibido o bug de bater no poste para ganhar duas posições;
+9.2 - Proibido o bug de bater no poste para ganhar duas posições.
 
-9.3. Proibido o uso do freio em curvas para derrapagem, devido ao bug de não reduzir a velocidade, ser exclusiva para o P1;
+9.3 - Proibido o uso do freio em curvas para derrapagem, devido ao bug de não reduzir a velocidade, ser exclusivo para o P1.
 
-9.4. Proibido o uso do freio para prejudicar o adversário de maneira proposital e desleal;
+9.4 - Proibido o uso do freio para prejudicar o adversário de maneira proposital e desleal.
 
-9.5. Proibido o uso do freio ou desaceleração total para parar carro na pista antes do combustível acabar;
+9.5 - Proibido o uso do freio ou desaceleração total para parar o carro na pista antes do combustível acabar.
 
-9.6. Em caso de pane seca para ambos os jogadores em pistas como Roma, Rain Forest, Bourdeaux, Monaco, Pisa entre outras, será atribuída a pontuação da posição final dos jogadores ao se escurecer completamente a tela.
-- Obs.: Caso um dos jogadores informe que tem o save state do início da pista onde aconteceu a pane, estes deverão correr a pista novamente através do save.
+9.6 - **Em caso de panes secas ou bugs (exceto Stonehenge):**
 
-9.7. Caso a pista de STONEHENGE seja sorteada, as pontuações serão atribuídas de acordo com as posições finais dos jogadores imediatamente quando a tela escurecer após o Out Of Fuel;
-- Obs.: se um dos jogadores completar STONEHENGE, aquele que não completar não receberá nenhuma pontuação atribuída.
+9.6.1 - **Pane seca unilateral.** Se ao menos um dos pilotos cruzar a linha e o outro não. Neste caso, apenas o piloto que cruzou a linha de chegada irá pontuar. Esta regra vale para todas as pistas.
 
-9.8. Caso seja sorteada a písta STONEHENGE, esta deverá ser corrida por último;
+9.6.2 - **Bug duplo.** As pontuações serão atribuídas conforme as posições finais dos jogadores imediatamente quando a tela escurecer após o "Out Of Fuel" e só valerão, por exemplo, +20 +15, se o bug ocorrer após a entrada de pelo menos um dos pilotos no pits stop. Sendo assim, também, essa regra só valerá para as pistas com pit stop determinadas = Tokyo, Nice, Bordeaux, Roma e Londres. Se o bug ocorrer e nenhum piloto estiver entrando no pit e a tela escurecer antes, então serão 0 pontos para ambos.
 
-9.9. Caso alguma Regra Geral esteja divergente de alguma regra estabelecida aqui neste post, vale a regra deste documento para o campeonato.
+9.6.3 - **Bug unilateral.** Vale para qualquer pista, exceto stonehenge. A pontuação de um dos pilotos poderá ser ajustada ao final da partida, adicionando a pontuação da sua provável posição de chegada antes de escurecer a tela. Normalmente, este bug ocorre quando um dos pilotos já tenha terminado a pista e o outro bem distante, mas que ainda, sim, chegaria. Caso os pilotos tenham dúvidas de qual valor adicionar, podem solicitar revisão VAR para a ADM.
+
+9.7 - **Caso a pista de UK - Stonehenge seja sorteada:**
+
+9.7.1 - Esta pista deverá ser corrida por último;
+
+9.7.2 - Em UK Stonehenge, as pontuações serão atribuídas conforme as posições finais dos jogadores imediatamente quando a tela escurecer após o "Out Of Fuel" e, somente, se no confronto os dois pilotos estiverem usando os carros Vermelho e/ou Roxo, caso um dos pilotos estiver usando o carro Azul ou Branco na disputa. Aquele que não cruzar a linha de chegada não irá receber nenhuma pontuação.
+
+9.8 - Em caso de alguma situação diferente das listadas, os pilotos devem/podem solicitar revisão VAR para a ADM.
+
+9.9 - Caso alguma Regra Geral esteja divergente de alguma regra estabelecida aqui neste post, vale a regra deste documento para o campeonato.
 
 # **10. Regras Específicas:** #
 
@@ -298,15 +331,11 @@
 
 10.4. A escolha de câmbio (automático ou manual) é livre durante todo o campeonato;
 
-10.5. A conexão deverá ser estabelecida por rede VPN RADMIN, HAMACHI ou Zerotier;
+10.5. A conexão deverá ser estabelecida por rede VPN RADMIN, HAMACHI ou ZEROTIER;
 
-10.6. Em comum acordo, os jogadores podem trocar de controle quanto forem iniciar o desempate e/ou jogo de volta para corrigir o grid de largada corretamente; 
+10.6. O resultado da partida será a soma dos pontos obtidos pelos jogadores em cada pista disputada;
 
-10.7. Não havendo consenso na escolha de quem é o Player 1 ou o Player 2, o Player 1 será aquele que vier primeiro na tabela do TOORNAMENT;
-
-10.8. O resultado da partida será a soma dos pontos obtidos pelos jogadores em cada pista disputada;
-
-10.9. Procedimento para início da partida:
+10.7. Procedimento para início da partida:
 
 - Selecione 2 Jogadores;
 - Digitem seus nomes se desejado;
@@ -325,13 +354,15 @@
 
 11.3.	**Radmin para conexão entre os jogadores** = Link para download [aqui](https://vpn.net/)
 
-11.4. **Zerotier** = Link para download [aqui](https://www.zerotier.com/download/)
+11.4. **Hamachi para conexão entre os jogadores** = Link para download [aqui](https://www.radmin-vpn.com)
 
-11.5. **Hamachi para conexão entre os jogadores** = Link para download [aqui](https://www.radmin-vpn.com)
+11.5. **Zerotier para conexão entre os jogadores** = Link para download [aqui](https://www.zerotier.com/download/)
 
-11.6 [ENVIO CARRO] = (https://www.topgearchampionships.com/comissario/comissario.html)
+11.6 [ENVIO CARRO FASE DE GRUPOS] = (https://topgearchampionships.com/comissario/envio_la_liga.php)
+
+11.7 [ENVIO CARRO FASE FINAL] = (https://topgearchampionships.com/comissario/envio.php)
   
-11.7 [LOGS COMISSARIO] = (https://www.topgearchampionships.com/comissario/logsPublicosComissario.html)
+11.8 [LOGS PÚBLICOS COMISSARIO] = (https://topgearchampionships.com/comissario/log-publico.php)
 
 # **12. Validação e Verificação de Perfil dos Inscritos:** #
 
@@ -368,9 +399,9 @@
 
 13.8 - Caso o vencedor da partida não poste o resultado com vídeo dentro do prazo final, a partida será considerada como desistência, e então, o outro piloto perdedor da partida **receberá a vitória automaticamente com o placar final de 200x0, por exemplo**.
 
-13.8 - Não serão aceitas reclamações ou protocolos sobre falhas de hardware, por exemplo, quando o controle que desconecta o bluetooth ou acaba a bateria no meio da partida. Sendo de responsabilidade do piloto fazer essa validação antes da partida oficial. 
+13.9 - Não serão aceitas reclamações ou protocolos sobre falhas de hardware, por exemplo, quando o controle que desconecta o bluetooth ou acaba a bateria no meio da partida. Sendo de responsabilidade do piloto fazer essa validação antes da partida oficial. 
 
-13.8.1 - Caso esse tipo de problema aconteça, a orientação é que o confronto deverá ser reiniciado a partir da pista seguinte. Ambos poderão refazer o jogo a partir da pista que ocorreu o problema, somente se o piloto que não teve problemas assim desejar.
+13.9.1 - Caso esse tipo de problema aconteça, a orientação é que o confronto deverá ser reiniciado a partir da pista seguinte. Ambos poderão refazer o jogo a partir da pista que ocorreu o problema, somente se o piloto que não teve problemas assim desejar.
 
 # **14. Situações inéditas** #
 
