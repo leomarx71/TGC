@@ -87,9 +87,9 @@
    - 6ª desistência/punição, sobe o 3º melhor rebaixado da Série do desistente (Ouro ou Prata).
    - A partir da 7ª desistência/punição, sobem os demais pilotos das Séries imediatamente abaixo, pela ordem de classificação (Prata ou Bronze). 
     
-  1.8 - Todos os participantes pré-inscritos deverão confirmar a participação na postagem do Youtube ou nos grupos do WhatsApp criados para a Série correspondente.
+  1.8 - Todos os participantes pré-inscritos deverão confirmar a participação na postagem da rede social definida pela TGC e/ou nos grupos do WhatsApp criados para a Série correspondente.
   
-  1.9 - Novos participante deverão se inscrever através de postagem realizada diretamente nos comentários do post correspondente no Youtube.
+  1.9 - Novos participante deverão se inscrever através de postagem realizada diretamente nos comentários do post correspondente na postagem da rede social definida pela TGC.
 
         Exemplo:
         Apelido/Nickname: LeomarxGames
@@ -101,23 +101,23 @@
 
 # **2. Cronograma Séries Ouro / Prata Horários de Brasília, Brasil:** #
    
-  2.1 - Prazo para confirmações e novas inscrições: até 21h do dia 31/01/2025.
+  2.1 - Prazo para confirmações e novas inscrições: até 21h do dia 27/09/2025.
   
   2.2 - Após revisão das inscrições será feito o sorteio das pistas e aberto o prazo do comissário.
   
-  2.3 - Prazo Comissário: 01/02/2025 às 21h.
+  2.3 - Prazo Comissário: 29/09/2025 às 15h. 
   
   2.4 - Após revisão do comissário, será realizado sorteio dos confrontos e liberação para o início da Fase de Grupos.
   
-  2.5 - Caso um dos participantes não tenha enviado os carros pelo Comissário eletrônico, este será punido com 2 wo's em sorteio aleatório de rodadas e seus carros serão escolhidos por sorteio.
+  2.5 - Após última chamada, até as 21h de 29/09/2025, aqueles que não enviarem no prazo terão seus carros sorteados. Seus carros serão escolhidos por sorteio com preferência dos carros mais *lentos* (Ex.: 3 Brancos, 2 Azuis, 2 Roxos e 2 Vermelhos)
   
-  2.6 - Fase de Grupos terá prazo de 22 dias. Previsão de término – 23/02/2025 23h59.
+  2.6 - Fase de Grupos terá prazo de 21 dias. Previsão de término – 20/10/2025 23h59.
   
-  2.7 - Quartas de Final: 7 dias.
+  2.7 - Quartas de Final: 7 dias. Até 27/10/2025 23h59
   
-  2.8 - Semifinal: 7 dias.
+  2.8 - Semifinal: 7 dias. Até 03/11/2025 23h59
   
-  2.9 - Final e Disputa de 3º: 7 dias
+  2.9 - Final e Disputa de 3º: 7 dias. Até 10/11/2025 23h59
   
   2.10 - OBSERVAÇÕES:
        
@@ -127,7 +127,7 @@
 
 # **3. Organização e Chaveamento:** #
   
-  3.1 - Será utilizado o TOORNAMENT para chaveamento das partidas do campeonato. [link] (https://play.toornament.com/pt_BR/tournaments/8478865477541707776)
+  3.1 - Será utilizado o TOORNAMENT para chaveamento das partidas do campeonato. CRIAR LINK
   
   3.2 - Fase de grupos: 10 pistas em cada rodada.
   
@@ -149,9 +149,9 @@
 
   4.1 - Obrigatório para todas as fases do campeonato para Série Ouro e Prata.
 
-  4.2 - Pode ser acessado no endereço https://www.topgearchampionships.com/comissario/comissario.html.
+  4.2 - Pode ser acessado no endereço https://topgearchampionships.com/comissario/envio_la_liga.php.
 
-  4.3 - Resultados e Logs podem serem acessados em https://www.topgearchampionships.com/comissario/logsPublicosComissario.html
+  4.3 - Resultados e Logs podem serem acessados em https://topgearchampionships.com/comissario/log-publico.php
 
   4.4 - Após o término das inscrições e sorteio dos países, todos os participantes da Série Ouro e Prata, deverão enviar a escolha de seus carros para todas as 9 partidas, até a data limite estabelecida no CRONOGRAMA
 
@@ -165,11 +165,9 @@
 
   4.9 - Na Série Bronze, a escolha do carro é livre para todas as fases.
 
-  4.10 - Punições de comissário errado:
+  4.10 - Punições de comissário errado (Somente nas fases finais):
 
-  4.10.1 - Se o piloto enviar a quantidade de carros **incorreta** e jogar com todos eles corretamente conforme o seu envio, será feito um sorteio da rodada onde ele colocou uma cor a mais para efeito de punição, pois afinal o carro errado poderia ser em qualquer uma das partidas e não apenas conforme a declaração do piloto.
-
-  4.10.2 - Se o piloto enviar a quantidade de carros **correta** e jogar em alguma rodada com eles incorretamente conforme o seu envio, neste caso ele perderá esta partida por w.o.
+  4.10.1 - Se o piloto não enviar antes da partida ou jogar em alguma partida com eles incorretamente, conforme o seu envio, neste caso ele perderá esta partida por w.o.
 
 # **5. Classificação e Rebaixamento:** #
 
