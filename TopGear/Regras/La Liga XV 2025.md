@@ -46,8 +46,8 @@
    - AriJunino (Ari Júnior) - 2° Melhor Rebaixado
    - MMM (Marcel Santana) - 6° Prata
    - Gokú (Oscar Cardenhas) - 3° Melhor Rebaixado
-   - Luís Cárdenas (L.A.O.M.) - 4° Melhor Rebaixado
    - Jack Maloi (Alison Paulo) - 7° Prata
+   - Luís Cárdenas (L.A.O.M.) - 4° Melhor Rebaixado
    - HD Gamer (Edwin Hyrula) - 1° Bronze
    - Camus Kshrc (Marlon Fernandes) - 2° Bronze
    - Carlos CRX (Carlos Rubens) - 3° Bronze
@@ -63,8 +63,9 @@
    - Schumacher (Martins Swantaiger) - 8° Bronze
    - Barros (Samuel Barros) - 9° Bronze
    - Yoshimtzu (Rudi Porto)
-   - Novo competidor
-   - Novo competidor
+   - Nacional (Will D)
+   - Fábio Enrique (Fábio)
+   - Ricardo Nascimento (Ricardo)
    - Novo competidor
   
   1.7 - Observações:
