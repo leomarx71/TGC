@@ -6,23 +6,56 @@
 
 # **1. Inscrições:** #
 
-1.1 - Lista dos participantes com os respectivos Apelidos e/ou nomes do Facebook.
+1.1 - O modelo de inscrições de campeonatos da TGC terá sempre uma pré-lista de inscritos já validados e ativos conforme os participantes dos campeonatos recentes. Conforme Lista a seguir:
 
-1.2 - As inscrições para o torneio podem ser encerradas antecipadamente, caso seja atingido o número par de participantes para que o chaveamento seja feito de forma correta com um número par de jogadores 8/10/12/14... 16.
+- Albert Matos (Suprem Peruvian)
+- Aléxis Sánchez (ChitaMX)
+- Alisson Paulo (Jack Maloi)
+- Allan Live (Allan Live)
+- Amélio Belchior (Amélio)
+- Anderson Policarpo (Policarpo)
+- Ari Júnior (Arijunino)
+- Carlos José (Carlos CJX)
+- Carlos Rubens (Carlos CRX)
+- Casio Aquino (CFDA)
+- Christopher Jp (Ceviche)
+- Cristyan Antúnez (Crys90s)
+- Brisantt (BR Brissant)
+- Edimar Caetano (Pegasus PSX)
+- Edson Silva (Senninkage)
+- Edwin Huaylla (HD Wins)
+- Irvin Delgado (Irvin 1988)
+- Javier Portillo (Javier VZLA)
+- Jhonny Mota (Jhonny)
+- Jurandir Filho (Sr. Filho)
+- Laynara Souza (UaiLay)
+- Lenno Coelho (LeNN Miner)
+- Leonardo Andrade (Leomarx Games)
+- Lucas Souza (Killua)
+- Luciano Alves (Luciano Bora Zerar)
+- Luís Cárdenas (Luís L.A.O.M.)
+- Marcel Santana (MMM)
+- Marlon Fernandes (Camus Kshrc)
+- Martins Pazos (Schumacher)
+- Óscar Cárdenas (Goku L.A.O.M.)
+- Paolo Paredes (Paomarc)
+- Paulo Muniz (Paulo Fox)
+- Petter Bruno (JackPoker40)
+- Rafael Lopes (Rafael Diablo)
+- Reeh Taylor (Fe & Har)
+- Roberto Vasquez (The Mister)
+- Robson Meireles (Rob Jax)
+- Ronald Daniel (RonalDan)
+- Samuel Barros (Barros)
+- Will Daga (Nacional)
 
-1.3 - Poderá ser feito cadastro reserva de jogadores a fim de preencher possíveis desistência de jogadores.
+1.2 - Novos participantes poderão se inscrever através de postagem realizada diretamente nos comentários do vídeo de divulgação do Torneio nas Redes Sociais da Comunidade TGC.
 
-1.4 - CONFIRME SUA INSCRIÇÃO UTILIZANDO O MODELO ABAIXO:
-
+    Exemplo:
     Apelido/Nickname: LeomarxGames
-    Número de telefone com WhatsApp: +55 11 99999-8888
-    Disponibilidade para jogar: à noite durante a semana e finais de semana a combinar com antecedência.
-    Método que utiliza para conectar: Preferencialmente Radmin, se houver erro, poderá ser utilizado o Hamachi.
-    Declaração: Declaro que estou ciente das regras aqui estabelecidas e serei automaticamente desclassificado em caso de descumprimento: ( X ) SIM ( ) NÃO. A inscrição só será efetivada caso o participante marque a opção SIM.
+    Disponibilidade para jogar: Descrever o melhor possível. Ex.: Disponibilidade das 19 as 23h30 durante a semana e finais de semana a combinar com antecedência.
 
-1.5 - A TGC se reserva ao direito do uso de imagem dos participantes inscritos neste torneio, seja para retransmissões de partidas realizadas, bem como na divulgação de vídeos promocionais em suas redes sociais.
-
-1.6 - Todos os participantes ao se inscreverem no campeonato, declaram estar cientes de todas as regras aqui estabelecidas e poderão sofrer as punições previstas, desde um w.o, uma possível eliminação do campeonato ou até exlusão da Comunidade.
+1.3. Em seguida os novos inscritos deverão ingressar no grupo de WhatsApp do Campeonato pelo Link que será divulgado e se apresentar com o seu Nome Real + Apelido/NickName
 
 # **2. Cronograma (Previsão):**
 
