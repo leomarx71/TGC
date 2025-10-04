@@ -1,12 +1,12 @@
-# **A Comunidade Top Gear Championships (TGC) Apresenta:** #
+# **A Comunidade Leomarx Games Em Parceria com a TGC Apresenta:** #
 
-# **Campeonato Top Gear TGC Cenários 5.0 - WhatIf 2025** #
+# **Campeonato Top Gear 2 Cenários 1.0 - Dakar Rally 2025** #
 
 # **LEIA TODAS AS REGRAS COM BASTANTE ATENÇÃO!!!** #
 
 # **1. Inscrições:** #
 
-1.1 - O modelo de inscrições de campeonatos da TGC terá sempre uma pré-lista de inscritos já validados e ativos conforme os participantes dos campeonatos recentes. Conforme Lista a seguir:
+1.1 - O modelo de inscrições de campeonatos da Leomarx Games terá sempre uma pré-lista de inscritos já validados e ativos conforme os participantes dos campeonatos recentes. Conforme Lista a seguir:
 
 - Albert Matos (Suprem Peruvian)
 - Aléxis Sánchez (ChitaMX)
@@ -26,6 +26,7 @@
 - Edwin Huaylla (HD Wins)
 - Irvin Delgado (Irvin 1988)
 - Javier Portillo (Javier VZLA)
+- Jeoanys Nogueira (KitLaska)
 - Jhonny Mota (Jhonny)
 - Jurandir Filho (Sr. Filho)
 - Laynara Souza (UaiLay)
@@ -47,6 +48,7 @@
 - Robson Meireles (Rob Jax)
 - Ronald Daniel (RonalDan)
 - Samuel Barros (Barros)
+- Vitor Gabriel (V11)
 - Will Daga (Nacional)
 
 1.2 - Novos participantes poderão se inscrever através de postagem realizada diretamente nos comentários do vídeo de divulgação do Torneio nas Redes Sociais da Comunidade TGC.
@@ -59,7 +61,7 @@
 
 # **2. Validação e Verificação de Perfil dos Inscritos:** #
 
-2.1.	A administração da TGC, na intenção de criar um campeonato com credibilidade, se reserva no direito de solicitar a qualquer momento durante a inscrição e/ou durante o campeonato, informações adicionais a qualquer um dos inscritos em seus campeonatos.
+2.1.	A administração da Leomarx Games, na intenção de criar um campeonato com credibilidade, se reserva no direito de solicitar a qualquer momento durante a inscrição e/ou durante o campeonato, informações adicionais a qualquer um dos inscritos em seus campeonatos.
 
 2.2.	Tais medidas, vem com o intuito de impedir a inscrição ou participação de jogadores com contas fakes.
 
@@ -74,16 +76,14 @@
 
 # **3. Itens Obrigatórios:** #
 
-3.1.  **Emulador ZSNES 1.42 =** Link para download [aqui](https://www.zsnes.com/index.php?page=files)
+3.1 - **Emulador Null DC 1.96c =** Link para download [aqui](https://github.com/RossenX/NullDC-BEAR/releases/tag/1.96c)
 
-3.2.  **ROM Hack abaixo:**
+3.2.  **Emulador ZSNES 1.36 =** Link para download [aqui](https://www.zsnes.com/index.php?page=files)
+
+3.3.  **ROM Hack abaixo:**
 
 - Hack1 (https://topgearchampionships.com/tg1/Top%20Gear%20TGC%20Hack1%20-%20LeomarxGames.smc)
 - Hack2 (https://topgearchampionships.com/tg1/Top%20Gear%20TGC%20Hack2%20-%20LeomarxGames.smc)
-- Hack3 (https://topgearchampionships.com/tg1/Top%20Gear%20TGC%20Hack3%20-%20LeomarxGames.smc)
-- Hack4 (https://topgearchampionships.com/tg1/Top%20Gear%20TGC%20Hack4%20-%20LeomarxGames.smc)
-- Hack5 (https://topgearchampionships.com/tg1/Top%20Gear%20TGC%20Hack5%20-%20LeomarxGames.smc)
-- Hack6 (https://topgearchampionships.com/tg1/Top%20Gear%20TGC%20Hack6%20-%20LeomarxGames.smc)
 
 3.4.  **Radmin para conexão entre os jogadores** = Link para download [aqui](https://www.radmin-vpn.com/)
 
@@ -107,7 +107,7 @@
 
 # **5. Organização e Chaveamento:** #
 
-5.1. Será utilizado o TOORNAMENT para chaveamento das partidas do campeonato. [Cenários 5.0 - What If 2025](https://play.toornament.com/en_US/tournaments/2268660748208232447/)
+5.1. Será utilizado o TOORNAMENT para chaveamento das partidas do campeonato. [TG2 Cenários 1.0 - Dakar Rally 2025](https://play.toornament.com/en_US/tournaments/2268660748208232447/)
 
 5.2. O campeonato terá uma fase de grupos no modelo Copa do Mundo e os melhores colocados avançam para a fase final de mata-a-mata.
 
@@ -282,11 +282,11 @@ Apesar de parecer um alto volume... As partidas não irão passar de mais 30 min
 - Difamação ou calúnia;
 - Nacionalidade, Naturalidade, ou Lugar onde mora, ou nasceu.
 
-8.2. OBSERVAÇÕES: Mensagens trocadas em redes sociais particulares não serão consideradas. Denúncias e reclamações por ofensas somente serão consideradas e julgadas pela administração, se ocorrerem nos CANAIS OFICIAIS DA TGC (Youtube, WhatsApp, Discord, YouTube, Twitch, Instagram e outros) ou no chat da transmissão oficial de uma partida válida do campeonato. Chats privados (PV) e quaisquer outros meios não serão considerados. Caracterizada a ofensa desrespeitosa com a dignidade da pessoa, a administração se reserva exclusivamente à punição de exclusão do campeonato.
+8.2. OBSERVAÇÕES: Mensagens trocadas em redes sociais particulares não serão consideradas. Denúncias e reclamações por ofensas somente serão consideradas e julgadas pela administração, se ocorrerem nos CANAIS OFICIAIS da Leomarx Games (Youtube, WhatsApp, Discord, YouTube, Twitch, Instagram e outros) ou no chat da transmissão oficial de uma partida válida do campeonato. Chats privados (PV) e quaisquer outros meios não serão considerados. Caracterizada a ofensa desrespeitosa com a dignidade da pessoa, a administração se reserva exclusivamente à punição de exclusão do campeonato.
 
 8.3. Outras medidas referentes a processos legais, deverão ser adotadas pelo próprio requerente. 
 
-8.4. Para protocolar a reclamação, os print’s das mensagens ou áudios (enviados no período de realização do campeonato, nas redes oficiais da TGC), devem ser encaminhados através de protocolo conforme modelo no item a seguir, no post de inscrição do campeonato ou no PV de um dos ADMs, com a hashtag #PROTOCOLO e deverá ser respondido pela administração em um prazo máximo de 3 dias úteis.
+8.4. Para protocolar a reclamação, os print’s das mensagens ou áudios (enviados no período de realização do campeonato, nas redes oficiais da Leomarx Games), devem ser encaminhados através de protocolo conforme modelo no item a seguir, no post de inscrição do campeonato ou no PV de um dos ADMs, com a hashtag #PROTOCOLO e deverá ser respondido pela administração em um prazo máximo de 3 dias úteis.
 
 8.5. **Modelo de protocolo:** 
 
@@ -294,7 +294,7 @@ Apesar de parecer um alto volume... As partidas não irão passar de mais 30 min
     - NOME DO CAMPEONATO:
     - NOME DO SOLICITANTE:
     - NOME DO OPONENTE:
-    *SOLICITAÇÃO: Solicito que os administradores da TGC julguem se a conduta a seguir é caracterizada como discriminação conforme previsto no item de Regras de Conduto e seus subitens.*
+    *SOLICITAÇÃO: Solicito que os administradores da Leomarx Games julguem se a conduta a seguir é caracterizada como discriminação conforme previsto no item de Regras de Conduto e seus subitens.*
     *ACUSAÇÃO: descrever a alegação de forma sucinta.*
     *ANEXOS: encaminhar as imagens, vídeos e áudios que julgar relevante no tópico aberto ou no privado dos administradores*
 
@@ -348,7 +348,7 @@ Apesar de parecer um alto volume... As partidas não irão passar de mais 30 min
 - Digitem seus nomes se desejado;
 - Selecione o Cambio, Controle e Carro;
 - Selecione a Dificuldade: Championships;
-- Para selecionar as pistas na Rom Top Gear TGC Rom (E) [!], o jogador que estiver com o controle P1, deverá seguir o Manual de instruções da TGC ROM:
+- Para selecionar as pistas na Rom Top Gear TGC Rom (E) [!], o jogador que estiver com o controle P1, deverá seguir o Manual de instruções da Leomarx Games ROM:
 - Em Track, movendo para esquerda ou direita, selecione a pista (ela é apresentada pelo nome);
 - Para selecionar a pista Pressione o botão "A". Ao selecionar uma pista, um contador de seleção aparecerá: "1, 2, 3... e assim por diante";
 - Caso precise corrigir alguma seleção pressione o botão "B" para retirar a última pista selecionada;
@@ -382,4 +382,4 @@ Apesar de parecer um alto volume... As partidas não irão passar de mais 30 min
 
 12.2. **As regras podem ser aditadas durante o campeonato, caso a administração julgue necessário para cobrir casos que não forem cobertos por essas regras buscando não prejudicar os participantes.**
 
-# **A administração da TGC desejam à todos um excelente campeonato e principalmente muita diversão a todos os participantes e expectadores!!!** #
+# **A administração da Leomarx Games desejam à todos um excelente campeonato e principalmente muita diversão a todos os participantes e expectadores!!!** #
