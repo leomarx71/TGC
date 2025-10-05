@@ -360,9 +360,9 @@ Link das Redes:
 
 # **Sugestão de compra de Upgrades x Países - Top Gear 2** #
 
-![](Upgrades.jpeg)
+![](/TopGear2/Regras/Upgrades.jpeg)
 
-![](Equipamentos.jpeg)
+![](/TopGear2/Regras/Equipamentos.jpeg)
 
 **Pontuações de referência para:**
 
