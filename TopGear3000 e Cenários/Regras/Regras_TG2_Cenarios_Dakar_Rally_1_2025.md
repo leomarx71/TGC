@@ -298,62 +298,114 @@ Apesar de parecer um alto volume... As partidas não irão passar de mais 30 min
     *ACUSAÇÃO: descrever a alegação de forma sucinta.*
     *ANEXOS: encaminhar as imagens, vídeos e áudios que julgar relevante no tópico aberto ou no privado dos administradores*
 
-# **9. Regras Gerais:** #
+# **9 - Premiação de Troféus do Campeonato** #
 
-9.1 - Clique aqui para ler a base das Regras Gerais, link (https://www.facebook.com/groups/topgearchampionships/permalink/3391700757764527).
+9.1 - A inscrição e a participação no campeonato é gratuita.
 
-9.2 - Proibido o bug de bater no poste para ganhar duas posições.
+9.2 - A confecção de troféus de acrílicos tem o custo de +ou- R$ 120.
 
-9.3 - Proibido o uso do freio em curvas para derrapagem, devido ao bug de não reduzir a velocidade, ser exclusivo para o P1.
+9.3 - Após o encerramento das inscrições a ADM da Leomarx Games fará enquete no grupo de participantes sobre a opinião de divisão de custos entre todos os Brasileiros.
 
-9.4 - Proibido o uso do freio para prejudicar o adversário de maneira proposital e desleal.
+9.4 - Não serão enviados troféus para o exterior (México, Peru ou Venezuela, por exemplo). O participante poderá procurar fazer a confecção de forma local, com base na arte que será produzida.
 
-9.5 - Proibido o uso do freio ou desaceleração total para parar o carro na pista antes do combustível acabar.
+9.5 - Aprovando a divisão de custos de fabricação dos troféus, os 3 brasileiros mais bem colocados, receberão os troféus.
 
-9.6 - **Em caso de panes secas ou bugs (exceto Stonehenge):**
+**9.6 - Entrega da Premiação:** Após o campeonato, os vencedores devem indicar um nome/nick com até 15 caracteres para a confecção do troféu personalizado com seu nome, e quando estiver pronto o participante ganhador **deve arcar com os custos de frete do troféu** saindo de São Paulo, Brasil para o seu endereço. (Simular frete saindo do CEP 03510-000). Dúvidas entre em contato pelo WhatsApp no PV ou no grupo do campeonato.
 
-9.6.1 - **Pane seca unilateral.** Se ao menos um dos pilotos cruzar a linha e o outro não. Neste caso, apenas o piloto que cruzou a linha de chegada irá pontuar. Esta regra vale para todas as pistas.
+9.7 - O participante que receber o troféu se compromete a seguir/curtir/inscrever-se em todas as redes sociais da Leomarx Games e fazer um vídeo e mencionar o canal e todas as redes abaixo nas suas postagens e/ou de lives das partidas:
 
-9.6.2 - **Bug duplo.** As pontuações serão atribuídas conforme as posições finais dos jogadores imediatamente quando a tela escurecer após o "Out Of Fuel" e só valerão, por exemplo, +20 +15, se o bug ocorrer após a entrada de pelo menos um dos pilotos no pits stop. Sendo assim, também, essa regra só valerá para as pistas com pit stop determinadas = Tokyo, Nice, Bordeaux, Roma e Londres. Se o bug ocorrer e nenhum piloto estiver entrando no pit e a tela escurecer antes, então serão 0 pontos para ambos.
+Link das Redes:
 
-9.6.3 - **Bug unilateral.** Vale para qualquer pista, exceto stonehenge. A pontuação de um dos pilotos poderá ser ajustada ao final da partida, adicionando a pontuação da sua provável posição de chegada antes de escurecer a tela. Normalmente, este bug ocorre quando um dos pilotos já tenha terminado a pista e o outro bem distante, mas que ainda, sim, chegaria. Caso os pilotos tenham dúvidas de qual valor adicionar, podem solicitar revisão VAR para a ADM.
+<https://www.facebook.com/groups/mestresdotopgear2>
 
-9.7 - **Caso a pista de UK - Stonehenge seja sorteada:**
+<https://youtube.com/@LeomarxGames>
 
-9.7.1 - Esta pista deverá ser corrida por último;
+<https://www.facebook.com/LeomarxGames>
 
-9.7.2 - Em UK Stonehenge, as pontuações serão atribuídas conforme as posições finais dos jogadores imediatamente quando a tela escurecer após o "Out Of Fuel" e, somente, se no confronto os dois pilotos estiverem usando os carros Vermelho e/ou Roxo, caso um dos pilotos estiver usando o carro Azul ou Branco na disputa. Aquele que não cruzar a linha de chegada não irá receber nenhuma pontuação.
+<https://www.instagram.com/leomarxgames>
 
-9.8 - Em caso de alguma situação diferente das listadas, os pilotos devem/podem solicitar revisão VAR para a ADM.
+<https://twitter.com/LeomarxGames>
 
-9.9 - Caso alguma Regra Geral esteja divergente de alguma regra estabelecida aqui neste post, vale a regra deste documento para o campeonato.
+<https://www.twitch.tv/leomarxgames>
 
-# **10. Regras Específicas:** #
+<https://www.tiktok.com/@leomarxgames>
 
-10.1. Será utilizado o emulador ZSNES 1.42;
+# **10 - Regras Gerais das Corridas: Leia com bastante atenção**
 
-10.2. A ROM deverá ser a Top Gear TGC (E) [!];
+10.1 - O campeonato será no modelo *Racha* (Modelo que é permitido fechadas). Então as regras tenha atenção as regras relacionadas a este item descritas abaixo.
 
-10.3. Nível/Level: **Championship**;
+10.2 - Apesar das fechadas estarem liberadas a administração estará a disposição para realização de "VAR" das partidas e eventuais dúvidas.
 
-10.4. A escolha de câmbio (automático ou manual) é livre durante todo o campeonato;
+10.3 - A coleta e uso dos nitros é livre e não serão controladas neste campeonato.
 
-10.5. A conexão deverá ser estabelecida por rede VPN RADMIN, HAMACHI ou ZEROTIER;
+10.4 - A coleta do dinheiro na pista é livre, porém tenha atenção ao sorteio do equipamento proibido e/ou equipamento obrigatório.
 
-10.6. O resultado da partida será a soma dos pontos obtidos pelos jogadores em cada pista disputada;
+# **Fechadas / Bug de Fechadas** #
 
-10.7. Procedimento para início da partida:
+10.5 - Permitido aos pilotos ficarem mudando o trajeto propositalmente para fechar.
 
-- Selecione 2 Jogadores;
-- Digitem seus nomes se desejado;
-- Selecione o Cambio, Controle e Carro;
-- Selecione a Dificuldade: Championships;
-- Para selecionar as pistas na Rom Top Gear TGC Rom (E) [!], o jogador que estiver com o controle P1, deverá seguir o Manual de instruções da Leomarx Games ROM:
-- Em Track, movendo para esquerda ou direita, selecione a pista (ela é apresentada pelo nome);
-- Para selecionar a pista Pressione o botão "A". Ao selecionar uma pista, um contador de seleção aparecerá: "1, 2, 3... e assim por diante";
-- Caso precise corrigir alguma seleção pressione o botão "B" para retirar a última pista selecionada;
-- O Password para abrir todos os países na Rom Original é KEELSON. Ir para o menu COUNTRY, selecionar UK, usar o password, e depois selecionar o país;
+# **Medidas Anti-Jogo:** #
 
+10.6 - Se o carro quebrar é proibido ficar batendo mais o carro propositalmente para perder mais posições e obter vantagem de largar na frente na pista seguinte;
+
+10.7 - Se o carro quebrar é proibido diminuir a marcha do carro propositalmente para perder mais posições e obter vantagem de largar na frente na pista seguinte;
+
+10.8 - Proibido o uso do freio para prejudicar o adversário de maneira proposital e desleal;
+
+10.9 - Proibido a desaceleração do carro ou parar totalmente o carro na pista antes do combustível acabar ou antes de aparecer Race Over na tela;
+
+10.10 - Proibido o uso da marcha Ré, exceto se, no caso de batidas na entrada de túnel/parede na qual é realmente necessário dar Ré para evitar bater no muro novamente ou situações similares;
+
+10.11 - As punições no caso da ocorrência de atitudes anti desportivas as citadas, podem variar de zeramento da pontuação da pista atual ou seguinte ou até mesmo eliminação do campeonato a ser julgado pela ADM do torneio.
+
+# **Sugestão de compra de Upgrades x Países - Top Gear 2** #
+
+![](Upgrades.jpeg)
+
+![](Equipamentos.jpeg)
+
+**Pontuações de referência para:**
+
+•	1st = 10pts, 10mil
+
+•	2nd = 6pts, 6mil
+
+•	3rd = 4pts, 4mil
+
+•	4th = 3pts, 3mil
+
+•	5th = 2pts, 2mil
+
+•	6th = 1pts, 1mil
+
+•	7th = 0pts
+
+•	8th = 0pts
+
+•	9th = 0pts
+
+•	10th = 0pts
+
+# **Itens de Super:**
+Os itens de “Super” (S) poderão/serão coletados normalmente uma vez que ambos os jogadores terão a mesma oportunidade de obter ele.
+
+# **Race Over/Game Over:**
+Devido ao nível do jogo Championship ser elevado e haver alguns equipamentos proibidos e/ou obrigatórios, os equipamentos “base” da tabela às vezes serão inferiores ao necessário para aquele país, e então, poderá ocorrer fim jogo de forma inesperada durante uma das 8 pistas. Para contornar esse problema segue as observações: 
+
+  - **Observação A**: Se o Race Over ocorrer em qualquer pista, poderá ser tentado jogar a mesma novamente por mais 2x. Total de 3 tentativas.
+
+  - **Observação B:** Se o Race Over permanecer após as duas tentativas adicionais. Deve-se encerrar o jogo e, então, considerar se a pontuação obtida de ambos até a pista atual.
+    
+# **Regras de W.O. e desistência:**
+
+  - A vitória por W.O dará ao vitorioso a pontuação média por partida. (5 pontos por pista) e a derrota por W.O. dará ao derrotado zero na pontuação por cada pista da partida.
+
+  - **Observação A:** Se um dos jogadores desistir em meio a disputa, será atribuído a ele zero na pontuação das pistas restantes. E ao vitorioso será atribuído a somatória da pontuação máxima das pistas restantes (5 pontos por pista)
+
+  - Toda e qualquer decisão da administração quanto à aplicação de W.O. será baseada exclusivamente pelas comunicações feitas pelo meio comunicação oficial do campeonato (WhatsApp).
+
+  - **Observação B:** Havendo necessidade a administração poderá intervir no sistema de saldo/pontos para que os o W.O.’s não prejudique o torneio.
+  - 
 # **11. Validação das partidas:** #
 
 11.1 - **Responsabilidade Individual de Gravação**. Todos os pilotos são obrigados a gravar ou transmitir ao vivo as suas próprias partidas, seja pelo OBS Studio, ou Emulador ou celular filmando a tela. Não é necessário perguntar ao oponente quem vai gravar ou transmitir.
