@@ -159,76 +159,83 @@
 
 # **6. Cenários** #
 
-## **6.1 - Cenário 1 - Novas Estratégias**
-**ROM Hack1 Requerida**
-
-Descrição: E se tivesse mais voltas do que o normal em algumas pistas? 
-
-Modificação: Algumas pistas do jogo agora tem um número maior de voltas, outras pistas tem um número reduzido.
-
-Objetivo: Jogar normalmente as pistas sorteadas e tentar o seu melhor com o novo número de voltas. Tabela abaixo serve de guia.
-
-## **6.2 - Cenário 2 - Full Game 2 voltas!**
+## **Cenário 1 - Novas Estratégias e Pontuações:**
 **ROM Hack2 Requerida**
 
-Descrição: Copiando o estilo arrancada do need for speed essa é para aqueles que gostam de decidir tudo logo de cara. Um erro de largada pode ser fatal.
+Com a nova fórmula de pontuação, igual do jogo Top Gear 1, Qual seria o seu resultado ?
 
-Modificação: Todas as pistas do jogo estão com 3 Nitros e 2 Voltas! (Que tal um full game?)
+Modificação: Pontuações e Dinheiro até o 10th. Dinheiro com maior valor igual aos pontos.
 
-Objetivo: Fazer aquelas largadas perfeitas e mandar seu oponente comer poeira. Tabela abaixo serve de guia.
+Objetivo: Jogar normalmente os países sorteadas e tentar o seu novo melhor com mais pontos e mais dinheiro. Lista abaixo:
 
-## **6.3 - Cenário 3 - Sou Retardatário Sim e não nego!**
-**ROM Hack3 Requerida**
+- 01° - 20 pts. - 20k USD
+- 02° - 15 pts. - 15k USD
+- 03° - 12 pts. - 12k USD
+- 04° - 10 pts. - 10k USD
+- 05° - 08 pts. - 08k USD
+- 06° - 06 pts. - 06k USD
+- 07° - 04 pts. - 04k USD
+- 08° - 03 pts. - 03k USD
+- 09° - 02 pts. - 02k USD
+- 10° - 01 pts. - 01k USD
 
-Descrição: Você tem raiva quando você vai passar o vigésimo BOT e ele tá dando ré? Então que tal você sentir na pele e se tornar esse cara Hahaha!
-
-Objetivo: Só vale acelerar depois que o Ritchie completar 1 volta em cima de você! Jogar normalmente as pistas sorteadas e recuperar o máximo de posições possíveis.
-
-Modificação: Toma aí 6 nitros para tentar recuperar as posições depois de virar retardatário.
-
-## **6.4 - Cenário 4 - Velozes e Furiosos 2092**
+## **Cenário 2 - www.TopGear2.bet **
 **ROM Hack4 Requerida**
 
-Descrição: E se tivesse Nitros e Gasolina Infinita? Seu desejo virou uma ordem!!! Corridas eletrizantes e adrenalina a mil com super velocidades acima de 300km/h.
+Gostar de de jogar na mega sena e apostar nas bets ? Gosta de apostar no tudo ou nada ? Acha que os últimos serão os primeiros ?
 
-Bata todos os records de tempo do Guinness Book se os bots deixarem é claro. Quero ver tangências de curvas sem tirar o pé do acelerador hahaha! 
+Modificação: Desejo Concedido!!! Nessa Hack o primeiro lugar vale 20 pts o segundo vale 15 pts e o 10th vale 30! Demais posições não pontuam. Faça sua estratégia e veja se compensa lutar pelo primeiro ou último lugar.
+
+Objetivo: Chegar em 1st e garantir 20 ou chegar em 10th e garantir 30, vc decide, mas cuidado para não ter Race Over e perder tudo.
+
+## **Cenário 3 - Muita Potência e pouco controle:**
+**ROM Hack1 Requerida**
+
+Sorteio de um equipamento de forte, pista de gelo ou chuva, mas sem pneus para controlar o carro.
+Exemplos Motor de 80k e/ou Gearbox de 50k e/ou Nitro de 30, mas sem pneu de chuva ou neve.
+Seja rápido, mas cauteloso, sua meta é chegar na melhor posição possível sem bater.
+
+Modificação: Pontuações até o 10th. Dinheiro normal como o original.
+
+Objetivo: Jogar normalmente as pistas sorteadas e ver se vc sabe tirar o pé na hora certa da curva e não bater. Penalidade de -1 ponto a cada batida que o carro tiver, seja em setas, pneus ou postes. Permitido bater nos obstáculos da pista e nos bots. Adiciona +1 ponto a cada retardatário que você conseguir dar a volta em cima.
+
+- Exemplo prático = chegada em 1st porém bateu 6x nas curvas e deu a volta em cima de mais 4 bots (20 - 6 + 4 = 18 pts)
+
+Atenção: Necessário reasistir a partida para contabilizar o erros e soma dos bots!
+
+## **Cenário 4 - Velozes e Furiosos 2093:**
+**ROM Hack3 Requerida**
+
+100 anos depois do lançamento do jogo, já seria possível ter Nitros Infinitos e Equipamentos no máximo? Simm, Seu desejo virou uma ordem!!! Corridas eletrizantes e adrenalina a mil com super velocidades acima de 300km/h.
+
+Bata todos os records de tempo do Guinness Book se os bots deixarem é claro. Quero ver tangências de curvas sem tirar o pé do acelerador, hahaha! 
 
 Sua chance de dar uma ou duas voltas em cima do Ritchie.
 
-Modificações: Nitros e Gasolina Infinita.
+Modificações: Novo sistema de Pontuação + Nitros Infinitos e Equipamento no máximo, exceto proteção. Cuidado para não quebrar o carro.
 
-Objetivo: Jogar normalmente as pistas sorteadas, emendando um nitro atrás do outro.
+Objetivo: Jogar normalmente as pistas sorteadas e emendar um nitro atrás do outro.
 
-## **6.5 - Cenário 5 - Efeito Borboleta**
-**ROM Hack1 Requerida**
+## **Cenário 5 - Efeito Borboleta com final início e final diferente:**
+**ROM Hack2 Requerida**
 
-Descrição: "Dormammu, Eu vim Barganhar", "Dormammu, Eu vim Barganhar". Entrou no loop temporal do Dr. Estranho?
+"Dormammu, Eu vim Barganhar", "Dormammu, Eu vim Barganhar". Entrou no loop temporal do Dr. Estranho?
 
-Modificação: Algumas pistas do jogo agora tem um número maior de voltas, outras pistas tem um número reduzido.
+Modificação: Nenhuma
 
-Objetivo: Jogar a pista sorteada por diversas vezes repetidamente.
+Objetivo: Jogar 4x a primeira pista do país sorteado com mais dinheiro, mas não podendo repetir a configuração.
 
 **Detalhes:**
-- Terá um sorteio de 2 a 16 que representará a quantidade de vezes que uma pista deverá ser jogada
-- Quanto maior o número de repetição, pistas mais simples e com menos voltas serão atribuídas.
-
-**Exemplo:**
-- Se cair repetição de 2 a 3x. Serão sorteadas pistas com 8, 9 ou 10 voltas
-- - Exemplo Pior cenário 3x Roma com 10 voltas
-- Se cair repetição de 4 a 6x. Serão sorteadas pistas com 4, 5, 6 ou 7 voltas
-- - Exemplo Pior cenário 6x Rio com 7 voltas
-- Se cair repetição de 7 a 10x. Serão sorteadas pistas com 3 voltas
-- - Exemplo Pior cenário 10x Stonehenge com 3 voltas
-- Se cair repetição de 11 a 13x. Serão sorteadas pistas com 2 voltas
-- - Exemplo Pior cenário 13x Pisa com 2 voltas
-- Se cair repetição de 14 a 16x. Serão sorteadas pistas com 1 volta apenas.
-- - Exemplo Pior cenário 16x Colônia com 1 volta
-
-Apesar de parecer um alto volume... As partidas não irão passar de mais 30 minutos de jogo, porque colônia com uma volta só é 40 segundos cada vez que jogar hahaha!
-
-**Observação:** Alguns cenários terão o seu carro previamente sorteado
-
-![](Info_ROMs_Cenarios_WhatIf.png)
+- Terá um sorteio de 2 a 16 que representará país a ser jogado. Austrália não entra.
+- Deverá ser jogada por 4x a primeira pista do país, anotando o resultado e fazendo o load state.
+- Fazer save state antes da compra dos equipamentos.
+- Após a compra avisar no chat o seu oponente a configuração realizada... assim tbm facilitará o VAR
+- Não se poderá repetir a configuração.
+- Exemplos práticos começando com 80k:
+  - Primeira vez Motor de 80k + Gearbox 0 + Nitro 0;
+  - Segunda vez Motor 0 + Gearbox de 50 + Nitro de 30;
+  - Terceira vez Motor de 30 + Gearbox de 30 + Nitro de 15;
+  - Quarta vez Motor de 50 + Gearbox de 10 + Nitro de 5;
 
 # **7. Comunicação:** #
 
