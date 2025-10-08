@@ -82,8 +82,17 @@
 
 3.3.  **ROM Hack abaixo:**
 
-- Hack1 (https://topgearchampionships.com/tg1/Top%20Gear%20TGC%20Hack1%20-%20LeomarxGames.smc)
-- Hack2 (https://topgearchampionships.com/tg1/Top%20Gear%20TGC%20Hack2%20-%20LeomarxGames.smc)
+*Top Gear 2 (U) [!] - Hack1 - LeomarxGames*
+	- Apenas ajuste de Pontuações como no Top Gear 1
+    
+*Top Gear 2 (U) [!] - Hack2 - LeomarxGames*
+	- Ajuste de Pontuações e Dinheiro como no Top Gear 1
+    
+*Top Gear 2 (U) [!] - Hack3 - LeomarxGames*
+	- Ajuste de Pontuações e Dinheiro + Nitro Infinito (Equipamentos no Máx serão feitos pelo Passwords).
+    
+*Top Gear 2 (U) [!] - Hack4 - LeomarxGames*
+	- Nessa Hack o primeiro lugar vale 20 pts o segundo vale 15 pts e o 10th vale 30! Demais posições não pontuam
 
 3.4.  **Radmin para conexão entre os jogadores** = Link para download [aqui](https://www.radmin-vpn.com/)
 
@@ -107,7 +116,7 @@
 
 # **5. Organização e Chaveamento:** #
 
-5.1. Será utilizado o TOORNAMENT para chaveamento das partidas do campeonato. [TG2 Cenários 1.0 - Dakar Rally 2025](https://play.toornament.com/en_US/tournaments/2268660748208232447/)
+5.1. Será utilizado o TOORNAMENT para chaveamento das partidas do campeonato. [TG2 Cenários 1.0 - Dakar Rally 2025](https://play.toornament.com/en_US/tournaments/2320854530518775807/)
 
 5.2. O campeonato terá uma fase de grupos no modelo Copa do Mundo e os melhores colocados avançam para a fase final de mata-a-mata.
 
@@ -159,7 +168,7 @@
 
 # **6. Cenários** #
 
-## **Cenário 1 - Novas Estratégias e Pontuações:**
+## **Cenário 1 - Novas Estratégias, Pontuações e Dinheiro:** ##
 **ROM Hack2 Requerida**
 
 Com a nova fórmula de pontuação, igual do jogo Top Gear 1, Qual seria o seu resultado ?
@@ -179,7 +188,7 @@ Objetivo: Jogar normalmente os países sorteadas e tentar o seu novo melhor com 
 - 09° - 02 pts. - 02k USD
 - 10° - 01 pts. - 01k USD
 
-## **Cenário 2 - www.TopGear2.bet **
+## **Cenário 2 - www.TopGear2.bet** ##
 **ROM Hack4 Requerida**
 
 Gostar de de jogar na mega sena e apostar nas bets ? Gosta de apostar no tudo ou nada ? Acha que os últimos serão os primeiros ?
@@ -188,7 +197,7 @@ Modificação: Desejo Concedido!!! Nessa Hack o primeiro lugar vale 20 pts o seg
 
 Objetivo: Chegar em 1st e garantir 20 ou chegar em 10th e garantir 30, vc decide, mas cuidado para não ter Race Over e perder tudo.
 
-## **Cenário 3 - Muita Potência e pouco controle:**
+## **Cenário 3 - Muita Potência e Pouco Controle:**
 **ROM Hack1 Requerida**
 
 Sorteio de um equipamento de forte, pista de gelo ou chuva, mas sem pneus para controlar o carro.
@@ -216,7 +225,7 @@ Modificações: Novo sistema de Pontuação + Nitros Infinitos e Equipamento no 
 
 Objetivo: Jogar normalmente as pistas sorteadas e emendar um nitro atrás do outro.
 
-## **Cenário 5 - Efeito Borboleta com final início e final diferente:**
+## **Cenário 5 - Efeito Borboleta, cada novo dia um início diferente:**
 **ROM Hack2 Requerida**
 
 "Dormammu, Eu vim Barganhar", "Dormammu, Eu vim Barganhar". Entrou no loop temporal do Dr. Estranho?
@@ -230,8 +239,8 @@ Objetivo: Jogar 4x a primeira pista do país sorteado com mais dinheiro, mas nã
 - Deverá ser jogada por 4x a primeira pista do país, anotando o resultado e fazendo o load state.
 - Fazer save state antes da compra dos equipamentos.
 - Após a compra avisar no chat o seu oponente a configuração realizada... assim tbm facilitará o VAR
-- Não se poderá repetir a configuração.
-- Exemplos práticos começando com 80k:
+- Não se poderá repetir a configuração
+- Exemplos práticos começando com 80k em um determinado país:
   - Primeira vez Motor de 80k + Gearbox 0 + Nitro 0;
   - Segunda vez Motor 0 + Gearbox de 50 + Nitro de 30;
   - Terceira vez Motor de 30 + Gearbox de 30 + Nitro de 15;
