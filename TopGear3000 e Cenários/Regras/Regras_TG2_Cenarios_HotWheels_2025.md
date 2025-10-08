@@ -1,6 +1,6 @@
 # **A Comunidade Leomarx Games Em Parceria com a TGC Apresenta:** #
 
-# **Campeonato Top Gear 2 Cenários 1.0 - Dakar Rally 2025** #
+# **Campeonato Hot Wheels Top Gear 2 Cenários 1.0 - 2025** #
 
 # **LEIA TODAS AS REGRAS COM BASTANTE ATENÇÃO!!!** #
 
