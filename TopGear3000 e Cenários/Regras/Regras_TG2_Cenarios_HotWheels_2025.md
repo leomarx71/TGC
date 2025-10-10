@@ -168,12 +168,52 @@
 
 # **6. Cenários** #
 
-## **Cenário 1 - Novas Estratégias, Pontuações e Dinheiro:** ##
+## **Cenário 1 - Novas Estratégias - Ajuste de Pontuações Apenas:** ##
+**ROM Hack1 Requerida**
+
+Com a nova fórmula de pontuação, igual do jogo Top Gear 1, Qual seria o seu resultado ?
+
+Modificação: Pontuações até o 10th. Dinheiro como sempre.
+
+Objetivo: Jogar normalmente os países sorteadas e tentar o seu novo melhor com mais pontos e mais dinheiro. Lista abaixo:
+
+- 01° - 20 pts. - 10k USD
+- 02° - 15 pts. - 06k USD
+- 03° - 12 pts. - 04k USD
+- 04° - 10 pts. - 03k USD
+- 05° - 08 pts. - 02k USD
+- 06° - 06 pts. - 01k USD
+- 07° - 04 pts. - 00k USD
+- 08° - 03 pts. - 00k USD
+- 09° - 02 pts. - 00k USD
+- 10° - 01 pts. - 00k USD
+
+## **Cenário 2 - Novas Estratégias - Ajustes de Pontuações + Dinheiro e Equipamento mais caros 1,25X:** ##
 **ROM Hack2 Requerida**
 
 Com a nova fórmula de pontuação, igual do jogo Top Gear 1, Qual seria o seu resultado ?
 
-Modificação: Pontuações e Dinheiro até o 10th. Dinheiro com maior valor igual aos pontos.
+Modificação: Pontuações e Dinheiro até o 10th. Dinheiro com maior distribuição. Equipamento mais caros 1,25X.
+
+Objetivo: Jogar normalmente os países sorteadas e tentar o seu novo melhor com mais pontos e mais dinheiro. Lista abaixo:
+
+- 01° - 20 pts. - 10k USD
+- 02° - 15 pts. - 09k USD
+- 03° - 12 pts. - 08k USD
+- 04° - 10 pts. - 07k USD
+- 05° - 08 pts. - 06k USD
+- 06° - 06 pts. - 05k USD
+- 07° - 04 pts. - 04k USD
+- 08° - 03 pts. - 03k USD
+- 09° - 02 pts. - 02k USD
+- 10° - 01 pts. - 01k USD
+
+## **Cenário 3 - Novas Estratégias, Pontuações e Dinheiro:** ##
+**ROM Hack3 Requerida**
+
+Com a nova fórmula de pontuação, igual do jogo Top Gear 1, Qual seria o seu resultado ?
+
+Modificação: Pontuações e Dinheiro até o 10th. Dinheiro com dobro. Equipamentos mais caros 2x.
 
 Objetivo: Jogar normalmente os países sorteadas e tentar o seu novo melhor com mais pontos e mais dinheiro. Lista abaixo:
 
@@ -188,32 +228,19 @@ Objetivo: Jogar normalmente os países sorteadas e tentar o seu novo melhor com 
 - 09° - 02 pts. - 02k USD
 - 10° - 01 pts. - 01k USD
 
-## **Cenário 2 - www.TopGear2.bet** ##
+## **Cenário 4 - www.TopGear2.bet** ##
 **ROM Hack4 Requerida**
 
 Gostar de de jogar na mega sena e apostar nas bets ? Gosta de apostar no tudo ou nada ? Acha que os últimos serão os primeiros ?
 
-Modificação: Desejo Concedido!!! Nessa Hack o primeiro lugar vale 20 pts o segundo vale 15 pts e o 10th vale 30! Demais posições não pontuam. Faça sua estratégia e veja se compensa lutar pelo primeiro ou último lugar.
+Modificação: Desejo Concedido!!! Nessa Hack o 1st vale 20 pts o 2nd vale 15 pts, o 10th vale 30! Demais posições não pontuam. Faça sua estratégia e veja se compensa lutar pelo primeiro ou último lugar.
 
 Objetivo: Chegar em 1st e garantir 20 ou chegar em 10th e garantir 30, vc decide, mas cuidado para não ter Race Over e perder tudo.
 
-## **Cenário 3 - Muita Potência e Pouco Controle:**
-**ROM Hack1 Requerida**
+Observação.: Se os dois pilotos estiverem na disputa exemplo 9th e 10th. Vale usar o freio na linha de chegada para esperar o bot passar! 
 
-Sorteio de um equipamento de forte, pista de gelo ou chuva, mas sem pneus para controlar o carro.
-Exemplos Motor de 80k e/ou Gearbox de 50k e/ou Nitro de 30, mas sem pneu de chuva ou neve.
-Seja rápido, mas cauteloso, sua meta é chegar na melhor posição possível sem bater.
-
-Modificação: Pontuações até o 10th. Dinheiro normal como o original.
-
-Objetivo: Jogar normalmente as pistas sorteadas e ver se vc sabe tirar o pé na hora certa da curva e não bater. Penalidade de -1 ponto a cada batida que o carro tiver, seja em setas, pneus ou postes. Permitido bater nos obstáculos da pista e nos bots. Adiciona +1 ponto a cada retardatário que você conseguir dar a volta em cima.
-
-- Exemplo prático = chegada em 1st porém bateu 6x nas curvas e deu a volta em cima de mais 4 bots (20 - 6 + 4 = 18 pts)
-
-Atenção: Necessário reasistir a partida para contabilizar o erros e soma dos bots!
-
-## **Cenário 4 - Velozes e Furiosos 2093:**
-**ROM Hack3 Requerida**
+## **Cenário 5 - Velozes e Furiosos 2093:**
+**ROM Hack5 Requerida**
 
 100 anos depois do lançamento do jogo, já seria possível ter Nitros Infinitos e Equipamentos no máximo? Simm, Seu desejo virou uma ordem!!! Corridas eletrizantes e adrenalina a mil com super velocidades acima de 300km/h.
 
@@ -225,10 +252,8 @@ Modificações: Novo sistema de Pontuação + Nitros Infinitos e Equipamento no 
 
 Objetivo: Jogar normalmente as pistas sorteadas e emendar um nitro atrás do outro.
 
-## **Cenário 5 - Efeito Borboleta, cada novo dia um início diferente:**
-**ROM Hack2 Requerida**
-
-"Dormammu, Eu vim Barganhar", "Dormammu, Eu vim Barganhar". Entrou no loop temporal do Dr. Estranho?
+## **Cenário 6 - Efeito Borboleta, cada novo dia um início diferente:**
+**ROM Hack6 Requerida**
 
 Modificação: Nenhuma
 
