@@ -82,17 +82,13 @@
 
 3.3.  **ROM Hack abaixo:**
 
-*Top Gear 2 (U) [!] - Hack1 - LeomarxGames*
-	- Apenas ajuste de Pontuações como no Top Gear 1
-    
-*Top Gear 2 (U) [!] - Hack2 - LeomarxGames*
-	- Ajuste de Pontuações e Dinheiro como no Top Gear 1
-    
-*Top Gear 2 (U) [!] - Hack3 - LeomarxGames*
-	- Ajuste de Pontuações e Dinheiro + Nitro Infinito (Equipamentos no Máx serão feitos pelo Passwords).
-    
-*Top Gear 2 (U) [!] - Hack4 - LeomarxGames*
-	- Nessa Hack o primeiro lugar vale 20 pts o segundo vale 15 pts e o 10th vale 30! Demais posições não pontuam
+Top Gear 2 - Hack1 USA - LeomarxGames = ROM Americana + 20 pontos										
+										
+Top Gear 2 - Hack2 USA - LeomarxGames = ROM Americana + 20 pontos + 10k Dinheiros + Equipamentos 1,25x										
+										
+Top Gear 2 - Hack3 USA - LeomarxGames = ROM Americana + 20 pontos + 20k Dinheiros + Equipamentos 2x										
+
+Top Gear 2 - Hack7 USA - LeomarxGames = ROM Americana + 20 pontos + Nitro Infinito + Equipamentos Grátis
 
 3.4.  **Radmin para conexão entre os jogadores** = Link para download [aqui](https://www.radmin-vpn.com/)
 
@@ -116,7 +112,7 @@
 
 # **5. Organização e Chaveamento:** #
 
-5.1. Será utilizado o TOORNAMENT para chaveamento das partidas do campeonato. [TG2 Cenários 1.0 - Dakar Rally 2025](https://play.toornament.com/en_US/tournaments/2320854530518775807/)
+5.1. Será utilizado o TOORNAMENT para chaveamento das partidas do campeonato. [Hot Wheels Top Gear 2 Cenários 1.0 - 2025](https://play.toornament.com/en_US/tournaments/2320854530518775807/)
 
 5.2. O campeonato terá uma fase de grupos no modelo Copa do Mundo e os melhores colocados avançam para a fase final de mata-a-mata.
 
@@ -228,16 +224,16 @@ Objetivo: Jogar normalmente os países sorteadas e tentar o seu novo melhor com 
 - 09° - 02 pts. - 02k USD
 - 10° - 01 pts. - 01k USD
 
-## **Cenário 4 - www.TopGear2.bet** ##
-**ROM Hack4 Requerida**
+~## **Cenário 4 - www.TopGear2.bet** ##~
+**ROM Hack4 Requerida**~
 
-Gostar de de jogar na mega sena e apostar nas bets ? Gosta de apostar no tudo ou nada ? Acha que os últimos serão os primeiros ?
+~Gostar de de jogar na mega sena e apostar nas bets ? Gosta de apostar no tudo ou nada ? Acha que os últimos serão os~ primeiros ?~
 
-Modificação: Desejo Concedido!!! Nessa Hack o 1st vale 20 pts o 2nd vale 15 pts, o 10th vale 30! Demais posições não pontuam. Faça sua estratégia e veja se compensa lutar pelo primeiro ou último lugar.
+~Modificação: Desejo Concedido!!! Nessa Hack o 1st vale 20 pts o 2nd vale 15 pts, o 10th vale 30! Demais posições não pontuam. Faça sua estratégia e veja se compensa lutar pelo primeiro ~ou último lugar.~
 
-Objetivo: Chegar em 1st e garantir 20 ou chegar em 10th e garantir 30, vc decide, mas cuidado para não ter Race Over e perder tudo.
+~Objetivo: Chegar em 1st e garantir 20 ou chegar em 10th e garantir 30, vc decide, mas cuidado para não ter Race Over e perder tudo.~
 
-Observação.: Se os dois pilotos estiverem na disputa exemplo 9th e 10th. Vale usar o freio na linha de chegada para esperar o bot passar! 
+~Observação.: Se os dois pilotos estiverem na disputa exemplo 9th e 10th. Vale usar o freio na linha de chegada para esperar o bot passar!~
 
 ## **Cenário 5 - Velozes e Furiosos 2093:**
 **ROM Hack5 Requerida**
@@ -270,6 +266,10 @@ Objetivo: Jogar 4x a primeira pista do país sorteado com mais dinheiro, mas nã
   - Segunda vez Motor 0 + Gearbox de 50 + Nitro de 30;
   - Terceira vez Motor de 30 + Gearbox de 30 + Nitro de 15;
   - Quarta vez Motor de 50 + Gearbox de 10 + Nitro de 5;
+
+**Tabela Guia Cenários**
+
+![](TG2K_Tabela_Equipamentos_Cenarios.png)
 
 # **7. Comunicação:** #
 
@@ -398,34 +398,6 @@ Link das Redes:
 10.10 - Proibido o uso da marcha Ré, exceto se, no caso de batidas na entrada de túnel/parede na qual é realmente necessário dar Ré para evitar bater no muro novamente ou situações similares;
 
 10.11 - As punições no caso da ocorrência de atitudes anti desportivas as citadas, podem variar de zeramento da pontuação da pista atual ou seguinte ou até mesmo eliminação do campeonato a ser julgado pela ADM do torneio.
-
-# **Sugestão de compra de Upgrades x Países - Top Gear 2** #
-
-![](/TopGear2/Regras/Upgrades.jpeg)
-
-![](/TopGear2/Regras/Equipamentos.jpeg)
-
-**Pontuações de referência para:**
-
-•	1st = 10pts, 10mil
-
-•	2nd = 6pts, 6mil
-
-•	3rd = 4pts, 4mil
-
-•	4th = 3pts, 3mil
-
-•	5th = 2pts, 2mil
-
-•	6th = 1pts, 1mil
-
-•	7th = 0pts
-
-•	8th = 0pts
-
-•	9th = 0pts
-
-•	10th = 0pts
 
 # **Itens de Super:**
 Os itens de “Super” (S) poderão/serão coletados normalmente uma vez que ambos os jogadores terão a mesma oportunidade de obter ele.
