@@ -144,7 +144,7 @@ Top Gear 2 - Hack7 USA - LeomarxGames = ROM Americana + 20 pontos + Nitro Infini
 
 - Vencerá aquele que ao final do cenário tiver mais pontos de vantagem; 
 - Permanecendo o empate no primeiro cenário, o cenário seguinte deverá ser jogado e assim sucessivamente, até haver um vencedor;
-- Obs.: Em comum acordo, os jogadores podem trocar de controle quanto forem iniciar o desempate para corrigir o grid de largada corretamente. Caso não aja concenso, será o player 1, aquele que tiver terminado na frente na pista anterir ao desempate.
+- Obs.: Em comum acordo, os jogadores podem trocar de controle quanto forem iniciar o desempate para corrigir o grid de largada corretamente. Caso não haja consenso, será o player 1, aquele que tiver terminado na frente na pista anterir ao desempate.
 
 5.10. A substituição de jogadores só será adimitida, caso o piloto substituto ainda possa realizar mais da metade das partidas da fase de grupos:
 - Exemplo: Se a fase de grupos tiver 4 ou 5 partidas, só poderá haver substituto, caso ainda hajam 3 partidas para serem realizadasda. Se a fase de grupos tiver 6 ou 7 participantes, só poderá haver substituto, caso ainda hajam 4 partidas para serem realizadas.
