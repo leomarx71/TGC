@@ -311,31 +311,52 @@ Aqui, o piloto que vence com folga **e ainda guarda nitro** mostra quem realment
 ## **6.5 - Cenário 5 - Efeito Borboleta**
 **ROM Hack1 Requerida**
 
-Descrição: "Dormammu, Eu vim Barganhar", "Dormammu, Eu vim Barganhar". Entrou no loop temporal do Dr. Estranho?
+### Descrição
 
-Modificação: Algumas pistas do jogo agora tem um número maior de voltas, outras pistas tem um número reduzido.
+> “Dormammu, eu vim barganhar.”  
+> “Dormammu, eu vim barganhar.”  
+> “Dormammu, eu vim barganhar...”  
 
-Objetivo: Jogar a mesma pista sorteada por diversas vezes seguidas.
+Entrou no **loop temporal do Doutor Estranho**? Pois é, nesse cenário você vai sentir na pele o que é viver o mesmo momento várias vezes.  
 
-**Detalhes:**
-- Terá um sorteio de 2 a 16 que representará a quantidade de vezes que uma pista deverá ser jogada
-- Quanto maior o número de repetição, pistas mais simples e com menos voltas serão atribuídas.
+Aqui, a pista sorteada será repetida **diversas vezes seguidas**, e cada repetição testará não só sua habilidade, mas também sua resistência mental.  
+Afinal, errar uma curva 10 vezes seguidas é um verdadeiro pesadelo místico.
 
-**Exemplo:**
-- Se cair repetição de 2 a 3x. Serão sorteadas pistas com 8, 9 ou 10 voltas.
-- - Exemplo Pior cenário 3x Roma com 10 voltas
-- Se cair repetição de 4 a 6x. Serão sorteadas pistas com 4, 5, 6 ou 7 voltas.
-- - Exemplo Pior cenário 6x Rio com 7 voltas
-- Se cair repetição de 7 a 10x. Serão sorteadas pistas com 3 voltas.
-- - Exemplo Pior cenário 10x Stonehenge com 3 voltas
-- Se cair repetição de 11 a 13x. Serão sorteadas pistas com 2 voltas.
-- - Exemplo Pior cenário 13x Pisa com 2 voltas
-- Se cair repetição de 14 a 16x. Serão sorteadas pistas com 1 volta apenas.
-- - Exemplo Pior cenário 16x Colônia com 1 volta
+### Modificações / Condições de Corrida
 
-Apesar de parecer um alto volume... As partidas não irão passar de mais 30 minutos de jogo, porque colônia com uma volta só é 40 segundos cada vez que jogar hahaha!
+| Regra | Descrição |
+|--------|------------|
+| 🔁 **Repetição Aleatória de Corrida** | Um número entre **2 e 16** será sorteado para definir **quantas vezes** a **mesma pista** será jogada consecutivamente. |
+| 🧭 **Seleção de Pistas** | Quanto maior o número sorteado, mais **simples e curtas** serão as pistas atribuídas. |
+| 🎲 **Carro Sorteado** | Alguns cenários poderão ter o carro **previamente sorteado**, adicionando imprevisibilidade. |
 
-**Observação:** Alguns cenários terão o seu carro previamente sorteado
+### Estrutura de Sorteio e Exemplos
+
+| Nº de Repetições | Tipo de Pista | Exemplo de Pista | Voltas (Hack) | Exemplo de Pior Caso |
+|------------------|---------------|------------------|----------------|----------------------|
+| 2 a 3x | Pistas longas (8 a 10 voltas) | Roma, Frankfurt | 10 | 3x Roma (10 voltas) |
+| 4 a 6x | Pistas médias (4 a 7 voltas) | Rio de Janeiro, Quioto | 7 | 6x Rio (7 voltas) |
+| 7 a 10x | Pistas curtas (3 voltas) | Stonehenge, Paris | 3 | 10x Stonehenge (3 voltas) |
+| 11 a 13x | Pistas expressas (2 voltas) | Pisa, Floresta A | 2 | 13x Pisa (2 voltas) |
+| 14 a 16x | Pistas ultracurtas (1 volta) | Colônia, Machu Pichu | 1 | 16x Colônia (1 volta) |
+
+### Objetivo
+
+Jogar a **mesma pista sorteada** o número de vezes definido pelo sorteio, mantendo desempenho consistente entre as repetições.  
+O foco aqui é **constância**, não apenas velocidade — a meta é não deixar o erro se repetir, e a paciência vira sua maior aliada.
+
+### Duração Média
+
+Apesar de parecer um alto volume de corridas, as partidas **não devem ultrapassar 30 minutos totais**.  
+Afinal, uma pista como Colônia com 1 volta leva cerca de **40 segundos** por tentativa.  
+O desafio é mental — não de tempo.
+
+### Resumo
+
+O “Efeito Borboleta” é o cenário da **repetição e da consistência**.  
+Cada erro é uma lição, e cada volta é uma chance de refazer o destino — ou repetir o mesmo erro infinitamente.
+
+> **Domine o tempo, ou será dominado por ele.**
 
 ![](Info_ROMs_Cenarios_WhatIf.png)
 
