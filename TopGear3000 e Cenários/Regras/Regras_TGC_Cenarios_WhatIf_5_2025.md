@@ -1,6 +1,6 @@
 # **A Comunidade Top Gear Championships (TGC) Apresenta:** #
 
-# **Campeonato Top Gear TGC Cenários 5.0 - WhatIf 2025** #
+# **Campeonato Top Gear TGC Cenários 5.0 - What If 2025** #
 
 # **LEIA TODAS AS REGRAS COM BASTANTE ATENÇÃO!!!** #
 
@@ -139,11 +139,11 @@
 
 - Vencerá aquele que ao final do cenário tiver mais pontos de vantagem; 
 - Permanecendo o empate no primeiro cenário, o cenário seguinte deverá ser jogado e assim sucessivamente, até haver um vencedor;
-- Obs.: Em comum acordo, os jogadores podem trocar de controle quanto forem iniciar o desempate para corrigir o grid de largada corretamente. Caso não haja consenso, será o player 1, aquele que tiver terminado na frente na pista anterir ao desempate.
+- Obs.: Em comum acordo, os jogadores podem trocar de controle quanto forem iniciar o desempate para corrigir o grid de largada corretamente. Caso não haja consenso, será o player 1, aquele que tiver terminado na frente na pista anterior ao desempate.
 
-5.10. A substituição de jogadores só será adimitida, caso o piloto substituto ainda possa realizar mais da metade das partidas da fase de grupos:
-- Exemplo: Se a fase de grupos tiver 4 ou 5 partidas, só poderá haver substituto, caso ainda hajam 3 partidas para serem realizadasda. Se a fase de grupos tiver 6 ou 7 participantes, só poderá haver substituto, caso ainda hajam 4 partidas para serem realizadas.
-- Se não houver substituto, será aplicado w.o. para todas as partidas daquele piloto, com pontuação máxima para o adversário e mínima para o desistente.
+5.10. A substituição de jogadores só será admitida, caso o piloto substituto ainda possa realizar mais da metade das partidas da fase de grupos:
+- Exemplo: Se a fase de grupos tiver 4 ou 5 partidas, só poderá haver substituto, caso ainda hajam 3 partidas para serem realizadas. Se a fase de grupos tiver 6 ou 7 participantes, só poderá haver substituto, caso ainda hajam 4 partidas para serem realizadas.
+- Se não houver substituto, será aplicado W.O. para todas as partidas daquele piloto, com pontuação máxima para o adversário e mínima para o desistente.
 
 5.11. A partir de 50% da partida realizada, o piloto pode avisar ao oponenete que deseja parar e admitir a derrota. Assim, o adversário leva os 20 pontos de cada pista restante e o desistente fica com zero pontos nas mesmas. Para este caso, a partida não será considerada w.o e não haverá sansões.
 
@@ -209,7 +209,7 @@ Se o Ritchie estiver na pista, é a hora de dar uma ou duas voltas nele!
 ### Objetivo
 
 Jogar normalmente as pistas sorteadas, explorando ao máximo o uso dos **Nitros Verdes** sem desperdiçar combustível.  
-Vence quem demonstrar maior controle nas altas velocidades e e desviar do bots com reflexo do flash.
+Vence quem demonstrar maior controle nas altas velocidades e desviar do bots com reflexo do flash.
 
 ### Resumo
 
@@ -315,20 +315,20 @@ Descrição: "Dormammu, Eu vim Barganhar", "Dormammu, Eu vim Barganhar". Entrou 
 
 Modificação: Algumas pistas do jogo agora tem um número maior de voltas, outras pistas tem um número reduzido.
 
-Objetivo: Jogar a pista sorteada por diversas vezes repetidamente.
+Objetivo: Jogar a mesma pista sorteada por diversas vezes seguidas.
 
 **Detalhes:**
 - Terá um sorteio de 2 a 16 que representará a quantidade de vezes que uma pista deverá ser jogada
 - Quanto maior o número de repetição, pistas mais simples e com menos voltas serão atribuídas.
 
 **Exemplo:**
-- Se cair repetição de 2 a 3x. Serão sorteadas pistas com 8, 9 ou 10 voltas
+- Se cair repetição de 2 a 3x. Serão sorteadas pistas com 8, 9 ou 10 voltas.
 - - Exemplo Pior cenário 3x Roma com 10 voltas
-- Se cair repetição de 4 a 6x. Serão sorteadas pistas com 4, 5, 6 ou 7 voltas
+- Se cair repetição de 4 a 6x. Serão sorteadas pistas com 4, 5, 6 ou 7 voltas.
 - - Exemplo Pior cenário 6x Rio com 7 voltas
-- Se cair repetição de 7 a 10x. Serão sorteadas pistas com 3 voltas
+- Se cair repetição de 7 a 10x. Serão sorteadas pistas com 3 voltas.
 - - Exemplo Pior cenário 10x Stonehenge com 3 voltas
-- Se cair repetição de 11 a 13x. Serão sorteadas pistas com 2 voltas
+- Se cair repetição de 11 a 13x. Serão sorteadas pistas com 2 voltas.
 - - Exemplo Pior cenário 13x Pisa com 2 voltas
 - Se cair repetição de 14 a 16x. Serão sorteadas pistas com 1 volta apenas.
 - - Exemplo Pior cenário 16x Colônia com 1 volta
@@ -341,7 +341,7 @@ Apesar de parecer um alto volume... As partidas não irão passar de mais 30 min
 
 ---
 
-## 6.5 - Cenário - Nitrar na Largada é Pecado
+## 6.6 - Cenário - Nitrar na Largada é Pecado
 **ROM Hack 1 e Hack 2 Requeridas:**  
 
 ### Descrição
@@ -408,7 +408,7 @@ Quem não resistir... paga com pontos e com a vergonha.
 
   7.9 - O jogador que enviar mensagens sem relevância para grupo WhatsApp do campeonato, poderão ser advertidos e/ou eliminados do campeonato, conforme a nova Regra de Punição Acumulativa, Semelhante ao futebol ⚽, a seguir:
 
-  7.9.1 - Haverá uma 1° primeira advetência verbal... 🗣
+  7.9.1 - Haverá uma 1° primeira advertência verbal... 🗣
   
   7.9.2 - Após isso se houver reincidência... Uma punição de cartão amarelo 🟨 será dada. 
   
@@ -444,7 +444,7 @@ Quem não resistir... paga com pontos e com a vergonha.
     - NOME DO CAMPEONATO:
     - NOME DO SOLICITANTE:
     - NOME DO OPONENTE:
-    *SOLICITAÇÃO: Solicito que os administradores da TGC julguem se a conduta a seguir é caracterizada como discriminação conforme previsto no item de Regras de Conduto e seus subitens.*
+    *SOLICITAÇÃO: Solicito que os administradores da TGC julguem se a conduta a seguir é caracterizada como discriminação conforme previsto no item de Regras de Conduta e seus subitens.*
     *ACUSAÇÃO: descrever a alegação de forma sucinta.*
     *ANEXOS: encaminhar as imagens, vídeos e áudios que julgar relevante no tópico aberto ou no privado dos administradores*
 
@@ -454,7 +454,7 @@ Quem não resistir... paga com pontos e com a vergonha.
 
 9.2 - Proibido o bug de bater no poste para ganhar duas posições.
 
-9.3 - Proibido o uso do freio em curvas para derrapagem, devido ao bug de não reduzir a velocidade, ser exclusivo para o P1.
+9.3 - Proibido o uso do freio em curvas para derrapagem, devido ao bug de não reduzir a velocidade, por ser exclusivo para o P1.
 
 9.4 - Proibido o uso do freio para prejudicar o adversário de maneira proposital e desleal.
 
@@ -502,7 +502,7 @@ Quem não resistir... paga com pontos e com a vergonha.
 - Em Track, movendo para esquerda ou direita, selecione a pista (ela é apresentada pelo nome);
 - Para selecionar a pista Pressione o botão "A". Ao selecionar uma pista, um contador de seleção aparecerá: "1, 2, 3... e assim por diante";
 - Caso precise corrigir alguma seleção pressione o botão "B" para retirar a última pista selecionada;
-- O Password para abrir todos os países na Rom Original é KEELSON. Ir para o menu COUNTRY, selecionar UK, usar o password, e depois selecionar o país;
+- O password para desbloquear todos os países na ROM original é **KEELSON**. Ir para o menu COUNTRY, selecionar UK, usar o password, e depois selecionar o país;
 
 # **11. Validação das partidas:** #
 
