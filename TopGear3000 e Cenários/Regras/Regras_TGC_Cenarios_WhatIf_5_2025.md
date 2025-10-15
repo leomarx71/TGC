@@ -139,7 +139,7 @@
 
 - Vencerá aquele que ao final do cenário tiver mais pontos de vantagem; 
 - Permanecendo o empate no primeiro cenário, o cenário seguinte deverá ser jogado e assim sucessivamente, até haver um vencedor;
-- Obs.: Em comum acordo, os jogadores podem trocar de controle quanto forem iniciar o desempate para corrigir o grid de largada corretamente. Caso não aja concenso, será o player 1, aquele que tiver terminado na frente na pista anterir ao desempate.
+- Obs.: Em comum acordo, os jogadores podem trocar de controle quanto forem iniciar o desempate para corrigir o grid de largada corretamente. Caso não haja consenso, será o player 1, aquele que tiver terminado na frente na pista anterir ao desempate.
 
 5.10. A substituição de jogadores só será adimitida, caso o piloto substituto ainda possa realizar mais da metade das partidas da fase de grupos:
 - Exemplo: Se a fase de grupos tiver 4 ou 5 partidas, só poderá haver substituto, caso ainda hajam 3 partidas para serem realizadasda. Se a fase de grupos tiver 6 ou 7 participantes, só poderá haver substituto, caso ainda hajam 4 partidas para serem realizadas.
@@ -159,45 +159,154 @@
 
 # **6. Cenários** #
 
-## **6.1 - Cenário 1 - Novas Estratégias**
-**ROM Hack1 Requerida**
+## 6.1 - Cenário 1 - Novas Estratégias
+**ROM Hack 1 Requerida:**  
+ 
+### Descrição
 
-Descrição: E se tivesse mais voltas do que o normal em algumas pistas? 
+E se o número de voltas mudasse completamente o ritmo das corridas?  
+Neste cenário, o tradicional equilíbrio entre combustível, pneus e ritmo foi virado de cabeça pra baixo.  
+Algumas pistas agora acabam antes do esperado - e outras parecem nunca terminar!
 
-Modificação: Algumas pistas do jogo agora tem um número maior de voltas, outras pistas tem um número reduzido.
+Os pilotos precisarão se adaptar às novas condições, repensar suas paradas e saber a hora certa de atacar.  
+Aqui, estratégia vale mais que reflexo.
 
-Objetivo: Jogar normalmente as pistas sorteadas e tentar o seu melhor com o novo número de voltas. Tabela abaixo serve de guia.
+### Modificações / Condições de Corrida
 
-## **6.2 - Cenário 2 - Full Game 2 voltas!**
-**ROM Hack2 Requerida**
+Algumas pistas do jogo agora tem um número maior de voltas, outras pistas tem um número reduzido
 
-Descrição: Copiando o estilo arrancada do need for speed essa é para aqueles que gostam de decidir tudo logo de cara. Um erro de largada pode ser fatal.
+### Objetivo
 
-Modificação: Todas as pistas do jogo estão com 3 Nitros e 2 Voltas! (Que tal um full game?)
+Jogar normalmente as pistas sorteadas e testar novas estratégias com o novo número de voltas.  
+Quem dominar o ritmo e souber equilibrar agressividade e economia vai se destacar.
 
-Objetivo: Fazer aquelas largadas perfeitas e mandar seu oponente comer poeira. Tabela abaixo serve de guia.
+O “Novas Estratégias” é o cenário da mente fria e cálculo apurado.  
+Com o número de voltas embaralhado, ninguém sabe se a vitória vem na arrancada ou na resistência.  
+**Pense rápido, pilote com calma — e adapte-se, porque aqui o tempo não é igual pra todos.**
 
-## **6.3 - Cenário 3 - Sou Retardatário Sim e não nego!**
-**ROM Hack3 Requerida**
+![](Info_ROMs_Cenarios_WhatIf.png)
 
-Descrição: Você tem raiva quando você vai passar o vigésimo BOT e ele tá dando ré? Então que tal você sentir na pele e se tornar esse cara Hahaha!
+---
 
-Objetivo: Só vale acelerar depois que o Ritchie completar 1 volta em cima de você! Jogar normalmente as pistas sorteadas e recuperar o máximo de posições possíveis.
+## 6.2 - Cenário 2 - Velozes e Furiosos 2092
+**ROM Hack 5 Requerida:**  
 
-Modificação: Toma aí 6 nitros para tentar recuperar as posições depois de virar retardatário.
+### Descrição
 
-## **6.4 - Cenário 4 - Velozes e Furiosos 2092**
-**ROM Hack4 Requerida**
+E se o clássico Top Gear tivesse recebido o pacote completo do futuro?  
+Aqui, o poder dos **Nitros Verdes** e a limitação de combustível trazem corridas insanas acima de **300 km/h**.
 
-Descrição: E se tivesse Nitros e Gasolina Infinita? Seu desejo virou uma ordem!!! Corridas eletrizantes e adrenalina a mil com super velocidades acima de 300km/h.
+Tangências perfeitas, curvas feitas sem aliviar o pé e voltas rápidas dignas do **Guinness Book**.  
+Se o Ritchie estiver na pista, é a hora de dar uma ou duas voltas nele!
 
-Bata todos os records de tempo do Guinness Book se os bots deixarem é claro. Quero ver tangências de curvas sem tirar o pé do acelerador hahaha! 
+### Modificações / Condições de Corrida
 
-Sua chance de dar uma ou duas voltas em cima do Ritchie.
+| Jogador | Câmbio | Nitro | Gasolina | Colisões com BOTs |
+|----------|--------|--------|-----------|--------------------|
+| **P1** | Livre (Manual ou Automático) | Nitros Verdes (Ativação Contínua) | ½ Tanque | Normal |
+| **P2** | Livre (Manual ou Automático) | Nitros Verdes (Ativação Contínua) | ½ Tanque | Normal |
 
-Modificações: Nitros e Gasolina Infinita.
+### Objetivo
 
-Objetivo: Jogar normalmente as pistas sorteadas, emendando um nitro atrás do outro.
+Jogar normalmente as pistas sorteadas, explorando ao máximo o uso dos **Nitros Verdes** sem desperdiçar combustível.  
+Vence quem demonstrar maior controle nas altas velocidades e e desviar do bots com reflexo do flash.
+
+### Resumo
+
+O “Velozes e Furiosos 2092” é o modo futurista do campeonato: pura adrenalina, velocidade extrema e controle fino.  
+Com meio tanque e nitros agressivos, cada curva vira uma luta contra o limite da pista e da máquina.  
+**Aqui não se ganha apenas correndo — se ganha pilotando no limite.**
+
+---
+
+## **6.3 - Cenário 3 - Duelo das Marchas Apimentado: Manual vs Automático**
+**ROM Hack 11 Requerida**
+
+Descrição: 
+
+Um desafio de equilíbrio entre técnica e vantagem.  
+O Player 1 (manual) confia na habilidade e domínio do câmbio, enquanto o Player 2 (automático) conta com recursos ilimitados, mas deve provar que consegue transformar isso em resultado real.
+
+O duelo coloca frente a frente a precisão do “piloto raiz” contra o conforto do “piloto turbo”.
+
+Este cenário testa o domínio real da condução manual frente à vantagem bruta do câmbio automático e nitro ilimitado.
+
+P2 tem poder, mas precisa provar superioridade **com folga**.
+P1, mesmo limitado, pode vencer pela técnica, precisão e consistência — como nos velhos tempos.
+
+### Modificações / Condições de Corrida
+
+| Jogador | Câmbio | Nitro | Gasolina | Colisões com BOTs |
+|----------|--------|--------|-----------|--------------------|
+| **P1 (Manual)** | Manual | 6 Nitros | Infinita | **Não, Hack de Ghost só funciona para P1** |
+| **P2 (Automático)** | Automático | Infinito | ½ Tanque | **Sim, Hack de Ghost só funciona para P1** |
+
+### Objetivo
+
+Com as vantagens concedidas, o **P2 deve vencer a corrida com ao menos +20 segundos de vantagem** sobre o P1.  
+Caso não alcance essa margem mínima, será penalizado na pontuação final.
+
+### Penalidades e Ajustes
+
+- Se **P2 vencer com +20s ou mais**, mantém pontuação integral (**20 pts**).  
+- Se **P2 vencer com menos de +20s**, perde **–10 pts** (ficando com **10 pts**).  
+- Se **P1 vencer**, recebe **20 pts** e P2 **10 pts** (derrota sem vantagem atingida).  
+
+### Exemplos de Resultado
+
+| Resultado | P1 | P2 | Pontuação Final |
+|------------|----|----|----------------|
+| P1 1º / P2 2º | 20 | 10 | P1 vence |
+| P1 2º / P2 1º (+20s ou mais) | 15 | 20 | P2 vence |
+| P1 2º / P2 1º (<20s) | 15 | 10 | P1 vence nos pontos |
+
+---
+
+## 6.4 - Cenário 4 - Estoy facilito e sajirito
+**ROM Hack 3 Requerida:** 
+
+### Descrição
+
+Sabe aquele momento em que tudo parece fácil e o adversário só come poeira?  
+Pois é, chegou o **“Estoy facilito e sajirito”** — o cenário onde vencer não basta, é preciso **vencer com autoridade**.
+
+Ambos os jogadores começam com **6 nitros**, mas só o piloto que cruza a linha de chegada **com sobras no tanque de nitros** é reconhecido como o verdadeiro dominador da pista.
+
+### Modificações / Condições de Corrida
+
+| Jogador | Câmbio | Nitros | Gasolina | Colisões com BOTs |
+|----------|--------|---------|-----------|--------------------|
+| **P1** | Livre (Manual ou Automático) | 6 Nitros | Normal | Normal |
+| **P2** | Livre (Manual ou Automático) | 6 Nitros | Normal | Normal |
+
+### Objetivo
+
+Vencer a corrida **usando a menor quantidade possível de nitros**.  
+Cada nitro **que sobrar ao final da corrida** vale **+5 pontos de bônus**.  
+Ou seja, quanto mais “sajirito” (leve no pé), maior a glória.
+
+### Pontuação Bônus
+
+- Cada **nitro não utilizado** pelo vencedor concede **+5 pontos extras**.  
+- Apenas o **vencedor** recebe o bônus de nitros restantes.  
+- O segundo colocado não ganha bônus, independentemente de sobras.
+
+### Exemplos de Resultado
+
+| Resultado | Nitros Restantes | Pontuação Base | Bônus | Pontuação Final |
+|------------|-----------------|----------------|--------|----------------|
+| 1º Lugar (3 nitros restantes) | 3 | 20 | +15 | **35 pts** |
+| 1º Lugar (1 nitro restante) | 1 | 20 | +5 | **25 pts** |
+| 1º Lugar (0 nitros restantes) | 0 | 20 | +0 | **20 pts** |
+| 2º Lugar (qualquer sobra) | – | 15 | +0 | **15 pts** |
+
+### Resumo
+
+“Estoy facilito e sajirito” é o cenário da **eficiência e precisão**.  
+Aqui, o piloto que vence com folga **e ainda guarda nitro** mostra quem realmente entende o espírito do Top Gear clássico:  
+**ser rápido sem precisar abusar do botão.**
+
+---
 
 ## **6.5 - Cenário 5 - Efeito Borboleta**
 **ROM Hack1 Requerida**
@@ -229,6 +338,47 @@ Apesar de parecer um alto volume... As partidas não irão passar de mais 30 min
 **Observação:** Alguns cenários terão o seu carro previamente sorteado
 
 ![](Info_ROMs_Cenarios_WhatIf.png)
+
+---
+
+## 6.5 - Cenário - Nitrar na Largada é Pecado
+**ROM Hack 1 e Hack 2 Requeridas:**  
+
+### Descrição
+
+Tem gente que nem respira na largada e já mete o dedo no nitro.  
+Pois neste cenário, **isso é pecado capital!**  
+
+A ideia aqui é simples: controlar o instinto, segurar o dedo e mostrar que estratégia e calma também ganham corridas.
+Será que o ditado é verdadeiro? > "Guardou o nitro, o bot veio!" Está na hora de descobrir.
+
+### Modificações / Regras Especiais
+
+| Regra | Descrição |
+|--------|------------|
+| 🚫 **Proibido usar Nitro na 1ª Volta** | Nenhum jogador pode acionar o nitro antes de iniciar a **2ª volta**. |
+| 💣 **Penalidade** | Se o jogador usar **qualquer nitro antes da 2ª volta**, perde **5 pontos** na corrida. |
+| ⚙️ **Nitros Livres** | Após a 2ª volta, o uso é livre. Segure até o momento certo — ou pague o preço. |
+
+### Objetivo
+
+Avaliar se a teoria clássica dos pilotos de que nitram na largada é verdadeira:  
+
+O desafio é manter a calma, não ceder à tentação e provar que uma corrida bem controlada pode render mais que uma arrancada apressada.
+
+### Pontuação Base (Padrão Campeonato)
+
+| Colocação | Pontos | Observação |
+|------------|--------|-------------|
+| 🥇 1º Lugar | 20 pts | -5 pts se usar nitro antes da 2ª volta |
+| 🥈 2º Lugar | 15 pts | -5 pts se usar nitro antes da 2ª volta |
+
+Lembre-se: **disciplina vence impulso**.
+“Nitrar na Largada é Pecado” é o cenário do **autocontrole e da paciência**.  
+Quem segurar o dedo e usar o nitro no momento certo, vence.  
+Quem não resistir... paga com pontos e com a vergonha.
+
+**Controle o dedo. Pilote com a cabeça. E mostre que santo também ganha corrida.**
 
 # **7. Comunicação:** #
 
