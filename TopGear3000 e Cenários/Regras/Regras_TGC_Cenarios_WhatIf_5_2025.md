@@ -243,13 +243,13 @@ P1, mesmo limitado, pode vencer pela técnica, precisão e consistência — com
 
 ### Objetivo
 
-Com as vantagens concedidas, o **P2 deve vencer a corrida com ao menos +20 segundos de vantagem** sobre o P1.  
+Com as vantagens concedidas, o **P2 deve vencer a corrida com ao menos +10 segundos de vantagem** sobre o P1.  
 Caso não alcance essa margem mínima, será penalizado na pontuação final.
 
 ### Penalidades e Ajustes
 
-- Se **P2 vencer com +20s ou mais**, mantém pontuação integral (**20 pts**).  
-- Se **P2 vencer com menos de +20s**, perde **–10 pts** (ficando com **10 pts**).  
+- Se **P2 vencer com +10s ou mais**, mantém pontuação integral (**20 pts**).  
+- Se **P2 vencer com menos de +10s**, perde **–10 pts** (ficando com **10 pts**).  
 - Se **P1 vencer**, recebe **20 pts** e P2 **10 pts** (derrota sem vantagem atingida).  
 
 ### Exemplos de Resultado
@@ -257,8 +257,8 @@ Caso não alcance essa margem mínima, será penalizado na pontuação final.
 | Resultado | P1 | P2 | Pontuação Final |
 |------------|----|----|----------------|
 | P1 1º / P2 2º | 20 | 10 | P1 vence |
-| P1 2º / P2 1º (+20s ou mais) | 15 | 20 | P2 vence |
-| P1 2º / P2 1º (<20s) | 15 | 10 | P1 vence nos pontos |
+| P1 2º / P2 1º (>+10s ou mais) | 15 | 20 | P2 vence |
+| P1 2º / P2 1º (<10s) | 15 | 10 | P1 vence nos pontos |
 
 ---
 
