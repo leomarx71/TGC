@@ -184,7 +184,7 @@ O “Novas Estratégias” é o cenário da mente fria e cálculo apurado.
 Com o número de voltas embaralhado, ninguém sabe se a vitória vem na arrancada ou na resistência.  
 **Pense rápido, pilote com calma — e adapte-se, porque aqui o tempo não é igual pra todos.**
 
-![](Info_ROMs_Cenarios_WhatIf.png)
+![](Info_ROMs_Cenarios_WhatIf.jpg)
 
 ---
 
@@ -358,7 +358,7 @@ Cada erro é uma lição, e cada volta é uma chance de refazer o destino — ou
 
 > **Domine o tempo, ou será dominado por ele.**
 
-![](Info_ROMs_Cenarios_WhatIf.png)
+![](Info_ROMs_Cenarios_WhatIf.jpg)
 
 ---
 
