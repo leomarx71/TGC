@@ -148,7 +148,7 @@ Objetivo: Jogar a pista sorteada por diversas vezes repetidamente.
 
 Apesar de parecer um alto volume... As partidas não irão passar de mais 30 minutos de jogo, porque colônia com uma volta só é 40 segundos cada vez que jogar hahaha!
 
-![](Info_ROMs_Cenarios_WhatIf.png)
+![](Info_ROMs_Cenarios_WhatIf.jpg)
 
 # **Classificação Desempate:**
 
