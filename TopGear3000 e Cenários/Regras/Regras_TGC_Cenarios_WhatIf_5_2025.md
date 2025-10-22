@@ -234,6 +234,8 @@ Este cenário testa o domínio real da condução manual frente à vantagem brut
 P2 tem poder, mas precisa provar superioridade **com folga**.
 P1, mesmo limitado, pode vencer pela técnica, precisão e consistência — como nos velhos tempos.
 
+Neste Cenários serão jogos de ida e volta para que cada um prove seu valor.
+
 ### Modificações / Condições de Corrida
 
 | Jogador | Câmbio | Nitro | Gasolina | Colisões com BOTs |
