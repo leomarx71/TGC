@@ -1,6 +1,6 @@
 # **A COMUNIDADE TOP GEAR CHAMPIONSHIPS (TGC) APRESENTA:** #
 
-# **Torneio de Inverno 2025** #
+# **Torneio de Primavera 2025** #
 
 # **LEIA TODAS AS REGRAS COM BASTANTE ATENÇÃO!!!** #
 
@@ -98,7 +98,7 @@
 
 # **5. Organização e Chaveamento:** #
 
-5.1. Será utilizado o TOORNAMENT para chaveamento das partidas do campeonato. [Torneio de Inverno 2025](https://play.toornament.com/en_US/tournaments/2267866145371447295)
+5.1. Será utilizado o TOORNAMENT para chaveamento das partidas do campeonato. [Torneio de Primavera 2025](https://play.toornament.com/en_US/tournaments/2267866145371447295)
 
 5.2. O campeonato terá uma fase de grupos no modelo Copa do Mundo e os melhores colocados avançam para a fase final de mata-a-mata.
 
@@ -118,7 +118,7 @@
 - Menor número de W.O.'s;
 - Sorteio.
 
-5.4. **É obrigatório o uso do carro BRANCO** e o nível do jogo será o CHAMPIONSHIP.
+5.4. **É obrigatório o uso do carro ROXO** e o nível do jogo será o CHAMPIONSHIP.
 
 5.5. Não há limite para a quantidade de participantes e serão classificados para a fase final a quantidade de jogadores a seguir, dependendo da quantidade de inscritos:
 
@@ -206,19 +206,19 @@ Exemplo de postagem de resultado:
 - **@Player1 110 x 100 @Player2**
 - **Link da live ou link do arquivo da gravação.**
 
-7.9 - O jogador que enviar mensagens sem relevância para grupo WhatsApp do campeonato, poderão ser advertidos e/ou eliminados do campeonato, conforme a nova Regra de Punição Acumulativa, Semelhante ao futebol ⚽, a seguir:
+7.10 - O jogador que enviar mensagens sem relevância para grupo WhatsApp do campeonato, poderão ser advertidos e/ou eliminados do campeonato, conforme a nova Regra de Punição Acumulativa, Semelhante ao futebol ⚽, a seguir:
 
-7.9.1 - Haverá uma 1° primeira advetência verbal... 🗣
+7.10.1 - Haverá uma 1° primeira advetência verbal... 🗣
+  
+7.10.2 - Após isso se houver reincidência... Uma punição de cartão amarelo 🟨 será dada. 
+ 
+7.10.3 - Sendo que 3 cartões Amarelos 🟨 acumulados = 1 Vermelho 🟥
 
-7.9.2 - Após isso se houver reincidência... Uma punição de cartão amarelo 🟨 será dada.
+7.11 - A soma valerá para o torneio como um todo, caso o Vermelho 🟥 ocorra na fase de grupo ou nas fases finais, o piloto será eliminado do campeonato e também será penalizado com a perda por W.O. nos jogos restantes.
 
-7.9.3 - Sendo que 3 cartões Amarelos 🟨 acumulados = 1 Vermelho 🟥
+7.12 - Mesmo que a msg seja apagada pelo piloto infrator posteriormente ao envio, se um dos adms visualizar a infração ela poderá ser executada da mesma maneira.
 
-7.10 - A soma valerá para o torneio como um todo, caso o Vermelho 🟥 ocorra na fase de grupo ou nas fases finais, o piloto será eliminado do campeonato e também será penalizado com a perda por W.O. nos jogos restantes.
-
-7.11 - Mesmo que a msg seja apagada pelo piloto infrator posteriormente ao envio, se um dos adms visualizar a infração ela poderá ser executada da mesma maneira.
-
-7.12 - E se a figurinha ou mensagem irrelevante tiver um tom racista, conforme a lista da regra 8 (Regras de Conduta), o piloto receberá um cartão vermelho direto.
+7.13 - E se a figurinha, mensagem ofensiva ou mensagem irrelevante tiver um tom racista, conforme a lista da regra 8 (Regras de Conduta), o piloto receberá um cartão vermelho direto.
 
 # **8. Regras de Conduta** #
 
