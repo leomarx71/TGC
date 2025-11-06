@@ -231,17 +231,17 @@
 
   7.3 - O grupo deve ser usado para os anúncios da administração, agendamento de partidas e assuntos relevantes ao campeonato, tais como informações de problemas com conexão, remarcação de partidas, encaminhamentos de links das lives e postagem de resultados.
 
-  7.3 - Os jogadores podem mencionar seu oponente, marcando com @, para agendamento de sua partida. Essa menção poderá ser realizada quantas vezes o jogador quiser, mas para efeitos de regras de verificação para wo, só será considerada uma menção a cada 48 horas. Após a terceira menção do oponente (144h), sem uma a devida resposta, o jogador poderá reivindicar o W.O à administração.
+  7.4 - Os jogadores podem mencionar seu oponente, marcando com @, para agendamento de sua partida. Essa menção poderá ser realizada quantas vezes o jogador quiser, mas para efeitos de regras de verificação para wo, só será considerada uma menção a cada 48 horas. Após a terceira menção do oponente (144h), sem uma a devida resposta, o jogador poderá reivindicar o W.O à administração.
 
-  7.4 - Os participantes que não realizarem suas partidas ou agendamento delas nos prazos estabelecidos, através do grupo oficial do campeonato, receberão W.O.
+  7.5 - Os participantes que não realizarem suas partidas ou agendamento delas nos prazos estabelecidos, através do grupo oficial do campeonato, receberão W.O.
 
-  7.5. O W.O. será atribuído a favor daquele que oferecer maior tempo de disponibilidade, ou contra aquele que não comparecer no horário previamente agendado.
+  7.6. O W.O. será atribuído a favor daquele que oferecer maior tempo de disponibilidade, ou contra aquele que não comparecer no horário previamente agendado.
 
-  7.6 - Em casos onde houver incompatibilidade total de horários entre os participantes, na análise de W.O., será priorizado aquele que esteve mais tempo disponível após às 18h ou finais de semana.
+  7.7 - Em casos onde houver incompatibilidade total de horários entre os participantes, na análise de W.O., será priorizado aquele que esteve mais tempo disponível após às 18h ou finais de semana.
 
-  7.7 - O envio de mensagens no chat do emulador estará proibido caso um dos participantes solicite no início da partida.
+  7.8 - O envio de mensagens no chat do emulador estará proibido caso um dos participantes solicite no início da partida.
 
-  7.8 - Os resultados das partidas devem ser informados no grupo respectivo do WhatsApp que o jogador for adicionado.
+  7.9 - Os resultados das partidas devem ser informados no grupo respectivo do WhatsApp que o jogador for adicionado.
 
   Exemplo de postagem de resultado:
 
@@ -249,19 +249,19 @@
     - **@Player1 110 x 100 @Player2**
     - **Link da live ou link do arquivo da gravação.**
 
-  7.9 - O jogador que enviar mensagens sem relevância para grupo WhatsApp do campeonato, poderão ser advertidos e/ou eliminados do campeonato, conforme a nova Regra de Punição Acumulativa, Semelhante ao futebol ⚽, a seguir:
+  7.10 - O jogador que enviar mensagens sem relevância para grupo WhatsApp do campeonato, poderão ser advertidos e/ou eliminados do campeonato, conforme a nova Regra de Punição Acumulativa, Semelhante ao futebol ⚽, a seguir:
 
-  7.9.1 - Haverá uma 1° primeira advetência verbal... 🗣
+  7.10.1 - Haverá uma 1° primeira advetência verbal... 🗣
   
-  7.9.2 - Após isso se houver reincidência... Uma punição de cartão amarelo 🟨 será dada. 
+  7.10.2 - Após isso se houver reincidência... Uma punição de cartão amarelo 🟨 será dada. 
   
-  7.9.3 - Sendo que 3 cartões Amarelos 🟨 acumulados = 1 Vermelho 🟥
+  7.10.3 - Sendo que 3 cartões Amarelos 🟨 acumulados = 1 Vermelho 🟥
 
-  7.10 - A soma valerá para o torneio como um todo, caso o Vermelho 🟥 ocorra na fase de grupo ou nas fases finais, o piloto será eliminado do campeonato e também será penalizado com a perda por W.O. nos jogos restantes.
+  7.11 - A soma valerá para o torneio como um todo, caso o Vermelho 🟥 ocorra na fase de grupo ou nas fases finais, o piloto será eliminado do campeonato e também será penalizado com a perda por W.O. nos jogos restantes.
 
-  7.11 - Mesmo que a msg seja apagada pelo piloto infrator posteriormente ao envio, se um dos adms visualizar a infração ela poderá ser executada da mesma maneira.
+  7.12 - Mesmo que a msg seja apagada pelo piloto infrator posteriormente ao envio, se um dos adms visualizar a infração ela poderá ser executada da mesma maneira.
 
-  7.12 - E se a figurinha ou mensagem irrelevante tiver um tom racista, conforme a lista da regra 8 (Regras de Conduta), o piloto receberá um cartão vermelho direto.
+  7.13 - E se a figurinha ou mensagem irrelevante tiver um tom racista, conforme a lista da regra 8 (Regras de Conduta), o piloto receberá um cartão vermelho direto.
 
 # **8. Regras de Conduta** #
 
