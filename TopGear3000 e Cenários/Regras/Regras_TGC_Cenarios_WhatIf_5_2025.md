@@ -76,14 +76,9 @@
 
 3.1.  **Emulador ZSNES 1.42 =** Link para download [aqui](https://www.zsnes.com/index.php?page=files)
 
-3.2.  **ROM Hack abaixo:**
+3.2.  **Kit de ROMs Hack a seguir:**
 
-- Hack1 (https://topgearchampionships.com/tg1/Top%20Gear%20TGC%20Hack1%20-%20LeomarxGames.smc)
-- Hack2 (https://topgearchampionships.com/tg1/Top%20Gear%20TGC%20Hack2%20-%20LeomarxGames.smc)
-- Hack3 (https://topgearchampionships.com/tg1/Top%20Gear%20TGC%20Hack3%20-%20LeomarxGames.smc)
-- Hack4 (https://topgearchampionships.com/tg1/Top%20Gear%20TGC%20Hack4%20-%20LeomarxGames.smc)
-- Hack5 (https://topgearchampionships.com/tg1/Top%20Gear%20TGC%20Hack5%20-%20LeomarxGames.smc)
-- Hack6 (https://topgearchampionships.com/tg1/Top%20Gear%20TGC%20Hack6%20-%20LeomarxGames.smc)
+- [Download Aqui](https://topgearchampionships.com/tg1/Top%20Gear%20TGC%20Hacks%20by%20LeomarxGames.zip)
 
 3.4.  **Radmin para conexão entre os jogadores** = Link para download [aqui](https://www.radmin-vpn.com/)
 
@@ -91,17 +86,17 @@
 
 # **4. Cronograma (Previsão):** #
 
-4.1. As inscrições serão aceitas até às 20h do dia 19/10/2025, podendo ser encerrado antes dependendo do número de inscritos;
+4.1. As inscrições serão aceitas até às 20h do dia 14/11/2025, podendo ser encerrado antes dependendo do número de inscritos;
 
 4.2. Após confirmação das inscrições, será realizado o sorteio dos grupos e países, sendo liberada a Fase de Grupos;
 
-4.3. Fase de grupo: até 03/11 às 23:59;
+4.3. Fase de grupo: até 24/11 às 23:59;
 
-4.4. Quartas de Final: até 10/11 às 23:59;
+4.4. Quartas de Final: até 01/12 às 23:59;
 
-4.5. Semifinal: até 17/11 às 23:59;
+4.5. Semifinal: até 08/12 às 23:59;
 
-4.6. Final de Disputa de 3º Lugar: até 24/11 às 23:59.
+4.6. Final de Disputa de 3º Lugar: até 15/12 às 23:59.
 
 4.7 **Observação:** As rodadas podem ter o prazo estendido ou reduzido, caso a administração julgue necessário.
 
@@ -285,7 +280,7 @@ Ambos os jogadores começam com **6 nitros**, mas só o piloto que cruza a linha
 
 Vencer a corrida **usando a menor quantidade possível de nitros**.  
 Cada nitro **que sobrar ao final da corrida** vale **+5 pontos de bônus**.  
-Ou seja, quanto mais “sajirito” (leve no pé), maior a glória.
+Ou seja, quanto mais “sajirito” (leve no pé), e bom de fechada, maior a glória.
 
 ### Pontuação Bônus
 
