@@ -359,7 +359,7 @@ Cada erro é uma lição, e cada volta é uma chance de refazer o destino — ou
 
 ---
 
-## 6.6 - Cenário - Nitrar na Largada é Pecado
+## 6.6 - Cenário 6  - Nitrar na Largada é Pecado
 **ROM Hack 1 e Hack 2 Requeridas:**  
 
 ### Descrição
