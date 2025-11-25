@@ -212,7 +212,7 @@ Exemplo de postagem de resultado:
   
 7.10.2 - Após isso se houver reincidência... Uma punição de cartão amarelo 🟨 será dada. 
  
-7.10.3 - Sendo que 3 cartões Amarelos 🟨 acumulados = 1 Vermelho 🟥
+7.10.3 - Sendo que 2 cartões Amarelos 🟨 acumulados = 1 Vermelho 🟥
 
 7.11 - A soma valerá para o torneio como um todo, caso o Vermelho 🟥 ocorra na fase de grupo ou nas fases finais, o piloto será eliminado do campeonato e também será penalizado com a perda por W.O. nos jogos restantes.
 
