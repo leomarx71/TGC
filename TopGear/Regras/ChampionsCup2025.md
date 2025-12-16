@@ -25,18 +25,18 @@ Apenas os jogadores acima mencionados deverão se manifestar quanto ao interesse
 
 # **2. Validação e Verificação de Perfil dos Inscritos:** #
 
-2.1.	A administração da TGC, na intenção de criar um campeonato com credibilidade, se reserva no direito de solicitar a qualquer momento durante a inscrição e/ou durante o campeonato, informações adicionais a qualquer um dos inscritos em seus campeonatos.
+2.1.	A administração da TGC, na intenção de criar um campeonato com credibilidade, se reserva o direito de solicitar a qualquer momento, durante a inscrição e/ou durante o campeonato, informações adicionais a qualquer um dos inscritos em seus campeonatos.
 
-2.2.	Tais medidas, vem com o intuito de impedir a inscrição ou participação de jogadores com contas fakes.
+2.2.	Tais medidas vêm com o intuito de impedir a inscrição ou participação de jogadores com contas fakes.
 
 2.3.	As informações solicitadas servem para um processo de verificação/confirmação de identidade, tais como:
 
 - Perfil de rede social com foto (Facebook/Instagram/WhatsApp/Discord/Telegram/Twitter/TikTok/Outras).
-- Vídeo chamadas por qualquer uma das redes sociais mencionadas que o participante tenha conta.
+- Vídeo chamadas por qualquer uma das redes sociais mencionadas em que o participante tenha conta.
 - Detalhes técnicos e verificação do processo de conexão online (Hamachi/Radmin), compartilhando a tela. (TeamViewer/AnyDesk/Outros)
 - Tipo de computador, fotos do modem, Empresa de internet, IP virtual, IP do roteador, VPN, etc.
 
-2.4.	O jogador inscrito tem o **direito de não fornecer as informações solicitadas**, assim como a TGC, também se reserva ao **direito de cancelar a inscrição ou remover um participante durante um campeonato**, que não concorde em providenciar as informações que lhe forem solicitadas.
+2.4.	O jogador inscrito tem o **direito de não fornecer as informações solicitadas**, assim como a TGC, também se reserva o **direito de cancelar a inscrição ou remover um participante durante um campeonato**, que não concorde em providenciar as informações que lhe forem solicitadas.
 
 # **3. Itens Obrigatórios:** #
 
@@ -97,9 +97,9 @@ Apenas os jogadores acima mencionados deverão se manifestar quanto ao interesse
 
 6.1 - **Responsabilidade Individual de Gravação**. Todos os pilotos são obrigados a gravar ou transmitir ao vivo as suas próprias partidas, seja pelo OBS Studio, ou Emulador ou celular filmando a tela. Não é necessário perguntar ao oponente quem vai gravar ou transmitir.
 
-6.2 - **Resultados e Responsabilidade do Vencedor**. O jogador vencedor é responsável por postar o resultado final da partida, juntamente com o vídeo e os detalhes de carro utilizados.
+6.2 - **Resultados e Responsabilidade do Vencedor**. O jogador vencedor é responsável por postar o resultado final da partida, juntamente com o vídeo e os detalhes do carro utilizado.
 
-6.2.1 - Caso houver algum bug durante a partida, o outro piloto pode complementar com alguma informação importante os detalhes da partida.
+6.2.1 - Caso haja algum bug durante a partida, o outro piloto pode complementar com alguma informação importante os detalhes da partida.
 
 6.3 - A resolução ideal é em HD 1280x720 (720p), porém para aqueles que não tenham um computador que consiga gravar ou transmitir nessa resolução, a resolução mínima aceita será (SD) 854 x 480 (480p).
 
@@ -249,4 +249,4 @@ Exemplo de postagem de resultado:
 
 11.2. **As regras podem ser aditadas durante o campeonato, caso a administração julgue necessário para cobrir casos que não forem cobertos por essas regras buscando não prejudicar os participantes.**
 
-# **A administração da TGC desejam à todos um excelente campeonato e principalmente muita diversão a todos os participantes e expectadores!!!** #
+# **A administração da TGC desejam à todos um excelente campeonato e principalmente muita diversão a todos os participantes e espectadores!!!** #
