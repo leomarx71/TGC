@@ -23,42 +23,40 @@
 
 Apenas os jogadores acima mencionados deverão se manifestar quanto ao interesse de participar da Champions Cup 2025. Caso um jogador desista ou não se manifeste até às 12h do dia 16/12/2025, será efetuada a substituição seguindo os critérios de classificação definidos.
 
-# **2 Modelo Confirmação:** #
+# **2. Validação e Verificação de Perfil dos Inscritos:** #
 
-    Apelido/Nickname: LeomarxGames
-    Disponibilidade para jogar: à noite durante a semana e finais de semana a combinar com antecedência.
-    Método que utiliza para conectar: Preferencialmente Radmin, se houver erro, poderá ser utilizado o Hamachi.
+2.1.	A administração da TGC, na intenção de criar um campeonato com credibilidade, se reserva no direito de solicitar a qualquer momento durante a inscrição e/ou durante o campeonato, informações adicionais a qualquer um dos inscritos em seus campeonatos.
 
-# **3. Validação e Verificação de perfil dos Inscritos:** #
+2.2.	Tais medidas, vem com o intuito de impedir a inscrição ou participação de jogadores com contas fakes.
 
-3.1. A administração da TGC, na intenção de criar um campeonato com credibilidade, se reserva no direito de solicitar a qualquer momento durante a inscrição e/ou durante o campeonato, informações para validação da identidade dos participantes.
-
-3.2. Tais medidas, vêm com o intuito de impedir a inscrição ou participação de jogadores com contas fakes.
-
-3.3. As informações solicitadas servem para um processo de verificação/confirmação de identidade, tais como:
+2.3.	As informações solicitadas servem para um processo de verificação/confirmação de identidade, tais como:
 
 - Perfil de rede social com foto (Facebook/Instagram/WhatsApp/Discord/Telegram/Twitter/TikTok/Outras).
-- Vídeo chamada por qualquer uma das redes sociais mencionadas que o participante tenha conta.
+- Vídeo chamadas por qualquer uma das redes sociais mencionadas que o participante tenha conta.
 - Detalhes técnicos e verificação do processo de conexão online (Hamachi/Radmin), compartilhando a tela. (TeamViewer/AnyDesk/Outros)
 - Tipo de computador, fotos do modem, Empresa de internet, IP virtual, IP do roteador, VPN, etc.
 
-3.4. O jogador inscrito tem o **direito de não fornecer as informações solicitadas**, assim como a TGC, também se reserva ao **direito de cancelar a inscrição ou remover um participante durante o processo**.
+2.4.	O jogador inscrito tem o **direito de não fornecer as informações solicitadas**, assim como a TGC, também se reserva ao **direito de cancelar a inscrição ou remover um participante durante um campeonato**, que não concorde em providenciar as informações que lhe forem solicitadas.
 
-# **4. Itens Obrigatórios:** #
+# **3. Itens Obrigatórios:** #
 
-4.1.    **Emulador ZSNES 1.42 =** Link para download [aqui](https://www.zsnes.com/index.php?page=files)
+3.1.  **Emulador ZSNES 1.42 =** Link para download [aqui](https://www.zsnes.com/index.php?page=files)
 
-4.2.	**ROM Top Gear TGC (E) [!].smc** = Link para download [aqui](https://www.facebook.com/groups/topgearchampionships/files/files)
+3.2.	**ROM Top Gear TGC (E) [!].smc** = Link para download [aqui](https://www.facebook.com/groups/topgearchampionships/files/files)
 
-4.3.	**Top Gear (E) [!].smc** = Link para download [aqui](https://www.facebook.com/groups/topgearchampionships/permalink/2319752584959355?_rdc=1&_rdr)
+3.3.	**ROM Top Gear (E) [!].smc** = Link para download [aqui](https://www.facebook.com/groups/topgearchampionships/permalink/2435336390067640)
 
-4.4.	**Radmin para conexão entre os jogadores** = Link para download [aqui](https://vpn.net/)
+3.4.	**Radmin para conexão entre os jogadores** = Link para download [aqui](https://www.radmin-vpn.com/)
+
+3.5.  **Hamachi para conexão entre os jogadores** = Link para download [aqui](https://vpn.net/)
+
+
 
 # **5. Cronograma (Previsão):** #
 
 5.1. O Sorteio será realizado após confirmação das inscrições;
 
-5.2. A fase de grupos começará 16/12/2025 e terá prazo até às 23h59 do dia 22/12/2025;
+5.2. A fase de grupos começará 16/12/2025 e terá prazo previsto até às 23h59 do dia 23/12/2025;
 
 5.3. O prazo para realização da Final será até às 23h59 do dia 30/12/2025;
 
