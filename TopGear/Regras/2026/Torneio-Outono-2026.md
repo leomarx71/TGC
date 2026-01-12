@@ -1,6 +1,6 @@
 # **A COMUNIDADE TOP GEAR CHAMPIONSHIPS (TGC) APRESENTA:** #
 
-## **Torneio de Outono 2026 - REGRAS ESPECÍFICAS** ##
+## **Torneio de Outono 2026: Acropolis Cup (O desafio da poeira e terra) - REGRAS ESPECÍFICAS** ##
 
 ## **LEIA TODAS AS REGRAS COM BASTANTE ATENÇÃO!!!** ##
 
@@ -80,3 +80,5 @@ Não há limite para a quantidade de participantes e serão classificados para a
 ---
 
 ## 4. USAR AS REGRAS GERAIS PARA TODAS AS DEMAIS INFORMAÇÕES
+
+- **Regras Gerais TGC** - Link ![Aqui](Regras-Gerais-2026.md)

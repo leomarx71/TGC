@@ -19,61 +19,60 @@ Novos participante deverão se inscrever através de postagem realizada diretame
 ### 1.1 Elegebilidade, Pilotos Promovidos, Rebaixados
 
 **Pré-inscritos, conforme resultados da edição anterior e as punições mencionadas em 1.2:**
-  1.1.1 Série Ouro - Pilotos que participaram do La Liga XIV e que devem manifestar o interesse em participar do La Liga XV:
+  1.1.1 Série Ouro - Pilotos que participaram do La Liga XVI e que devem manifestar o interesse em participar do La Liga XVI:
 
    - Rob Jax (Robson Meireles)
    - ChitaMX (Aléxis Sánchez)
    - Rafael Diablo (Rafael Lopes)
    - LeNN Miner (Lenno Coelho)
-   - Sr. Filho (Jurandir Filho)
+   - Jhonny (Jhonny Mota)
    - Leomarx Games (Leonardo Marques)
-   - Luciano (Luciano Alves)
-   - Jhonny (Jhonny Mota) - 1° Prata
-   - Paulo Fox (Paulo Muniz) - 2° Prata
-   - RonalDan (Ronald Daniel) - 3° Bronze
+   - RonalDan (Ronald Daniel)
+   - AriJunino (Ari Júnior) - 1° Prata
+   - Suprem Peruvian (Albert Matos) - 2° Prata
+   - Carlos CRX (Carlos Rubens) - 3° Prata
      
-  1.1.2 Série Prata - Pilotos que participaram do La Liga XIV e que devem manifestar o interesse em participar do La Liga XV:
+  1.1.2 Série Prata - Pilotos que participaram do La Liga XVI e que devem manifestar o interesse em participar do La Liga XVI:
      
-   - Pegasus (Edimar Caetano) - 4° Prata
+   - Camus Kshrc (Marlon Fernandes) - 4° Prata
    - The Mister (Roberto Vasquez) - 1° Melhor Rebaixado
-   - JavierVZLA (Javier Dixon) - 5° Prata
-   - AriJunino (Ari Júnior) - 2° Melhor Rebaixado
-   - MMM (Marcel Santana) - 6° Prata
-   - Gokú (Oscar Cardenhas) - 3° Melhor Rebaixado
-   - Jack Maloi (Alison Paulo) - 7° Prata
-   - Luís Cárdenas (L.A.O.M.) - 4° Melhor Rebaixado
-   - HD Gamer (Edwin Hyrula) - 1° Bronze
-   - Camus Kshrc (Marlon Fernandes) - 2° Bronze
-   - Carlos CRX (Carlos Rubens) - 3° Bronze
+   - Paulo Fox (Paulo Muniz) - 2° Melhor Rebaixado
+   - MMM (Marcel Santana) - 5° Prata
+   - HD Gamer (Edwin Hyrula) - 6° Prata 
+   - Luís Cárdenas (L.A.O.M.) - 7° Prata
+   - Cristyan Antúnez (Crys90) - 1° Bronze 
+   - Irvin Delgado (Irvin 1988) - 2° Bronze
+   - Christopher Jp (Ceviche)- 3° Bronze
+   - Luciano (Luciano BoraZerar) - Avaliar Protocolo
 
-  1.1.3 Série Bronze - Competidores que participaram do La Liga XIV e novos membros que desejarem se inscrever no La Liga XV, conforme a sequência:
+  1.1.3 Série Bronze - Competidores que participaram do La Liga XVI e novos membros que desejarem se inscrever no La Liga XVI, conforme a sequência:
 
-   - Suprem Peruvian (Albert Matos) - 4° Bronze
-   - Killua Zorldic (Lucas Souza) - 1° Melhor Rebaixado
-   - Paomarc (Paolo Paredes) - 5° Bronze
-   - Br's Brisantt (Brisantt) - 2° Melhor Rebaixado
-   - Policarpo (Anderson Policarpo) - 6° Bronze
-   - JackPocker40 (Petter Bruno) - 7° Bronze
+   - Killua Zorldic (Lucas Souza) - 4° Bronze
+   - Gokú (Oscar Cardenhas) - 1° Melhor Rebaixado
+   - Nacional (Will Daga) - 5° Bronze
+   - Pegasus (Edimar Caetano) - 2° Melhor Rebaixado
+   - Paomarc (Paolo Paredes) - 6° Bronze
+   - Jack Maloi (Alison Paulo) - 3° Melhor Rebaixado
+   - Policarpo (Anderson Policarpo) - 7° Bronze
    - Schumacher (Martins Swantaiger) - 8° Bronze
-   - Barros (Samuel Barros) - 9° Bronze
+   - JackPocker40 (Petter Bruno) - 9° Bronze
+   - Edson Silva (Senninkage) - 10° Bronze
+   - Barros (Samuel Barros)
    - Yoshimtzu (Rudi Porto)
-   - Nacional (Will D)
+   - Br's Brisantt (Brisantt) 
    - Fábio Enrique (Fábio)
    - Ricardo Nascimento (Ricardo)
+   - Frank Piero (Frank Gear)
    - Novo competidor
 
 ### 1.2 Punições Ativas
-Punições da edição anterior (La Liga XIV):
+Punições da edição anterior (La Liga XV):
 
-  Regra do La Liga XIV para esclarecimento: **5.5 - A tolerância de W.O's neste campeonato será no total de 3 partidas na fase de grupos se houver 4 ou mais partidas o piloto será impedido de participar do próximo campeonato La Liga. No prazo de 72h após a aplicação do w.o., será oportunizado ao piloto que apresente justificativas, caso as justificativas sejam aceitas, o w.o. não será contabilizado para efeitos de punição.**
+  Regra do La Liga XV para esclarecimento: **5.5 - A tolerância de W.O's neste campeonato será no total de 3 partidas na fase de grupos se houver 4 ou mais partidas o piloto será impedido de participar do próximo campeonato La Liga. No prazo de 72h após a aplicação do w.o., será oportunizado ao piloto que apresente justificativas, caso as justificativas sejam aceitas, o w.o. não será contabilizado para efeitos de punição.**
 
-  - Irvin Delgado (Irvin1988)
-  - Frank Piero (Frank Gear)
-  - Edison Silva (Senninkage)
-  - Roney Leão (Nero)
-  - Não poderão participar do La Liga XVI . Em razão do excesso de W.O. no La Liga XIV e como punição ficarão uma edição sem poder participar, podendo voltar no La Liga XVI na Divisão Bronze.
-  - Luís Cárdenas (L.A.O.M.) Poderá solicitar regressar na Liga Prata, pois este comprovadamente teve de fato um motivo médico de força maior que impediu sua participação.
-  - Óscar Cárdenas (Gokú) Poderá solicitar regressar na Liga Prata, pois este comprovadamente teve de fato um motivo médico de força maior que impediu sua participação.
+  - Sr. Filho (Jurandir Filho)
+  - Não poderão participar do La Liga XVI, em razão do excesso de W.O. no La Liga XV e como punição ficarão uma edição sem poder participar, podendo voltar no La Liga XVII na Divisão Bronze.
+  - Luciano (Luciano BoraZerar) poderá solicitar regressar na Liga Prata, pois este comprovadamente teve de fato um motivo técnico de força maior (justificado) e que impediu sua participação.
 
 ### 1.4 Substituições
 Caso haja algum piloto desistente ou punido na edição anterior nas Ligas Ouro ou Prata:
@@ -91,23 +90,23 @@ Só poderão participar deste torneio, aqueles jogadores que forem inscritos na 
 
 ### **1.5 Cronograma Séries Ouro / Prata (Horários de Brasília, Brasil)
    
-  1.5.1 - Prazo para confirmações e novas inscrições: até 21h do dia 27/09/2025.
+  1.5.1 - Prazo para confirmações e novas inscrições: até 21h do dia 13/02/2026.
   
   1.5.2 - Após revisão das inscrições será feito o sorteio das pistas e aberto o prazo do comissário.
   
-  1.5.3 - Prazo Comissário: 29/09/2025 às 15h. 
+  1.5.3 - Prazo Comissário: 16/02/2026 às 15h. 
   
   1.5.4 - Após revisão do comissário, será realizado sorteio dos confrontos e liberação para o início da Fase de Grupos.
   
-  1.5.5 - Após última chamada, até as 21h de 29/09/2025, aqueles que não enviarem no prazo terão seus carros sorteados. Seus carros serão escolhidos por sorteio com preferência dos carros mais *lentos* (Ex.: 3 Brancos, 2 Azuis, 2 Roxos e 2 Vermelhos)
+  1.5.5 - Após última chamada, até as 21h de 16/02/2026, aqueles que não enviarem no prazo terão seus carros sorteados. Seus carros serão escolhidos por sorteio com preferência dos carros mais *lentos* (Ex.: 3 Brancos, 2 Azuis, 2 Roxos e 2 Vermelhos)
   
-  1.5.6 - Fase de Grupos terá prazo de 21 dias. Previsão de término – 20/10/2025 23h59.
+  1.5.6 - Fase de Grupos terá prazo de 21 dias. Previsão de término – 09/03/2026 23h59.
   
-  1.5.7 - Quartas de Final: 7 dias. Até 27/10/2025 23h59
+  1.5.7 - Quartas de Final: 7 dias. Até 16/03/2026 23h59
   
-  1.5.8 - Semifinal: 7 dias. Até 03/11/2025 23h59
+  1.5.8 - Semifinal: 7 dias. Até 23/03/2026 23h59
   
-  1.5.9 - Final e Disputa de 3º: 7 dias. Até 10/11/2025 23h59
+  1.5.9 - Final e Disputa de 3º: 7 dias. Até 30/03/2026 23h59
   
   O cronograma e as fases da Série Bronze, serão definidos após encerramento das inscrições, momento em que a administração definirá a forma de disputa
 
@@ -210,3 +209,5 @@ Após o término das inscrições e sorteio dos países, todos os participantes 
 ---
 
 ## 5. USAR AS REGRAS GERAIS PARA TODAS AS DEMAIS INFORMAÇÕES
+
+- **Regras Gerais TGC** - Link ![Aqui](Regras-Gerais-2026.md)

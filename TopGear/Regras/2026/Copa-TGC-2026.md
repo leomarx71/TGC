@@ -180,3 +180,5 @@ Usando a Rom TGC, deverão ser selecionadas no mínimo as 4 pistas do país dese
 ---
 
 ## 4. USAR AS REGRAS GERAIS PARA TODAS AS DEMAIS INFORMAÇÕES
+
+- **Regras Gerais TGC** - Link ![Aqui](Regras-Gerais-2026.md)

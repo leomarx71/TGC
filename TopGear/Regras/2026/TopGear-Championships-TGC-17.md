@@ -121,3 +121,5 @@ Não há limite para a quantidade de participantes e serão classificados para a
 ---
 
 ## 4. USAR AS REGRAS GERAIS PARA TODAS AS DEMAIS INFORMAÇÕES
+
+- **Regras Gerais TGC** - Link ![Aqui](Regras-Gerais-2026.md)

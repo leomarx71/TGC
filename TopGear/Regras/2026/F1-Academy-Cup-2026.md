@@ -56,7 +56,7 @@ Eliminatória com grupos iniciais (Fase de Grupos, Oitavas, Quartas, Semifinal e
 - **Final:** 4 países
 - **Disputa de 3°:** 4 países
 
-### 2.4 Carro Obrigatório (REGRA ESPECÍFICA)
+### 2.4 Carro Obrigatório
 Carro **LIVRE** em todas as fases do campeonato.
 
 ### 2.5 Sorteio de Pistas
@@ -106,3 +106,5 @@ Não há limite para a quantidade de participantes e serão classificados para a
 ---
 
 ## 4. USAR AS REGRAS GERAIS PARA TODAS AS DEMAIS INFORMAÇÕES
+
+- **Regras Gerais TGC** - Link ![Aqui](Regras-Gerais-2026.md)

@@ -125,3 +125,5 @@ Caso o piloto não poste o resultado com todos os detalhes até o final do prazo
 ---
 
 ## 6. USAR AS REGRAS GERAIS PARA TODAS AS DEMAIS INFORMAÇÕES
+
+- **Regras Gerais TGC** - Link ![Aqui](Regras-Gerais-2026.md)

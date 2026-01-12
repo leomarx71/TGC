@@ -1,6 +1,6 @@
 # **A COMUNIDADE TOP GEAR CHAMPIONSHIPS (TGC) APRESENTA:** #
 
-## **American Le Mans Series 2026 - REGRAS ESPECÍFICAS** ##
+## **American LeMans Series 2026 - REGRAS ESPECÍFICAS** ##
 
 ## **LEIA TODAS AS REGRAS COM BASTANTE ATENÇÃO!!!** ##
 
@@ -129,4 +129,4 @@ Até o final do campeonato, o piloto pode apresentar justificativas. Se aceitas,
 
 ## 6. USAR AS REGRAS GERAIS PARA TODAS AS DEMAIS INFORMAÇÕES
 
-- **Link das Regras** - Link para acesso ![aqui](Regras-Gerais-2026.md)
+- **Regras Gerais TGC** - Link ![Aqui](Regras-Gerais-2026.md)
