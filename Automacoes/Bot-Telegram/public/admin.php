@@ -18,8 +18,8 @@ if (!defined('DATA_DIR')) define('DATA_DIR', BASE_DIR . '/../storage/json');
 if (!defined('LOG_DIR'))  define('LOG_DIR',  BASE_DIR . '/../storage/logs');
 
 // Cria diretórios se não existirem
-if (!is_dir(DATA_DIR)) mkdir(DATA_DIR, 0777, true);
-if (!is_dir(LOG_DIR))  mkdir(LOG_DIR, 0777, true);
+if (!is_dir(DATA_DIR)) mkdir(DATA_DIR, 0755, true);
+if (!is_dir(LOG_DIR))  mkdir(LOG_DIR, 0755, true);
 
 // Arquivos de Dados
 if (!defined('FILE_PILOTS'))    define('FILE_PILOTS', DATA_DIR . '/pilots.json');
