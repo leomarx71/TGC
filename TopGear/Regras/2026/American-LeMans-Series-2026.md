@@ -1,6 +1,6 @@
 # **A COMUNIDADE TOP GEAR CHAMPIONSHIPS (TGC) APRESENTA:** #
 
-## **American LeMans Series 2026 - REGRAS ESPECÍFICAS** ##
+## **American LeMans TGC 2026 e Stock Car TGC 2026 - REGRAS ESPECÍFICAS** ##
 
 ## **LEIA TODAS AS REGRAS COM BASTANTE ATENÇÃO!!!** ##
 
@@ -11,14 +11,14 @@
 ### 1.1
 Os 16 pilotos mais bem colocados na tabela do Mundial da TGC de 2025 serão aceitos como pré-inscritos.
 
-### 1.2 - Formação das Séries
-Após o preenchimento das 16 vagas principais, os demais pilotos classificados na tabela do mundial de 2025 formarão a Série B. No entanto, a criação desta segunda categoria está condicionada à confirmação de, no mínimo, 8 pilotos. Caso esse número não seja atingido, o torneio será mantido e disputado exclusivamente com a Série A.
+### 1.2 - Formação da American LeMans TGC 2026 e Stock Car TGC 2026
+Após o preenchimento das 16 vagas principais, os demais pilotos classificados na tabela do mundial de 2025 formarão Stock Car TGC 2026. No entanto, a criação desta segunda categoria está condicionada à confirmação de, no mínimo, 8 pilotos. Caso esse número não seja atingido, o torneio será disputado exclusivamente na American LeMans TGC 2026 com o máximo de 20 pilotos.
 
 ### 1.3 - Promoção e Rebaixamento
-Caso a Série B seja efetivada, não haverá sistema de promoção ou rebaixamento entre as categorias. Em vez disso, será concedida uma pontuação bônus válida para o Mundial de Pilotos de 2026. O objetivo desse incentivo é estimular os competidores a buscarem uma classificação entre os 16 melhores para garantir suas vagas elegíveis na temporada de 2027.
+A participação na American LeMans TGC 2026 ou Stock Car TGC 2026, estará condicionada exclusivamente à classificação no Mundial de Pilotos TGC da temporada passada. Desta forma, não haverá sistema de promoção ou rebaixamento entre as categorias. Em vez disso, será concedida uma pontuação bônus válida para o Mundial de Pilotos de 2026. O objetivo desse incentivo é estimular os competidores a buscarem uma classificação entre os 16 melhores para garantir suas vagas elegíveis na temporada seguinte.
 
 ### 1.4 - Escolha de Categoria
-A alocação dos pilotos na categoria principal é prioritária e obrigatória. É vedado ao competidor optar voluntariamente pela participação na Série B enquanto houver vagas remanescentes na Série A. A segunda categoria será aberta para alocação de pilotos apenas após a confirmação das 16 vagas da elite.
+A alocação dos pilotos na categoria principal é prioritária e obrigatória. É vedado ao competidor optar voluntariamente pela participação na Stock Car TGC 2026 se ainda houverem vagas remanescentes na American LeMans TGC 2026. A Stock Car TGC 2026 será aberta para alocação de pilotos apenas após a confirmação das 16 vagas da elite.
 
 ### 1.5 - Impedimentos
 Só poderão participar deste torneio, aqueles jogadores que forem inscritos na Comunidade TGC e não estiverem cumprindo punição vigente que impeça a participação em campeonatos.
@@ -27,13 +27,13 @@ Só poderão participar deste torneio, aqueles jogadores que forem inscritos na 
 
 ## 2. CRONOGRAMA
 
-2.1 - Confirmações até 18/01/2026 às 18h.
+### 2.1 - Confirmações até 18/01/2026 às 18h.
 
-2.2 - Sorteio das pistas e liberação até 20/01/2026.
+### 2.2 - Sorteio das pistas e liberação até 20/01/2026.
 
-2.3 - Rodadas sempre com prazo de 7 dias (Normalmente de terça 0h até segunda-feira 23h59).
+### 2.3 - Rodadas sempre com prazo de 7 dias (Normalmente de terça 0h até segunda-feira 23h59).
 
-2.4 - Poderá haver 3 Rodadas com prazo de 15 dias (quando não concorrência com outros torneios).
+### 2.4 - Poderá haver 3 Rodadas com prazo de 15 dias (quando não concorrência com outros torneios).
 
 ---
 
@@ -54,6 +54,9 @@ Será utilizado o TOORNAMENT para chaveamento das partidas.
 - **Segunda 25% das rodadas:** 1 dos 3 carros restantes proibido
 - **Terceira 25% das rodadas:** 1 dos 2 carros restantes proibido
 - **Quarta 25% das rodadas:** O carro remanescente proibido
+  Obs 1: Caso o número de partidas seja não seja múltiplo de 4, o último carro proibido sorteado terá o menor número de rodadas proibidas.
+  Ex: 15 rodadas por turno. 4 rodadas proibidas para os 3 primeiros carros sorteados e 3 rodadas proibidas para o quarto carro sorteado.
+  Obs 2: Os sorteios dos países e dos carros proibidos serão realizados no primeiro turno do campeonato. Os resultados serão repetidos para o segundo turno.
 
 ### 3.5 Uso de Carro Proibido
 Caso um piloto utilize o carro proibido:
@@ -77,10 +80,9 @@ Caso um piloto utilize o carro proibido:
 2. Pontos conquistados
 3. Saldo de pontos
 4. Menor número de W.O.'s
-5. Se empatarem em todos, mesma posição final
+5. Sorteio
 
-### 4.3 Pontuação Mundial - Séria A
-Os 10 melhores colocados recebem pontos para o Mundial:
+### 4.3 Pontuação Mundial - American LeMans TGC 2026:
 - 1º Lugar = 21 pts
 - 2º Lugar = 15 pts
 - 3º Lugar = 12 pts
@@ -93,9 +95,8 @@ Os 10 melhores colocados recebem pontos para o Mundial:
 - 10º Lugar = 2 pts
 - Demais = 1 ponto pela participação
 
-### 4.3 Pontuação Mundial - Séria B (Se Houver)
+### 4.4 Pontuação Mundial - Stock Car TGC 2026 (Se Houver)
 Se houver 8 a 12 inscritos:
-Os 4 melhores colocados recebem pontos para o Mundial:
 - 1º Lugar = 10 pts
 - 2º Lugar = 8 pts
 - 3º Lugar = 6 pts
@@ -103,13 +104,12 @@ Os 4 melhores colocados recebem pontos para o Mundial:
 - Demais = 1 ponto pela participação
 
 Se houver 12+ inscritos:
-Os 6 melhores colocados recebem pontos para o Mundial:
-- 1º Lugar = 15 pts
-- 2º Lugar = 12 pts
-- 3º Lugar = 10 pts
-- 4º Lugar = 8 pts
-- 5º Lugar = 6 pts
-- 6º Lugar = 4 pts
+- 1º Lugar = 10 pts
+- 2º Lugar = 8 pts
+- 3º Lugar = 6 pts
+- 4º Lugar = 5 pts
+- 5º Lugar = 4 pts
+- 6º Lugar = 3 pts
 - Demais = 1 ponto pela participação
 
 ---
@@ -117,10 +117,10 @@ Os 6 melhores colocados recebem pontos para o Mundial:
 ## 5. DESISTÊNCIAS
 
 ### 5.1 Resultados Invalidados
-Se houver desistência de pilotos no meio do campeonato, os resultados que ele obteve anteriormente serão invalidados, equalizando a vitória sobre ele de forma igual para todos os outros pilotos.
+Se houver desistência de pilotos no meio do campeonato, todas as suas partidas serão anuladas, incluindo as que já tenham sido realizadas. Para fins do sistema TOORNAMENT, todas as partidas serão lançadas como **W.O. duplo:** 0 pontos para ambos os pilotos da partida.
 
 ### 5.2 Tolerância de W.O.'s
-Máximo de 20% do número total de rodadas em W.O.'s. Exemplo: em 30 rodadas, máximo 6 W.O.'s. Acima disso, o piloto é impedido de jogar o próximo Brasileiro da Leomarx Games.
+Máximo de 20% do número total de rodadas em W.O.'s. Exemplo: em 30 rodadas, máximo 6 W.O.'s. Acima disso, o piloto é impedido de jogar o próximo American LeMans TGC 2026 ou Stock Car TGC 2026.
 
 ### 5.3 Justificativas
 Até o final do campeonato, o piloto pode apresentar justificativas. Se aceitas, o W.O. não é contabilizado para efeitos de punição.
