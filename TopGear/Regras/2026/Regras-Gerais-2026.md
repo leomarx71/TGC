@@ -390,10 +390,10 @@ E estão cientes que serão submetidos à decisão da administração, caso haja
 ### 11.4 Lag Posterior ao Teste
 Caso haja nova ocorrência de lag em algum outro momento no decorrer da partida ** mesmo após os testes**, recomenda-se tomar como solução, o item 11.1 e novamente refazer um novo teste ou que os jogadores combinem um novo dia e horário para a realização da partida (Dentro do prazo).
 
-## 11. SITUAÇÕES INÉDITAS
+## 12. SITUAÇÕES INÉDITAS
 
-### 11.1
+### 12.1
 Situações inéditas podem ocorrer e os casos não previstos aqui serão analisados pela administração no decorrer do campeonato.
 
-### 11.2
+### 12.2
 As regras podem ser aditadas durante o campeonato, caso a administração julgue necessário para cobrir casos que não forem cobertos por essas regras, buscando não prejudicar os participantes.
