@@ -12,7 +12,7 @@
 Os 16 pilotos mais bem colocados na tabela do Mundial da TGC de 2025 serão aceitos como pré-inscritos na American LeMans TGC 2026.
 
 ### 1.2 - Formação da American LeMans TGC 2026 e Stock Car TGC 2026
-Após o preenchimento das 16 vagas principais, os demais pilotos classificados na tabela do mundial de 2025 formarão Stock Car TGC 2026. No entanto, a criação desta segunda categoria está condicionada à confirmação de, no mínimo, 8 pilotos. Caso esse número não seja atingido, o torneio será disputado exclusivamente na American LeMans TGC 2026 com o máximo de 20 pilotos.
+Após o preenchimento das 16 vagas principais na American LeMans TGC 2026, os demais pilotos classificados na tabela do mundial de 2025 formarão a Stock Car TGC 2026. No entanto, a criação desta segunda categoria está condicionada à confirmação de, no mínimo, 8 pilotos. Caso esse número não seja atingido, o torneio será disputado exclusivamente na American LeMans TGC 2026 com o máximo de 20 pilotos.
 
 ### 1.3 - Promoção e Rebaixamento
 A participação na American LeMans TGC 2026 ou Stock Car TGC 2026, estará condicionada exclusivamente à classificação no Mundial de Pilotos TGC da temporada passada. Desta forma, não haverá sistema de promoção ou rebaixamento entre as categorias. Em vez disso, será concedida uma pontuação bônus válida para o Mundial de Pilotos de 2026. O objetivo desse incentivo é estimular os competidores a buscarem uma classificação entre os 16 melhores para garantir suas vagas elegíveis na temporada seguinte.
