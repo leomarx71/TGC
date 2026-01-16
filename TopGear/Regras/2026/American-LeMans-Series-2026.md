@@ -54,9 +54,8 @@ Será utilizado o TOORNAMENT para chaveamento das partidas.
 - **Segunda 25% das rodadas:** 1 dos 3 carros restantes proibido
 - **Terceira 25% das rodadas:** 1 dos 2 carros restantes proibido
 - **Quarta 25% das rodadas:** O carro remanescente proibido
-  Obs 1: Caso o número de partidas seja não seja múltiplo de 4, o último carro proibido sorteado terá o menor número de rodadas proibidas.
-  Ex: 15 rodadas por turno. 4 rodadas proibidas para os 3 primeiros carros sorteados e 3 rodadas proibidas para o quarto carro sorteado.
-  Obs 2: Os sorteios dos países e dos carros proibidos serão realizados no primeiro turno do campeonato. Os resultados serão repetidos para o segundo turno.
+- Obs 1: Caso o número de partidas seja não seja múltiplo de 4, o último carro proibido sorteado terá o menor número de rodadas proibidas. Ex: 15 rodadas por turno. 4 rodadas proibidas para os 3 primeiros carros sorteados e 3 rodadas proibidas para o quarto carro sorteado.
+- Obs 2: Os sorteios dos países e dos carros proibidos serão realizados no primeiro turno do campeonato. Os resultados serão repetidos para o segundo turno.
 
 ### 3.5 Uso de Carro Proibido
 Caso um piloto utilize o carro proibido:
