@@ -6,17 +6,17 @@
 
 ## **1. CRONOGRAMA** ##
 
-1.1 - A fase de grupos começará em XX/XX/2026 e terá prazo previsto até às 23h59 do dia XX/XX/2026.
+1.1 - A fase de grupos começará em 20/01/2026 e terá prazo previsto até às 23h59 do dia 02/02/2026.
 
-1.2 - O prazo para realização das Oitavas será até às 23h59 do dia XX/XX/2026.
+1.2 - O prazo para realização das Oitavas será até às 23h59 do dia 09/02/2026.
 
-1.3 - O prazo para realização das Quartas será até às 23h59 do dia XX/XX/2026.
+1.3 - O prazo para realização das Quartas será até às 23h59 do dia 16/02/2026.
 
-1.4 - O prazo para realização das Semifinais será até às 23h59 do dia XX/XX/2026.
+1.4 - O prazo para realização das Semifinais será até às 23h59 do dia 23/02/2026.
 
-1.5 - O prazo para realização da Final será até às 23h59 do dia XX/XX/2026.
+1.5 - O prazo para realização da Final será até às 23h59 do dia 02/03/2026.
 
-**Observação:** As rodadas podem ter o prazo estendido caso a administração julgue necessário.
+**Observação:** As rodadas podem ter o prazo ajustados caso a administração julgue necessário.
 
 ---
 
@@ -28,7 +28,7 @@ Será utilizado o TOORNAMENT/Challonge para chaveamento das partidas.
 ### 2.2 Formato
 Eliminatória com grupos iniciais (Fase de Grupos, Oitavas, Quartas, Semifinal e Final).
 
-### 2.3 Pistas por Fase (REGRA ESPECÍFICA)
+### 2.3 Países por Fase (REGRA ESPECÍFICA)
 - **Fase de Grupos:** 2 países
 - **Oitavas de Final:** 3 países
 - **Quartas de Final:** 3 países
@@ -39,14 +39,14 @@ Eliminatória com grupos iniciais (Fase de Grupos, Oitavas, Quartas, Semifinal e
 ### 2.4 Carro Obrigatório (REGRA ESPECÍFICA)
 Carro **VERMELHO** em todas as fases do campeonato.
 
-### 2.5 Sorteio de Pistas
-Serão sorteados os 2 países para cada rodada na fase de grupos. 3 países para 8°, 4° e Semifinais. 4 países
+### 2.5 Sorteio de Países
+Serão sorteados os 2 países para cada rodada na fase de grupos. 3 países para 8°, 4° e Semifinais. E 4 países pa Final e disputa de 3º.
 
 ### 2.6 Desempate
 Em caso de empate, aplica-se o procedimento padrão de desempate conforme seção 8 das Regras Gerais.
 
 ### 2.7 Substituição de Jogadores
-Durante o campeonato não haverá substituição de jogadores, aqueles que desistirem receberão W.O. para todas as suas partidas.
+Durante o campeonato não haverá substituição de jogadores, aqueles que desistirem receberão W.O. duplo para todas as suas partidas.
 
 ### 2.8 - Impedimentos
 Só poderão participar deste torneio, aqueles jogadores que forem inscritos na Comunidade TGC e não estiverem cumprindo punição vigente que impeça a participação em campeonatos.
