@@ -8,7 +8,6 @@ O novo modelo de inscrições de campeonatos da TGC terá sempre uma pré-lista 
 - Albert Matos (Suprem Peruvian)
 - Aléxis Sánchez (ChitaMX)
 - Albert Matos (Suprem Peruvian)
-- Alexis Sánchez (Chita Mx)
 - Alison Paulo (Jack Maloi)
 - Allan Live (Allan Live)
 - Anderson Policarpo (Policarpo)
