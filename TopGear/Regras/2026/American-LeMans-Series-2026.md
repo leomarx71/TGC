@@ -47,6 +47,8 @@ Será utilizado o TOORNAMENT para chaveamento das partidas.
 - No 1º Turno, o piloto que vier primeiro na tabela será o mandante da partida e receberá um bônus de +5 pontos a serem somados no resultado final
 - No 2º Turno, os mandates de cada confronto serão invertidos e o bônus de +5 pontos passam a ser do novo mandante.
 - O P1 sempre será o piloto mandante da partida, podendo inverter caso ambos entrem em consenso.
+- Para que o mandante receba os +5 pontos de bônus, deverá terminar na frente do visitante em no mínimo metade das pistas da partida (6 pistas).
+- Não serão atribuídos os +5 pontos caso o mandante desista da partida.
 
 ### 3.3 Pistas por Rodada 
 - **Rodadas:** 12 pistas por partida
