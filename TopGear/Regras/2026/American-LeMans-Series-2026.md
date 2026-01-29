@@ -44,11 +44,9 @@ Será utilizado o TOORNAMENT para chaveamento das partidas.
 
 ### 3.2 Formato
 **Pontos Corridos** com jogos de ida e volta.
-- No 1º Turno, o piloto que vier primeiro na tabela será o mandante da partida e receberá um bônus de +5 pontos a serem somados no resultado final
-- No 2º Turno, os mandates de cada confronto serão invertidos e o bônus de +5 pontos passam a ser do novo mandante.
-- O P1 sempre será o piloto mandante da partida, podendo inverter caso ambos entrem em consenso.
-- Para que o mandante receba os +5 pontos de bônus, deverá terminar na frente do visitante em no mínimo metade das pistas da partida (6 pistas).
-- Não serão atribuídos os +5 pontos caso o mandante desista da partida.
+- No 1º Turno, o piloto que vier primeiro na tabela será o P1.
+- No 2º Turno, inverte-se e o piloto que antes foi P1 deverá ser o P2, sempre vendo o vier primeiro na tabela.
+- Pode-se mudar quem será P1 ou P2, caso ambos entrem em consenso.
 
 ### 3.3 Pistas por Rodada 
 - **Rodadas:** 12 pistas por partida
