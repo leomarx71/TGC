@@ -83,7 +83,7 @@ Se houver uso do carro proibido por algum dos pilotos, a punição para tal infr
 
 **2.6.2** - Quartas de Final: serão jogadas 16 pistas (com 10 pistas de Pit e 6 sem pit), com eliminação de 1 carro por sorteio. Devem ser utilizados 2 (dois) carros na disputa, sendo um carro nas 8 primeiras pistas e outro nas 8 últimas pistas. 1 Grupo terá 5 pistas de Pit e outro 3 pistas de pit.
 
-**2.6.3** - Semifinal: serão jogadas 20 pistas (com 12 pistas de Pit e 8 sem pit), com eliminação de 1 carro por sorteio. Devem ser utilizados 2 (dois) carros na disputa, sendo um carro nas 10 primeiras pistas e outro nas 10 últimas pistas. Cada Grupo terá igualmente 6 pistas de pit e 4 sem pit.
+**2.6.3** - Semifinal: serão jogadas 21 pistas (com 12 pistas de Pit e 9 sem pit), com eliminação de 1 carro por sorteio. Devem ser utilizados 3 (dois) carros na disputa, sendo um carro a cada 7 pistas. Cada Grupo terá igualmente 4 pistas de pit e 3 sem pit.
 
 **2.6.4** - Final e Disputa do Terceiro Lugar: serão disputados em 24 pistas sorteadas (com 13 pistas de Pit e 11 sem pit) com uso de carros diferentes a cada 6 pistas. 3 Grupos terão 3 pistas de Pit e 1 grupo terá 4 pistas de pit.
 
