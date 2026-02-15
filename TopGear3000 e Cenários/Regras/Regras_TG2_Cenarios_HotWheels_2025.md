@@ -1,6 +1,6 @@
 # **A Comunidade Leomarx Games Em Parceria com a TGC Apresenta:** #
 
-# **Campeonato Hot Wheels Top Gear 2 Cenários 1.0 - 2025** #
+# **Campeonato Hot Wheels Top Gear 2 Cenários 1.0 - 2026** #
 
 # **LEIA TODAS AS REGRAS COM BASTANTE ATENÇÃO!!!** #
 
@@ -96,7 +96,7 @@ Top Gear 2 - Hack7 USA - LeomarxGames = ROM Americana + 20 pontos + Nitro Infini
 
 # **4. Cronograma (Previsão):** #
 
-4.1. As inscrições serão aceitas até às 20h do dia 19/10/2025, podendo ser encerrado antes dependendo do número de inscritos;
+4.1. As inscrições serão aceitas até às 20h do dia 22/02/2026, podendo ser encerrado antes dependendo do número de inscritos;
 
 4.2. Após confirmação das inscrições, será realizado o sorteio dos grupos e países, sendo liberada a Fase de Grupos;
 
@@ -112,7 +112,7 @@ Top Gear 2 - Hack7 USA - LeomarxGames = ROM Americana + 20 pontos + Nitro Infini
 
 # **5. Organização e Chaveamento:** #
 
-5.1. Será utilizado o TOORNAMENT para chaveamento das partidas do campeonato. [Hot Wheels Top Gear 2 Cenários 1.0 - 2025](https://play.toornament.com/en_US/tournaments/2320854530518775807/)
+5.1. Será utilizado o TOORNAMENT para chaveamento das partidas do campeonato. [Hot Wheels Top Gear 2 Cenários 1.0 - 2026](https://play.toornament.com/en_US/tournaments/2320854530518775807/)
 
 5.2. O campeonato terá uma fase de grupos no modelo Copa do Mundo e os melhores colocados avançam para a fase final de mata-a-mata.
 
