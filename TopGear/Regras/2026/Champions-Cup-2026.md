@@ -40,21 +40,19 @@
 Será utilizado o TOORNAMENT para chaveamento das partidas.
 
 ### 2.2 Formato
-Eliminatória com grupos iniciais (Fase de Grupos, Oitavas, Quartas, Semifinal e Final).
+Eliminatória com grupos iniciais (Eliminatórias, Quartas, Semifinal e Final).
 
 ### 2.3 Países por Fase
-- **Fase de Grupos:** 2 países
-- **Oitavas de Final:** 3 países
-- **Quartas de Final:** 3 países
-- **Semifinal:** 3 países
-- **Final:** 4 países
-- **Disputa de 3°:** 4 países
+- **Eliminatórias:** 3 países
+- **Quartas de Final:** 4 países
+- **Semifinal:** 4 países
+- **Final:** Full Game
 
 ### 2.4 Carro Obrigatório
-Carro **VERMELHO** em todas as fases do campeonato.
+Carro **LIVRE** em todas as fases do campeonato, exceto na final, onde deve ser usado os 4 carros e envio de comissários antes da partida.
 
-### 2.5 Sorteio de Pistas
-Serão sorteados os 2 países para cada rodada na fase de grupos. 3 países para 8°, 4° e Semifinais. 4 países
+### 2.5 Sorteio de Países
+Serão sorteados os países conforme item 2.2
 
 ### 2.6 Desempate
 Em caso de empate, aplica-se o procedimento padrão de desempate conforme seção 8 das Regras Gerais.
@@ -69,20 +67,32 @@ Só poderão participar deste torneio, aqueles jogadores que forem inscritos na 
 
 ## 3. CHAVEAMENTO e PONTUAÇÃO
 
-### 3.1 Sistema de Pontos
-- **Vitória:** 3 pontos
-- **Empate:** 1 ponto
-- **Derrota:** 0 pontos
-- **W.O. unilateral:** -1 ponto (desistente) + 3 pontos (vencedor)
-- **W.O. duplo:** 0 pontos para ambos
+### 3.1 Sistema de Classificação e Chaveamento (Fase Final)
 
-### 3.1 Chaveamento
+os 10 participantes campeões serão ranqueados do 1º ao 10º lugar conforme a pontuação obtida no mundial do ano atual.
 
-- A fase de grupos começará 16/12/2025 e terá prazo previsto até às 23h59 do dia 23/12/2025;
+### 3.2 Fase Eliminatória
 
-- O prazo para realização da Final será até às 23h59 do dia 30/12/2025;
+Será realizada uma eliminatória inicial entre:
+- 7º vs 10º colocado
+- 8º vs 9º colocado
+- Partidas em formato eliminatório simples (quem vence avança).
 
----
+### 3.3 Quartas de Final
+
+Os vencedores da fase preliminar se integram ao chaveamento principal da seguinte forma:
+- Vencedor de 8º vs 9º enfrenta o 1º colocado
+- Vencedor de 7º vs 10º enfrenta o 2º colocado
+- 3º colocado vs 6º colocado
+- 4º colocado vs 5º colocado
+
+### 3.4 Observações importantes
+
+O 1º e 2º colocados recebem vantagem competitiva por desempenho no Mundial de Pilotos.
+
+Em caso de W.O. na fase eliminatória, aplica-se vitória automática ao adversário conforme regra geral do torneio.
+
+Esse formato é tradicional e coerente: premia quem ficou no topo da tabela, evita injustiça de cruzamento aleatório e mantém a lógica clássica de ranking (1 enfrenta o mais fraco disponível, 2 enfrenta o segundo mais fraco, e assim por diante).
 
 ## 4. USAR AS REGRAS GERAIS PARA TODAS AS DEMAIS INFORMAÇÕES
 
