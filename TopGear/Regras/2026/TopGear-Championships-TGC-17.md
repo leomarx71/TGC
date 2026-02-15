@@ -79,11 +79,13 @@ Carro **LIVRE (com exceção do Proibido) + COMISSÁRIO** na fases mata-mata do 
 Se houver uso do carro proibido por algum dos pilotos, a punição para tal infração será a **desclassificação**.
 
 ### 2.6 Sorteio de Pistas
-**2.6.1** - Oitavas e Quartas de Final: serão jogadas 14 pistas (com 9 pistas de Pit e 5 sem pit), com eliminação de 1 carro por sorteio. Devem ser utilizados 2 (dois) carros na disputa, sendo um carro nas 7 primeiras pistas e outro nas 7 últimas pistas. 1 Grupo terá 5 pistas de Pit e outro 4 pistas de pit.
+**2.6.1** - Oitavas de Final: serão jogadas 14 pistas (com 9 pistas de Pit e 5 sem pit), com eliminação de 1 carro por sorteio. Devem ser utilizados 2 (dois) carros na disputa, sendo um carro nas 7 primeiras pistas e outro nas 7 últimas pistas. 1 Grupo terá 5 pistas de Pit e outro 4 pistas de pit.
 
-**2.6.2** - Semifinal: serão jogadas 20 pistas (com 12 pistas de Pit e 8 sem pit), com eliminação de 1 carro por sorteio. Devem ser utilizados 2 (dois) carros na disputa, sendo um carro nas 10 primeiras pistas e outro nas 10 últimas pistas. Cada Grupo terá igualmente 6 pistas de pit e 4 sem pit.
+**2.6.2** - Quartas de Final: serão jogadas 16 pistas (com 10 pistas de Pit e 6 sem pit), com eliminação de 1 carro por sorteio. Devem ser utilizados 2 (dois) carros na disputa, sendo um carro nas 8 primeiras pistas e outro nas 8 últimas pistas. 1 Grupo terá 5 pistas de Pit e outro 3 pistas de pit.
 
-**2.6.3** - Final e Disputa do Terceiro Lugar: serão disputados em 24 pistas sorteadas (com 13 pistas de Pit e 11 sem pit) com uso de carros diferentes a cada 6 pistas. 3 Grupos terão 3 pistas de Pit e 1 grupo terá 4 pistas de pit.
+**2.6.3** - Semifinal: serão jogadas 20 pistas (com 12 pistas de Pit e 8 sem pit), com eliminação de 1 carro por sorteio. Devem ser utilizados 2 (dois) carros na disputa, sendo um carro nas 10 primeiras pistas e outro nas 10 últimas pistas. Cada Grupo terá igualmente 6 pistas de pit e 4 sem pit.
+
+**2.6.4** - Final e Disputa do Terceiro Lugar: serão disputados em 24 pistas sorteadas (com 13 pistas de Pit e 11 sem pit) com uso de carros diferentes a cada 6 pistas. 3 Grupos terão 3 pistas de Pit e 1 grupo terá 4 pistas de pit.
 
 ### 2.7 Desempate
 Em caso de empate, aplica-se o procedimento padrão de desempate conforme seção 8 das Regras Gerais.
