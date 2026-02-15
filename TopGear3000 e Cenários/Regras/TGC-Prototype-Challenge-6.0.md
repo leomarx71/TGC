@@ -40,8 +40,8 @@ Copa do Mundo com grupos iniciais (Fase de Grupos, Oitavas, Quartas, Semifinal e
 - **Disputa de 3°:** Todos os cenários
 
 ### 2.5 Carros
-Carro **LIVRES** em alguns cenários, com exceção do Proibidos , quando houver.
-Carro **DETERMINADOS** em algumas fases mata-mata do campeonato.
+- Carro **LIVRES** em alguns cenários, com exceção do Proibidos , quando houver.
+- Carro **DETERMINADOS** em algumas fases mata-mata do campeonato.
 
 ### 2.6 Desempate
 - Em caso de empate, jogar o cenário definido para desempate. 
