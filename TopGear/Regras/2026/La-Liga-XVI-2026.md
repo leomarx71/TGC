@@ -90,27 +90,27 @@ Só poderão participar deste torneio, aqueles jogadores que forem inscritos na 
 
 ### **1.5 Cronograma Séries Ouro / Prata (Horários de Brasília, Brasil)
    
-  1.5.1 - Prazo para confirmações e novas inscrições: até 21h do dia 13/02/2026.
+  1.5.1 - Prazo para confirmações e novas inscrições: até 21h do dia 22/02/2026.
   
   1.5.2 - Após revisão das inscrições será feito o sorteio das pistas e aberto o prazo do comissário.
   
-  1.5.3 - Prazo Comissário: 16/02/2026 às 15h. 
+  1.5.3 - Prazo Comissário: 23/02/2026 às 15h. 
   
   1.5.4 - Após revisão do comissário, será realizado sorteio dos confrontos e liberação para o início da Fase de Grupos.
   
-  1.5.5 - Após última chamada, até as 21h de 16/02/2026, aqueles que não enviarem no prazo terão seus carros sorteados. Seus carros serão escolhidos por sorteio com preferência dos carros mais *lentos* (Ex.: 3 Brancos, 2 Azuis, 2 Roxos e 2 Vermelhos)
+  1.5.5 - Após última chamada, até as 21h de 23/02/2026, aqueles que não enviarem no prazo terão seus carros sorteados. Seus carros serão escolhidos por sorteio conforme a sequência a seguir: **(2 Brancos, 3 Azuis, 2 Roxos e 2 Vermelhos)**
   
-  1.5.6 - Fase de Grupos terá prazo de 21 dias. Previsão de término – 09/03/2026 23h59.
+  1.5.6 - Fase de Grupos terá prazo de 21 dias. Previsão de término – 16/03/2026 23h59.
   
-  1.5.7 - Quartas de Final: 7 dias. Até 16/03/2026 23h59
+  1.5.7 - Quartas de Final: 7 dias. Até 23/03/2026 23h59
   
-  1.5.8 - Semifinal: 7 dias. Até 23/03/2026 23h59
+  1.5.8 - Semifinal: 7 dias. Até 30/03/2026 23h59
   
-  1.5.9 - Final e Disputa de 3º: 7 dias. Até 30/03/2026 23h59
+  1.5.9 - Final e Disputa de 3º: 7 dias. Até 06/04/2026 23h59
   
   O cronograma e as fases da Série Bronze, serão definidos após encerramento das inscrições, momento em que a administração definirá a forma de disputa
 
-**Observação:** As rodadas podem ter o prazo estendido caso a administração julgue necessário.
+**Observação:** As rodadas podem ter o prazo estendido ou reduzido caso a administração julgue necessário.
 
 ---
 
@@ -129,7 +129,7 @@ Para a Série Bronze poderá ser aplicados modos diferentes de rodadas e fases f
 ### 2.3 Pistas por Fase
   - **Fase de Grupos:** 10 pistas
   - **Quartas de Final:** 12 pistas
-  - **Semifinal:** 12 pistas
+  - **Semifinal:** 14 pistas
   - **Final:** 16 pistas
   - **Disputa de 3°:** 16 pistas
 
@@ -152,8 +152,8 @@ Em caso de empate, aplica-se o procedimento padrão de desempate conforme seçã
 ### 2.8 Substituição de Jogadores
 Durante o campeonato não haverá substituição de jogadores, aqueles que desistirem receberão W.O. para todas as suas partidas.
 
-### 2.9 Tolerância de W.O.`s
-Se um piloto acumular 4 W.O.s em qualquer divisão, será caracterizado como excesso de W.O. e como punição ficará uma edição sem poder participar do La Liga.
+### 2.9 Tolerância de W.O.'s
+Se um piloto acumular 4 W.O.'s em qualquer divisão, será caracterizado como excesso de W.O. e como punição ficará uma edição sem poder participar do La Liga.
 
 ## 3. CLASSIFICAÇÃO, PROMOÇÃO E REBAIXAMENTOS
 
