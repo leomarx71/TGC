@@ -90,7 +90,7 @@ Só poderão participar deste torneio, aqueles jogadores que forem inscritos na 
 
 ### **1.5 Cronograma Séries Ouro / Prata (Horários de Brasília, Brasil)
    
-  1.5.1 - Prazo para confirmações e novas inscrições: até 21h do dia 22/02/2026.
+  1.5.1 - Prazo para confirmações e novas inscrições: até 21h do dia 21/02/2026.
   
   1.5.2 - Após revisão das inscrições será feito o sorteio das pistas e aberto o prazo do comissário.
   
