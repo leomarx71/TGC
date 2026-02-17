@@ -129,7 +129,7 @@ Para a Série Bronze poderá ser aplicados modos diferentes de rodadas e fases f
 ### 2.3 Pistas por Fase
   - **Fase de Grupos:** 10 pistas
   - **Quartas de Final:** 12 pistas
-  - **Semifinal:** 14 pistas
+  - **Semifinal:** 12 pistas
   - **Final:** 16 pistas
   - **Disputa de 3°:** 16 pistas
 
