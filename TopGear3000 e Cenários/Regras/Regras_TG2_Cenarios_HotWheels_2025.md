@@ -237,7 +237,7 @@ Modificações: Novo sistema de Pontuação + Nitros Infinitos e Equipamento no 
 
 Objetivo: Jogar normalmente as pistas sorteadas e emendar um nitro atrás do outro.
 
-## **Cenário 6 - Efeito Borboleta, cada novo dia um início diferente:**
+## **Cenário 5 - Efeito Borboleta, cada novo dia um início diferente:**
 **ROM Hacks 2,3 e 7 Requeridas**
 
 Modificação: Nenhuma
