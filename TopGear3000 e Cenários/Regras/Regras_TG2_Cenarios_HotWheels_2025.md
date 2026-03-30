@@ -224,19 +224,8 @@ Objetivo: Jogar normalmente os países sorteadas e tentar o seu novo melhor com 
 - 09° - 02 pts. - 02k USD
 - 10° - 01 pts. - 01k USD
 
-~## **Cenário 4 - www.TopGear2.bet** ##~
-**ROM Hack4 Requerida**~
-
-~Gostar de de jogar na mega sena e apostar nas bets ? Gosta de apostar no tudo ou nada ? Acha que os últimos serão os~ primeiros ?~
-
-~Modificação: Desejo Concedido!!! Nessa Hack o 1st vale 20 pts o 2nd vale 15 pts, o 10th vale 30! Demais posições não pontuam. Faça sua estratégia e veja se compensa lutar pelo primeiro ~ou último lugar.~
-
-~Objetivo: Chegar em 1st e garantir 20 ou chegar em 10th e garantir 30, vc decide, mas cuidado para não ter Race Over e perder tudo.~
-
-~Observação.: Se os dois pilotos estiverem na disputa exemplo 9th e 10th. Vale usar o freio na linha de chegada para esperar o bot passar!~
-
-## **Cenário 5 - Velozes e Furiosos 2093:**
-**ROM Hack5 Requerida**
+## **Cenário 4 - Velozes e Furiosos 2093:**
+**ROM Hack7 Requerida**
 
 100 anos depois do lançamento do jogo, já seria possível ter Nitros Infinitos e Equipamentos no máximo? Simm, Seu desejo virou uma ordem!!! Corridas eletrizantes e adrenalina a mil com super velocidades acima de 300km/h.
 
@@ -249,7 +238,7 @@ Modificações: Novo sistema de Pontuação + Nitros Infinitos e Equipamento no 
 Objetivo: Jogar normalmente as pistas sorteadas e emendar um nitro atrás do outro.
 
 ## **Cenário 6 - Efeito Borboleta, cada novo dia um início diferente:**
-**ROM Hack6 Requerida**
+**ROM Hacks 2,3 e 7 Requeridas**
 
 Modificação: Nenhuma
 
