@@ -6,15 +6,15 @@
 
 ## **1. CRONOGRAMA** ##
 
-1.1 - A fase de grupos começará em XX/XX/2026 e terá prazo previsto até às 23h59 do dia XX/XX/2026.
+1.1 - A fase de grupos começará em 14/04/2026 e terá prazo previsto até às 23h59 do dia 27/04/2026.
 
-1.2 - O prazo para realização das Oitavas será até às 23h59 do dia XX/XX/2026.
+1.2 - O prazo para realização das Oitavas será até às 23h59 do dia 04/05/2026.
 
-1.3 - O prazo para realização das Quartas será até às 23h59 do dia XX/XX/2026.
+1.3 - O prazo para realização das Quartas será até às 23h59 do dia 11/05/2026.
 
-1.4 - O prazo para realização das Semifinais será até às 23h59 do dia XX/XX/2026.
+1.4 - O prazo para realização das Semifinais será até às 23h59 do dia 18/05/2026.
 
-1.5 - O prazo para realização da Final será até às 23h59 do dia XX/XX/2026.
+1.5 - O prazo para realização da Final será até às 23h59 do dia 25/05/2026.
 
 **Observação:** As rodadas podem ter o prazo estendido caso a administração julgue necessário.
 
@@ -28,25 +28,26 @@ Será utilizado o TOORNAMENT/Challonge para chaveamento das partidas.
 ### 2.2 Formato
 Eliminatória com grupos iniciais (Fase de Grupos, Oitavas, Quartas, Semifinal e Final).
 
-### 2.3 Pistas por Fase (REGRA ESPECÍFICA)
+### 2.3 Países por Fase (REGRA ESPECÍFICA)
 - **Fase de Grupos:** 2 países
 - **Oitavas de Final:** 3 países
 - **Quartas de Final:** 3 países
 - **Semifinal:** 3 países
-- **Final:** 4 países
-- **Disputa de 3°:** 4 países
+- **Final e Disputa de 3º:** 4 países
 
 ### 2.4 Carro Obrigatório (REGRA ESPECÍFICA)
 Carro **AZUL** em todas as fases do campeonato.
 
-### 2.5 Sorteio de Pistas
-Serão sorteados os 2 países para cada rodada na fase de grupos. 3 países para 8°, 4° e Semifinais. 4 países
+### 2.5 Sorteio de Países
+Serão sorteados antecipadamente os 2 países para cada rodada na fase de grupos.
+Os sorteios das fases eliminatórias, será realizado no momento da realização das mesmas.
 
 ### 2.6 Desempate
 Em caso de empate, aplica-se o procedimento padrão de desempate conforme seção 11 das Regras Gerais.
 
 ### 2.7 Substituição de Jogadores
-Durante o campeonato não haverá substituição de jogadores, aqueles que desistirem receberão W.O. para todas as suas partidas.
+Será permitida a substituição de jogadores durante a fase de grupos, caso o jogador desistente ainda não tenha realizado nenhuma de suas partidas.
+Caso o jogador já tenha realizado alguma partida ou desista após realização de ao menos uma partida, este será excluído do campeonato e os resultados de suas partidas serão lançados como wo para todas as rodadas.
 
 ### 2.8 - Impedimentos
 Só poderão participar deste torneio, aqueles jogadores que forem inscritos na Comunidade TGC e não estiverem cumprindo punição vigente que impeça a participação em campeonatos.
@@ -66,7 +67,7 @@ Só poderão participar deste torneio, aqueles jogadores que forem inscritos na 
 A classificação se dará pelo maior número de pontos. Em caso de empate os critérios de desempate serão:
 
 - Confronto direto;
-- Pontos conquistados;
+- Pontos pró;
 - Saldo de pontos;
 - Sorteio.
 
@@ -76,6 +77,17 @@ Não há limite para a quantidade de participantes e serão classificados para a
 
 - Inscritos: até 18. Classificados: 8;
 - Inscritos: 19 ou mais. Classificados: 16;
+
+## 4. REGRAS DE AGENDAMENTO
+- O primeiro contato para agendamento deve ocorrer em até 48 horas após a liberação da rodada.
+- Cada jogador deve apresentar no grupo de WhatsApp no mínimo 4 janelas de horários distintos para possível agendamento de disponibilidade.
+- O horário padrão para as partidas será das 8h às 23h do horário de Brasília. Fora desse intervalo, apenas com acordo entre ambas as partes.
+- Cada janela de horário aqui mencionada deverá ter uma intervalo mínimo de 2h seguidas.
+
+## 5. REAGENDAMENTO
+- Após a confirmação de um horário entre os jogadores, cada partida terá direito a apenas 1 reagendamento.
+- Um novo reagendamento só poderá ocorrer em casos excepcionais, desde que devidamente justificado e autorizado pela administração.
+- A não observância dessa regra poderá ser considerada como falta de compromisso com a realização da partida, podendo impactar na análise de W.O. pela administração.
 
 ---
 
