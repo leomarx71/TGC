@@ -78,19 +78,8 @@ Não há limite para a quantidade de participantes e serão classificados para a
 - Inscritos: até 18. Classificados: 8;
 - Inscritos: 19 ou mais. Classificados: 16;
 
-## 4. REGRAS DE AGENDAMENTO
-- O primeiro contato para agendamento deve ocorrer em até 48 horas após a liberação da rodada.
-- Cada jogador deve apresentar no grupo de WhatsApp no mínimo 4 janelas de horários distintos para possível agendamento de disponibilidade.
-- O horário padrão para as partidas será das 8h às 23h do horário de Brasília. Fora desse intervalo, apenas com acordo entre ambas as partes.
-- Cada janela de horário aqui mencionada deverá ter uma intervalo mínimo de 2h seguidas.
-
-## 5. REAGENDAMENTO
-- Após a confirmação de um horário entre os jogadores, cada partida terá direito a apenas 1 reagendamento.
-- Um novo reagendamento só poderá ocorrer em casos excepcionais, desde que devidamente justificado e autorizado pela administração.
-- A não observância dessa regra poderá ser considerada como falta de compromisso com a realização da partida, podendo impactar na análise de W.O. pela administração.
-
 ---
 
-## 6. USAR AS REGRAS GERAIS PARA TODAS AS DEMAIS INFORMAÇÕES
+## 4. USAR AS REGRAS GERAIS PARA TODAS AS DEMAIS INFORMAÇÕES
 
 - **Regras Gerais TGC** - Link ![Aqui](Regras-Gerais-2026.md)
