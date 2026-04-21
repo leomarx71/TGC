@@ -78,6 +78,16 @@ Não há limite para a quantidade de participantes e serão classificados para a
 - Inscritos: até 18. Classificados: 8;
 - Inscritos: 19 ou mais. Classificados: 16;
 
+### 4. Agendamento pelo Bot web
+
+- É obrigatório o agendamento pelo link:
+https://t.me/+zsO1eg5oA0dlYWQx
+https://t.me/TopGearTGCBot
+- O wo será avaliado automaticamente pelo Bot, através da ausência ou incompatibilidade de tentativa de agendamento.
+- Para efeitos de wo, as mensagens enviadas no grupo de WhatsApp também poderão ser consideradas como suporte para tomada de decisão pela administração.
+- As mensagens referidas no item anterior serão consideradas quando ouver menção com @ informando disponibilidade e tentativa de agendamento sem resposta do adversário.
+- 
+
 ---
 
 ## 4. USAR AS REGRAS GERAIS PARA TODAS AS DEMAIS INFORMAÇÕES
