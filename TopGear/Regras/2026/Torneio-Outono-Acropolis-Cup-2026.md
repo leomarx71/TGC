@@ -43,7 +43,7 @@ Serão sorteados antecipadamente os 2 países para cada rodada na fase de grupos
 Os sorteios das fases eliminatórias, será realizado no momento da realização das mesmas.
 
 ### 2.6 Desempate
-Em caso de empate, aplica-se o procedimento padrão de desempate conforme seção 11 das Regras Gerais.
+Em caso de empate, aplica-se o procedimento padrão de desempate conforme seção 8 das Regras Gerais.
 
 ### 2.7 Substituição de Jogadores
 Será permitida a substituição de jogadores durante a fase de grupos, caso o jogador desistente ainda não tenha realizado nenhuma de suas partidas.
