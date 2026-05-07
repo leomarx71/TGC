@@ -275,19 +275,21 @@ Em casos onde houver incompatibilidade total de horários entre os participantes
 ## 8. PROCEDIMENTO DE DESEMPATE
 
 ### 8.1 Em Caso de Empate
-Reinicia-se a ROM a partir do país/pista sorteado para desempate, utilizando a ROM Top Gear TGC ROM (E) [!] ou ROM Top Gear (E) [!]
+Reinicia-se a ROM a partir do país/pista sorteado para desempate, utilizando a ROM Top Gear TGC ROM (E) [!] ou ROM Top Gear (E) [!] a depender do campeonato.
 
 ### 8.2 Critérios de Desempate
 - Vencerá aquele que abrir primeiro mais de 5 pontos de vantagem;
-- Permanecendo o empate no primeiro país, o país seguinte deverá ser jogado e assim sucessivamente, até haver um vencedor;
+- Permanecendo o empate no primeiro país/pista, o seguinte deverá ser jogado e assim sucessivamente, até haver um vencedor;
 - Caso se jogue UK e ao final da pista de Stonehenge a partida ainda não tiver um vencedor, a partida continua a partir de USA;
 - Em comum acordo, os jogadores podem trocar de controle para corrigir o grid de largada. Caso não haja consenso, será o player 1, aquele que tiver a posição superior na tabela.
 
 ### 8.3 ROM Top Gear TGC (E) [!]
-Para facilitar, podem ser selecionadas 8 pistas para o desempate, sendo as 4 primeiras referente ao país desempate e as outras 4 do país seguinte ao país definido.
+- O Desempate padrão deve iniciar na pista seguinte a última pista sorteada, exceto se houver um sorteio específico.
+- Para facilitar, sugere-se selecionar as 8 pistas seguintes para o desempate e joga-se todas as pistas na sequência até que haja um vencedor, conforme os critérios de desempate mencionados.
 
 ### 8.4 ROM Top Gear (E) [!]
-Seleciona-se o país desempate e joga-se todas as pistas na sequência até que haja um vencedor.
+- O Desempate padrão deve iniciar no país seguinte ao último país sorteado, exceto se houver um sorteio específico.
+- Faça o password que libera todos os países (KEELSON), seleciona-se ele e joga-se todas as pistas na sequência até que haja um vencedor, conforme os critérios de desempate mencionados.
 
 ---
 
