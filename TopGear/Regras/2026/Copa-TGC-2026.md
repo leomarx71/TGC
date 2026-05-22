@@ -19,7 +19,7 @@ Serão aceitos como pré-classificados para as 8° de final, sendo eles:
 |-------|-------------------------------|--------------------------------|-----------------|-----------------|
 | 01° C | Torneio de Verão              | Rafael Diablo                  | 1º / N/A        | Sim             |
 | 02° C | La Liga XIV - Ouro            | Lenno Coelho                   | 1º / N/A        | Sim             |
-| 03° C | Torneio de Outono             | Camus Kshrc                    | 2º / N/A        | Sim             |
+| 03° C | Torneio de Outono             | ~Camus Kshrc~ 8° Mister                    | 2º / N/A        | Sim             |
 | 04º C | Copa TGC                      | Sr. Filho                      | 2º / N/A        | Sim             |
 | 05º C | Torneio de Inverno            | Rob Jax                        | N/A / 3º        | Espera          |
 | 06º C | TGC 16                        | Chita Mx                       | 1° / N/A        | Sim             |
