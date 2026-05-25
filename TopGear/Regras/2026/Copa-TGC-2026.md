@@ -21,11 +21,11 @@ Serão aceitos como pré-classificados para as 8° de final, sendo eles:
 | 02° C | La Liga XIV - Ouro            | ~Lenno Coelho~ Mister          | N/A / 8°        | Sim             |
 | 03° C | Torneio de Outono             | ~Camus Kshrc~ BoraZerar        | N/A / 11°       | Sim             |
 | 04º C | Copa TGC                      | Sr. Filho                      | 2º / N/A        | Sim             |
-| 05º C | Torneio de Inverno            | Rob Jax                        | N/A / 3º        | Espera          |
+| 05º C | Torneio de Inverno            | Rob Jax                        | N/A / 3º        | Sim             |
 | 06º C | TGC 16                        | Chita Mx                       | 1° / N/A        | Sim             |
 | 07º C | La Liga XV - Ouro             | RonalDan                       | 3º / N/A        | Sim             |
-| 08º C | Snesecidade                   | Allan Live                     | 2º / N/A        | Sim             |
-| 09º C | Torneio de Primavera          | Carlos CRX                     | 3º / N/A        | Espera          |
+| 08º C | Snesecidade                   | ~Allan Live~ Leomarx Games     | N/A / 12º       | Sim             |
+| 09º C | Torneio de Primavera          | Carlos CRX                     | 3º / N/A        | Sim             |
 | 10º C | Camp. Brasileiro              | Jhonny                         | 1º / N/A        | Sim             |
 
 ### 1.2 - Participantes Pré-inscritos e Novos Pilotos:
