@@ -10,23 +10,32 @@
 
 ### 1.1 - Pré-Classificados
 
-Serão aceitos como pré-classificados para as 8° de final, sendo eles:
+Estarão classificados diretamente para as oitavas de final, os campeões dos campeonatos de calendário da TGC 2025: 
+
+- Torneio de Verão,
+- La Liga Ouro - 1° estação,
+- Torneio de Outono,
+- Copa TGC,
+- TGC Numerado,
+- Torneio de Inverno,
+- La Liga - 2° estação,
+- Torneio de Primavera.
+
+1.2 - Serão aceitos como pré-classificados para as 8° de final, sendo eles:
 - Os 8 primeiros campeões distintos 2025
 - Melhores colocados até o 4° Lugar de cada torneio distinto
 - Melhores pilotos mais bem colocados na tabela do Mundial da TGC de 2025 
 
-| Ordem | Nome do Campeonato            | Vaga CC                        | Posição/Mundial | Classificados   |
+| Ordem | Nome do Campeonato            | Vaga Copa TGC                  | Posição/Mundial | Classificados   |
 |-------|-------------------------------|--------------------------------|-----------------|-----------------|
 | 01° C | Torneio de Verão              | Rafael Diablo                  | 1º / N/A        | Sim             |
-| 02° C | La Liga XIV - Ouro            | ~Lenno Coelho~ Mister          | N/A / 8°        | Sim             |
+| 02° C | La Liga Ouro - 1° estação     | ~Lenno Coelho~ Mister          | N/A / 8°        | Sim             |
 | 03° C | Torneio de Outono             | ~Camus Kshrc~ BoraZerar        | N/A / 11°       | Sim             |
 | 04º C | Copa TGC                      | Sr. Filho                      | 2º / N/A        | Sim             |
 | 05º C | Torneio de Inverno            | Rob Jax                        | N/A / 3º        | Sim             |
-| 06º C | TGC 16                        | Chita Mx                       | 1° / N/A        | Sim             |
-| 07º C | La Liga XV - Ouro             | RonalDan                       | 3º / N/A        | Sim             |
-| 08º C | Snesecidade                   | ~Allan Live~ Leomarx Games     | N/A / 12º       | Sim             |
-| 09º C | Torneio de Primavera          | Carlos CRX                     | 3º / N/A        | Sim             |
-| 10º C | Camp. Brasileiro              | Jhonny                         | 1º / N/A        | Sim             |
+| 06º C | TGC Numerado                  | Chita Mx                       | 1° / N/A        | Sim             |
+| 07º C | La Liga Ouro - 2° estação     | RonalDan                       | 3º / N/A        | Sim             |
+| 08º C | Torneio de Primavera          | Carlos CRX                     | 3º / N/A        | Sim             |
 
 ### 1.2 - Participantes Pré-inscritos e Novos Pilotos:
 
