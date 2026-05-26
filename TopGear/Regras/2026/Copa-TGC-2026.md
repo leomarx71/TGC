@@ -29,13 +29,13 @@ Estarão classificados diretamente para as oitavas de final, os campeões dos ca
 | Ordem | Nome do Campeonato            | Vaga Copa TGC                  | Posição/Mundial | Classificados   |
 |-------|-------------------------------|--------------------------------|-----------------|-----------------|
 | 01° C | Torneio de Verão              | Rafael Diablo                  | 1º / N/A        | Sim             |
-| 02° C | La Liga Ouro - 1° estação     | ~Lenno Coelho~ Mister          | N/A / 8°        | Sim             |
-| 03° C | Torneio de Outono             | ~Camus Kshrc~ BoraZerar        | N/A / 11°       | Sim             |
+| 02° C | La Liga Ouro - 1° estação     | ~Lenno Coelho~ Rob Jax         | 3° / N/A        | Sim             |
+| 03° C | Torneio de Outono             | ~Camus Kshrc~ Mister           | N/A / 8°        | Sim             |
 | 04º C | Copa TGC                      | Sr. Filho                      | 2º / N/A        | Sim             |
-| 05º C | Torneio de Inverno            | Rob Jax                        | N/A / 3º        | Sim             |
+| 05º C | Torneio de Inverno            | Carlos CRX                     | 4º / N/A        | Sim             |
 | 06º C | TGC Numerado                  | Chita Mx                       | 1° / N/A        | Sim             |
 | 07º C | La Liga Ouro - 2° estação     | RonalDan                       | 3º / N/A        | Sim             |
-| 08º C | Torneio de Primavera          | Carlos CRX                     | 3º / N/A        | Sim             |
+| 08º C | Torneio de Primavera          | Jhonny                         | 1º / N/A        | Sim             |
 
 ### 1.2 - Participantes Pré-inscritos e Novos Pilotos:
 
