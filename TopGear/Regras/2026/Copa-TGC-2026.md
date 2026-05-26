@@ -38,6 +38,18 @@ Estarão classificados diretamente para as oitavas de final, os campeões dos ca
 | 07º C | La Liga Ouro - 2° estação     | RonalDan                       | 3º / N/A        | Sim             |
 | 08º C | Torneio de Primavera          | Jhonny                         | 1º / N/A        | Sim             |
 
+| Rank | Vaga Copa TGC        | Posição/Mundial | Ordem do Campeonato | Nome do Campeonato        |
+| ---- | -------------------- | --------------- | ------------------- | ------------------------- |
+| 1    | Rafael Diablo        | 1º / N/A        | 01° C               | Torneio de Verão          |
+| 2    | Chita Mx             | 1° / N/A        | 06º C               | TGC Numerado              |
+| 3    | Jhonny               | 1º / N/A        | 08º C               | Torneio de Primavera      |
+| 4    | Sr. Filho            | 2º / N/A        | 04º C               | Copa TGC                  |
+| 5    | ~Lenno Coelho~ Rob Jax  | 3° / N/A        | 02° C               | La Liga Ouro - 1° estação |
+| 6    | RonalDan             | 3º / N/A        | 07º C               | La Liga Ouro - 2° estação |
+| 7    | Carlos CRX           | 4º / N/A        | 05º C               | Torneio de Inverno        |
+| 8    | ~Camus Kshrc~ Mister   | N/A / 8°        | 03° C               | Torneio de Outono         |
+
+
 ### 1.3 - Participantes Pré-inscritos e Novos Pilotos:
 
 Participantes validados que podem manifestar interesse em entrar na Fase Eliminatória:
@@ -110,7 +122,7 @@ Exemplo:
 ### 2.1.2 - Classificação
 A classificação geral inicial seguirá a lista dos pré-inscritos do item 1 e na sequência os demais participantes
 
-## 2.1.2.1 - Eliminatórias
+#### 2.1.2.1 - Eliminatórias
 As oitavas de final seguirão o modelo clássico de mata-mata:
 
 - Melhor cabeça de chave vs pior classificado preliminar;
@@ -133,15 +145,15 @@ Todos os confrontos eliminatórios serão disputados em sistema de ida e volta, 
 ### 2.1.5 - Regra dos Carros
 Em cada confronto os 4 carros estarão disponíveis para a escolha.
 
-## 2.1.5.1 Regra dos Carros - Partida de ida
+#### 2.1.5.1 Regra dos Carros - Partida de ida
 - O mandante escolhe o carro que irá utilizar;
 - O visitante obrigatoriamente deverá escolher um carro diferente entre os 3 restantes.
 
-## 2.1.5.2 Regra dos Carros - Partida de volta
+#### 2.1.5.2 Regra dos Carros - Partida de volta
 - O novo mandante escolhe seu carro;
 - O adversário visitante obrigatoriamente deverá escolher um carro diferente entre os 3 restantes.
 
-## 2.1.5.3 - Regra dos Carros - Carro Proibido
+#### 2.1.5.3 - Regra dos Carros - Carro Proibido
 - Nenhum dos participantes poderá escolher o carro proibido da rodada.
 
 ### 2.1.6 - Classificação
