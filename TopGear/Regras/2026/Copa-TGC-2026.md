@@ -23,7 +23,8 @@ Estarão classificados diretamente para as oitavas de final, os campeões dos ca
 
 1.2 - Serão aceitos como pré-classificados para as 8° de final, sendo eles:
 - Os 8 primeiros campeões distintos 2025
-- Melhores colocados até o 4° Lugar de cada torneio distinto
+- Vice-campeão do respectivo torneio
+- Melhor campanha geral entre os 3° e 4°
 - Melhores pilotos mais bem colocados na tabela do Mundial da TGC de 2025 
 
 | Ordem | Nome do Campeonato            | Vaga Copa TGC                  | Posição/Mundial | Classificados   |
@@ -37,7 +38,7 @@ Estarão classificados diretamente para as oitavas de final, os campeões dos ca
 | 07º C | La Liga Ouro - 2° estação     | RonalDan                       | 3º / N/A        | Sim             |
 | 08º C | Torneio de Primavera          | Jhonny                         | 1º / N/A        | Sim             |
 
-### 1.2 - Participantes Pré-inscritos e Novos Pilotos:
+### 1.3 - Participantes Pré-inscritos e Novos Pilotos:
 
 Participantes validados que podem manifestar interesse em entrar na Fase Eliminatória:
 
@@ -68,11 +69,10 @@ Participantes validados que podem manifestar interesse em entrar na Fase Elimina
 
 Novos participantes poderão solicitar o ingresso, porém ficarão em cadastro reserva para preencher as vagas remanescentes.
 
+### 1.4 - Desistências
+Caso algum dos participantes do item 1.1 não possa participar da Copa TGC, será substituído pelo participante melhor colocado do referido campeonato, conforme item 1.2
 
-### 1.3 - Desistências
-Caso algum dos participantes do item 1.1 não possa participar da Copa TGC, será substituído pelo participante melhor colocado do referido campeonato.
-
-### 1.4 - Impedimentos
+### 1.5 - Impedimentos
 Só poderão participar deste torneio, aqueles jogadores que forem inscritos na Comunidade TGC e não estiverem cumprindo punição vigente que impeça a participação em campeonatos.
 
 ---
@@ -82,94 +82,99 @@ Só poderão participar deste torneio, aqueles jogadores que forem inscritos na 
 ### 2.1
 Será utilizado o TOORNAMENT para chaveamento das partidas.
 
-- **Fase de eliminatória:** 2 países
-- **Oitavas de Final:** 2 países
-- **Quartas de Final:** 2 países
-- **Semifinal:** 2 países
-- **Final:** 3 países
+- **Fase de eliminatória:** 8 pistas
+- **Oitavas de Final:** 10 pistas
+- **Quartas de Final:** 12 pistas
+- **Semifinal:** 12 pistas
+- **Final:** 16 pistas
 
 ### 2.1.1 - Fase Eliminatória:
 Na fase eliminatória, os participantes que não forem classificados automaticamente para as oitavas de final, serão divididos em dois grupos com quantidades iguais de participantes, podendo haver um grupo com participante bônus, caso o número de inscritos seja ímpar.
 
-### 2.1.2
-A classificação geral inicial seguirá a lista dos pré-inscritos do item 1 e na sequência os demais participantes por ordem de inscrição.
+O número de confrontos será definido automaticamente de acordo com o total de inscritos restantes, classificando exatamente 8 participantes para enfrentar os 8 cabeças de chave nas oitavas de final.
 
-### 2.1.3
-A classificação inicial a partir do 9º (nono) colocado será estabelecida conforme a tabela do Mundial TG1 - 2025. Aqueles que não tiverem classificação na Tabela do Mundial, serão classificados aleatoriamente ou conforme a inscrição cronológica.
+Exemplo:
 
-### 2.1.4
-Chamaremos de grupo A aquele formado pelos participantes mais bem classificados na lista e Grupo B aquele formado pelos demais participantes.
+* 24 inscritos totais:
 
-### 2.1.5
-Os participantes do Grupo B serão os mandantes de campo na primeira fase eliminatória e os participantes do Grupo A serão os visitantes.
+  * 8 classificados diretos;
+  * 16 disputam a preliminar;
+  * 8 avançam às oitavas.
 
-### 2.1.6
-Na partida de ida, o mandante será o primeiro a escolher seu carro, o visitante deverá escolher um carro diferente. Nenhum dos participantes poderá escolher o carro proibido da rodada.
+* 40 inscritos totais:
 
-### 2.1.7
-Se o mandante perder a partida por uma diferença mínima de 25 (vinte e cinco) pontos, será eliminado sem a necessidade de jogo de volta.
+  * 8 classificados diretos;
+  * 32 disputam a preliminar;
+  * 16 avançam;
 
-### 2.1.8
-Se o visitante vencer por diferença menor que 25 pontos, empatar ou perder o jogo de ida, será realizado o jogo de volta.
+### 2.1.2 - Classificação
+A classificação geral inicial seguirá a lista dos pré-inscritos do item 1 e na sequência os demais participantes
+
+## 2.1.2.1 - Eliminatórias
+As oitavas de final seguirão o modelo clássico de mata-mata:
+
+- Melhor cabeça de chave vs pior classificado preliminar;
+- 2º melhor cabeça de chave vs 2º pior classificado preliminar;
+- E assim sucessivamente.
+
+Exemplo:
+1º vs 16º
+2º vs 15º
+3º vs 14º
+
+As quartas, semifinais e final serão automaticamente definidas pelo chaveamento original
+
+### 2.1.3 - Confrontos
+A definição de confrontos inicial, será a partir do 9º (nono) colocado será estabelecida conforme a tabela do Mundial TG1 - 2025. Aqueles que não tiverem classificação na Tabela do Mundial, serão classificados aleatoriamente por sorteio, assim como os confrontos com os novos participantes.
+
+### 2.1.4 - Modelo do Torneio
+Todos os confrontos eliminatórios serão disputados em sistema de ida e volta, utilizando as mesmas pistas em ambas as partidas. Cada jogador será mandante em uma partida.
+
+### 2.1.5 - Regra dos Carros
+Em cada confronto os 4 carros estarão disponíveis para a escolha.
+
+## 2.1.5.1 Regra dos Carros - Partida de ida
+- O mandante escolhe o carro que irá utilizar;
+- O visitante obrigatoriamente deverá escolher um carro diferente entre os 3 restantes.
+
+## 2.1.5.2 Regra dos Carros - Partida de volta
+- O novo mandante escolhe seu carro;
+- O adversário visitante obrigatoriamente deverá escolher um carro diferente entre os 3 restantes.
+
+## 2.1.5.3 - Regra dos Carros - Carro Proibido
+- Nenhum dos participantes poderá escolher o carro proibido da rodada.
+
+### 2.1.6 - Classificação
+
+A classificação será definida pela soma total dos pontos obtidos nas duas partidas.
+
+Exemplo:
+
+* Jogador A:
+
+  * Ida: 210
+  * Volta: 180
+  * Total: 390
+
+* Jogador B:
+
+  * Ida: 190
+  * Volta: 205
+  * Total: 395
+
+Classificado:
+➡️ Jogador B
+
+### 2.1.7 - Regras de Desempate
+Em caso de empate no jogo de volta, o desempate será realizado com o carro proibido e começando pelo pista seguinte a última sorteada.
+
+### 2.1.8 - Configuração do Desempate
+Seleciona-se as próximas oito pistas com base na última sorteada.
+Vence o desempate o jogador que abrir mais de 5 (cinco) pontos em qualquer momento da disputa.
 
 ### 2.1.9
-No jogo de volta, inverte-se o mando de campo e a escolha do carro será livre. Avança para a próxima fase aquele que vencer a partida.
-
-### 2.1.10
-Em caso de empate no jogo de volta, o desempate será realizado com o carro proibido e começando pelo país seguinte ao último sorteado.
-
-- **Exemplo:**
-
-1º país sorteado: Alemanha
-2º país sorteado: França
-Carro proibido pelo sorteio para os dois primeiros países: Roxo
-País de desempate seguinte: Itália
-Carro do desempate: Roxo
-
-### 2.1.11
-Vence o desempate o jogador que abrir mais de 5 (cinco) pontos em qualquer momento da disputa.
-
-### 2.1.12
-Permanecendo o empate no primeiro país, o país seguinte deverá ser jogado e assim sucessivamente, até que um jogador abra mais de 5 pontos de vantagem.
-
-### 2.1.13
-Importante esclarecer que NÃO haverá soma das pontuações das partidas de ida e volta nessa fase. A partida de ida servirá apenas para definir se haverá realização do jogo de volta conforme o item 2.1.7
-
-### 2.2 - Oitavas, Quartas-de-Final, Semifinais, Final E Disputa De Terceiro
-Na partida de ida, o mandante será o primeiro a escolher seu carro, o visitante deverá escolher um carro diferente. Nenhum dos participantes poderá escolher o carro proibido da rodada.
-
-### 2.2.2
-No jogo de volta, inverte-se o mando de campo e repete-se o mesmo procedimento do item 6.2.1.
-
-### 2.2.2
-Avançará para a próxima fase o jogador que tiver a maior soma de pontos nos jogos de ida e volta.
-
-### 2.2.3
-Em caso de empate na soma total, o desempate será realizado com o carro proibido e começando pelo país seguinte ao último sorteado.
-
-- **Exemplo:**
-
-1º país sorteado: Japão
-2º país sorteado: UK
-Carro proibido pelo sorteio para os dois primeiros países: Roxo
-País de desempate seguinte: USA
-Carro desempate: Roxo
-
-### 2.2.4
-Vence o desempate o jogador que abrir mais de 5 (cinco) pontos em qualquer momento da disputa.
-
-### 2.2.5
-Permanecendo o empate no primeiro país, o país seguinte deverá ser jogado e assim sucessivamente, até que um jogador abra mais de 5 pontos de vantagem.
-
-### 2.3
-Caso se jogue UK no desempate e ao final da pista de Stonehenge a partida ainda não tiver um vencedor, a partida continua a partir de USA.
-
-### 2.4
-Usando a Rom original, os países podem ser jogados na sequência, até que um jogador abra mais de 5 pontos.
-
-### 2.5
-Usando a Rom TGC, deverão ser selecionadas no mínimo as 4 pistas do país desempate. A administração sugere que sejam selecionadas as 8 primeiras da sequência e vence aquele que abrir mais de 5 pontos em qualquer momento da disputa.
-  
+Permanecendo o empate nas 8 primeiras, deverá ser jogado +8 e assim sucessivamente, até que um jogador abra mais de 5 pontos de vantagem.
+ 
 ---
 
 ## 3. CRONOGRAMA
