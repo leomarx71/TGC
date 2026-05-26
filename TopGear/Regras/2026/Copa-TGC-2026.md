@@ -47,7 +47,16 @@ Estarão classificados diretamente para as oitavas de final, os campeões dos ca
 | 5    | ~Lenno Coelho~ Rob Jax  | 3° / N/A        | 02° C               | La Liga Ouro - 1° estação |
 | 6    | RonalDan             | 3º / N/A        | 07º C               | La Liga Ouro - 2° estação |
 | 7    | Carlos CRX           | 4º / N/A        | 05º C               | Torneio de Inverno        |
-| 8    | ~Camus Kshrc~ Mister   | N/A / 8°        | 03° C               | Torneio de Outono         |
+| 8    | ~Camus Kshrc~ The Mister   | N/A / 8°        | 03° C               | Torneio de Outono       |
+| 9    | Bora Zerar 100%      | N/A / 11°       | N/A                 | N/A                       |
+| 10   | Leomarx Games        | N/A / 11°       | N/A                 | N/A                       |
+| 11   | Suprem Peruvian      | N/A / 14°       | N/A                 | N/A                       |
+| 12   | Arijunino            | N/A / 15°       | N/A                 | N/A                       |
+| 13   | Paulo Fox            | N/A / 16°       | N/A                 | N/A                       |
+| 14   | Pegasus              | N/A / 18°       | N/A                 | N/A                       |
+| 15   | HD Wins              | N/A / 19°       | N/A                 | N/A                       |
+| 16   | Frank Gear           | N/A / 20°       | N/A                 | N/A                       |
+
 
 
 ### 1.3 - Participantes Pré-inscritos e Novos Pilotos:
