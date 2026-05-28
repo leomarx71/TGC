@@ -127,6 +127,9 @@ Exemplo:
   * 8 classificados diretos;
   * 32 disputam a preliminar;
   * 16 avançam;
+  * Os 16 se enfrentam em nova eliminatória e 8 avançam.
+ 
+    A administração poderá definir outros formatos para a classificação dos 8 melhores nas eliminatórias a depender da quantidade de inscritos.
 
 ### 2.1.2 - Classificação
 A classificação geral inicial seguirá a lista dos pré-inscritos do item 1 e na sequência os demais participantes
@@ -134,16 +137,9 @@ A classificação geral inicial seguirá a lista dos pré-inscritos do item 1 e 
 #### 2.1.2.1 - Eliminatórias
 As oitavas de final seguirão o modelo clássico de mata-mata:
 
-- Melhor cabeça de chave vs pior classificado preliminar;
-- 2º melhor cabeça de chave vs 2º pior classificado preliminar;
-- E assim sucessivamente.
+Como os 8 primeiros classificados são classificados automaticamente considerando os campeonatos da temporada passada, os confrontos serão definidos por embaralhamento manual por 5x no chaveamento do TOORNAMENT.
 
-Exemplo:
-1º vs 16º
-2º vs 15º
-3º vs 14º
-
-As quartas, semifinais e final serão automaticamente definidas pelo chaveamento original
+As quartas, semifinais e final serão automaticamente definidas pelo chaveamento original na sequência lógica.
 
 ### 2.1.3 - Confrontos
 A definição de confrontos inicial, será a partir do 9º (nono) colocado será estabelecida conforme a tabela do Mundial TG1 - 2025. Aqueles que não tiverem classificação na Tabela do Mundial, serão classificados aleatoriamente por sorteio, assim como os confrontos com os novos participantes.
@@ -161,9 +157,6 @@ Em cada confronto os 4 carros estarão disponíveis para a escolha.
 #### 2.1.5.2 Regra dos Carros - Partida de volta
 - O novo mandante escolhe seu carro;
 - O adversário visitante obrigatoriamente deverá escolher um carro diferente entre os 3 restantes.
-
-#### 2.1.5.3 - Regra dos Carros - Carro Proibido
-- Nenhum dos participantes poderá escolher o carro proibido da rodada.
 
 ### 2.1.6 - Classificação
 
@@ -190,25 +183,24 @@ Classificado:
 Em caso de empate no jogo de volta, o desempate será realizado com o carro proibido e começando pelo pista seguinte a última sorteada.
 
 ### 2.1.8 - Configuração do Desempate
-Seleciona-se as próximas oito pistas com base na última sorteada.
-Vence o desempate o jogador que abrir mais de 5 (cinco) pontos em qualquer momento da disputa.
+Seleciona-se as próximas oito pistas com base na última sorteada. Sendo a primeira pista do desempate, aquela na sequência da última pista sorteada para a partida normal.
+Importante observar, que caso a primeira pista da sequência seja Stonehenge, esta deverá ser jogado por último, ou seja, ser selecionada como a oitava pista da seleção.
+Se após correm as 8 pistas, a patida ainda permancer empatada, deverão ser selecionadas mais 8 pistas para continuar a disputa do desempate.
 
 ### 2.1.9
-Permanecendo o empate nas 8 primeiras, deverá ser jogado +8 e assim sucessivamente, até que um jogador abra mais de 5 pontos de vantagem.
- 
----
+Vence o desempate o jogador que abrir mais de 5 (cinco) pontos em qualquer momento da disputa ou que termine com mais pontos ao final das 8 pistas selecionadas.
 
 ## 3. CRONOGRAMA
 
-3.1 - A fase eliminatórias começará em XX/XX/2026 e terá prazo previsto até às 23h59 do dia XX/XX/2026.
+3.1 - A fase eliminatórias começará em 28/05/2026 e terá prazo previsto até às 23h59 do dia 08/06/2026.
 
-3.2 - O prazo para realização das Oitavas será até às 23h59 do dia XX/XX/2026.
+3.2 - O prazo para realização das Oitavas será até às 23h59 do dia 15/06/2026.
 
-3.3 - O prazo para realização das Quartas será até às 23h59 do dia XX/XX/2026.
+3.3 - O prazo para realização das Quartas será até às 23h59 do dia 22/06/2026.
 
-3.4 - O prazo para realização das Semifinais será até às 23h59 do dia XX/XX/2026.
+3.4 - O prazo para realização das Semifinais será até às 23h59 do dia 29/06/2026.
 
-3.5 - O prazo para realização da Final será até às 23h59 do dia XX/XX/2026.
+3.5 - O prazo para realização da Final será até às 23h59 do dia 06/07/2026.
 
 **Observação:** As rodadas podem ter o prazo estendido caso a administração julgue necessário.
 
