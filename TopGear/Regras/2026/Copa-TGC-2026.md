@@ -132,17 +132,17 @@ Exemplo:
     A administração poderá definir outros formatos para a classificação dos 8 melhores nas eliminatórias a depender da quantidade de inscritos.
 
 ### 2.1.2 - Classificação
-A classificação geral inicial seguirá a lista dos pré-inscritos do item 1 e na sequência os demais participantes
+A classificação geral inicial seguirá a lista dos pré-inscritos do item 1 e na sequência os demais participantes confrome tabela do Mundial de Pilotos TGC 2025.
 
-#### 2.1.2.1 - Eliminatórias
+#### 2.1.2.1 - Oitavas de Final
 As oitavas de final seguirão o modelo clássico de mata-mata:
 
-Como os 8 primeiros classificados são classificados automaticamente considerando os campeonatos da temporada passada, os confrontos serão definidos por embaralhamento manual por 5x no chaveamento do TOORNAMENT.
+Como os 8 primeiros classificados são classificados automaticamente considerando os campeonatos da temporada passada, os confrontos serão definidos por ordem de classificação no Mundial de Pilotos TGC 2025.
 
 As quartas, semifinais e final serão automaticamente definidas pelo chaveamento original na sequência lógica.
 
 ### 2.1.3 - Confrontos
-A definição de confrontos inicial, será a partir do 9º (nono) colocado será estabelecida conforme a tabela do Mundial TG1 - 2025. Aqueles que não tiverem classificação na Tabela do Mundial, serão classificados aleatoriamente por sorteio, assim como os confrontos com os novos participantes.
+A definição de confrontos inicial, a partir do 9º (nono) colocado será estabelecida conforme a tabela do Mundial TG1 - 2025. Aqueles que não tiverem classificação na Tabela do Mundial, serão classificados aleatoriamente por sorteio, assim como os confrontos com os novos participantes.
 
 ### 2.1.4 - Modelo do Torneio
 Todos os confrontos eliminatórios serão disputados em sistema de ida e volta, utilizando as mesmas pistas em ambas as partidas. Cada jogador será mandante em uma partida.
@@ -180,7 +180,7 @@ Classificado:
 ➡️ Jogador B
 
 ### 2.1.7 - Regras de Desempate
-Em caso de empate no jogo de volta, o desempate será realizado com o carro proibido e começando pelo pista seguinte a última sorteada.
+Em caso de empate no jogo de volta, o desempate será realizado com o carro desempate sorteado e começando pelo pista seguinte a última sorteada.
 
 ### 2.1.8 - Configuração do Desempate
 Seleciona-se as próximas oito pistas com base na última sorteada. Sendo a primeira pista do desempate, aquela na sequência da última pista sorteada para a partida normal.
@@ -192,7 +192,7 @@ Vence o desempate o jogador que abrir mais de 5 (cinco) pontos em qualquer momen
 
 ## 3. CRONOGRAMA
 
-3.1 - A fase eliminatórias começará em 28/05/2026 e terá prazo previsto até às 23h59 do dia 08/06/2026.
+3.1 - A fase eliminatórias começará em 30/05/2026 e terá prazo previsto até às 23h59 do dia 08/06/2026.
 
 3.2 - O prazo para realização das Oitavas será até às 23h59 do dia 15/06/2026.
 
