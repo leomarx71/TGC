@@ -63,7 +63,7 @@ Carro **LIVRE** em todas as fases do campeonato.
 Serão sorteados os 2 países para cada rodada na fase de grupos. 3 países para 8°, 4° e Semifinais. 4 países para Final e Disputa de 3º Lugar.
 
 ### 2.6 Desempate
-Em caso de empate, aplica-se o procedimento padrão de desempate conforme seção 11 das Regras Gerais.
+Em caso de empate, aplica-se o procedimento padrão de desempate conforme seção 8 das Regras Gerais.
 
 ### 2.7 Substituição de Jogadores
 Durante o campeonato não haverá substituição de jogadores, aqueles que desistirem receberão W.O. para todas as suas partidas.
