@@ -6,17 +6,17 @@
 
 ## **1. CRONOGRAMA** ##
 
-1.1 - A fase de grupos começará em XX/XX/2026 e terá prazo previsto até às 23h59 do dia XX/XX/2026.
+1.1 - A fase de grupos começará em 23/06/2026 e terá prazo previsto até às 23h59 do dia 06/07/2026.
 
-1.2 - O prazo para realização das Oitavas será até às 23h59 do dia XX/XX/2026.
+1.2 - O prazo para realização das Oitavas será até às 23h59 do dia 13/07/2026.
 
-1.3 - O prazo para realização das Quartas será até às 23h59 do dia XX/XX/2026.
+1.3 - O prazo para realização das Quartas será até às 23h59 do dia 20/07/2026.
 
-1.4 - O prazo para realização das Semifinais será até às 23h59 do dia XX/XX/2026.
+1.4 - O prazo para realização das Semifinais será até às 23h59 do dia 27/07/2026.
 
-1.5 - O prazo para realização da Final será até às 23h59 do dia XX/XX/2026.
+1.5 - O prazo para realização da Final será até às 23h59 do dia 03/08/2026.
 
-**Observação:** As rodadas podem ter o prazo estendido caso a administração julgue necessário.
+**Observação:** As rodadas podem ter o prazo estendido ou reduzidos caso a administração julgue necessário.
 
 ## 1.2 ELEGIBILIDADE E INSCRIÇÕES
 
@@ -59,11 +59,11 @@ Eliminatória com grupos iniciais (Fase de Grupos, Oitavas, Quartas, Semifinal e
 ### 2.4 Carro Obrigatório
 Carro **LIVRE** em todas as fases do campeonato.
 
-### 2.5 Sorteio de Pistas
-Serão sorteados os 2 países para cada rodada na fase de grupos. 3 países para 8°, 4° e Semifinais. 4 países
+### 2.5 Sorteio de Países
+Serão sorteados os 2 países para cada rodada na fase de grupos. 3 países para 8°, 4° e Semifinais. 4 países para Final e Disputa de 3º Lugar.
 
 ### 2.6 Desempate
-Em caso de empate, aplica-se o procedimento padrão de desempate conforme seção 8 das Regras Gerais.
+Em caso de empate, aplica-se o procedimento padrão de desempate conforme seção 11 das Regras Gerais.
 
 ### 2.7 Substituição de Jogadores
 Durante o campeonato não haverá substituição de jogadores, aqueles que desistirem receberão W.O. para todas as suas partidas.
