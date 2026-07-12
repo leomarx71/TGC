@@ -70,7 +70,7 @@ Eliminatória com grupos iniciais (Fase de Grupos, Oitavas, Quartas, Semifinal e
 
 ### 2.4 Carro Obrigatório (Links Comissário)
 Carro **LIVRE** na fases de grupo do campeonato.
-Carro **LIVRE + COMISSÁRIO** na fases mata-mata do campeonato.
+Carro **PROIBIDO + COMISSÁRIO** na fases mata-mata do campeonato.
 
 - 2.4.1 - Link para: [ENVIO DE CARRO FASE FINAL] = (https://topgearchampionships.com/comissario/envio.php)
 - 2.4.2 - Link para: [LOGS PÚBLICOS COMISSARIO] = (https://topgearchampionships.com/comissario/log-publico.php)
@@ -79,11 +79,11 @@ Carro **LIVRE + COMISSÁRIO** na fases mata-mata do campeonato.
 Se houver uso do carro diferente do enviado no Comissário por algum dos pilotos, a punição para tal infração será a **desclassificação**.
 
 ### 2.6 Sorteio de Pistas
-**2.6.1** - Oitavas de Final: serão jogadas 14 pistas (com 9 pistas de Pit e 5 sem pit). Devem ser utilizados 2 (dois) carros diferentes na disputa, sendo um carro nas 7 primeiras pistas e outro nas 7 últimas pistas. 1 Grupo terá 5 pistas de Pit e outro 4 pistas de pit.
+**2.6.1** - Oitavas de Final: serão jogadas 14 pistas (com 9 pistas de Pit e 5 sem pit). Devem ser utilizados 2 (dois) carros diferentes na disputa, exceto o carro proibido, sendo um carro nas 7 primeiras pistas e outro nas 7 últimas pistas. 1 Grupo terá 5 pistas de Pit e outro 4 pistas de pit.
 
-**2.6.2** - Quartas de Final: serão jogadas 16 pistas (com 10 pistas de Pit e 6 sem pit). Devem ser utilizados 2 (dois) carros diferentes na disputa, sendo um carro nas 8 primeiras pistas e outro nas 8 últimas pistas. Cada Grupo terá 5 pistas de Pit.
+**2.6.2** - Quartas de Final: serão jogadas 16 pistas (com 10 pistas de Pit e 6 sem pit). Devem ser utilizados 2 (dois) carros diferentes na disputa, exceto o carro proibido, sendo um carro nas 8 primeiras pistas e outro nas 8 últimas pistas. Cada Grupo terá 5 pistas de Pit.
 
-**2.6.3** - Semifinal: serão jogadas 21 pistas (com 12 pistas de Pit e 9 sem pit). Devem ser utilizados 3 (três) carros na disputa, sendo um carro a cada 7 pistas. Cada Grupo terá igualmente 4 pistas de pit e 3 sem pit.
+**2.6.3** - Semifinal: serão jogadas 21 pistas (com 12 pistas de Pit e 9 sem pit). Devem ser utilizados 3 (três) carros na disputa, exceto o carro proibido, sendo um carro a cada 7 pistas. Cada Grupo terá igualmente 4 pistas de pit e 3 sem pit.
 
 **2.6.4** - Final e Disputa do Terceiro Lugar: serão disputados em 24 pistas sorteadas (com 13 pistas de Pit e 11 sem pit) com uso de carros diferentes a cada 6 pistas. 3 Grupos terão 3 pistas de Pit e 1 grupo terá 4 pistas de pit.
 
