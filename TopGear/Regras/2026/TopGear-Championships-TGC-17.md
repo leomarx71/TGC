@@ -38,7 +38,7 @@ Serão aceitos como pré-classificados para as cabeças de chaves, sendo eles:
 | 03° C | Torneio de Outono             | Sr. Filho                      | 3º / N/A        | Sim             |
 | 04º C | Copa TGC                      | The Mister                     | N/A / 8º        | Sim             |
 | 05º C | Torneio de Inverno            | Carlos CRX                     | 4º / N/A        | Sim             |
-| 06º C | TGC 16                        | Leomarx Games                  | 11º / N/A       | Sim             |
+| 06º C | TGC 16                        | Chita Mx                       | 1º / N/A        | Sim             |
 | 07º C | La Liga XV - Ouro             | RonalDan                       | 3º / N/A        | Sim             |
 | 08º C | Torneio de Primavera          | Frank Gear                     | 4º / N/A        | Sim             |
 
