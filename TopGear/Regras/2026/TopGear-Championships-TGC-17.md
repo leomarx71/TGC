@@ -33,16 +33,15 @@ Serão aceitos como pré-classificados para as cabeças de chaves, sendo eles:
 
 | Ordem | Nome do Campeonato            | Vaga CC                        | Posição/Mundial | Classificados   |
 |-------|-------------------------------|--------------------------------|-----------------|-----------------|
-| 01° C | Torneio de Verão              | Rafael Diablo                  | 1º / N/A        | Sim             |
-| 02° C | La Liga XIV - Ouro            | Lenno Coelho                   | 1º / N/A        | Sim             |
-| 03° C | Torneio de Outono             | Camus Kshrc                    | 2º / N/A        | Sim             |
-| 04º C | Copa TGC                      | Sr. Filho                      | 2º / N/A        | Sim             |
-| 05º C | Torneio de Inverno            | Rob Jax                        | 4º / N/A        | Sim          |
-| 06º C | TGC 16                        | Chita Mx                       | 1° / N/A        | Sim             |
+| 01° C | Torneio de Verão              | Rob Jax                        | 4º / N/A        | Sim             |
+| 02° C | La Liga XIV - Ouro            | Luciano Bora Zerar             | 4º / N/A        | Sim             |
+| 03° C | Torneio de Outono             | Sr. Filho                      | 3º / N/A        | Sim             |
+| 04º C | Copa TGC                      | The Mister                     | N/A / 8º        | Sim             |
+| 05º C | Torneio de Inverno            | Carlos CRX                     | 4º / N/A        | Sim             |
+| 06º C | TGC 16                        | Leomarx Games                  | 11º / N/A       | Sim             |
 | 07º C | La Liga XV - Ouro             | RonalDan                       | 3º / N/A        | Sim             |
-| 08º C | Snesecidade                   | Paulo Fox                      | 5º / N/A        | Sim     |
-| 09º C | Torneio de Primavera          | Carlos CRX                     | 3º / N/A        | Sim             |
-| 10º C | Camp. Brasileiro              | Jhonny                         | 1º / N/A        | Sim             |
+| 08º C | Torneio de Primavera          | Frank Gear                     | 4º / N/A        | Sim             |
+
 
 ### 1.3 - Desistências
 Caso algum dos participantes do item 1.1 não possa participar do TGC 17, será substituído pelo participante melhor colocado do referido campeonato.
