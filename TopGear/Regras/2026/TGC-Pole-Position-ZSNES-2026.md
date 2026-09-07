@@ -66,10 +66,11 @@ A classificação se dará pelo menor tempo total em cada rodada e igual ao pont
 - 4° Lugar = 10 pts.
 - 5° Lugar = 8 pts.
 - 6° Lugar = 6 pts.
-- 7° Lugar = 4 pts.
-- 8° Lugar = 3 pts.
-- 9° Lugar = 2 pts.
-- 10° Lugar = 1 pts.
+- 7° Lugar = 5 pts.
+- 8° Lugar = 4 pts.
+- 9° Lugar = 3 pts.
+- 10° Lugar = 2 pts.
+- Demais = 1 ponto pela participação.
 
 ### 3.4 Classificação da Rodada
 
