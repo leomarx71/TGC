@@ -53,7 +53,9 @@ Apesar de o campeão do torneio não ter vaga na copa dos campeões da TGC, este
 ### 3.2 Classificação Final
 - 1° Melhores posições conquistadas em todas as rodadas;
   - Exemplo: Um piloto que tenha conseguido 1 rodada em 1° lugar + 1 rodada em 4° terá 30 pts e será melhor classificado do que outro piloto que em 2 rodadas obteve o 2° lugar duas vezes e também terá 30 pontos.
-- 2° Menor número de desistências/rodadas sem jogar;
+- 2° Menor número de desistências/rodadas sem jogar (DNF)
+- 3° Menor tempo total;
+- 4° Se permancer o empate a mesma pontuação final será atribuída aos pilotos
 
 Não há limite para a quantidade de participantes 
 
