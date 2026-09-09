@@ -22,6 +22,8 @@ Será utilizado o TOORNAMENT/Challonge para chaveamento das partidas.
 ### 2.2 Formato
 O campeonato será no modelo pontos corridos e o piloto que somar mais pontos após todas as rodadas será o campeão.
 
+Ao todo serão 12 rodadas de 8 pistas (3 Full Games).
+
 ### 2.3 Pistas por Rodada
 Cada rodada será composta por 8 pistas e o piloto que somar o menor tempo em todas elas vencerá a rodada.
 
@@ -81,32 +83,56 @@ A classificação se dará pelo menor tempo total em cada rodada e igual ao pont
 ## 4. COMO JOGAR ?! 
 
 Jogar as pistas sorteadas na ordem sorteada com o carro da sua preferência.
+*Reforçando É obrigatório jogar as pistas na sequência do sorteio*
 
 ### 4.1 Troca de Carro
 - O piloto pode trocar de carro quantas vezes quiser.
 - **Obs.: O importante é jogar na sequência do sorteio**
-- Ao trocar de carro o piloto deve reiniciar a ROM e selecionar todas as pistas que for jogar com o mesmo carro e não esquecer de comprovar a seleção da dificuldade em "Championship"
+- Ao trocar de carro o piloto deve reiniciar a ROM ou fazer o Load state F4 no menu inicial e selecionar todas as pistas que for jogar com o mesmo carro
+	- Não esquecer de comprovar a seleção da dificuldade em "Championship"
 - **Ao trocar de carro o piloto deve jogar todas da sequência sorteada com o carro escolhido**
+- Na ROM TGC é necessário selecionar ao menos 4 pistas para não dar Bug.
 
 ### 4.2 Stonehenge
 **ATENÇÃO** Já é de conhecimento da comunidade que no emulador ZSNES os carros mais rápidos, como o Vermelho e o Roxo, não completam a pista de stonehenge. Então, se no sorteio do conjunto cair esta pista, o piloto poderá escolher:
-
-  - Fazer a CPU empurar seu carro, sem combustível, até a linha de chegada e obter um tempo menor com o carro vermelho ou roxo antes da tela apagar.
-  - Ou usar um outro carro que complete esta pista (Azul ou Branco).
-  - O piloto, por exemplo, pode correr 7 pistas com o vermelho e stonehenge com o Azul ou Branco.
-  - **Obs.: O importante é jogar na sequência do sorteio**
-
+  
+  - 4.2.1 - Usar um outro carro que complete esta pista (Azul ou Branco).
+  - 4.2.2 - Fazer a CPU empurar seu carro, sem combustível, até a linha de chegada e obter um tempo menor com o carro vermelho ou roxo antes da tela apagar.
+  	- Se usar essa técnica é permitido parar de acelerar o carro alguns segundos antes do combustível acabar para não dar tela **"out of fuel"**, mas se arriscar ela no meio da Run e der erro, o piloto terá de refazer a Run toda novamente.
+  
 ### 4.2 Submissão dos Tempos
-Os jogadores deverão utilizar o site [TGC Calculadora Online](https://topgearchampionships.com/TimeAttack/ZSNES2026.php) para somar os seus tempos:
+Os jogadores deverão utilizar o Bot WhatsApp para enviar os seus tempos:
 
-Ao preencher, o piloto deve inserir manualmente o tempo das pistas individualmemente do jeito que aparece no jogo. 
+link do grupo [Bot WhatsApp TGC](https://chat.whatsapp.com/F4NcJEt40Kb6rcyq6tn6MG) para somar os seus tempos:
+
+Ao preencher, o piloto deve inserir manualmente o tempo das pistas individualmemente do jeito que aparece no jogo pelo comando:
+
+**/poleposition ID**
+
+Sendo o ID aqui o **ID da partida** que pode ser consultada com o outro comando **/partidas**, exemplo o comando a ser executado para partida ID 16:
+
+**/poleposition 16**
+
+Após digitar o comando o Bot irá perguntar todos os seus tempos e links, tenha eles em mãos antes de executar o comando.
+	- Depois deve Digitar os Tempos um a um
+	- E também digitar o Link no final, se já tiver.
+		- Se não tiver você pode colocar apenas os tempos e voltar depois e colocar o link até o final do prazo da rodada.
+
 O site irá adicionar e calcular os milissegundos corretamente.
-	- Digitar o NickName
-	- Selecionar a Rodada
-	- Selecionar Pista
-	- Selecionar Carro
-	- Digitar os Tempos
-	- Digitar o Link
+
+Automaticamente depois de enviar irá aparecer uma notificação no grupo principal com os valores que comprovam a submissão.
+
+Depois para ver os seus **resultados na rodada** deve executar o comando: 
+
+**/polerounds ID**, sendo aqui o ID da rodada atual. Exemplo para ver os tempos da rodada 2:
+
+**/polerounds 2**
+
+Por último para conferir sua posição no torneio deve executar o comando:
+
+**/polefinalstandings**
+
+Automaticamente depois de enviar irá aparecer uma notificação no grupo principal com os valores que comprovam a submissão.
 
 ### 4.3 Relógio do Emulador
 É Obrigatório ativar o relógio do emulador, para comprovar que não houve interrupções no vídeo. Se houver interrupções no vídeo, ou alguma ação que demonstre junção de tempos de outras tentativas, o tempo não será válido.
@@ -114,16 +140,17 @@ O site irá adicionar e calcular os milissegundos corretamente.
 ### 4.4 Desistência e Prazo da Rodada
 A participação com a submissão de tempos no prazo da rodada é opcional. Não havendo punição para aqueles que não participarem.
 
-Caso o piloto não poste o resultado com todos os detalhes até o final do prazo, a partida será considerada como desistência, e então naquela rodada ele não receberá nenhum ponto.
+Caso o piloto não poste o resultado com todos os detalhes até o final do prazo, a partida será considerada como desistência (DNF), e então naquela rodada ele não receberá nenhum ponto.
 
 ---
 
 ## 5. Proibições e Orientações
 
-- Não será permitido o uso de save/load state no meio da partida. 
+- O jogador poderá apenas fazer um save state da configuração inicial com seu nome dificuldade e a seleção das pistas.
+- Na primeira pista o piloto pode fazer load state de forma ilimitada
+- Não será permitido o uso de save/load state da 2° pista em diante, Exceto quando for trocar de carro.
 - O jogador deve jogar direto sem interrupções todas as pistas que for jogar com o mesmo carro. 
-- O jogador poderá apenas fazer um save state da configuração inicial com seu nome dificuldade e a seleção das pistas
-- Caso houver algum bug ou pane seca (game over) durante a partida, o piloto deverá voltar tudo do começo às 8 pistas.
+- Caso houver algum bug ou pane seca (game over) durante a partida, infelizmente o piloto deverá voltar tudo do começo às 8 pistas.
 
 ---
 
