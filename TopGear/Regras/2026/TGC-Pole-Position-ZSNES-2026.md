@@ -150,7 +150,7 @@ Caso o piloto não poste o resultado com todos os detalhes até o final do prazo
 - Na primeira pista o piloto pode fazer load state de forma ilimitada
 - Não será permitido o uso de save/load state da 2° pista em diante, Exceto quando for trocar de carro.
 - O jogador deve jogar direto sem interrupções todas as pistas que for jogar com o mesmo carro. 
-- Caso houver algum bug ou pane seca (game over) durante a partida, infelizmente o piloto deverá voltar tudo do começo às 8 pistas.
+- Caso houver algum bug ou pane seca (game over) durante a partida, o piloto deverá voltar tudo do começo às 8 pistas.
 
 ---
 
