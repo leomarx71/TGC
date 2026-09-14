@@ -24,12 +24,12 @@ Novos participante deverão se inscrever através de postagem realizada diretame
    - LeNN Miner (Lenno Coelho)
    - Carlos CRX (Carlos Rubens)
    - Rob Jax (Robson Meireles)
-   - ChitaMX (Aléxis Sánchez)
+   - Chita MX (Aléxis Sánchez)
    - Suprem Peruvian (Albert Matos)
-   - AriJunino (Ari Júnior)
-   - Luciano (Luciano BoraZerar) - 1° Prata
+   - Arijunino (Ari Júnior)
+   - BoraZerar (Luciano Alves) - 1° Prata
    - The Mister (Roberto Vasquez) - 2° Prata
-   - Cristyan Antúnez (Crys90) - 3° Prata
+   - Crys90s (Cristyan Antúnez) - 3° Prata
    - Paulo Fox (Paulo Muniz) - 4º Prata
      
   1.1.2 Série Prata - Pilotos que participaram do La Liga XVI e que devem manifestar o interesse em participar do La Liga XVI:
@@ -37,28 +37,31 @@ Novos participante deverão se inscrever através de postagem realizada diretame
    - RonalDan (Ronald Daniel) - 1 º Melhor rebaixado Liga Ouro
    - Leomarx Games (Leonardo Marques) - 2º Melhor rebaixado Liga Ouro
    - Paomarc (Paolo Paredes)
-   - Luís Cárdenas (L.A.O.M.)
-   - Killua Zorldic (Lucas Souza)
-   - Frank Piero (Frank Gear) - 1º Bronze
-   - Pegasus (Edimar Caetano) - 2° Bronze
-   - Br's Brisantt (Brisantt) - 3º Bronze
+   - L.A.O.M. (Luís Cárdenas)
+   - Killua Zoldycky (Lucas Souza)
+   - Frank Gear (Frank Piero) - 1º Bronze
+   - Pegasus PSX (Edimar Caetano) - 2° Bronze
+   - Br's Brisantt (Eloy Brisantt) - 3º Bronze
    - Jack Maloi (Alison Paulo) - 4º Bronze
-   - HD Gamer (Edwin Hyrula) - 1º Melhor rebaixado Prata
+   - HD Wins (Edwin Huaylla Diaz) - 1º Melhor rebaixado Prata
 
   1.1.3 Série Bronze - Competidores que participaram do La Liga XVI e novos membros que desejarem se inscrever no La Liga XVI, conforme a sequência:
 
-   - Marlon Insrael (Marlon RJ)
-   - Schumacher (Martins Swantaiger)
+   - Marlon Israel (Marlon RJ)
+   - M. Schumacher (Martins Swantaiger)
    - JackPocker40 (Petter Bruno)
-   - Oséias Oliveira (Raiden)
-   - Fernando Coutinho (LZ1NXLL)
-   - Edson Silva (Senninkage)
-   - Irvin Delgado (Irvin 1988)
-   - Christopher Jp (Ceviche)
-   - Gokú (Oscar Cardenhas)
+   - Raiden (Oséias Oliveira)
+   - LZ1NXLL (Fernando Coutinho)
+   - Senninkage (Edson Silva)
+   - Irvin 1988 (Irvin Delgado)
+   - Ceviche (Christopher Jp)
+   - Gokú (Óscar Cárdenhas)
    - Policarpo (Anderson Policarpo)
    - Barros (Samuel Barros)
    - Sr. Filho (Jurandir Filho)
+   - Amélio (Amélio Belchior)
+   - Nero 149 (Roney Nero)
+   - DanMarks (Daniel Marques)
    - Novo competidor
    - Novo competidor
    - Novo competidor
