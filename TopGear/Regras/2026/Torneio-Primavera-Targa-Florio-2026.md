@@ -6,17 +6,17 @@
 
 ## **1. CRONOGRAMA** ##
 
-1.1 - A fase de grupos começará em XX/XX/2026 e terá prazo previsto até às 23h59 do dia XX/XX/2026.
+1.1 - A fase de grupos começará em 03/11/2026 e terá prazo previsto até às 23h59 do dia 16/11/2026.
 
-1.2 - O prazo para realização das Oitavas será até às 23h59 do dia XX/XX/2026.
+1.2 - O prazo para realização das Oitavas será até às 23h59 do dia 23/11/2026.
 
-1.3 - O prazo para realização das Quartas será até às 23h59 do dia XX/XX/2026.
+1.3 - O prazo para realização das Quartas será até às 23h59 do dia 30/11/2026.
 
-1.4 - O prazo para realização das Semifinais será até às 23h59 do dia XX/XX/2026.
+1.4 - O prazo para realização das Semifinais será até às 23h59 do dia 07/12/2026.
 
-1.5 - O prazo para realização da Final será até às 23h59 do dia XX/XX/2026.
+1.5 - O prazo para realização da Final será até às 23h59 do dia 14/12/2026.
 
-**Observação:** As rodadas podem ter o prazo estendido caso a administração julgue necessário.
+**Observação:** As rodadas podem ter o prazo estendido ou reduzido caso a administração julgue necessário.
 
 ---
 
