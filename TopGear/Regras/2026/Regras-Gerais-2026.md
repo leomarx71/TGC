@@ -269,10 +269,10 @@ Após a terceira menção do oponente (144 horas/6 dias), o jogador poderá reiv
 A tolerância de W.O's neste campeonato será no total de 2 partidas na fase de grupos se houver 3 ou mais partidas o piloto será impedido de participar do próximo campeonato de estação. Até o final do prazo da fase de grupos, será oportunizado ao piloto que apresente justificativas, caso as justificativas sejam aceitas, o W.O. não será contabilizado para efeitos de punição.
 
 ### 7.4 Atribuição de W.O.
-O W.O. será atribuído a favor daquele que oferecer maior tempo de disponibilidade, ou contra aquele que não comparecer no horário previamente agendado.
+O W.O. será atribuído a favor daquele que oferecer maior tempo de disponibilidade, ou contra aquele que não comparecer no horário previamente agendado. A disponibilidade avisando que está disponível para iniciar a partida pode ocorrer com -29 ou +29 minutos do horário acordado entre os pilotos 
 
 ### 7.5 Incompatibilidade de Horários
-Em casos onde houver incompatibilidade total de horários entre os participantes, na análise de W.O., será priorizado aquele que esteve mais tempo disponível após às 18h ou finais de semana.
+Em casos onde houver incompatibilidade total de horários entre os participantes, na análise de W.O., será priorizado aquele que esteve mais tempo disponível após às 18h  durante os dias da semana ou finais de semana.
 
 ---
 
